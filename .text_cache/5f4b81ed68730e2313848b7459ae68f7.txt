@@ -1,0 +1,2496 @@
+Page 1 of 47 
+ 
+Frequently Asked Questions (FAQs) on GST Law and procedures 
+FAQ on GST registration application 
+S. No. 
+Question 
+Answer 
+1. 
+How can I submit an 
+application 
+for 
+GST 
+registration? 
+You can submit the application for GST registration 
+online on the GST portal (https://www.gst.gov.in/)  
+through Services → Registration → New Registration. 
+2. 
+Where can I find the step-
+by-step 
+procedure 
+for 
+filing the GST registration 
+application? 
+1. A step-by-step manual/tutorial for filing the GST 
+registration application is available on the GST portal. 
+(https://www.gst.gov.in/)  through Help and taxpayer 
+facilities → GST Knowledge Portal → Register with 
+GST. 
+2. The application form on the portal also provides tool-
+tips and real-time contextual guidance to help 
+applicants furnish the required information correctly. 
+3. Further the amended GST registration FORM REG-01 
+will have drop down boxes and tool tips to guide you 
+in filing the prescribed documents.  
+3. 
+Whether any guidelines 
+have 
+been 
+provided 
+regarding 
+the 
+information/documents 
+required to be furnished 
+in respect of various fields 
+in 
+GST 
+registration 
+application? 
+1. A comprehensive guideline has been issued to 
+provide clear and consistent guidance on the 
+information/documents required to be furnished in 
+various fields of the GST registration application, such 
+as constitution of business, Principal Place of 
+Business, etc. They also provide guidance for the tax 
+officers across the Centre and States for uniform and 
+expeditious processing of registration applications. 
+2. Furthermore, a detailed FAQ on various issues 
+pertaining to GST registration application and its 
+processing, shall be clarified through a circular 
+3. The registration form will be aligned to the circular 
+and the user interface will be enhanced for hand-
+holding of taxpayers through auto populated fields, 
+drop-down menus and guidance pop-ups in respect 
+of documents required to be submitted.  
+4. 
+Is there a checklist of 
+documents 
+and 
+information required for 
+filing the GST registration 
+application? 
+Yes. The same shall be clarified through a circular, 
+specifying the information and documents required for 
+filing the registration application so that applicants can 
+keep the required information and documents ready 
+before submitting the application. 
+5. 
+What 
+documents 
+are 
+required 
+as 
+proof 
+of 
+A consolidated list of documents required as proof of 
+PPoB and APoB in different situations shall be provided 
+
+Page 2 of 47 
+ 
+Principal 
+Place 
+of 
+Business (PPoB))? 
+in the circular and FORM GST REG-01, shall be suitably 
+amended. Accordingly, when an applicant selects the 
+type of premises on the GST portal, the portal will display 
+only those documents that are relevant to that particular 
+type of premises say owned or rented premises shall 
+show different document requirements. No additional 
+documents are required to be uploaded or sought by the 
+officer in respect of the GST registration application. The 
+same shall be clarified through a circular.  
+ 
+ 
+ 
+ 
+ 
+
+Page 3 of 47 
+ 
+FAQ on amendment in GST Registration 
+S.No. Question 
+Answer 
+1. 
+What changes have been 
+introduced in respect of 
+amendment 
+of 
+GST 
+registration? 
+1. The amendments relating to the legal 
+name of the business, constitution of the 
+business 
+and 
+Additional 
+Place 
+of 
+business, hitherto were considered core 
+amendments and therefore required 
+approval from the officer. However, now 
+such amendments would be considered 
+non-core 
+amendments 
+and 
+such 
+amendments would be automatically 
+processed by the system without need of 
+approval from the officer.  
+2. Further, the amendment of Principal 
+Place of Business (PPoB) in respect of 
+registration obtained under rule 14A of 
+CGST Rules, 2017, will also be considered 
+non-core amendment now and will be 
+processed through this automatic route 
+by 
+the 
+system, 
+without 
+requiring 
+approval of the officer. 
+3. However, for GST registrations other than 
+those obtained under Rule 14A of CGST 
+Rules, 2017, any amendment in PPoB 
+would continue to be considered core 
+amendment and would require approval 
+of the officer.  
+2. 
+How can I change the 
+legal 
+name 
+of 
+my 
+business? 
+You need to submit an application in FORM 
+GST REG-14 on the common portal. After 
+successful submission of application on the 
+common portal and on successful validation of 
+PAN details furnished by you, the legal name 
+will be amended by the system. 
+
+Page 4 of 47 
+ 
+3. 
+How 
+can 
+I 
+add 
+an 
+Additional 
+Place 
+of 
+Business (APoB) to my 
+GST registration? 
+ 
+You need to submit an application on the 
+common portal in FORM GST REG-14, along 
+with the required documents as proof of the 
+place of business, as specified in the list 
+attached 
+to 
+FORM 
+GST 
+REG-01. 
+The 
+application will be processed automatically by 
+the system and the APoB details will be added 
+in the registration of the applicant. 
+4. 
+I have taken registration 
+under 
+simplified 
+registration 
+scheme, 
+under rule 14A of CGST 
+Rules, 2017. What is the 
+process for changing my 
+Principal 
+Place 
+of 
+Business (PPoB)? 
+You need to submit an application on the 
+common portal in FORM GST REG-14, along 
+with the required documents as proof of the 
+place of business, as specified in the list 
+attached 
+to 
+FORM 
+GST 
+REG-01. 
+The 
+application will be processed automatically by 
+the system and the PPoB details will be 
+amended in the registration of the applicant. 
+5.  
+I am a normal taxpayer 
+registered under rule 9 of 
+CGST Rules, 2017. How 
+can I change my PPoB? 
+1. You need to submit an application on the 
+common portal in FORM GST REG-14 
+along with the required documents as proof 
+of the Principal Place of Business, as 
+specified in the list attached to FORM GST 
+REG-01.  
+2. On successful submission of application, 
+the application will be processed by the 
+proper for amendment of PPoB in the 
+following manner: 
+i. 
+If there is no discrepancy, the 
+application will be approved by the 
+Proper officer within 15 days from 
+the date of application.  
+ii. 
+If there is a discrepancy in the PPoB 
+application, the proper officer shall 
+issue a show-cause notice within 15 
+days from the date of application. 
+The applicant must reply within 7 
+
+Page 5 of 47 
+ 
+working days from the date of issue 
+of the notice.  
+iii. 
+After receiving the reply, the officer 
+shall to take action within 7 working 
+days. 
+6. 
+I wish to add multiple 
+additional 
+places 
+of 
+business 
+in 
+my 
+registration details. Do I 
+need to wait for approval 
+of my earlier application 
+before 
+filing 
+a 
+new 
+amendment application? 
+Since amendment to additional place of 
+business will be accepted automatically by the 
+system, there would not be any waiting 
+required.  
+ 
+
+Page 6 of 47 
+ 
+FAQ on cancellation of GST registration  
+S.No. 
+Question 
+Answer 
+1. 
+I am registered under GST. 
+In what circumstances can 
+I apply for cancellation of 
+my GST registration? 
+Cancellation of GST registration can be applied for in the 
+following circumstances: 
+• Your business has been completely discontinued, 
+closed down, or transferred fully for any reason. 
+• There is a change in the constitution of the 
+business resulting in a new PAN. 
+• Your business has been amalgamated, demerged, 
+or disposed of. 
+• You are no longer liable to be registered.  
+ 
+2. 
+How should I apply for 
+cancellation of my GST 
+registration? 
+1. You can submit your application online in FORM 
+GST REG-16 by following these steps: 
+• Go 
+to 
+the 
+official 
+GST 
+Portal 
+https://www.gst.gov.in/ and log in using your valid 
+credentials. 
+• Go to Services > Registration > Application for 
+Cancellation of Registration (FORM GST REG-
+16). 
+• Provide the reason for cancellation, the date from 
+which you want the registration to be cancelled, 
+details of your closing stock, and any tax 
+liabilities associated with it. 
+• Submit the Application- Verify the details using a 
+Digital Signature Certificate (DSC) or Electronic 
+Verification Code (EVC) and submit the form 
+2. Once submitted, an ARN (Application Reference 
+Number) will be generated. You can track the status 
+on the portal. 
+3. 
+Is there any specific time 
+limit in which I should 
+apply for cancellation of 
+my GST registration? 
+1. Yes, you should file an application for cancellation of 
+your registration within 30 days of occurrence of 
+event warranting cancellation of your registration.  
+2. However, in the event of death of a sole proprietor, 
+there is no such time limit for filing application of 
+cancellation of registration.  
+4. 
+What are the conditions 
+which need to be fulfilled 
+for 
+enabling 
+auto-
+acceptance 
+of 
+my 
+application 
+for 
+cancellation 
+of 
+registration? 
+The following conditions need to be satisfied for the 
+auto-acceptance of application for cancellation of 
+registration viz; - 
+i. 
+Furnishing of all the returns due for filing on or 
+before date of application for cancellation. 
+ii. 
+Payment of any due tax, interest or penalty, 
+which has not been stayed by any court, Tribunal 
+or Appellate Authority.  
+
+Page 7 of 47 
+ 
+iii. 
+If you have furnished details of outward supply 
+in FORM GSTR-1 or Invoice Furnishing Facility 
+(IFF) of a tax period, you will have to mandatorily 
+file the return in FORM GSTR-3B for the said tax 
+period before submission of your application for 
+cancellation. 
+5. 
+I have never passed on ITC 
+exceeding Rs 2.5 lakh in 
+any of the month since my 
+registration, 
+how 
+my 
+application 
+for 
+cancellation of registration 
+will be processed? 
+Upon submission of application and subject to 
+fulfillment of conditions mentioned above, your request 
+will be accepted automatically by the system and 
+communication in this regard will be sent to you on the 
+common portal in FORM GST REG-38. 
+ 
+ 
+  
+6. 
+I have passed on ITC 
+exceeding Rs 2.5 lakh in 
+any of the month. How my 
+application 
+for 
+cancellation of registration 
+will be processed? 
+1. In Phase 1, if you file your application for 
+cancellation of registration in FORM GST REG-16 
+along with the final return in FORM GSTR-10, your 
+application would be processed on an automated 
+basis, by the system. 
+2. In Phase-2, you just need to file the application in 
+FORM REG-16 and the system will process the 
+application.  
+7. 
+ My registration has been 
+suspended by the system 
+on the portal, as I have not 
+filed return for consecutive 
+period of six months, I fail 
+to file the pending return 
+within one month of such 
+suspension, whether my 
+registration 
+will 
+be 
+cancelled?  
+ 
+1. In cases where registration has been suspended by 
+the system on account of non-compliances such as 
+non-filing of returns for consecutive six months or 
+non-furnishing of bank account as required under 
+rule 10A of CGST Rules, section 29 is being amended 
+to provide for registration to be cancelled by the 
+system, without intervention of officer.  
+2. Further, on compliance of the said non-compliances 
+and filing of application for revocation by the 
+taxpayer in FORM GST REG-21 within 180 days of 
+the date of cancellation, system-based revocation of 
+such cancelled registration has been provided for. 
+8. 
+What changes have been 
+made in respect of the 
+grounds on which proper 
+officer 
+can 
+initiate 
+cancellation of my GST 
+registration?  
+GST Council in its 57th meeting, recommended to omit 
+four grounds for cancellation of registration from rule 21 
+of CGST Rules, 2017, as follows: 
+i. 
+availment of input tax credit in violation of 
+the provisions of section 16 of the Act or 
+the rules made thereunder; 
+ii. 
+violation of the provisions of section 171 of 
+the Act(Anti-profiteering);  
+iii. 
+violation of the provision of rule 86B; 
+
+Page 8 of 47 
+ 
+iv. 
+where the details of outward supplies in 
+FORM GSTR-1/1A, for one or more tax 
+periods is in excess of the outward 
+supplies declared in FORM GSTR-3B. 
+ 
+ 
+ 
+
+Page 9 of 47 
+ 
+FAQ on Simplified Registration Schemes for ECO Sellers  
+S. 
+No. 
+Question 
+Answer 
+1. 
+What 
+is 
+the 
+simplified 
+registration scheme 
+for sellers supplying 
+goods 
+through 
+electronic commerce 
+operators (ECOs)? 
+The Simplified Registration Mechanism for small 
+sellers on the electronic commerce operators’ 
+platform is an optional registration scheme for such 
+suppliers, inter alia, with the following features: 
+• 
+Sellers intending to pass ITC less than Rs. 2.5 
+lakh in a month (excluding stock transfer) can 
+declare ECO’s warehouse as their principal 
+place of business (PPoB) in the State/UT in 
+which they do not have physical presence. 
+• 
+Mandatory 
+biometric 
+based 
+Aadhaar 
+authentication and physical verification in 
+their home State. 
+• 
+Registration under this scheme shall be used 
+for supplying goods exclusively through 
+ECO’s platform. 
+• 
+Single registration against a PAN can be 
+obtained in a State/UT. 
+• 
+Registration 
+to 
+be 
+sought 
+on 
+prior 
+concurrence from ECO for declaring it’s 
+warehouse as PPoB.  
+2. 
+What 
+conditions 
+must be fulfilled to 
+obtain 
+registration 
+under the scheme? 
+The following conditions must be met to obtain 
+registration under the scheme: 
+• The person must intend to make supplies of 
+goods 
+only 
+through 
+electronic 
+commerce 
+operators, who are required to collect tax at 
+source under section 52 of the CGST Act, 2017. 
+Thus, non-ECO supplies can not be made 
+through such registration.  
+• The total output tax liability comprising Central 
+tax, State or Union territory tax and integrated 
+tax on supplies made to registered persons, other 
+than to those persons registered on the same 
+PAN, must not exceed Rs. 2.5 lakh per month.  
+• The electronic commerce operator must give 
+consent to the registered person for declaring his 
+warehouse as the Principal Place of Business 
+(PPoB). 
+3. 
+How can I apply for 
+registration 
+under 
+the scheme? 
+• You need to apply in FORM GST REG-01 on the 
+common portal for registration in a State or 
+Union territory opting for registration under rule 
+14B of CGST Rules, 2017.  
+
+Page 10 of 47 
+ 
+• You must declare the GSTIN obtained against the 
+same PAN in your home-State.  
+• You must provide the address and particulars of 
+the warehouse of the ECO, which is to be 
+declared as the Principal Place of Business in that 
+State or UT and you must also provide details of 
+any other ECO warehouses in that State or Union 
+territory to be declared as Additional Places of 
+Business (APoB). 
+• He must have regular registration other than the 
+under this scheme or rule 14A of CGST Rules, 
+2017.  
+4. 
+How 
+will 
+my 
+application 
+be 
+processed under the 
+scheme? 
+• The application will be forwarded to the 
+concerned ECO, whose warehouse is declared to 
+be used as PPoB in that State/UT, or APoB, for 
+consent within 7 working days.  
+• On receipt of consent, the application will be 
+forwarded to the jurisdictional officer of the 
+home 
+State 
+for 
+biometric-based 
+Aadhaar 
+authentication, photograph and verification of 
+original documents and physical verification of 
+the PPoB in the home State, where such 
+authentication or verification has not already 
+been done.  
+• Upon verification, registration will be granted 
+electronically by the common portal.  
+• The application will be rejected electronically if 
+the verification is not successful.  
+5. 
+What 
+particulars 
+related to PPoB or 
+APoB will be shown 
+in the registration 
+certificate issued to a 
+seller 
+under 
+the 
+simplified scheme? 
+The registration certificate will contain the details of 
+the ECO warehouses declared as the Principal Place 
+of Business or Additional Place of Business in that 
+State/UT, along with the address of the Principal 
+Place of Business in the home State. 
+6. 
+What will happen if 
+the ECO does not 
+give its consent to 
+have its warehouse 
+registered 
+as 
+the 
+PPOB 
+or 
+APOB 
+within 7 days? 
+The simplified registration scheme shall be available 
+to a seller supplying goods through an ECO only 
+upon the ECO’s consent to have his warehouse 
+registered as the PPOB or APOB of the seller in the 
+concerned State. Thus, in case consent is not given by 
+the ECO, the application of the seller will be deemed 
+to be rejected. 
+7. 
+I 
+have 
+obtained 
+registration 
+under 
+If you have obtained registration in the home State 
+only under rule 14A of CGST Rules, 2017 and intend 
+
+Page 11 of 47 
+ 
+rule 
+14A 
+of 
+the 
+CGST Rules, 2017. 
+Can 
+I 
+obtain 
+registration 
+under 
+the 
+simplified 
+registration scheme 
+for sellers supplying 
+goods 
+through 
+ECOs 
+in 
+another 
+State 
+or 
+Union 
+territory? 
+to obtain registration under the scheme under rule 
+14B of CGST Rules in another State or Union 
+territory, you must first submit a withdrawal 
+application in FORM GST REG-32 to withdraw from 
+the option under rule 14A in the home State before 
+applying for registration in another State/UT under 
+this scheme under rule 14B. 
+8. 
+Can 
+I 
+withdraw 
+from the scheme? 
+Yes. A person registered under this scheme under 
+rule 14B may withdraw from the option availed 
+under the scheme by submitting an application in 
+FORM GST REG-32. 
+9. 
+How can I amend 
+the 
+registration 
+obtained under the 
+scheme? 
+If the address of the ECO warehouse declared as the 
+Principal Place of Business or Additional Place of 
+Business is to be amended, you need to apply in 
+FORM GST REG-14 on the common portal. The 
+provisions relating to ECO consent will apply and, 
+upon receipt of consent of ECO, the relevant address 
+in respect of Principal Place of Business or 
+Additional Place of Business, as the case may be, will 
+stand amended. For any other change in the 
+registration certificate, the certificate shall stand 
+amended to the extent applied for, upon submission 
+of the application in FORM GST REG‑14 under rule 
+19 of the CGST Rules. 
+10. 
+What 
+are 
+the 
+obligations 
+of 
+a 
+registered 
+person 
+(seller/supplier) 
+under the scheme? 
+• A person registered under this scheme must 
+maintain the books of account and other records, 
+including electronic data, at the Principal Place of 
+Business in the home State for each registration 
+obtained in different States or Union territories 
+against the same PAN.  
+• He will be required to submit the same when 
+demanded by the proper officer of the state 
+where he has obtained registration under Rule 
+14B.  
+• Where the ECO withdraws his consent, the 
+registered person must submit FORM GST REG-
+14, within 30 days of the ECO’s intimation of 
+withdrawal of consent, to change the Principal 
+Place of Business or Additional Place of Business, 
+as applicable, in that State/UT. 
+
+Page 12 of 47 
+ 
+11. 
+What 
+are 
+the 
+obligations 
+of 
+an 
+electronic commerce 
+operator under the 
+scheme? 
+• The registration application made under the 
+scheme will be forwarded on the common 
+portal to the ECO for his consent to permit his 
+warehouse to be declared as the Principal 
+Place of Business or Additional Place of 
+Business in that State/UT.  ECO must take a 
+decision on the same within 7 working days 
+from the date of receipt of application. 
+• The ECO must appoint an authorised 
+representative in each State or Union territory 
+for arranging and providing information 
+required by the tax authorities from the 
+person registered under the scheme.  
+• If the ECO withdraws his consent for use of 
+his warehouse as the Principal Place of 
+Business or Additional Place of Business, he 
+must intimate the said withdrawal on the 
+common portal.  
+12. 
+In 
+what 
+circumstances 
+registration 
+obtained under the 
+scheme under rule 
+14B 
+will 
+be 
+cancelled? 
+The registration will be deemed to be cancelled 
+electronically 
+by 
+the 
+common 
+portal 
+and 
+communicated in FORM GST REG-38 if the ECO 
+withdraws permission for using his warehouse as 
+PPoB in that State/UT and the registered person does 
+not apply for amendment of registration details 
+within 30 days of the withdrawal; or if the 
+registration in the home State, on the basis of which 
+registration under the scheme was obtained, is 
+cancelled. 
+13. 
+How 
+many 
+registrations can I 
+obtain in a State or 
+Union 
+territory 
+under the scheme? 
+Under this scheme, a single registration can be 
+obtained against a PAN in a State or Union territory. 
+14. 
+Do I need to display 
+my GST registration 
+certificate 
+and 
+GSTIN at the ECO 
+warehouse? 
+No. A person registered under this scheme is not 
+required to display the registration certificate and 
+GSTIN on the name board at the ECO warehouse. 
+ 
+
+Page 13 of 47 
+ 
+FAQs on Refunds 
+Sl. 
+No  
+Question 
+Answer 
+1.  
+What are the key changes 
+being introduced in the 
+refund mechanism? 
+• The existing refund mechanism is being 
+modified to provide for time-bound and 
+automated processing of refund claims in 
+specified categories on the basis of risk 
+analysis by the system, so as to  enhance ease 
+of doing business, improve transparency and 
+expedite the processing of refund claims to 
+ease the working capital requirement of the 
+taxpayers. The changes are being introduced 
+in 2 phases as per readiness of the system. 
+• Phase I: There shall be reduction of time limit 
+for acknowledgement or deficiency memo 
+from 15 to 10 days, and in case, no action is 
+taken by the officer in 10 days, the 
+application 
+will 
+be 
+deemed 
+to 
+be 
+acknowledged and the acknowledgement 
+will be given by the system. 
+• There will be automated sanctioning of 
+provisional refund, to the extent of 90% of 
+the refund amount claimed,  by the system 
+for acknowledged low-risk refund claims 
+pertaining to zero-rated supplies or inverted 
+duty structure. 
+• There will be automated sanctioning of final 
+refund by the system in case of refund claim 
+on account of any balance in electronic cash 
+ledger.  
+• Phase II: Auto acknowledgement of refund 
+application shall be done by the system after 
+validation of information in the refund 
+application.  
+• In case of any mismatch, the system would 
+communicate the error(s) to the taxpayer for 
+rectification of the errors and filing of a fresh 
+application. However, in case the validation 
+failure reoccurs, the application may be 
+
+Page 14 of 47 
+ 
+forwarded to the proper officer for scrutiny 
+and processing. 
+• Further, in case of low-risk zero-rated supply 
+refund claims, final refund shall also be 
+automatically given by the system. 
+2.  
+Which categories of refund 
+are eligible for automated 
+provisional refund? 
+Refund of unutilized ITC for low-risk refund 
+claims pertaining to zero-rated supplies or 
+inverted 
+duty 
+structure 
+are 
+eligible 
+for 
+automated provisional refund. 
+3.  
+How 
+does 
+automated 
+provisional refund differ 
+from the earlier provisional 
+refund process? 
+In case of low-risk refund claims on account of 
+zero-rated supplies and inverted duty structure, 
+after the issuance of acknowledgement, 90% of 
+the claimed amount will be sanctioned 
+provisionally by the system on an automated 
+basis, without the intervention of tax officer. 
+4.  
+Are there any exclusions to 
+sanction 
+of 
+provisional 
+refund in respect of refund 
+claims on account of zero-
+rated supplies and inverted 
+duty structure? 
+There are certain exclusions as under: 
+• Certain notified categories of persons engaged 
+in the supply of commodities such as areca 
+nuts, pan masala, tobacco and manufactured 
+tobacco substitutes, essential oils are not 
+eligible for refund on provisional basis. 
+• Any person, who has not undergone Aadhaar 
+authentication under rule 10B of the CGST 
+Rules, 2017, shall also not be eligible for refund 
+on a provisional basis. Kindly refer to 
+notification No. 14/2025–Central Tax dated 
+17.09.2025 for more details. 
+• Restriction will be applicable in cases where a 
+DRC-01 has been issued against an RFD-06, or 
+where an APL-03 has been filed without a 
+corresponding APL-04, or where an APL-07 
+has been filed against an appellate order and 
+APL-04 is yet to be issued, ensuring such cases 
+are referred for appropriate scrutiny before 
+provisional refund is sanctioned. 
+5.  
+Is there any restriction on 
+refund of unutilized ITC on 
+account of inverted duty 
+structure refund claims? 
+Yes. Refund shall not be allowed on account of 
+inverted duty structure in respect of goods 
+notified vide notification No. 5/ 2017-Central 
+Tax (Rate) dated 28.06.2017 (as amended). 
+
+Page 15 of 47 
+ 
+Further, statutory restrictions on sanction of 
+refund will be applicable in terms of sub-section 
+(10) and (11) of section 54 of the CGST Act, 
+which inter alia provide for withholding of 
+refund where the refund order is subject to any 
+appeal or other proceedings through linkages 
+with relevant modules. 
+ 
+6.  
+What will be the role of 
+officer in the processing of 
+refund application? 
+In 
+Phase 
+I, 
+the 
+officer 
+shall 
+issue 
+acknowledgement within 10 days of receipt of 
+application after checking for its completeness. 
+In case he finds any discrepancy in the 
+documents, a deficiency memo in FORM RFD-
+03 may be issued to the claimant intimating 
+such deficiency. While the provisional refund in 
+the acknowledged cases will be sanctioned by 
+the system in cases involving low risk zero-
+rated supplies and inverted duty structure, the 
+final processing and scrutiny of refund will be 
+done by the proper officer.  
+Further, in cases where the refund claim is not 
+eligible for provisional refund, the processing 
+and scrutiny of refund applications shall be 
+done by the proper officer. 
+ 
+In Phase II, the following cases will be handled 
+by the proper officer: 
+i. 
+processing of refund claims which are 
+not 
+identified 
+by 
+the 
+system 
+for 
+processing on an automated route. 
+ii. 
+Final scrutiny of refund claims in case of 
+inverted duty structure refunds, after 
+provisional refund to the extent of 90% of 
+the claimed amount is sanctioned by the 
+system. 
+7.  
+Can the proper officer deny 
+provisional refund even if a 
+refund 
+application 
+is 
+low‑risk? 
+In case of low-risk refund applications on 
+account of zero-rated supply and inverted duty 
+structure, 
+the 
+system 
+will 
+automatically 
+sanction 90% of the claimed amount on a 
+provisional basis. This will be fully system-
+
+Page 16 of 47 
+ 
+driven and there will be no officer interface at 
+this stage. 
+8.  
+What is the revised timeline 
+for issuing the provisional 
+refund order? 
+The provisional refund order in FORM GST 
+RFD-04 is proposed to be issued within three 
+working days by the system from the date of 
+acknowledgement. 
+9.  
+How would a low-risk 
+refund claim be processed 
+subsequent to automated 
+provisional refund? 
+Once the system grants provisional refund in a 
+low-risk refund application, the application 
+shall move to the proper officer for scrutiny and 
+issuance of final refund order in FORM GST 
+RFD-06. 
+10.  
+What happens if a refund 
+application is not classified 
+as low‑risk? 
+If a refund application is not classified as low-
+risk, it shall be scrutinized by the proper officer 
+after acknowledgement, for the purpose of 
+sanction of provisional refund (in case of refund 
+claims on account of zero-rated supplies and 
+inverted duty structure) and subsequent 
+processing of final refund. 
+11.  
+What is the prescribed time 
+limit 
+for 
+issuance 
+of 
+acknowledgement 
+or 
+deficiency memo by the tax 
+officer? 
+In refund categories other than excess balance in 
+cash ledger, the proper officer is now required 
+to issue an acknowledgement in FORM GST 
+RFD‑02 or deficiency memo in FORM GST RFD-
+03 within 10 days of filing of the refund 
+application. If neither acknowledgement nor 
+deficiency memo is issued within this period, 
+the application will be deemed acknowledged 
+by the system. 
+12.  
+What will happen if neither 
+an acknowledgement nor a 
+deficiency memo is issued 
+within this time? 
+If neither an acknowledgement nor a deficiency 
+memo is issued within 10 days of filing of 
+refund application, then the application will be 
+deemed 
+acknowledged, 
+i.e., 
+an 
+acknowledgement in FORM GST RFD-02 will 
+be made available through the common portal 
+on expiry of the said period. 
+13.  
+Will the refund application 
+be processed automatically 
+by the system after deemed 
+acknowledgement? 
+No. Deemed acknowledgement only means that 
+the refund application is treated as received and 
+complete for the purpose of starting the 
+processing timeline. Further processing of the 
+refund application shall be done as per the 
+
+Page 17 of 47 
+ 
+risk‑based 
+framework 
+and 
+applicable 
+provisions. 
+14.  
+What is the process to be 
+followed in cases where a 
+refund application is found 
+to have deficiencies? 
+1. In refund applications which are found to 
+have deficiencies, proper officer issues a 
+deficiency memo in FORM GST RFD-03. 
+After a deficiency memo has been issued, the 
+refund application would not be further 
+processed, and a fresh application would 
+have to be filed by the applicant on the 
+portal.  
+2. Any amount of input tax credit/cash debited 
+from electronic credit/ cash ledger at the 
+time of filing of refund application would be 
+re-credited 
+automatically 
+once 
+the 
+deficiency memo has been issued.  
+3. The applicant is required to rectify the 
+deficiencies highlighted in deficiency memo 
+and 
+file 
+fresh 
+refund 
+application 
+electronically in FORM GST RFD-01 again 
+for the same period. 
+15.  
+Can a deficiency memo be 
+issued 
+after 
+acknowledgement? 
+Once an acknowledgement has been issued in 
+relation to a refund application, no deficiency 
+memo, on any grounds, can be subsequently 
+issued for the said application. 
+16.  
+What happens if my refund 
+is not sanctioned within the 
+statutory timeline? 
+If a refund is not sanctioned within the statutory 
+time limit, the refund applicant becomes 
+entitled to interest on delayed refund for the 
+period of delay beyond 60 days as per the 
+provisions of section 56 of the CGST Act, 2017. 
+17.  
+How will the refund be 
+granted for inverted duty 
+structure claims in Phase II? 
+In Phase II, the refund application will be 
+acknowledged automatically by the system 
+after validation of information furnished in the 
+refund application. Ninety per cent of the 
+claimed 
+amount 
+will 
+be 
+sanctioned 
+as 
+provisional refund automatically by the system 
+based on risk evaluation, with the payment 
+order issued in FORM GST RFD-05. Thereafter, 
+the refund application will be processed by the 
+tax officer for issuance of final refund order. 
+
+Page 18 of 47 
+ 
+18.  
+How will my refund of 
+excess 
+balance 
+in 
+the 
+electronic cash ledger be 
+processed now? 
+Refund of excess balance in the electronic cash 
+ledger will be processed in a fully automated 
+manner by the common portal itself. 
+19.  
+Will there be any role of the 
+officer in refund of excess 
+cash balance in electronic 
+cash ledger? 
+No. Such a refund will be processed without 
+requiring any intervention by a tax officer. 
+20.  
+Will I be able to file my 
+refund application if I have 
+not yet filed my GST return? 
+Before filing a refund application, it must be 
+ensured that all returns that are due to be filed 
+on or before the date of the refund application 
+have in fact been filed by the registered person. 
+For example, if refund application is being filed 
+on the 3rd of April, 2026 the returns for the 
+month of February, 2026 should have been filed. 
+21.  
+Is there a need to submit any 
+documents physically with 
+the jurisdictional officer? 
+No. There is no need to submit physical 
+documents separately as the refund process is 
+presently fully electronic. All statements, 
+declarations, undertakings, and supporting 
+documents are to be uploaded on the common 
+portal at the time of filing.  
+Even after this amendment, there is no need to 
+submit these documents physically to the 
+jurisdictional officer.   
+22.  
+Will the new form increase 
+my compliance burden? 
+No, the updated refund form does not increase 
+compliance burden. Information that was 
+hitherto required to be uploaded in scanned 
+form will now be captured within the 
+application itself, enabling system-based data 
+matching. This makes the refund process more 
+predictable, smooth, and transparent, thereby 
+benefitting the taxpayer. 
+23.  
+Do I need to submit invoices 
+at the time of filing of 
+refund? 
+No. As mentioned in para 36 of circular No. 
+125/44/2019-GST dated 18.11.2019, there is no 
+need to submit invoices (either original or 
+duplicate) along with the refund claim. 
+24.  
+Will my shipping bill and 
+export payment details be 
+verified automatically? 
+Yes. In Phase II, for refunds on account of zero-
+rated supplies, the system will be integrated 
+with ICEGATE (for shipping bill and bill of 
+export details), with EDPMS of the RBI (for 
+
+Page 19 of 47 
+ 
+realisation of export proceeds for services), and 
+with SEZ Online (for supplies made to SEZ units 
+or developers), so that these details can be 
+verified electronically rather than through 
+manual checks. 
+25.  
+What if my application does 
+not 
+pass 
+the 
+system's 
+validation? 
+You will be informed of the specific errors so 
+that you can rectify them and file a fresh 
+application. If validation is still unsuccessful 
+after correction, your application will be 
+forwarded to the proper officer for scrutiny and 
+processing, so that processing of your claim 
+continues to move forward. 
+26.  
+What can I do to ensure that 
+my application is processed 
+smoothly by the system? 
+To ensure smooth processing of refund 
+application by the system, the applicant may 
+keep the following points in mind while filing 
+their refund application: 
+1. Ensure that the data is filled correctly in 
+the application, and no clerical errors are 
+made.  
+2. The data being filled in the refund 
+application must match the data filled in 
+the returns or other documents such as 
+shipping bill by the applicant. 
+3. Validation failures can be avoided by 
+ensuring that data matching across 
+various documentary compliances is 
+maintained. 
+4. The refund application must be checked 
+properly before submission to avoid 
+errors at the time of filing. 
+5. The claimant must ensure that ineligible 
+ITC (such as ITC restricted under section 
+17(5) of the CGST Act, 2017) is not being 
+taken into account for the purpose of 
+refund calculation. 
+6. The claimant must ensure that any 
+reversal of input tax credit required 
+under rule 42 or rule 43 of the CGST 
+Rules, 2017 is carried out as prescribed 
+under the said rules. 
+
+Page 20 of 47 
+ 
+27.  
+Will I get interest if my 
+refund is withheld under 
+section 54(11) and I later 
+become entitled to it? 
+From when and till which 
+date will this interest be 
+calculated? 
+Yes. Where a refund is withheld under section 
+54(11) and the applicant subsequently becomes 
+entitled to it as a result of appeal or other 
+proceedings, interest is payable at the rate of 6%. 
+The interest will be computed for the period 
+starting from the date the refund was withheld 
+till the date the refund is actually paid. 
+28.  
+Is there a minimum amount 
+below which refund is not 
+paid? 
+Yes, a threshold of Rs.1,000 continues to apply 
+below which refund is not paid. 
+The threshold of Rs. 1,000 will be applied with 
+reference to the total refund amount payable 
+across all tax heads taken together, rather than 
+separately for each individual tax head. 
+However, this minimum threshold of Rs. 1000 is 
+not applicable in respect of refund on account of 
+goods exported out of India with payment of 
+tax. 
+29.  
+I am an exporter making 
+zero-rated supply of goods 
+and claiming refund on 
+account 
+of 
+accumulated 
+input tax credit for such 
+zero-rated supplies. Am I 
+required to provide value of 
+like 
+goods 
+supplied 
+domestically by similarly 
+placed supplier for the 
+calculation of turnover of 
+zero-rated supply of goods 
+under rule 89(4)(C) of the 
+CGST Rules? 
+Keeping in mind the difficulty being faced by 
+taxpayers, as well as genuine concerns of 
+taxpayers regarding providing the value of like 
+goods supplied domestically by similarly 
+placed supplier, the condition regarding 
+calculation of turnover of zero-rated supply of 
+goods as value which is 1.5 times the value of 
+like 
+goods 
+domestically 
+supplied, 
+for 
+calculation of refund is being removed through 
+amendment in rule 89(4)(C) of the CGST Rules, 
+2017. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Page 21 of 47 
+ 
+ 
+FAQs on refund of ITC accumulated on account of inward supply of input services 
+and capital goods 
+S.No. 
+Question 
+Answer 
+1. 
+What is the change being 
+proposed 
+in 
+respect 
+of 
+refund of unutilised input 
+tax credit (ITC) on input 
+services and capital goods? 
+At present, under rule 89 of the CGST Rules, 
+2017, "Net ITC" excludes ITC availed on capital 
+goods in the case of refund of unutilized ITC on 
+account of zero-rated supplies made, and 
+excludes ITC availed on both input services and 
+capital goods in the case of refund on account of 
+inverted duty structure. It has now been 
+recommended by the GST Council to: 
+i. 
+include ITC availed on input services 
+(availed on or after 01.11.2026) in "Net ITC" 
+for computation of refund on account of 
+inverted duty structure under rule 89(5) of 
+the CGST Rules, 2017; and 
+ii. include ITC availed on capital goods 
+(availed on or after 01.04.2027) to the extent 
+attributable to the relevant period, in "Net 
+ITC" for computation of refund on account 
+of zero-rated supplies under rule 89(4) and 
+inverted duty structure under rule 89(5) of 
+the CGST Rules, 2017. 
+This will ease the blockage of working capital 
+for businesses. 
+2. 
+From which date would 
+such ITC be available for 
+refund? 
+The refund of ITC on input services and capital 
+goods shall shall be available in respect of: 
+i. 
+ITC on input services availed on or after 1st 
+November, 2026, and 
+ii. ITC on capital goods availed on or after 1st 
+April, 2027. 
+3. 
+Whether 
+refund 
+of 
+accumulated ITC will be 
+available, 
+even 
+if 
+the 
+No. The existence of inverted duty structure 
+shall continue to be determined by comparing 
+the rate of tax on inputs with the rate of tax on 
+
+Page 22 of 47 
+ 
+S.No. 
+Question 
+Answer 
+inverted duty structure is on 
+account of rate of input 
+services being higher than 
+the 
+rate 
+of 
+outward 
+supplies? 
+output supplies only. Only where such 
+inversion is established, ITC on eligible input 
+services, along with ITC on capital goods 
+attributable to the relevant period, shall be 
+included in "Net ITC" for computation of the 
+refund amount. The proposal does not expand 
+the class of persons eligible for refund under 
+clause (ii) of the first proviso to section 54(3) of 
+the CGST Act, 2017. 
+ 
+For instance, the following two scenarios can be 
+considered to understand the difference: 
+Case A: A manufacturer procures inputs taxed 
+at 18% and makes output supplies taxed at 5%. 
+He also avails ITC on input services such as 
+professional services taxed at 18%. As the rate of 
+tax on inputs is higher than the rate of tax on 
+output supplies, inverted duty structure exists. 
+ITC on input services availed on or after 1st 
+November, 2026 shall be included in "Net ITC" 
+for computation of refund. 
+Case B: A supplier procures inputs taxed at 5% 
+and makes output supplies taxed at 5%, but 
+avails input services taxed at 18%. As there is no 
+inversion between the rate of tax on inputs and 
+the rate of tax on output supplies, the supplier is 
+not eligible for refund on account of inverted 
+duty structure merely because the rate of tax on 
+input services is higher. 
+4. 
+In 
+which 
+categories 
+of 
+refund will ITC on capital 
+goods be considered? 
+ITC on capital goods shall be considered in the 
+following categories: 
+
+Page 23 of 47 
+ 
+S.No. 
+Question 
+Answer 
+i. 
+refund of unutilised ITC on account of zero-
+rated supplies made without payment of tax 
+under bond or LUT under rule 89(4), and 
+ii. refund of unutilised ITC on account of 
+inverted duty structure under rule 89(5). 
+The change does not affect zero-rated supplies 
+made on payment of integrated tax, as there is 
+no restriction on utilization of ITC on capital 
+goods for payment of tax on such supplies. 
+5. 
+Will I get refund of the 
+entire ITC on capital goods 
+in the tax period in which it 
+is availed? 
+No. Capital goods are utilised over an extended 
+period. Accordingly, ITC on capital goods shall 
+be considered for refund in equal proportion 
+over a period of sixty months, i.e., one-sixtieth 
+for each month, commencing from the month in 
+which such ITC is availed. Further, the refund 
+will only be available in respect of such ITC on 
+capital goods available on or after 01.04.2027. 
+This releases capital locked up in capital-
+intensive sectors while distributing the revenue 
+outgo over a longer period. 
+6. 
+How will the ITC on capital 
+goods attributable to the 
+relevant 
+period 
+be 
+computed? 
+Capital goods attributable to the relevant period 
+are those capital goods on which ITC has been 
+availed on or after 1st April, 2027, in any of the 
+months not earlier than fifty-nine months from 
+the last month of the relevant period. ITC on 
+such capital goods shall be calculated as per the 
+formula prescribed in Rule 89.  
+. 
+7. 
+Which ITC on capital goods 
+can be included in the 
+refund claim? 
+Only eligible ITC availed on capital goods can 
+be included. ITC blocked under section 17(5) of 
+the CGST Act, 2017, or otherwise not admissible, 
+cannot form part of the claim. Further, any 
+reversal of ITC required under the Act or the 
+
+Page 24 of 47 
+ 
+S.No. 
+Question 
+Answer 
+Rules in respect of such capital goods, including 
+under rule 43 of the CGST Rules, 2017, 
+attributable to the months in the relevant period 
+shall be deducted. 
+ 
+ 
+ 
+ 
+ 
+
+Page 25 of 47 
+ 
+FAQs on reforms related to Litigation Management 
+S. 
+No. 
+Question 
+Answer 
+Minimum threshold for issuance of show cause notices under sections 73, 74 & 74A 
+of the CGST Act, 2017 
+1. 
+If the amount of tax is exactly 
+₹10,000, will the minimum 
+threshold for issuance of a 
+show-cause 
+notice 
+be 
+satisfied? 
+ 
+Yes. The minimum threshold shall be considered 
+to have been met where the relevant amount of 
+tax, including the applicable cess covered by the 
+Explanation, is ₹10,000 or more. Accordingly, 
+where the amount of tax is exactly ₹ 10,000 a 
+show cause notice may be issued. 
+2. 
+How 
+is 
+the 
+minimum 
+threshold of ₹10,000 to be 
+determined under sections 
+73, 74 or 74A of the CGST Act, 
+2017, where the demand 
+involves more than one tax 
+head, 
+such 
+as 
+CGST, 
+SGST/UTGST, IGST and cess? 
+ 
+The minimum threshold of ₹10,000 shall be 
+determined with reference to the aggregate 
+amount 
+of 
+tax 
+involved 
+under 
+CGST, 
+SGST/UTGST, IGST and cess, as applicable. It is 
+not necessary for the amount under each 
+individual tax head to independently meet the 
+threshold of ₹10,000. 
+3. 
+Will interest, late fee or 
+penalty be taken into account 
+for 
+determining 
+the 
+minimum 
+threshold 
+of 
+₹10,000 under sections 73, 74 
+or 74A of the CGST Act, 2017? 
+ 
+No. The minimum threshold of ₹10,000 shall be 
+determined with reference to the amount of tax 
+including the applicable cess. Interest, late fee 
+and 
+penalty 
+shall 
+not 
+be 
+included 
+for 
+determining whether the threshold is met. 
+4. 
+Will the minimum threshold 
+of ₹10,000 for issuance of 
+demand notices, apply in 
+cases involving input tax 
+credit wrongly availed or 
+utilised? 
+ 
+ 
+ 
+Yes. The amount of tax relating to input tax credit 
+wrongly availed or utilised, shall be taken into 
+account for determining whether the minimum 
+threshold of ₹10,000 is met. Where such amounts 
+arise under more than one tax head, the relevant 
+amounts shall be aggregated for this purpose. 
+ 
+ 
+
+Page 26 of 47 
+ 
+Deeming of penalty payment as charge and rationalization of penalty, in case of 
+voluntary payment under the CGST Act, 2017 
+1. 
+Does substitution of the term 
+“penalty” 
+with 
+“charge” 
+under the CGST Act, change 
+the amount payable by the 
+taxpayer under the voluntary 
+payment provisions? 
+No. The substitution of the term “penalty” with 
+“charge” shall not alter the quantum of the 
+amount payable. The amount payable shall 
+remain the same as prescribed under the relevant 
+provisions of the CGST Act. 
+2. 
+Will the amount referred to as 
+“charge” (substitution of the 
+term “penalty”) under the 
+CGST Act, be payable in 
+addition to the tax and 
+interest? 
+ 
+Yes. To avail the benefit of conclusion of 
+proceedings, the noticee shall be required to pay 
+the tax along with applicable interest and the 
+prescribed reduced amount of penalty within the 
+specified timeline. Upon such payment, the 
+amount presently referred to as “penalty” under 
+the relevant provision shall be referred to as 
+“charge” under the amended provision. 
+3. 
+Under 
+which 
+head 
+the 
+amount payable as “charge” 
+should be deposited? 
+The amount payable as “charge” shall be 
+deposited 
+under 
+the 
+head 
+“Others”, 
+in 
+accordance 
+with 
+the 
+prescribed 
+payment 
+mechanism. 
+ 
+*** 
+ 
+ 
+ 
+
+Page 27 of 47 
+ 
+FAQs on reforms related to rationalization of interception and verification of goods 
+and conveyances in transit (e-way bill) 
+S. No. 
+Question 
+Answer 
+1. 
+Can 
+a 
+conveyance 
+be 
+intercepted on a random 
+basis to verify the e-way 
+bill after the proposed 
+amendment? 
+No. A conveyance may be intercepted only on the 
+authorisation of a proper officer not below the 
+rank of Joint Commissioner, who has reasons to 
+believe, to be recorded in writing, that the goods 
+being carried in the conveyance are being 
+transported in contravention of the provisions of 
+the CGST Act, 2017 or the rules made thereunder.  
+2. 
+Officers 
+of 
+which 
+jurisdiction can inspect, 
+detain or seize goods and 
+conveyances 
+in 
+transit 
+after the amendment? 
+The goods may be inspected, and detained or 
+seized in accordance with section 129 of the CGST 
+Act, 2017, only by an officer of the jurisdiction/ 
+State or Union territory where either the supplier 
+or the recipient is located. No inspection, 
+detention and seizure of goods/ conveyance can 
+be done by transit states. 
+For example, M/s X of State A supplies goods to M/s 
+Y of State B, and the goods move through State C. 
+Officers of State A (the supplier's State) or State B (the 
+recipient's State) may intercept, inspect, detain or 
+seize the goods. Officers of State C shall not exercise 
+these powers, as neither the supplier nor the recipient 
+is located there. 
+In case of an intra-State supply, where both the 
+supplier and the recipient are located in State A, only 
+officers of State A may exercise these powers. 
+3. 
+What action can be taken 
+by the officer of a transit 
+State 
+where, 
+on 
+verification of documents, 
+a contravention is noticed? 
+The officer of a State or Union territory where 
+neither the supplier nor the recipient is located 
+shall not undertake any inspection, detention or 
+seizure of the goods or the conveyance.  
+
+Page 28 of 47 
+ 
+S. No. 
+Question 
+Answer 
+He shall allow the conveyance and the goods to 
+pass through unhindered and shall transmit the 
+information, to the officer having jurisdiction 
+over the supplier or the recipient, as the case may 
+be.  
+For example, goods moving from State A to State B are 
+intercepted in State C, and an incorrect HSN is noticed 
+in the e-way bill. The officer of State C shall allow the 
+vehicle to proceed and transmit the information to the 
+jurisdictional officer of State A or State B. 
+4. 
+Where 
+no 
+information 
+relating 
+to 
+the 
+consignment 
+has 
+been 
+furnished 
+electronically 
+(i.e. no e-way bill has been 
+generated), or conveyance 
+is 
+not 
+carrying 
+the 
+prescribed documents, can 
+an officer detain or seize 
+goods 
+in 
+transit 
+irrespective of where the 
+supplier or recipient is 
+located? 
+Yes. Where no information relating to the 
+consignment has been furnished electronically 
+(i.e. no e-way bill has been generated), or the 
+person in charge of the conveyance is not carrying 
+the prescribed documents, the authorised officer 
+may inspect the goods and may detain or seize 
+them in accordance with section 129, even where 
+neither the supplier nor the recipient is located in 
+his State or Union territory. 
+For example, a truck carrying goods valued at ₹5 lakh 
+passes through State C without an e-way bill and 
+without any invoice or delivery challan showing the 
+origin and destination of the goods. The officer of State 
+C may detain or seize such goods. 
+5. 
+Can goods or conveyances 
+in transit be confiscated 
+under section 130 of the 
+CGST Act, 2017? 
+No. section 130 shall apply only to cases other 
+than those in transit. Goods and conveyances in 
+transit shall be dealt with only under section 129, 
+read with section 68.  
+Further, goods and conveyances in transit shall 
+not be detained or seized for any reason other 
+than those specified under section 68. 
+
+Page 29 of 47 
+ 
+FAQs on Rationalization and Decriminalization of Arrest and Prosecution Provisions 
+in GST 
+S. No. 
+Question 
+Answer 
+13. 
+What changes have been 
+recommended by the GST 
+Council in respect of arrest 
+and prosecution provision 
+under GST? 
+The GST Council has recommended: 
+• removal of the arrest provisions under GST; 
+• increase in the threshold for prosecution from 
+Rs. 1 crore to Rs. 5 crore; 
+• omission or narrowing of certain offences 
+under section 132(1) of the CGST Act, and 
+redrafting of clause (c) thereof; 
+• rationalisation of the maximum term of 
+imprisonment from three or two years in case 
+of tax evasion of more between Rs 5 to Rs 10 
+Crore; and 
+• discretion to the Court to impose only a fine, 
+and removal of the minimum imprisonment of 
+six months. 
+14. 
+Can someone be arrested 
+under 
+GST 
+after 
+the 
+proposed amendment? 
+No. The arrest provisions under GST are now 
+proposed to be removed, and no person shall be 
+arrested for an offence under the GST law. 
+However, prosecution may still be launched 
+before the competent Court, on a complaint filed 
+by the tax authorities, where the amount involved 
+exceeds Rs. 5 crore. 
+15. 
+In 
+which 
+cases 
+can 
+someone be prosecuted 
+under GST? 
+Prosecution may be launched for offences under 
+section 132(1) where the evaded tax amount 
+exceeds Rs. 5 crore, as against the present 
+threshold of Rs. 1 crore. 
+17. 
+What 
+will 
+be 
+the 
+punishment on conviction 
+after the amendment? 
+The maximum term of imprisonment is being 
+rationalised as under: 
+
+Page 30 of 47 
+ 
+S. No. 
+Question 
+Answer 
+• where the amount involved exceeds Rs. 10 
+crore: imprisonment up to five years, or fine, 
+or both; 
+• where the amount involved exceeds Rs. 5 crore 
+but 
+does 
+not 
+exceed 
+Rs. 
+10 
+crore: 
+imprisonment up to two years, or fine, or both. 
+18. 
+Someone 
+who 
+is 
+convicted, 
+will 
+imprisonment 
+be 
+compulsory? 
+No. The punishment is proposed to be changed 
+from “imprisonment and fine” to “imprisonment 
+or fine or both”, so that the Court may have 
+discretion of awarding punishment.  
+Further, 
+the 
+requirement 
+of 
+a 
+minimum 
+imprisonment of six months under section 132(3) 
+is being removed, so as to confer discretion on the 
+Court. 
+19 
+Which offences are being 
+omitted or narrowed for 
+the 
+purpose 
+of 
+prosecution? 
+• Clause (i) of section 132(1), relating to supply 
+of services in contravention of the Act, is being 
+omitted, as the offence is difficult to quantify 
+and liable to subjective interpretation. 
+• Clause (e) of section 132(1): the expression 
+“evades tax” is being omitted, so that the 
+clause is confined to fraudulently obtaining 
+refund.  
+• Clause (h) of section 132(1): the expression “or 
+in any other manner deals with” is being 
+omitted, leaving only the specific acts listed in 
+the clause. 
+ 
+ 
+ 
+
+Page 31 of 47 
+ 
+FAQ in respect of reforms for enhancing export competitiveness 
+Sl. 
+No 
+Questions 
+Answers 
+1. 
+What amendment is being 
+brought in the place of 
+supply provisions under 
+section 13 of the IGST Act? 
+For services requiring goods to be made physically 
+available to the supplier in India for the provision 
+of service (e.g., testing, repair, R&D, clinical trials), 
+place of supply is considered as the location of 
+performance of services, i.e. in India as per 
+provisions of section 13(3)(a) of the IGST Act, 2017, 
+denying export/zero-rating benefit even though 
+the recipient is abroad and payment is received in 
+foreign exchange. Omission of clause (a) of section 
+13(3) will bring such services under the default 
+rule of section 13(2), i.e., place of supply as the 
+location of the recipient. 
+ 
+ 
+ 
+ 
+ 
+
+Page 32 of 47 
+ 
+Frequently Asked Questions (FAQs) on issues related to goods 
+(Disclaimer: Answers are only for educational and guidance purposes and do not hold 
+any legal validity. For complete details, please refer to the notifications, circulars etc 
+issued in this regard)  
+1. What is the classification of sea-weed extract based bio-stimulants? 
+ 
+57th GST Council has clarified that sea-weed extract based bio-stimulants, registered 
+under Schedule VI to the Fertiliser (Inorganic, Organic or Mixed) (Control) Order, 1985 
+are classifiable under heading 3101 as fertilisers (vide S. No. 237 of Schedule I of 
+Notification No. 9/2025-Central Tax (Rate), dated 17.09.2025). GST council has also 
+recommended to regularise the past cases on “as is where is” basis. 
+ 
+2. Are all sea-weed extract based products classifiable under S. No. 237 of Schedule I of 
+Notification No. 9/2025-Central Tax (Rate), dated 17.09.2025? 
+ 
+No. All sea-weed extract based products are not classifiable under S. No. 237 of Schedule 
+I of Notification No. 9/2025-Central Tax (Rate), dated 17.09.2025. Only those sea-weed 
+extract based bio-stimulants that are registered under the Fertiliser Control Order, 1985 
+are classifiable under the said entry. 
+ 
+3. Whether sea-weed extract based products containing Plant Growth Regulators 
+(PGRs) would be classified under S. No. 237 of Schedule I of Notification No. 9/2025-
+Central Tax (Rate), dated 17.09.2025? 
+ 
+Sea-weed extract based products containing Plant Growth Regulators (PGRs) would not 
+qualify as bio-stimulants under the Fertiliser (Inorganic, Organic or Mixed) (Control) 
+Order, 1985 and, accordingly, would not be classified under S. No. 237 of Schedule I of 
+Notification No. 9/2025-Central Tax (Rate), dated 17.09.2025.  
+ 
+4. What are the recommendations of the GST Council with regards to the entry 
+pertaining to toys in the GST rate notifications? 
+ 
+The Council has clarified that the notification entries related to toys in the GST Rate 
+notification (S. No. 497 of Schedule I and S. No. 616 of Schedule II of notification 
+No. 09/2025-Central Tax (Rate) dated 17.09.2025) also include all other categories of toys 
+
+Page 33 of 47 
+ 
+mentioned in the chapter heading 9503 of the Customs Tariff Act, such as dolls, puzzles 
+and other toys, and is not restricted only to tricycles, pedal cars and scooters which are 
+mentioned in the notification.  
+ 
+5. Are second-hand car dealers barred from availing the concessional rate of GST under 
+the GST margin scheme if they avail ITC on repair and maintenance services, spares, 
+etc. used in the course of business? 
+ 
+No. Benefit of concessional rate of GST under GST margin scheme vide notification No. 
+8/2018-Central Tax (Rate), notification No. 9/2018-Integrated Tax (Rate) and notification 
+No. 1/2018-Compensation Cess (Rate), all dated 25.01.2018, for supply of second-hand 
+cars can be taken even if ITC is availed on the input goods and inputs services used in 
+furtherance of business. However, ITC cannot be availed on tax paid on purchase of 
+second-hand vehicles, if dealer of the said second-hand vehicles intends to take 
+concessional rate of GST under the margin scheme. 
+ 
+6. What is the classification of sublimation paper? 
+There were disputes in the field regarding the correct classification of sublimation paper 
+i.e whether sublimation paper is classified under sub-heading 4810 22 or under heading 
+4809. GST Council in its 57th meeting has clarified that Sublimation paper is classifiable 
+under heading 4809 (Sr. No. 176 of Schedule II of the notification No. 9/2025-CTR dated 
+17.09.2025). Further, GST Council has also recommended regularization of past period on 
+“as is where is” basis so as to resolve the past disputes.  
+ 
+7. What is the GST treatment on retreaded tractor tyres? 
+The Council has recommended to correct the anomaly of GST treatment of retreaded 
+tractor tyres by aligning its GST rate with GST rate applicable on new tractor tyres. 
+ 
+8.  What has the 57th GST Council recommended regarding waste and scrap of plastics, 
+waste and scarp of tyres, electrical and electronics waste and scrap and used cooking 
+oil?  
+57th GST Council has recommended introduction of Tax Deducted at Source (TDS) at 
+the rate of 2% on the supply of waste and scrap of plastics, waste and scarp of tyres, 
+
+Page 34 of 47 
+ 
+electrical and electronics waste and scrap and used cooking oil, by a registered person 
+to a registered person. The Council has also recommended the introduction of Reverse 
+Charge Mechanism (RCM) on the supply of such waste and scrap by an unregistered 
+person to a registered person provided that the supplier shall take registration as and 
+when it crosses threshold limit and the recipient who is liable to pay under RCM shall 
+pay tax even if supplier is under threshold.  
+ 
+9. What is the existing mechanism based on which this recommendation regarding 
+waste and scrap of plastics, waste and scarp of tyres, electrical and electronics waste 
+and scrap and used cooking oil is made?  
+ 
+The mechanism is on the lines of the TDS and RCM framework already in place for 
+metal scrap which was introduced based on the recommendations of the 54th GST 
+Council meeting. Under that framework, TDS at the rate of 2% under Section 51 of the 
+CGST Act, 2017 is to be paid on the supply of metal scrap by a registered person to a 
+registered person, and tax has to be paid on the RCM basis by the recipients on the 
+supply of metal scrap by an unregistered person to a registered person. 
+ 
+10. When is TDS at 2% applicable on waste and scrap of plastics, waste and scarp of 
+tyres, electrical and electronics waste and scrap and used cooking oil?  
+ 
+TDS at the rate of 2% is applicable when a registered person supplies above specified 
+waste and scrap to another registered person. The recipient (buyer) is required to deduct 
+tax at the rate of 2% from the payment made to the supplier and deposit the same with 
+the Government. 
+ 
+11. When is Reverse Charge Mechanism (RCM) applicable on waste and scrap of 
+plastics, waste and scarp of tyres, electrical and electronics waste and scrap and used 
+cooking oil?  
+ 
+  RCM is applicable when an unregistered person supplies above specified waste and 
+scrap to a registered person. In such cases, the liability to pay GST on the supply shifts 
+to the recipient, i.e. the registered buyer. 
+ 
+
+Page 35 of 47 
+ 
+12. Is the supplier required to take registration under GST for supply of waste and scrap 
+of plastics, waste and scarp of tyres, electrical and electronics waste and scrap and 
+used cooking oil?  
+ 
+The supplier is required to take registration under GST when the aggregate turnover 
+crosses the threshold limit prescribed under Section 22 of the CGST Act, 2017. Once the 
+threshold is crossed, the supplier must obtain registration and the TDS provisions will 
+apply to subsequent supplies made to registered persons. 
+ 
+13. If the supplier of waste and scrap of plastics, waste and scarp of tyres, electrical and 
+electronics waste and scrap and used cooking oil is below the threshold limit and is 
+unregistered, is the recipient still required to pay tax under RCM?  
+ 
+ Yes. The recipient who is a registered person is required to pay GST under RCM on the 
+supply received from an unregistered person, even if the unregistered supplier is below 
+the threshold limit for registration. 
+ 
+14.What are the compliance obligations of the recipient (buyer) of waste and scrap of 
+plastics, waste and scarp of tyres, electrical and electronics waste and scrap and used 
+cooking oil under this mechanism?  
+ 
+The recipient (buyer) who is a registered person is required to:  
+(i) deduct TDS at 2% on purchases of such specified waste and scrap from 
+registered suppliers and file the TDS return in Form GSTR-7;  
+(ii) 
+  issue a TDS certificate to the supplier in accordance with the rules 
+prescribed; 
+(iii) pay GST under RCM on purchases of these items from unregistered suppliers 
+and report the same in the return. 
+ 
+15. What are the recommendations of 57th GST Council with regards to Psyllium seeds 
+(Isobgul/ Isobgol)? 
+ 
+In order to remove the ambiguity and provide clarity, 57th GST Council has 
+recommended to create a separate entry for Psyllium seeds (Isobgul/Isobgol), 
+irrespective of whether it is fresh, chilled, frozen or dried, in the notification No. 
+10/2025-Central Tax (Rate), dated 17.09.2025, which prescribes Nil rate of GST.  
+
+Page 36 of 47 
+ 
+                                                            
+ 
+(The above changes will be implemented by issuance of relevant notifications, 
+circulars, 
+etc. 
+which 
+will 
+be 
+uploaded 
+on 
+the 
+CBIC 
+website 
+(taxinformation.cbic.gov.in)) 
+ 
+ 
+                                                                ********* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Page 37 of 47 
+ 
+Frequently Asked Questions (FAQs) on issues related to services 
+(A) Helicopter passenger transport 
+Q1. 
+Whether the proposed exemption to passenger transport by helicopter on a seat-
+sharing basis is in addition to the existing exemption available to passenger 
+transportation by air in economy class? 
+Ans. Yes, the existing GST exemption for passenger transportation by air in economy 
+class embarking or terminating at specified airports will continue. In addition, the 
+exemption will be extended to passenger transportation by helicopter on a seat-sharing 
+basis from/to such airports.  
+Q2. 
+Will the chartered helicopter services also qualify for this exemption? 
+Ans. No, the chartered helicopter services will not be covered by the proposed 
+exemption. The proposed exemption is being extended only to passenger transportation 
+by helicopter on a seat-sharing basis which is distinct from chartered helicopter services.  
+Q3. 
+Whether helicopter passenger services from/to a helipad be covered under the 
+exemption? 
+Ans. Yes. A helipad is covered within the scope of “aerodrome” under the Bharatiya 
+Vayuyan Adhiniyam, 2024. Accordingly, passenger transportation by helicopter on a 
+seat-sharing basis from/to the specified locations, including where the helicopter operates 
+from a helipad, will be covered by the exemption. 
+(B) Import of services by Indian establishment of foreign shipping line 
+Q4. 
+Whether the proposed exemption is available in case import of services from 
+the overseas Head Office/establishment of a foreign shipping line to its Indian 
+establishment is provided with consideration? 
+Ans. No. The proposed exemption is only in respect of import of services from the 
+overseas Head Office/establishment of a foreign shipping line to its Indian establishment 
+when such services are provided without consideration. Services provided against 
+consideration will continue to be taxed in accordance with the applicable provisions. 
+
+Page 38 of 47 
+ 
+Q5. 
+What is meant by a “foreign company” for the purposes of the proposed 
+exemption? 
+Ans. “Foreign company” would have the same meaning assigned to it under section 
+2(42) of the Companies Act, 2013. 
+Q6. 
+What will be the treatment of the GST liability for the past period? 
+Ans. For the past period, the GST treatment of such transactions will be regularised on 
+an “as is where is” basis since the exemption will come into effect from the date specified 
+in the relevant notification. This means that the tax position already adopted by the 
+taxpayers for the past period will be accepted; In cases where the GST was paid, no refund 
+of such amount will be allowed. 
+Q7. 
+Does the exemption for foreign shipping lines bring parity with the treatment 
+of foreign airlines? 
+Ans. Yes. The exemption brings parity in the GST treatment of foreign shipping lines 
+and foreign airlines in respect of services received by their Indian establishments from 
+their overseas establishments, where such services are provided without consideration, 
+subject to the prescribed conditions. 
+(C) Electric Vehicle (EV) passenger transport / rental services 
+Q8. 
+Whether the GST treatment of passenger transportation services by electric 
+vehicles and rental services (with operator) of electric vehicles for passenger/goods 
+transport were earlier different from the corresponding services using conventional 
+motor vehicles? 
+Ans. The earlier GST provisions for passenger transportation services and rental 
+services of vehicles (with operator) linked the prescribed rate options to cases where the 
+cost of fuel was included in the consideration. Since electricity used for charging an 
+electric vehicle is not regarded as “fuel”, the same rate options were not available for EV-
+based passenger transportation and rental services. This resulted in differential GST 
+treatment for otherwise similar services, based solely on the fact whether the vehicle was 
+powered by conventional fuel or electricity. 
+
+Page 39 of 47 
+ 
+ Q.9 
+Whether the said disparity in GST treatment for passenger transportation and 
+rental services with operator using electric vehicles vis-à-vis those using conventional 
+vehicles, is being resolved? 
+Ans. Yes, the proposed change aligns the GST treatment of passenger transportation 
+and rental services (with operator) using electric vehicles where cost of battery charging 
+is included in the consideration, with the corresponding services using conventional 
+vehicle, where cost of fuel is included in the consideration. Accordingly, the GST rates 
+applicable for such services using an EV will be the same as those applicable to the 
+corresponding conventional-vehicle services. 
+Q10. Whether the proposed GST rate also apply to leasing services of electric vehicles 
+as goods (i.e. without an operator)? 
+Ans. No. This does not alter the existing GST treatment of services of leasing/rental of 
+vehicles without an operator. Such services will continue to be taxed in accordance with 
+the rate applicable to the underlying goods. 
+(D)Statutory and ancillary recoveries in motor vehicle leasing 
+Q11. What will be the GST rate applicable on registration charges, road tax, 
+insurance, FASTag charges and other statutory or ancillary expenses recovered by the 
+lessor from the lessee in a vehicle leasing arrangement? 
+Ans. Registration charges, road tax, insurance, FASTag charges and other statutory or 
+ancillary expenses recovered by the lessor from the lessee in a leasing arrangement, will 
+form part of the value of the composite supply of leasing of the vehicle and will be taxed 
+at the GST rate applicable to the leasing service. 
+(E) ECO-enabled transportation and delivery services 
+Q12. What will be the GST rates for the services of transportation of goods by a GTA, 
+where such goods are supplied/ordered through an ECO? 
+Ans. In cases where services of transportation of goods by GTA are in respect of goods, 
+which are supplied/ordered through an ECO, GST @ 5% without ITC or 18% with ITC 
+
+Page 40 of 47 
+ 
+will be applicable and the benefit of exemption under Entry no. 21A will not be available 
+for such services.   
+Q13. Whether the ECO, through which goods are ordered/supplied, will be liable to 
+pay GST under section 9(5) of CGST Act, 2017 for the services of transportation of such 
+goods GTA?  
+Ans. No. The ECO is not liable to pay GST under section 9(5) of CGST Act, 2017 for the 
+services of transportation of goods by GTA even if the said service is supplied in relation 
+to goods which are supplied/ordered through an ECO. In such cases, GTA will be liable 
+to pay GST, as applicable. 
+Q14. Whether the proposed change in Entry 21A of Notification No. 12/2017-CTR will 
+impact the tax treatment on the services of transportation of goods by GTA if the said 
+services are not in relation to goods ordered/supplied through an ECO. 
+Ans. No. The proposed change will not affect the exemption available for transportation 
+of goods by a GTA, under entry 21A of the Notification No. 12/2017-CTR, in relation to 
+goods which are not ordered or supplied through an ECO.  
+Q15. What will be the applicable GST rate for supply of delivery service if such 
+service is supplied in relation to goods supplied/ordered through ECO?  
+Ans. GST at the rate of 5% without ITC will be levied on such services.    
+Q16. What will be the applicable GST rate for delivery services supplied through an 
+ECO and who will be liable to pay GST in such cases?  
+Ans. If the delivery service provider is not liable to be registered, then the GST at the 
+rate of 5% without ITC will be applicable and ECO will be liable to pay such GST under 
+the provisions of section 9(5) of CGST Act, 2017. 
+If the delivery service provider is liable to be registered, then the GST on such services is 
+payable by the delivery service provider at the rate of 5% without ITC in accordance with 
+the provisions applicable for delivery services.  
+
+Page 41 of 47 
+ 
+Q17. Whether the proposed changes will affect the GST treatment on services of 
+transportation of goods by individual truck owners/operators?   
+Ans. No. The changes do not affect the GST treatment on services of transportation of 
+goods by individual truck owners/operators. 
+Grant of Right to collect and appropriate tolls from Users 
+Q18. What is the implication of proposed exemption in relation to upfront payment 
+made by concessionaire for highway projects under Toll-Operate and Transfer (TOT) 
+model?  
+Ans. The exemption will be available to leasing services by way of grant of exclusive 
+rights to access, use, operate, collect, demand and appropriate toll where the upfront 
+payment is made for receiving such services by the concessionaire. Hence, the upfront 
+payment made in such projects under TOT model will be covered by the exemption.  
+Q19. Whether the services (mentioned in Question No. 19) of grant of exclusive rights 
+are different from the services of allowing access to a bridge/road on payment of toll?  
+Ans. Yes, both are different services. The latter service for toll charges is already exempt 
+under Entry No. 23 of Notification number 12/2017 – CT(Rate).  
+Q20. What will be the GST implication if payment made by the concessionaire is not 
+upfront but periodic?  
+Ans. The exemption will also be available for such periodic payments made by 
+concessionaire for receiving the services by way of grant of exclusive rights as mentioned 
+in Question number 19.  
+Q21. Whether the exemption is available if such rights (as mentioned in Question 
+No. 19) are granted by private entity? 
+Ans. No, the exemption will be available only in cases where such rights are granted by 
+the Government, local authority, governmental authority or government entity.  
+(F) Time of payment of Tax and Valuation of Operations & Maintenance (O&M) 
+Services 
+
+Page 42 of 47 
+ 
+Q22. Who is eligible to avail the special procedure being provided regarding time of 
+payment of tax and valuation of O&M services? 
+Ans. The special procedure being provided under Section 148 of CGST Act applies to a 
+registered person who is a concessionaire under a TOT Concession Agreement with the 
+Central Government, State Government, Union territory, local authority, Governmental 
+Authority or Government Entity, wherein the concessionaire is required to supply 
+Operations & Maintenance (O&M) services of the road or highway and the expenditure 
+towards such services is adjusted out of the upfront concession fee paid by the said 
+concessionaire.  
+Q23. Why this special procedure has been prescribed for valuation and taxability of 
+O&M services provided under TOT model? 
+Ans. The value for O&M services is not generally determinable in a TOT project, where 
+the upfront consideration paid by the concessionaire to the concessioning authority is 
+adjusted for the expected cost to be incurred for O&M services to be provided by the 
+concessionaire. 
+Q24. When does the liability to pay GST arise with respect to such O&M services? 
+Ans. GST is required to be paid by the concessionaire in a tax period in which the 
+expenses incurred for O&M services are debited/ charged from the Escrow Account being 
+maintained for collection of the toll proceeds by the Concessionaire. 
+Q25. How the value of O&M services on which GST is payable is ascertained? 
+Ans. The methodology proposed to determine the value of O&M services is linked to 
+the periodic actual expenditure incurred towards O&M services by the concessionaire 
+which is charged/debited from the Escrow Account maintained with the concessioning 
+authority (NHAI). For example, if ₹100 is actually incurred towards O&M services by the 
+concessionaire and the same amount is debited from the Escrow Account in a particular 
+tax period, GST shall be discharged on ₹100 at the applicable rate. 
+Q26. Is GST on the entire O&M component required to be paid at the commencement 
+of the concession period? 
+
+Page 43 of 47 
+ 
+Ans. No. In cases covered by the proposed notification, GST on O&M services will 
+require to be paid in accordance with the special procedure under Section 148 of CGST 
+Act, to the extent of the actual O&M expenditure charged/debited from the Escrow 
+Account during the relevant tax period. 
+Q27. Does the special procedure apply to every O&M contract for roads or highways? 
+Ans. No. The special procedure applies only where the registered person is a 
+concessionaire under a Toll-Operate-Transfer (TOT) Concession Agreement and is 
+required to undertake O&M of the road or highway during the concession period and 
+where the O&M expenditure is adjusted from the upfront amount paid by the 
+concessionaire to the concessioning authority 
+(G)Input Tax Credit for the reseller of certain services 
+Q28. Whether ITC is to be allowed to Reseller of certain services (leviable at 5% 
+without ITC) where the ITC is presently blocked at successive stages of supply?  
+Ans. Yes. Input tax credit is to be allowed to reseller of certain services which are facing 
+cascading because of ITC blockage in respect of the same category of service used as an 
+input service for supplying the same category of output service, in respect of specified 
+services taxable at 5%. 
+Q29. What are the services on which such ITC block is to be lifted? 
+Ans. The relaxation would apply to the following reselling services: 
+• hotel accommodation services up to ₹7,500 per unit per day; 
+• restaurant and outdoor catering services; and 
+• gym/fitness services. 
+Q30. Whether all ITC where the GST is leviable at 5% without ITC, is now proposed 
+to be allowed in such cases?  
+
+Page 44 of 47 
+ 
+Ans. No, only the limited input tax credit in respect of same category of input service is 
+allowed as has been allowed for passenger transportation, tour operator services and 
+renting of motor vehicles services. 
+(I) Services Provided by Seamen's Provident Fund Organisation (SPFO) 
+Q31. What are the services on which exemption is provided for SPFO? 
+Ans. An exemption is being provided for the services provided by the Seamen’s 
+Provident Fund Organisation (SPFO) in administering the Seamen’s Provident Fund 
+Scheme to the persons governed by the Seamen's Provident Fund Act, 1966, on the lines 
+of the existing exemptions available to EPFO and CMPFO.  
+ 
+(J) Research and Development Services 
+Q32. How will it be determined whether an activity is in the nature of research and 
+development or consultancy for the purpose of availing the GST exemption? 
+Ans. For the purpose of distinguishing research and development services from 
+consultancy services, the concerned Head of the Government Entity, research association, 
+university, college or other eligible institution notified under clauses (ii) or (iii) of sub-
+section (1) of section 35 of the Income Tax Act, 1961, undertaking the research has been 
+entrusted to issue a certificate that the work undertaken is in the nature of research and 
+development and not in the nature of consultancy. It is also proposed that the field 
+formations may accept such certification as the basis of exemption claim for such R&D 
+services. 
+This mechanism is intended to support research and promote ease of compliance in 
+availing the exemption. 
+Q33. Is self-certification required to be furnished in every case where the exemption 
+for Research and Development services is claimed? 
+Ans. Self-certification is required to be issued by the concerned Head of the 
+Government Entity, research association, university, college or other eligible institution 
+
+Page 45 of 47 
+ 
+as and when an exemption to such effect is claimed. However, the same is not required 
+to be submitted along with the monthly returns. This certificate is to be kept in records 
+by the concerned organization/institution/entity. It is required to be furnished only in 
+cases where the same is sought by the tax authorities during scrutiny, audit, 
+investigation, etc. 
+Q34. Is any specific format prescribed for furnishing the self-certification in respect 
+of Research and Development activities? 
+Ans. No specific format has been prescribed for such self-certification. 
+(K) Coffee Curing Services 
+Q35. What is meant by curing of coffee? 
+Ans. As per the Coffee Act, 1942, curing means application of mechanical processes, 
+other than pulping, to raw coffee for the purpose of preparing it for marketing. Coffee 
+curing may involve processes such as drying, hulling, cleaning, sorting, grading and 
+polishing of coffee beans. 
+Q36. Whether the process of coffee curing not covered under the existing exemption?  
+Ans. Under the existing exemption, specified processes such as drying, cleaning, 
+curing, sorting and grading of agricultural produce are exempt when carried out at an 
+agricultural farm. 
+Coffee curing, however, owing to climatic and geographical considerations, ordinarily 
+cannot be undertaken at the farm and is generally carried out at coffee curing works. This 
+is an intermediate process required to make coffee marketable and does not appear to 
+alter the essential character of the coffee beans. Hence, a specific exemption is being 
+provided for coffee curing services supplied to cultivators. 
+Q37. What is the scope of this exemption? 
+Ans. The exemption is specifically for services by way of curing of coffee provided to 
+coffee cultivators. It does not extend to roasting or other processing which is not in the 
+nature of coffee curing.  
+
+Page 46 of 47 
+ 
+Q38. Whether the exemption is available if the coffee curing work is carried out at 
+Coffee Estates/Farms? 
+Ans. Yes. The exemption for services by way of curing of coffee provided to coffee 
+cultivators would apply irrespective of whether the curing is carried out at a coffee 
+estate/farm or at a separate curing works.  
+Q39. Who will be the intended beneficiaries of the exemption being extended to the 
+services of coffee curing? 
+Ans. The exemption for the services of coffee curing provided by the coffee curer to the 
+coffee cultivators will benefit primarily the coffee cultivator, by reducing its cost of 
+getting the coffee processed/curied. 
+(L) Storage and Warehousing of Seeds 
+Q40. What change has been made in respect of storage or warehousing of seeds? 
+Ans. A specific exemption from GST is being provided for services by way of storage or 
+warehousing of seeds meant for sowing, irrespective of the fact whether such seeds are 
+covered by the definition of ‘agricultural produce’ or not.  
+Q41. Which seeds are covered by the exemption? 
+Ans. The exemption will apply only to the seeds meant for sowing, as defined for the 
+purposes of the relevant notification. Seeds not meant for sowing and processed products 
+derived from seeds or seeds processed for consumption, industrial or any other non-
+sowing use would not be covered. 
+Q42. Is the exemption for storage or warehousing available only for agricultural 
+seeds, or does it cover all seeds? 
+Ans. The exemption is available in respect of all seeds meant for sowing and is not 
+restricted only to seeds used for agricultural crops. For this purpose, the expression 
+“seeds” has been defined in paragraph 2 of Notification No. 12/2017-Central Tax (Rate). 
+Accordingly, all seeds falling within the said definition and meant for sowing are covered 
+by the exemption. 
+
+Page 47 of 47 
+ 
+Q43. Who will be the intended beneficiaries of the exemption being provided to the 
+services of storage/warehousing of seeds meant for sowing? 
+Ans. The benefit of the GST exemption is intended to accrue to traders, farmers and 
+other businesses that incur storage/warehousing charges for seeds meant for sowing. The 
+exemption would reduce the cost of storage/warehousing for all such persons.  
+ 
+*** 
+ 

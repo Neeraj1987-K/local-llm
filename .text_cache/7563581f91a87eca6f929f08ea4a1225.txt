@@ -1,0 +1,392 @@
+28/10/2026, 7:09:56 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+Central Goods and Services Tax (Fourth Amendment) Rules, 2025. - Grant of registration
+electronically - 18/2025 - Central GST (CGST)
+
+MINISTRY OF FINANCE
+(Department of Revenue)
+(CENTRAL BOARD OF INDIRECT TAXES AND CUSTOM)
+NOTIFICATION NO. 18/2025 —- CENTRAL TAX
+New Delhi, the 31st October, 2025
+
+G.S.R. 805(E).— In exercise of the powers conferred by section 164 of the Central Goods and Services
+Tax Act, 2017 (12 of 2017), the Central Government, on the recommendations of the Council, hereby
+makes the following rules further to amend the Central Goods and Services Tax Rules, 2017, namely: —
+
+1. (1) These rules may be called the Central Goods and Services Tax (Fourth Amendment) Rules, 2025.
+(2) These rules shall come into force with effect from 1st day of November, 2025.
+
+2. In the Central Goods and Services Tax Rules, 2017 (hereinafter referred to as the said rules), after rule
+9, the following rule shall be inserted, namely: -
+
+“9A. Grant of registration electronically. - Notwithstanding anything contained in rule 9, any
+person who has applied for registration under rule 8 or rule 12 or rule 17, shall, upon identification on
+the common portal based on data analysis and risk parameters, be granted registration
+electronically by the common portal, within three working days from the date of submission of
+application.”.
+
+3. In the said rules, in sub-rule (1) of rule 10, after the words and figure "under rule 9,", the words, letters
+and figures "rule 9A and rule 14A," shall be inserted.
+
+4. In the said rules, after rule 14, the following rule shall be inserted, namely: -
+“414A. Option for taxpayers having monthly output tax liability below threshold limit. —
+
+(1) Any person who has made application for registration under rule 8 and who determines that his
+total output tax liability on supply of goods or services or both made to registered persons on
+account of central tax and State tax or Union territory tax and integrated tax and compensation cess,
+does not exceed two lakh and fifty thousand rupees per month, shall have an option to get
+registration electronically, in accordance with the provisions of this rule.
+
+(2) Any person, other than a person notified under sub-section (6D) of section 25, who has not opted
+for authentication of Aadhaar number, shall not be eligible for grant of registration in terms of this
+rule.
+
+(3) Notwithstanding anything contained in rule 11, a person registered under this rule in a State or
+Union territory shall not be eligible to obtain another registration in the same State or Union territory
+under this rule against the same Permanent Account Number.
+
+https://www.taxtmi.com/notifications?id=144305 1/8
+
+28/10/2026, 7:09:56 pm
+
+(4) Upon successful authentication of Aadhar number, the applicant referred to in sub-rule (1) shall
+be granted registration electronically by the common portal, within three working days from the date
+of submission of application.
+
+(5) The registered person who intends to withdraw from the option availed under sub-rule (1), shall
+file an application, in FORM GST REG-32, duly signed or verified through electronic verification code
+on the common portal, either directly or through a Facilitation Centre notified by the Commissioner:
+
+Provided that the registered person shall not be allowed to file such application unless he has
+furnished, -
+
+(a) returns for a period of minimum three months, where such application is filed before
+1st April, 2026;
+
+(b) returns for a period of minimum one tax period, where such application is filed on or
+after 1st April, 2026; and
+
+(c) all the returns due for the period from the effective date of registration till the date of
+application for withdrawal:
+
+Provided further that the registered person shall be allowed to file such application where no
+proceedings under section 29 have been initiated against such registered person.
+
+(6) Where there is any change in particulars furnished in FORM GST REG-01 by the person who
+has been granted registration under this rule, the said registered person shall get the particulars
+amended under rule 19 before filing an application for withdrawal under sub-rule (5).
+
+(7) Based on data analysis and risk parameters on the common portal, the provisions of sub-rule
+(4A) of rule 8 relating to authentication of Aadhaar number or biometric-based Aadhaar
+authentication, taking photograph of the applicant along with verification of original copy of
+documents uploaded along with registration application in FORM GST REG-01, shall, so far as may
+be, apply to application for withdrawal filed under sub-rule (5).
+
+(8) The provisions of sub-rules (5) and (6) of rule 8 relating to issuance of acknowledgment, shall,
+mutatis mutandis, apply to the application filed under sub-rule (5).
+
+(9) The application filed for withdrawal under sub-rule (5), shall be verified in accordance with the
+provisions of rule 9.
+
+(10) Upon verification under sub-rule (9), the proper officer shall issue an order in FORM GST REG-
+33 allowing the application for withdrawal from the option availed under sub-rule (1) or order for
+rejection of application in FORM GST REG-05, within a period specified under rule 9, as the case
+may be, which shall be made available to the registered person on the common portal.
+
+(11) The registered person who has received an order issued under sub-rule (10) allowing
+withdrawal shall be able to furnish the details of output tax liability on supply of goods or services or
+both made to registered persons, exceeding the output tax liability as referred to in sub-rule (1), from
+the first day of succeeding month in which the said order has been issued.
+
+(12) A registered person to whom an order under sub-rule (10) has been issued, shall not amend the
+details furnished in respect of output tax liability so as to exceed the limit of the output tax liability
+specified in sub-rule (1) for the period prior to the first day of succeeding month in which the said
+order has been issued.
+
+(13) Where proceedings for cancellation of registration have been initiated by the proper officer after
+the filing of withdrawal application and the said proceedings are pending, the withdrawal application
+
+https://www.taxtmi.com/notifications?id=144305 2/8
+
+28/10/2026, 7:09:56 pm
+
+under sub-rule (5) shall be rejected by the proper officer and the provisions in relation to approval of
+application on deemed basis under sub-rule (5) of rule 9, shall not be applicable in such case.”.
+
+5. In the said rules, in FORM GST REG-01, —
+
+(a) after the word, letters and figures “FORM GST REG-01” and before the words “Application for
+Registration”, for the brackets, words and figures “[See rule 8(1)]”, the brackets, words, figures and
+letter “[See rules 8(1) and 14A]” shall be substituted;
+
+(b) in Part-B, in the table, after serial number 4 and the entries relating thereto, the following serial
+numbers shall be inserted, namely: -
+
+“4.1 | Option for registration under rule 14A YEs 0 NoO)
+
+4.1.1 | Declaration by person opting for registration under rule 14A.
+©) | hereby declare that the aforesaid business shall abide by the conditions and restrictions
+specified in the Act or the rules for opting to register under rule 14A.”; and
+(c) under the heading ‘Instructions for submission of Application for Registration’, after serial number
+8, the following serial number shall be inserted, namely: -
+
+“8A. Any person opting for registration under rule 14A shall undergo OTP based authentication
+of Aadhaar number.”.
+
+6. In the said rules, in FORM GST REG-02, after the word, letters and figures “FORM GST REG-02”, for
+the brackets, words and figures “[See rule 8(5)]”, the brackets, words, figures and letter “[See rules 8(5)
+and 14A]” shall be substituted.
+
+7. In the said rules, for the FORM GST REG-03, the following Form shall be substituted, namely: —
+“FORM GST REG-03
+[See rules 9(2), 19(2) and 14A]
+
+Reference Number:
+
+Date—
+To
+Name of the Applicant:
+Address:
+GSTIN/GSTP ID (if available):
+Application Reference No. (ARN):
+Date:
+
+Notice for Seeking Additional Information / Clarification
+/ Documents relating to Application for
+
+<< Registration/Amendment/Cancellation/Withdrawal >>
+
+https://www.taxtmi.com/notifications?id=144305 3/8
+
+28/10/2026, 7:09:56 pm
+
+This is with reference to your << registration/amendment/cancellation/withdrawal >> application filed vide
+ARN <> Dated -DD/MM/YYYY. The Department has examined your application and is not satisfied with it
+for the following reasons:
+
+1.
+
+2.
+
+3.
+
+O)You are directed to submit your reply by ......... (DD/MM/YYYY)
+
+()*You are hereby directed to appear before the undersigned on ......... (DD/MM/YYYY) at ....... (HH:MM)
+
+If no response is received by the stipulated date or if proceedings under section 29 is initiated against you,
+your application is liable for rejection.
+
+Please note that no further notice / reminder will be issued in this matter.
+Signature
+Name of the Proper Officer:
+Designation:
+Jurisdiction:
+* Not applicable for New Registration Application and Withdrawal.”.
+8. In the said rules, for the FORM GST REG-04, the following Form shall be substituted, namely: —
+“FORM GST REG-04
+[See rules 9(2), 19(3) and 14A]
+Clarification/additional information/document for
+
+<< Registration/Amendment/Cancellation/Withdrawal >>
+
+1. | Notice details Reference No. Date
+
+2. | Application details Reference No. Date
+
+3. | GSTIN/GSTP ID, if applicable
+
+4. | Name of Business (Legal)
+
+5. | Trade name, if any
+
+6. | Address
+
+https://www.taxtmi.com/notifications?id=144305 48
+
+28/10/2026, 7:09:56 pm
+
+7. | Whether any modification in the application for registration or fields is required.- Yes 0
+No O
+
+(Tick one)
+
+8. | Additional Information
+
+9. | List of Documents uploaded
+
+10. | Verification
+
+| hereby solemnly affirm and declare that the information given
+hereinabove is true and correct to the best of my knowledge and belief and nothing has been
+concealed therefrom.
+
+Signature of Authorised
+
+Signatory
+Name
+Designation/Status:
+Place:
+Date:
+Note: -
+
+1. For new registration, original registration application will be available in editable mode if option ‘Yes’ is
+selected in item 7.
+
+2. For amendment of registration particulars, the fields intended to be amended will be available in editable
+mode if option “Yes” is selected in item 7.
+
+3. For withdrawal from option availed under rule 14A, item 7 will be disabled.”.
+9. In the said rules, for the FORM GST REG-05, the following Form shall be substituted, namely: —
+“FORM GST REG-05
+[See rules 9(4), 19(4), 23(2)(b) and 14A]
+Reference Number:
+Date-
+To
+Name of the Applicant
+Address -
+
+GSTIN/ GSTP ID (if available)
+
+https://www.taxtmi.com/notifications?id=144305 5/8
+
+28/10/2026, 7:09:56 pm
+
+Order of Rejection of Application for < Registration / Amendment / Cancellation/Withdrawal >
+
+This has reference to your reply filed vide ARN --- dated----. The reply has been examined and the same
+has not been found to be satisfactory for the following reasons:
+
+1.
+2.
+3.
+... Therefore, your application is rejected in accordance with the provisions of the Act. Or
+
+You have not replied to the notice issued vide reference no. ........ dated...... within the time specified
+therein. Therefore, your application is hereby rejected in accordance with the provisions of the Act.
+
+Signature
+Name
+Designation
+Jurisdiction”.
+10. In the said rules, after the FORM GST REG-31, the following Form shall be inserted, namely: —
+“FORM GST REG-32
+[See rule 14A (5)]
+
+Application for Withdrawal
+
+1. GSTIN
+
+2. Legal name
+
+3. Trade name, if any
+
+4. Address of Principal Place
+of business
+
+5. Option for registration under
+
+rule 14A
+(i) Yes oO
+(ii) No oO
+
+6. Aadhaar Authentication
+
+https://www.taxtmi.com/notifications?id=144305 6/8
+
+28/10/2026, 7:09:56 pm
+
+(i) Primary Authorized Signatory (auto)
+(ii) Promoter/Partner (auto)
+7. Reason for Withdrawal (i) Output tax liability in respect of supply made to registered person
+
+exceeds two lakh fifty thousand rupees per month.
+
+(ii) Other -Please specify
+
+8. Verification
+
+|__hereby solemnly affirm and declare that | want to withdraw from the option availed under
+sub-rule (1) of rule 14A and | understand that the provisions of sub-rule (4A), sub-rule (5) and sub-
+rule (6) of rule 8 and provisions of rule 9 relating to verification of the application and physical
+verification of places of business and corresponding procedures and time period shall apply to my
+withdrawal application.
+
+Signature of Authorised Signatory
+Name
+Designation / Status
+Place
+
+Date
+
+Instructions for submission of application for withdrawal
+1. In ‘Option for registration under rule 14A field, option YES will be disabled on common portal.
+2. Permanent Account Number shall be verified with Income Tax database.
+
+3. Aadhaar Authentication of Primary Authorised Signatory and one selected Promoter or Partner is
+mandatory.
+
+4. Before applying for withdrawal from the option availed under rule 14A, all the pending returns till
+the date of application shall be furnished. It is mandatory to furnish returns for a period of minimum
+three months, where such application has been filed before 1st April, 2026, and a minimum one tax
+period, where such application is filed on or after 1st April, 2026.
+
+5. Please ensure that no amendment application is pending at the time of filing of FORM GST REG-
+32.
+
+6. Once FORM GST REG-32 is filed, no amendment application will be allowed to be filed till the
+disposal of application under FORM GST REG-32.
+
+7. ARN will be generated only after successful OTP based authentication of Aadhaar number or
+completion of the process of biometric based Aadhar authentication along with the verification of
+original copy of the documents uploaded with the application in FORM GST REG-01.
+
+8. Please note that filing of cancellation application will not be allowed once FORM GST REG-32 is
+filed till the disposal of application.
+
+https://www.taxtmi.com/notifications?id=144305 78
+
+28/10/2026, 7:09:56 pm
+
+9. In case the proceedings under section 29 have been initiated, application for withdrawal in FORM
+GST REG-32 will not be allowed to be filed.”.
+
+11. In the said rules, after the FORM GST REG-32, the following Form shall be inserted, namely: —
+“FORM GST REG-33
+[See rule 14A (10)]
+Reference Number - <<>>
+Date - DD/MM/YYYY
+
+To
+(Name)
+(Address)
+Registration Number (GSTIN)
+Application Reference No. (ARN)
+
+Dated - DD/MM/YYYY
+
+Order of withdrawal from option availed under sub-rule (1) of rule 14A
+
+This has reference to your application number------ dated submitted under sub- rule (6) of rule 14A
+regarding withdrawal from the option availed under sub-rule (1) of rule 14A. Your application has been
+examined and the same has been accepted under the provisions of sub-rule (11) of rule 14A. ct. The
+amended certificate of registration is available on your dashboard for download.
+
+Signature
+Name
+Designation
+Jurisdiction
+Date:
+Place:”.
+
+[F. No. CBIC-20013/3/2025-GST]
+KANGALE SHRUNKHALA MOTIRAM, Director
+
+Note: The principal rules were published in the Gazette of India, Extraordinary, Part Il, Section 3, Sub-
+section (i), vide notification No. 3/2017-Central Tax, dated the 19th June, 2017, published, vide number
+G.S.R. 610(E), dated the 19th June, 2017 and were last amended, vide notification No. 13/2025—Central
+Tax, dated the 17th September, 2025, vide number G.S.R. 672(E), dated the 17th September, 2025.
+
+https://www.taxtmi.com/notifications?id=144305 8/8

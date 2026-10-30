@@ -1,0 +1,3104 @@
+29/10/2026, 4:08:59 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+Central Goods and Services Tax (Second Amendment) Rules, 2017 - 10/2017 - Central GST (CGST)
+
+Government of India
+Ministry of Finance
+Department of Revenue
+Central Board of Excise and Customs
+Notification No. 10 /2017 — Central Tax
+New Delhi, the 28 June, 2017
+7 Ashadha, 1939 Saka
+
+G.S.R. 663 E.:- In exercise of the powers conferred by section 164 of the Central Goods and Services tax
+Act, 2017 (12 of 2017), the Central Government, hereby makes the following rules further to amend the
+Central Goods and Services Tax Rules, 2017, namely:-
+
+1. (1) These rules may be called the Central Goods and Services Tax (Second Amendment) Rules, 2017.
+(2) They shall come into force on the 1st day of July, 2017.
+
+2. In the Central Goods and Services Tax Rules, 2017, after rule 26, the following shall be inserted,
+namely:-
+
+“Chapter IV
+Determination of Value of Supply
+
+27. Value of supply of goods or services where the consideration is not wholly in money.- Where the
+supply of goods or services is for a consideration not wholly in money, the value of the supply shall,-
+
+(a) be the open market value of such supply;
+
+(b) if the open market value is not available under clause (a), be the sum total of consideration in
+money and any such further amount in money as is equivalent to the consideration not in money, if
+such amount is known at the time of supply;
+
+(c) if the value of supply is not determinable under clause (a) or clause (b), be the value of supply
+of goods or services or both of like kind and quality;
+
+(d) if the value is not determinable under clause (a) or clause (b) or clause (c), be the sum total of
+consideration in money and such further amount in money that is equivalent to consideration not in
+money as determined by the application of rule 30 or rule 31 in that order.
+
+Illustration:
+
+(1) Where a new phone is supplied for twenty thousand rupees along with the exchange of
+an old phone and if the price of the new phone without exchange is twenty four thousand
+rupees, the open market value of the new phone is twenty four thousand rupees.
+
+https://www.taxtmi.com/notifications?id=120275 1/53
+
+29/10/2026, 4:08:59 pm
+
+(2) Where a laptop is supplied for forty thousand rupees along with the barter of a printer
+that is manufactured by the recipient and the value of the printer known at the time of
+supply is four thousand rupees but the open market value of the laptop is not known, the
+value of the supply of the laptop is forty four thousand rupees.
+
+28. Value of supply of goods or services or both between distinct or related persons, other than
+through an agent.-The value of the supply of goods or services or both between distinct persons as
+specified in sub-section (4) and (5) of section 25 or where the supplier and recipient are related, other than
+where the supply is made through an agent, shall-
+
+(a) be the open market value of such supply;
+
+(b) if the open market value is not available, be the value of supply of goods or services of like kind
+and quality;
+
+(c) if the value is not determinable under clause (a) or (b), be the value as determined by the
+application of rule 30 or rule 31, in that order:
+
+Provided that where the goods are intended for further supply as such by the recipient, the value shall, at
+the option of the supplier, be an amount equivalent to ninety percent of the price charged for the supply of
+goods of like kind and quality by the recipient to his customer not being a related person:
+
+Provided further that where the recipient is eligible for full input tax credit, the value declared in the invoice
+shall be deemed to be the open market value of the goods or services.
+
+29. Value of supply of goods made or received through an agent.-The value of supply of goods
+between the principal and his agent shall-
+
+(a) be the open market value of the goods being supplied, or at the option of the supplier, be ninety
+per cent. of the price charged for the supply of goods of like kind and quality by the recipient to his
+customer not being a related person, where the goods are intended for further supply by the said
+recipient.
+
+Iiustration: A principal supplies groundnut to his agent and the agent is supplying groundnuts of like
+kind and quality in subsequent supplies at a price of five thousand rupees per quintal on the day of
+the supply. Another independent supplier is supplying groundnuts of like kind and quality to the said
+agent at the price of four thousand five hundred and fifty rupees per quintal. The value of the
+supply made by the principal shall be four thousand five hundred and fifty rupees per quintal or
+where he exercises the option, the value shall be 90 per cent. of five thousand rupees i.e., four
+thousand five hundred rupees per quintal.
+
+(b) where the value of a supply is not determinable under clause (a), the same shall be determined
+by the application of rule 30 or rule 31 in that order.
+
+30. Value of supply of goods or services or both based on cost.-Where the value of a supply of goods
+or services or both is not determinable by any of the preceding rules of this Chapter, the value shall be one
+hundred and ten percent of the cost of production or manufacture or the cost of acquisition of such goods
+or the cost of provision of such services.
+
+31. Residual method for determination of value of supply of goods or services or both.- Where the
+value of supply of goods or services or both cannot be determined under rules 27 to 30, the same shall be
+determined using reasonable means consistent with the principles and the general provisions of section 15
+and the provisions of this Chapter:
+
+Provided that in the case of supply of services, the supplier may opt for this rule, ignoring rule 30.
+
+https://www.taxtmi.com/notifications?id=120275 2/53
+
+29/10/2026, 4:08:59 pm
+
+32. Determination of value in respect of certain supplies.- (1) Notwithstanding anything contained in
+the provisions of this Chapter, the value in respect of supplies specified below shall, at the option of the
+supplier, be determined in the manner provided hereinafter.
+
+(2) The value of supply of services in relation to the purchase or sale of foreign currency, including money
+changing, shall be determined by the supplier of services in the following manner, namely:-
+
+(a) for a currency, when exchanged from, or to, Indian Rupees, the value shall be equal to the
+difference in the buying rate or the selling rate, as the case may be, and the Reserve Bank of India
+reference rate for that currency at that time, multiplied by the total units of currency:
+
+Provided that in case where the Reserve Bank of India reference rate for a currency is not
+available, the value shall be one per cent. of the gross amount of Indian Rupees provided or
+received by the person changing the money:
+
+Provided further that in case where neither of the currencies exchanged is Indian Rupees, the
+value shall be equal to one per cent. of the lesser of the two amounts the person changing the
+money would have received by converting any of the two currencies into Indian Rupee on that day
+at the reference rate provided by the Reserve Bank of India.
+
+Provided also that a person supplying the services may exercise the option to ascertain the value
+in terms of clause (b) for a financial year and such option shall not be withdrawn during the
+remaining part of that financial year.
+
+(b) at the option of the supplier of services, the value in relation to the supply of foreign currency,
+including money changing, shall be deemed to be-
+
+(i) one per cent. of the gross amount of currency exchanged for an amount up to one lakh
+rupees, subject to a minimum amount of two hundred and fifty rupees;
+
+(ii) one thousand rupees and half of a per cent. of the gross amount of currency exchanged
+for an amount exceeding one lakh rupees and up to ten lakh rupees; and
+
+(iii) five thousand and five hundred rupees and one tenth of a per cent. of the gross amount
+of currency exchanged for an amount exceeding ten lakh rupees, subject to a maximum
+amount of sixty thousand rupees.
+
+(3) The value of the supply of services in relation to booking of tickets for travel by air provided by an air
+travel agent shall be deemed to be an amount calculated at the rate of five per cent. of the basic fare in the
+case of domestic bookings, and at the rate of ten per cent. of the basic fare in the case of international
+bookings of passage for travel by air.
+
+Explanation.- For the purposes of this sub-rule, the expression “basic fare” means that part of the air fare
+on which commission is normally paid to the air travel agent by the airlines.
+
+(4) The value of supply of services in relation to life insurance business shall be,-
+
+(a) the gross premium charged from a policy holder reduced by the amount allocated for
+investment, or savings on behalf of the policy holder, if such an amount is intimated to the policy
+holder at the time of supply of service;
+
+(b) in case of single premium annuity policies other than (a), ten per cent. of single premium
+charged from the policy holder; or
+
+(c) in all other cases, twenty five per cent. of the premium charged from the policy holder in the first
+year and twelve and a half per cent. of the premium charged from the policy holder in subsequent
+years:
+
+https://www.taxtmi.com/notifications?id=120275 3/53
+
+29/10/2026, 4:08:59 pm
+
+Provided that nothing contained in this sub-rule shall apply where the entire premium paid by the policy
+holder is only towards the risk cover in life insurance.
+
+(5) Where a taxable supply is provided by a person dealing in buying and selling of second hand goods
+i.e., used goods as such or after such minor processing which does not change the nature of the goods
+and where no input tax credit has been availed on the purchase of such goods, the value of supply shall be
+the difference between the selling price and the purchase price and where the value of such supply is
+negative, it shall be ignored:
+
+Provided that the purchase value of goods repossessed from a defaulting borrower, who is not registered,
+for the purpose of recovery of a loan or debt shall be deemed to be the purchase price of such goods by
+the defaulting borrower reduced by five percentage points for every quarter or part thereof, between the
+date of purchase and the date of disposal by the person making such repossession.
+
+(6) The value of a token, or a voucher, or a coupon, or a stamp (other than postage stamp) which is
+redeemable against a supply of goods or services or both shall be equal to the money value of the goods
+or services or both redeemable against such token, voucher, coupon, or stamp.
+
+(7) The value of taxable services provided by such class of service providers as may be notified by the
+Government, on the recommendations of the Council, as referred to in paragraph 2 of Schedule | of the
+said Act between distinct persons as referred to in section 25, where input tax credit is available, shall be
+deemed to be NIL.
+
+33. Value of supply of services in case of pure agent.- Notwithstanding anything contained in the
+provisions of this Chapter, the expenditure or costs incurred by a supplier as a pure agent of the recipient
+of supply shall be excluded from the value of supply, if all the following conditions are satisfied, namely,-
+
+(i) the supplier acts as a pure agent of the recipient of the supply, when he makes the payment to
+the third party on authorisation by such recipient;
+
+(ii) the payment made by the pure agent on behalf of the recipient of supply has been separately
+indicated in the invoice issued by the pure agent to the recipient of service; and
+
+(iii) the supplies procured by the pure agent from the third party as a pure agent of the recipient of
+supply are in addition to the services he supplies on his own account.
+
+Explanation.- For the purposes of this rule, the expression “pure agent” means a person who-
+
+(a) enters into a contractual agreement with the recipient of supply to act as his pure agent to incur
+expenditure or costs in the course of supply of goods or services or both;
+
+(b) neither intends to hold nor holds any title to the goods or services or both so procured or
+supplied as pure agent of the recipient of supply;
+
+(c) does not use for his own interest such goods or services so procured; and
+
+(d) receives only the actual amount incurred to procure such goods or services in addition to the
+amount received for supply he provides on his own account.
+
+Itustration.- Corporate services firm A is engaged to handle the legal work pertaining to the incorporation of
+Company B. Other than its service fees, A also recovers from B, registration fee and approval fee for the
+name of the company paid to the Registrar of Companies. The fees charged by the Registrar of
+Companies for the registration and approval of the name are compulsorily levied on B. Ais merely acting
+as a pure agent in the payment of those fees. Therefore, A’s recovery of such expenses is a disbursement
+and not part of the value of supply made by A to B.
+
+https://www.taxtmi.com/notifications?id=120275 4/53
+
+29/10/2026, 4:08:59 pm
+
+34. Rate of exchange of currency, other than Indian rupees, for determination of value.- The rate of
+exchange for the determination of the value of taxable goods or services or both shall be the applicable
+reference rate for that currency as determined by the Reserve Bank of India on the date of time of supply
+in respect of such supply in terms of section 12 or, as the case may be, section 13 of the Act.
+
+35. Value of supply inclusive of integrated tax, central tax, State tax, Union territory tax.-Where the
+value of supply is inclusive of integrated tax or, as the case may be, central tax, State tax, Union territory
+tax, the tax amount shall be determined in the following manner, namely,-
+
+Tax amount = (Value inclusive of taxes X tax rate in % of IGST or, as the case may be, CGST, SGST or
+UTGST) + (100+ sum of tax rates, as applicable, in %)
+
+Explanation.- For the purposes of the provisions of this Chapter, the expressions-
+
+(a) “open market value” of a supply of goods or services or both means the full value in money,
+excluding the integrated tax, central tax, State tax, Union territory tax and the cess payable by a
+person in a transaction, where the supplier and the recipient of the supply are not related and the
+price is the sole consideration, to obtain such supply at the same time when the supply being
+valued is made;
+
+(b) “supply of goods or services or both of like kind and quality” means any other supply of goods
+or services or both made under similar circumstances that, in respect of the characteristics, quality,
+quantity, functional components, materials, and the reputation of the goods or services or both first
+mentioned, is the same as, or closely or substantially resembles, that supply of goods or services
+or both.
+
+Chapter V
+Input Tax Credit
+
+36. Documentary requirements and conditions for claiming input tax credit.- (1)The input tax credit
+shall be availed by a registered person, including the Input Service Distributor, on the basis of any of the
+following documents, namely,-
+
+(a) an invoice issued by the supplier of goods or services or both in accordance with the provisions
+of section 31;
+
+(b) an invoice issued in accordance with the provisions of clause (f) of sub-section (3) of section 31,
+subject to the payment of tax;
+
+(c) a debit note issued by a supplier in accordance with the provisions of section 34;
+
+(d) a bill of entry or any similar document prescribed under the Customs Act, 1962 or rules made
+thereunder for the assessment of integrated tax on imports;
+
+(e) an Input Service Distributor invoice or Input Service Distributor credit note or any document
+issued by an Input Service Distributor in accordance with the provisions of sub-rule (1) of rule 54.
+
+(2) Input tax credit shall be availed by a registered person only if all the applicable particulars as specified
+in the provisions of Chapter VI are contained in the said document, and the relevant information, as
+contained in the said document, is furnished in FORM GSTR-2 by such person.
+
+(3) No input tax credit shall be availed by a registered person in respect of any tax that has been paid in
+pursuance of any order where any demand has been confirmed on account of any fraud, willful
+misstatement or suppression of facts.
+
+https://www.taxtmi.com/notifications?id=120275 5/53
+
+29/10/2026, 4:08:59 pm
+
+37. Reversal of input tax credit in the case of non-payment of consideration.-(1) A registered person,
+who has availed of input tax credit on any inward supply of goods or services or both, but fails to pay to the
+supplier thereof, the value of such supply along with the tax payable thereon, within the time limit specified
+in the second proviso to sub-section (2) of section 16, shall furnish the details of such supply, the amount
+of value not paid and the amount of input tax credit availed of proportionate to such amount not paid to the
+supplier in FORM GSTR-2 for the month immediately following the period of one hundred and eighty days
+from the date of the issue of the invoice:
+
+Provided that the value of supplies made without consideration as specified in Schedule | of the said Act
+shall be deemed to have been paid for the purposes of the second proviso to sub-section (2) of section 16.
+
+(2) The amount of input tax credit referred to in sub-rule (1) shall be added to the output tax liability of the
+registered person for the month in which the details are furnished.
+
+(3) The registered person shall be liable to pay interest at the rate notified under sub-section (1) of section
+50 for the period starting from the date of availing credit on such supplies till the date when the amount
+added to the output tax liability, as mentioned in sub-rule (2), is paid.
+
+(4) The time limit specified in sub-section (4) of section 16 shall not apply to a claim for reavailing of any
+credit, in accordance with the provisions of the Act or the provisions of this Chapter, that had been
+reversed earlier.
+
+38. Claim of credit by a banking company or a financial institution.- A banking company or a financial
+institution, including a non-banking financial company, engaged in the supply of services by way of
+accepting deposits or extending loans or advances that chooses not to comply with the provisions of sub-
+section (2) of section 17, in accordance with the option permitted under sub-section (4) of that section,
+shall follow the following procedure, namely,-
+
+(a) the said company or institution shall not avail the credit of,-
+(i) the tax paid on inputs and input services that are used for non-business purposes; and
+
+(ii) the credit attributable to the supplies specified in sub-section (5) of section 17, in FORM
+GSTR-2;
+
+(b) the said company or institution shall avail the credit of tax paid on inputs and input services
+referred to in the second proviso to sub-section (4) of section 17 and not covered under clause (a);
+
+(c) fifty per cent. of the remaining amount of input tax shall be the input tax credit admissible to the
+company or the institution and shall be furnished in FORM GSTR- 2;
+
+(d) the amount referred to in clauses (b) and (c) shall, subject to the provisions of sections 41, 42
+and 43, be credited to the electronic credit ledger of the said company or the institution.
+
+39. Procedure for distribution of input tax credit by Input Service Distributor.- (1) An Input Service
+Distributor shall distribute input tax credit in the manner and subject to the following conditions, namely,-
+
+(a) the input tax credit available for distribution in a month shall be distributed in the same month
+and the details thereof shall be furnished in FORM GSTR-6 in accordance with the provisions of
+Chapter VIII of these rules;
+
+(b) the Input Service Distributor shall, in accordance with the provisions of clause (d), separately
+distribute the amount of ineligible input tax credit (ineligible under the provisions of sub-section (5)
+of section 17 or otherwise) and the amount of eligible input tax credit;
+
+(c) the input tax credit on account of central tax, State tax, Union territory tax and integrated tax
+shall be distributed separately in accordance with the provisions of clause (d);
+
+https://www.taxtmi.com/notifications?id=120275 6/53
+
+29/10/2026, 4:08:59 pm
+
+(d) the input tax credit that is required to be distributed in accordance with the provisions of clause
+(d) and (e) of sub-section (2) of section 20 to one of the recipients ‘R1’, whether registered or not,
+from amongst the total of all the recipients to whom input tax credit is attributable, including the
+recipient(s) who are engaged in making exempt supply, or are otherwise not registered for any
+reason, shall be the amount, “C1”, to be calculated by applying the following formula -
+
+C1 = (t1+T) x C
+where,
+“C’” is the amount of credit to be distributed,
+
+“t1” is the turnover, as referred to in section 20, of person R1 during the relevant period,
+and
+
+“T” is the aggregate of the turnover, during the relevant period, of all recipients to whom the
+input service is attributable in accordance with the provisions of section 20;
+
+(e) the input tax credit on account of integrated tax shall be distributed as input tax credit of
+integrated tax to every recipient;
+
+(f) the input tax credit on account of central tax and State tax or Union territory tax shall-
+
+(i) in respect of a recipient located in the same State or Union territory in which the Input
+Service Distributor is located, be distributed as input tax credit of central tax and State tax
+or Union territory tax respectively;
+
+(ii) in respect of a recipient located in a State or Union territory other than that of the Input
+Service Distributor, be distributed as integrated tax and the amount to be so distributed
+shall be equal to the aggregate of the amount of input tax credit of central tax and State tax
+or Union territory tax that qualifies for distribution to such recipient in accordance with
+clause (d);
+
+(g) the Input Service Distributor shall issue an Input Service Distributor invoice, as prescribed in
+sub-rule (1) of rule 54, clearly indicating in such invoice that it is issued only for distribution of input
+tax credit;
+
+(h) the Input Service Distributor shall issue an Input Service Distributor credit note, as prescribed in
+sub-rule (1) of rule 54, for reduction of credit in case the input tax credit already distributed gets
+reduced for any reason;
+
+(i) any additional amount of input tax credit on account of issuance of a debit note to an Input
+Service Distributor by the supplier shall be distributed in the manner and subject to the conditions
+specified in clauses (a) to (f) and the amount attributable to any recipient shall be calculated in the
+manner provided in clause (d) and such credit shall be distributed in the month in which the debit
+note is included in the return in FORM GSTR-6;
+
+(j) any input tax credit required to be reduced on account of issuance of a credit note to the Input
+Service Distributor by the supplier shall be apportioned to each recipient in the same ratio in which
+the input tax credit contained in the original invoice was distributed in terms of clause (d), and the
+amount so apportioned shall be-
+
+(i) reduced from the amount to be distributed in the month in which the credit note is
+included in the return in FORM GSTR-6; or
+
+(ii) added to the output tax liability of the recipient where the amount so apportioned is in
+the negative by virtue of the amount of credit under distribution being less than the amount
+
+https://www.taxtmi.com/notifications?id=120275 7/53
+
+29/10/2026, 4:08:59 pm
+
+to be adjusted.
+
+(2) If the amount of input tax credit distributed by an Input Service Distributor is reduced later on for any
+other reason for any of the recipients, including that it was distributed to a wrong recipient by the Input
+Service Distributor, the process specified in clause (j) of subrule (1) shall apply, mutatis mutandis, for
+reduction of credit.
+
+(3) Subject to sub-rule (2), the Input Service Distributor shall, on the basis of the Input Service Distributor
+credit note specified in clause (h) of sub-rule (1), issue an Input Service Distributor invoice to the recipient
+entitled to such credit and include the Input Service Distributor credit note and the Input Service Distributor
+invoice in the return in FORM GSTR-6 for the month in which such credit note and invoice was issued.
+
+40. Manner of claiming credit in special circumstances.- (1) The input tax credit claimed in accordance
+with the provisions of sub-section (1) of section 18 on the inputs held in stock or inputs contained in semi-
+finished or finished goods held in stock, or the credit claimed on capital goods in accordance with the
+provisions of clauses (c) and (d) of the said sub-section, shall be subject to the following conditions,
+namely,-
+
+(a) the input tax credit on capital goods, in terms of clauses (c) and (d) of sub-section (1) of section
+18, shall be claimed after reducing the tax paid on such capital goods by five percentage points per
+quarter of a year or part thereof from the date of the invoice or such other documents on which the
+capital goods were received by the taxable person.
+
+(b) the registered person shall within a period of thirty days from the date of his becoming eligible to
+avail the input tax credit under sub-section (1) of section 18 shall make a declaration, electronically,
+on the common portal in FORM GST ITC- 01 to the effect that he is eligible to avail the input tax
+credit as aforesaid;
+
+(c) the declaration under clause (b) shall clearly specify the details relating to the inputs held in
+stock or inputs contained in semi-finished or finished goods held in stock, or as the case may be,
+capital goods—
+
+(i) on the day immediately preceding the date from which he becomes liable to pay tax
+under the provisions of the Act, in the case of a claim under clause (a) of sub-section (1) of
+section 18;
+
+(ii) on the day immediately preceding the date of the grant of registration, in the case of a
+claim under clause (b) of sub-section (1) of section 18;
+
+(iii) on the day immediately preceding the date from which he becomes liable to pay tax
+under section 9, in the case of a claim under clause (c) of sub-section (1) of section 18;
+
+(iv) on the day immediately preceding the date from which the supplies made by the
+registered person becomes taxable, in the case of a claim under clause (d) of sub-section
+(1) of section 18;
+
+(d) the details furnished in the declaration under clause (b) shall be duly certified by a practicing
+chartered accountant or a cost accountant if the aggregate value of the claim on account of central
+tax, State tax, Union territory tax and integrated tax exceeds two lakh rupees;
+
+(e) the input tax credit claimed in accordance with the provisions of clauses (c) and (d) of sub-
+section (1) of section 18 shall be verified with the corresponding details furnished by the
+corresponding supplier in FORM GSTR-1 or as the case may be, in FORM GSTR- 4, on the
+common portal.
+
+https://www.taxtmi.com/notifications?id=120275 8/53
+
+29/10/2026, 4:08:59 pm
+
+(2) The amount of credit in the case of supply of capital goods or plant and machinery, for the purposes of
+sub-section (6) of section 18, shall be calculated by reducing the input tax on the said goods at the rate of
+five percentage points for every quarter or part thereof from the date of the issue of the invoice for such
+goods.
+
+41. Transfer of credit on sale, merger, amalgamation, lease or transfer of a business.- (1) A
+registered person shall, in the event of sale, merger, de-merger, amalgamation, lease or transfer or change
+in the ownership of business for any reason, furnish the details of sale, merger, de-merger, amalgamation,
+lease or transfer of business, in FORM GST ITC-02, electronically on the common portal along with a
+request for transfer of unutilized input tax credit lying in his electronic credit ledger to the transferee:
+
+Provided that in the case of demerger, the input tax credit shall be apportioned in the ratio of the value of
+assets of the new units as specified in the demerger scheme.
+
+(2) The transferor shall also submit a copy of a certificate issued by a practicing chartered accountant or
+cost accountant certifying that the sale, merger, de-merger, amalgamation, lease or transfer of business
+has been done with a specific provision for the transfer of liabilities.
+
+(3) The transferee shall, on the common portal, accept the details so furnished by the transferor and, upon
+such acceptance, the un-utilized credit specified in FORM GST ITC- 02 shall be credited to his electronic
+credit ledger.
+
+(4) The inputs and capital goods so transferred shall be duly accounted for by the transferee in his books
+of account.
+
+42. Manner of determination of input tax credit in respect of inputs or input services and reversal
+thereof.- (1) The input tax credit in respect of inputs or input services, which attract the provisions of sub-
+section (1) or sub-section (2) of section 17, being partly used for the purposes of business and partly for
+other purposes, or partly used for effecting taxable supplies including zero rated supplies and partly for
+effecting exempt supplies, shall be attributed to the purposes of business or for effecting taxable supplies
+in the following manner, namely,-
+
+(a) the total input tax involved on inputs and input services in a tax period, be denoted as ‘T’;
+
+(b) the amount of input tax, out of ‘T’, attributable to inputs and input services intended to be used
+exclusively for the purposes other than business, be denoted as ‘T1’;
+
+(c) the amount of input tax, out of ‘T’, attributable to inputs and input services intended to be used
+exclusively for effecting exempt supplies, be denoted as ‘T2’;
+
+(d) the amount of input tax, out of ‘T’, in respect of inputs and input services on which credit is not
+available under sub-section (5) of section 17, be denoted as ‘T3’;
+
+(e) the amount of input tax credit credited to the electronic credit ledger of registered person, be
+denoted as ‘C1’ and calculated as-
+
+C1 = T- (T1+T2+T3);
+
+(f) the amount of input tax credit attributable to inputs and input services intended to be used
+exclusively for effecting supplies other than exempted but including zero rated supplies, be denoted
+as 'T4’;
+
+(g) ‘T1’, ‘T2’, ‘T3’ and ‘T4’ shall be determined and declared by the registered person at the invoice
+level in FORM GSTR-2;
+
+(h) input tax credit left after attribution of input tax credit under clause (g) shall be called common
+credit, be denoted as ‘C2’ and calculated as-
+
+https://www.taxtmi.com/notifications?id=120275 9/53
+
+29/10/2026, 4:08:59 pm
+
+C2=C1-T4;
+
+(i) the amount of input tax credit attributable towards exempt supplies, be denoted as ‘D1’ and
+calculated as-
+
+D1= (E+F) x C2
+where,
+‘E’ is the aggregate value of exempt supplies during the tax period, and
+‘F’ is the total turnover in the State of the registered person during the tax period:
+
+Provided that where the registered person does not have any turnover during the said tax period or
+the aforesaid information is not available, the value of ‘E/F’ shall be calculated by taking values of
+‘E’ and ‘F’ of the last tax period for which the details of such turnover are available, previous to the
+month during which the said value of ‘E/F’ is to be calculated;
+
+Explanation: For the purposes of this clause, it is hereby clarified that the aggregate value of
+exempt supplies and the total turnover shall exclude the amount of any duty or tax levied under
+entry 84 of List | of the Seventh Schedule to the Constitution and entry 51 and 54 of List II of the
+said Schedule;
+
+(j) the amount of credit attributable to non-business purposes if common inputs and input services
+are used partly for business and partly for non-business purposes, be denoted as ‘D2’, and shall be
+equal to five per cent. of C2; and
+
+(k) the remainder of the common credit shall be the eligible input tax credit attributed to the
+purposes of business and for effecting supplies other than exempted supplies but including zero
+rated supplies and shall be denoted as ‘C3’, where,-
+
+C3 = C2 - (D1+D2);
+
+(I) the amount ‘C3’ shall be computed separately for input tax credit of central tax, State tax, Union
+territory tax and integrated tax;
+
+(m) the amount equal to aggregate of ‘D1’ and ‘D2’ shall be added to the output tax liability of the
+registered person:
+
+Provided that where the amount of input tax relating to inputs or input services used partly for the
+purposes other than business and partly for effecting exempt supplies has been identified and
+segregated at the invoice level by the registered person, the same shall be included in ‘T1’ and ‘T2’
+respectively, and the remaining amount of credit on such inputs or input services shall be included
+in ‘T4’.
+
+(2) The input tax credit determined under sub-rule (1) shall be calculated finally for the financial year before
+the due date for furnishing of the return for the month of September following the end of the financial year
+to which such credit relates, in the manner specified in the said sub-rule and-
+
+(a) where the aggregate of the amounts calculated finally in respect of ‘D1’ and ‘D2’ exceeds the
+aggregate of the amounts determined under sub-rule (1) in respect of ‘D1’ and ‘D2’, such excess
+shall be added to the output tax liability of the registered person in the month not later than the
+month of September following the end of the financial year to which such credit relates and the said
+person shall be liable to pay interest on the said excess amount at the rate specified in sub-section
+(1) of section 50 for the period starting from the first day of April of the succeeding financial year till
+the date of payment; or
+
+https://www.taxtmi.com/notifications?id=120275 10/53
+
+29/10/2026, 4:08:59 pm
+
+(b) where the aggregate of the amounts determined under sub-rule (1) in respect of ‘D1’ and ‘D2’
+exceeds the aggregate of the amounts calculated finally in respect of ‘D1’ and ‘D2’, such excess
+
+amount shall be claimed as credit by the registered person in his return for a month not later than
+the month of September following the end of the financial year to which such credit relates.
+
+43. Manner of determination of input tax credit in respect of capital goods and reversal thereof in
+certain cases.- (1) Subject to the provisions of sub-section (3) of section 16, the input tax credit in respect
+of capital goods, which attract the provisions of sub-sections (1) and (2) of section 17, being partly used for
+the purposes of business and partly for other purposes, or partly used for effecting taxable supplies
+including zero rated supplies and partly for effecting exempt supplies, shall be attributed to the purposes of
+business or for effecting taxable supplies in the following manner, namely,-
+
+(a) the amount of input tax in respect of capital goods used or intended to be used exclusively for
+non-business purposes or used or intended to be used exclusively for effecting exempt supplies
+shall be indicated in FORM GSTR-2 and shall not be credited to his electronic credit ledger;
+
+(b) the amount of input tax in respect of capital goods used or intended to be used exclusively for
+effecting supplies other than exempted supplies but including zerorated supplies shall be indicated
+in FORM GSTR-2 and shall be credited to the electronic credit ledger;
+
+(c) the amount of input tax in respect of capital goods not covered under clauses (a) and (b),
+denoted as ‘A, shall be credited to the electronic credit ledger and the useful life of such goods
+shall be taken as five years from the date of the invoice for such goods:
+
+Provided that where any capital goods earlier covered under clause (a) is subsequently covered
+under this clause, the value of ‘A’ shall be arrived at by reducing the input tax at the rate of five
+percentage points for every quarter or part thereof and the amount ‘A’ shall be credited to the
+electronic credit ledger;
+
+Explanation.- An item of capital goods declared under clause (a) on its receipt shall not attract the
+provisions of sub-section (4) of section 18, if it is subsequently covered under this clause.
+
+(d) the aggregate of the amounts of ‘A’ credited to the electronic credit ledger under clause (c), to
+be denoted as ‘Tc’, shall be the common credit in respect of capital goods for a tax period:
+
+Provided that where any capital goods earlier covered under clause (b) is subsequently covered
+under clause (c), the value of ‘A’ arrived at by reducing the input tax at the rate of five percentage
+points for every quarter or part thereof shall be added to the aggregate value ‘Tc’;
+
+(e) the amount of input tax credit attributable to a tax period on common capital goods during their
+useful life, be denoted as ‘Tm’ and calculated as-
+
+Tm= Tc+60
+
+(f) the amount of input tax credit, at the beginning of a tax period, on all common capital goods
+whose useful life remains during the tax period, be denoted as ‘Tr’ and shall be the aggregate of
+‘Tm’ for all such capital goods;
+
+(g) the amount of common credit attributable towards exempted supplies, be denoted as ‘Te’, and
+calculated as-
+
+Te= (E+ F) x Tr
+where,
+
+‘E’ is the aggregate value of exempt supplies, made, during the tax period, and
+
+https://www.taxtmi.com/notifications?id=120275 11/53
+
+29/10/2026, 4:08:59 pm
+
+‘F is the total turnover of the registered person during the tax period:
+
+Provided that where the registered person does not have any turnover during the said tax period or
+the aforesaid information is not available, the value of ‘E/F’ shall be calculated by taking values of
+‘E’ and ‘F’ of the last tax period for which the details of such turnover are available, previous to the
+month during which the said value of ‘E/F’ is to be calculated;
+
+Explanation.- For the purposes of this clause, it is hereby clarified that the aggregate value of
+exempt supplies and the total turnover shall exclude the amount of any duty or tax levied under
+entry 84 of List | of the Seventh Schedule to the Constitution and entry 51 and 54 of List II of the
+said Schedule;
+
+(h) the amount Te along with the applicable interest shall, during every tax period of the useful life
+of the concerned capital goods, be added to the output tax liability of the person making such claim
+of credit.
+
+(2) The amount Te shall be computed separately for central tax, State tax, Union territory tax and
+integrated tax.
+
+44. Manner of reversal of credit under special circumstances.- (1) The amount of input tax credit
+relating to inputs held in stock, inputs contained in semi-finished and finished goods held in stock, and
+capital goods held in stock shall, for the purposes of sub-section (4) of section 18 or sub-section (5) of
+section 29, be determined in the following manner, namely,-
+
+(a) for inputs held in stock and inputs contained in semi-finished and finished goods held in stock,
+the input tax credit shall be calculated proportionately on the basis of the corresponding invoices on
+which credit had been availed by the registered taxable person on such inputs;
+
+(b) for capital goods held in stock, the input tax credit involved in the remaining useful life in months
+shall be computed on pro-rata basis, taking the useful life as five years.
+
+Illustration:
+
+Capital goods have been in use for 4 years, 6 month and 15 days.
+
+The useful remaining life in months= 5 months ignoring a part of the month
+Input tax credit taken on such capital goods= C
+
+Input tax credit attributable to remaining useful life= C multiplied by 5/60
+
+(2) The amount, as specified in sub-rule (1) shall be determined separately for input tax credit of
+integrated tax and central tax.
+
+(2) Where the tax invoices related to the inputs held in stock are not available, the
+registered person shall estimate the amount under sub-rule (1) based on the prevailing
+market price of the goods on the effective date of the occurrence of any of the events
+specified in sub-section (4) of section 18 or, as the case may be, subsection (5) of section
+29.
+
+(4) The amount determined under sub-rule (1) shall form part of the output tax liability of the
+registered person and the details of the amount shall be furnished in FORM GST ITC- 03, where
+such amount relates to any event specified in sub-section (4) of section 18 and in FORM GSTR-10,
+where such amount relates to the cancellation of registration.
+
+(5) The details furnished in accordance with sub-rule (3) shall be duly certified by a practicing
+chartered accountant or cost accountant.
+
+https://www.taxtmi.com/notifications?id=120275 12/53
+
+29/10/2026, 4:08:59 pm
+
+(6) The amount of input tax credit for the purposes of sub-section (6) of section 18 relating to
+capital goods shall be determined in the same manner as specified in clause (b) of subrule (1) and
+the amount shall be determined separately for input tax credit of IGST and CGST:
+
+Provided that where the amount so determined is more than the tax determined on the transaction value of
+the capital goods, the amount determined shall form part of the output tax liability and the same shall be
+furnished in FORM GSTR-1.
+
+45. Conditions and restrictions in respect of inputs and capital goods sent to the job worker.- (1)
+The inputs, semi-finished goods or capital goods shall be sent to the job worker under the cover of a
+challan issued by the principal, including where such goods are sent directly to a job-worker.
+
+(2) The challan issued by the principal to the job worker shall contain the details specified in rule 55.
+
+(3) The details of challans in respect of goods dispatched to a job worker or received from a job worker or
+sent from one job worker to another during a quarter shall be included in FORM GST ITC-04 furnished for
+that period on or before the twenty-fifth day of the month succeeding the said quarter.
+
+(4) Where the inputs or capital goods are not returned to the principal within the time stipulated in section
+143, it shall be deemed that such inputs or capital goods had been supplied by the principal to the job
+worker on the day when the said inputs or capital goods were sent out and the said supply shall be
+declared in FORM GSTR-1 and the principal shall be liable to pay the tax along with applicable interest.
+
+Explanation.- For the purposes of this Chapter,-
+
+(1) the expressions “capital goods” shall include “plant and machinery” as defined in the
+Explanation to section 17;
+
+(2) for determining the value of an exempt supply as referred to in sub-section (3) of section 17-
+
+(a) the value of land and building shall be taken as the same as adopted for the purpose of paying
+stamp duty; and
+
+(b) the value of security shall be taken as one per cent. of the sale value of such security.
+Chapter VI
+TAX INVOICE, CREDIT AND DEBIT NOTES
+
+46. Tax invoice.- Subject to rule 54, a tax invoice referred to in section 31 shall be issued by the registered
+person containing the following particulars, namely,-
+
+(a) name, address and Goods and Services Tax Identification Number of the supplier;
+
+(b) a consecutive serial number not exceeding sixteen characters, in one or multiple series,
+containing alphabets or numerals or special charactershyphen or dash and slash symbolised as “-”
+and “/” respectively, and any combination thereof, unique for a financial year;
+
+(c) date of its issue;
+
+(d) name, address and Goods and Services Tax Identification Number or Unique Identity Number, if
+registered, of the recipient;
+
+(e) name and address of the recipient and the address of delivery, along with the name of the State
+and its code, if such recipient is un-registered and where the value of the taxable supply is fifty
+thousand rupees or more;
+
+https://www.taxtmi.com/notifications?id=120275 13/53
+
+29/10/2026, 4:08:59 pm
+
+(f) name and address of the recipient and the address of delivery, along with the name of the State
+and its code, if such recipient is un-registered and where the value of the taxable supply is less
+than fifty thousand rupees and the recipient requests that such details be recorded in the tax
+invoice;
+
+(g) Harmonised System of Nomenclature code for goods or services;
+(h) description of goods or services;
+
+(i) quantity in case of goods and unit or Unique Quantity Code thereof;
+(j) total value of supply of goods or services or both;
+
+(k) taxable value of the supply of goods or services or both taking into account discount or
+abatement, if any;
+
+(I) rate of tax (central tax, State tax, integrated tax, Union territory tax or cess);
+
+(m) amount of tax charged in respect of taxable goods or services (central tax, State tax, integrated
+tax, Union territory tax or cess);
+
+(n) place of supply along with the name of the State, in the case of a supply in the course of inter-
+State trade or commerce;
+
+(0) address of delivery where the same is different from the place of supply;
+
+(p) whether the tax is payable on reverse charge basis; and
+
+(q) signature or digital signature of the supplier or his authorised representative:
+
+Provided that the Board may, on the recommendations of the Council, by notification, specify-
+
+(i) the number of digits of Harmonised System of Nomenclature code for goods or services that a
+class of registered persons shall be required to mention, for such period as may be specified in the
+said notification; and
+
+(ii) the class of registered persons that would not be required to mention the Harmonised System of
+Nomenclature code for goods or services, for such period as may be specified in the said
+notification: Provided further that where an invoice is required to be issued under clause
+
+(f) of sub-section (3) of section 31, a registered person may issue a consolidated invoice at the end
+of a month for supplies covered under sub-section (4) of section 9, the aggregate value of such
+supplies exceeds rupees five thousand in a day from any or all the suppliers:
+
+Provided also that in the case of the export of goods or services, the invoice shall carry an
+endorsement “SUPPLY MEANT FOR EXPORT ON PAYMENT OF INTEGRATED TAX’ or “SUPPLY
+MEANT FOR EXPORT UNDER BOND OR LETTER OF UNDERTAKING WITHOUT PAYMENT OF
+INTEGRATED TAX’, as the case may be, and shall, in lieu of the details specified in clause (e),
+contain the following details, namely,-
+
+(i) name and address of the recipient;
+
+(ii) address of delivery; and
+
+(iii) name of the country of destination:
+
+Provided also that a registered person may not issue a tax invoice in accordance with the
+
+provisions of clause (b) of sub-section (3) of section 31 subject to the following conditions, namely,-
+
+https://www.taxtmi.com/notifications?id=120275 14/53
+
+29/10/2026, 4:08:59 pm
+
+(a) the recipient is not a registered person; and
+(b) the recipient does not require such invoice, and
+
+shall issue a consolidated tax invoice for such supplies at the close of each day in respect of all
+such supplies.
+
+47. Time limit for issuing tax invoice.- The invoice referred to in rule 46, in the case of the taxable supply
+of services, shall be issued within a period of thirty days from the date of the supply of service:
+
+Provided that where the supplier of services is an insurer or a banking company or a financial institution,
+including a non-banking financial company, the period within which the invoice or any document in lieu
+thereof is to be issued shall be forty five days from the date of the supply of service:
+
+Provided further that an insurer or a banking company or a financial institution, including a non-banking
+financial company, or a telecom operator, or any other class of supplier of services as may be notified by
+the Government on the recommendations of the Council, making taxable supplies of services between
+distinct persons as specified in section 25, may issue the invoice before or at the time such supplier
+records the same in his books of account or before the expiry of the quarter during which the supply was
+made.
+
+48. Manner of issuing invoice.- (1) The invoice shall be prepared in triplicate, in the case of supply of
+goods, in the following manner, namely,-
+
+(a) the original copy being marked as ORIGINAL FOR RECIPIENT;
+(b) the duplicate copy being marked as DUPLICATE FOR TRANSPORTER; and
+(c) the triplicate copy being marked as TRIPLICATE FOR SUPPLIER.
+
+(2) The invoice shall be prepared in duplicate, in the case of the supply of services, in the following
+manner, namely,-
+
+(a) the original copy being marked as ORIGINAL FOR RECIPIENT; and
+(b) the duplicate copy being marked as DUPLICATE FOR SUPPLIER.
+
+(3) The serial number of invoices issued during a tax period shall be furnished electronically through the
+common portal in FORM GSTR-1.
+
+49. Bill of supply.- A bill of supply referred to in clause (c) of sub-section (3) of section 31 shall be issued
+by the supplier containing the following details, namely,-
+
+(a) name, address and Goods and Services Tax Identification Number of the supplier;
+
+(b) a consecutive serial number not exceeding sixteen characters, in one or multiple series,
+containing alphabets or numerals or special characters - hyphen or dash and slash symbolised as
+“” and “/” respectively, and any combination thereof, unique for a financial year;
+
+(c) date of its issue;
+
+(d) name, address and Goods and Services Tax Identification Number or Unique Identity Number, if
+registered, of the recipient;
+
+(e) Harmonised System of Nomenclature Code for goods or services;
+
+(f) description of goods or services or both;
+
+https://www.taxtmi.com/notifications?id=120275 15/53
+
+29/10/2026, 4:08:59 pm
+
+(g) value of supply of goods or services or both taking into account discount or abatement, if any;
+and
+
+(h) signature or digital signature of the supplier or his authorised representative:
+
+Provided that the provisos to rule 46 shall, mutatis mutandis, apply to the bill of supply issued under this
+rule:
+
+Provided further that any tax invoice or any other similar document issued under any other Act for the time
+being in force in respect of any non-taxable supply shall be treated as a bill of supply for the purposes of
+the Act.
+
+50. Receipt voucher.- A receipt voucher referred to in clause (d) of sub-section (3) of section 31 shall
+contain the following particulars, namely,-
+
+(a) name, address and Goods and Services Tax Identification Number of the supplier;
+
+(b) a consecutive serial number not exceeding sixteen characters, in one or multiple series,
+containing alphabets or numerals or special charactershyphen or dash and slash symbolised as “-”
+and “/” respectively, and any combination thereof, unique for a financial year;
+
+(c) date of its issue;
+
+(d) name, address and Goods and Services Tax Identification Number or Unique Identity Number, if
+registered, of the recipient;
+
+(e) description of goods or services;
+(f) amount of advance taken;
+(g) rate of tax (central tax, State tax, integrated tax, Union territory tax or cess);
+
+(h) amount of tax charged in respect of taxable goods or services (central tax, State tax, integrated
+tax, Union territory tax or cess);
+
+(i) place of supply along with the name of State and its code, in case of a supply in the course of
+inter-State trade or commerce;
+
+(j) whether the tax is payable on reverse charge basis; and
+
+(k) signature or digital signature of the supplier or his authorised representative:
+
+Provided that where at the time of receipt of advance,-
+
+(i) the rate of tax is not determinable, the tax shall be paid at the rate of eighteen per cent.;
+(ii) the nature of supply is not determinable, the same shall be treated as inter-State supply.
+
+51. Refund voucher.- A refund voucher referred to in clause (e) of sub-section (3) of section 31 shall
+contain the following particulars, namely:-
+
+(a) name, address and Goods and Services Tax Identification Number of the supplier;
+
+(b) a consecutive serial number not exceeding sixteen characters, in one or multiple series,
+containing alphabets or numerals or special charactershyphen or dash and slash symbolised as “-”
+and “/” respectively, and any combination thereof, unique for a financial year;
+
+(c) date of its issue;
+
+https://www.taxtmi.com/notifications?id=120275 16/53
+
+29/10/2026, 4:08:59 pm
+
+(d) name, address and Goods and Services Tax Identification Number or Unique Identity Number, if
+registered, of the recipient;
+
+(e) number and date of receipt voucher issued in accordance with the provisions of rule 50;
+(f) description of goods or services in respect of which refund is made;
+
+(g) amount of refund made;
+
+(h) rate of tax (central tax, State tax, integrated tax, Union territory tax or cess);
+
+(i) amount of tax paid in respect of such goods or services (central tax, State tax, integrated tax,
+Union territory tax or cess);
+
+(j) whether the tax is payable on reverse charge basis; and
+(k) signature or digital signature of the supplier or his authorised representative.
+
+52. Payment voucher.- A payment voucher referred to in clause (g) of sub-section (3) of section 31 shall
+contain the following particulars, namely:-
+
+(a) name, address and Goods and Services Tax Identification Number of the supplier if registered;
+
+(b) a consecutive serial number not exceeding sixteen characters, in one or multiple series,
+containing alphabets or numerals or special charactershyphen or dash and slash symbolised as “-”
+and “/” respectively, and any combination thereof, unique for a financial year;
+
+(c) date of its issue;
+
+(d) name, address and Goods and Services Tax Identification Number of the recipient;
+(e) description of goods or services;
+
+(f) amount paid;
+
+(g) rate of tax (central tax, State tax, integrated tax, Union territory tax or cess);
+
+(h) amount of tax payable in respect of taxable goods or services (central tax, State tax, integrated
+tax, Union territory tax or cess);
+
+(i) place of supply along with the name of State and its code, in case of a supply in the course of
+inter-State trade or commerce; and
+
+(j) signature or digital signature of the supplier or his authorised representative.
+
+53. Revised tax invoice and credit or debit notes.- (1) A revised tax invoice referred to in section 31 and
+credit or debit notes referred to in section 34 shall contain the following particulars, namely:-
+
+(a) the word “Revised Invoice”, wherever applicable, indicated prominently;
+(b) name, address and Goods and Services Tax Identification Number of the supplier;
+(c) nature of the document;
+
+(d) a consecutive serial number not exceeding sixteen characters, in one or multiple series,
+containing alphabets or numerals or special charactershyphen or dash and slash symbolised as “-”
+and “/” respectively, and any combination thereof, unique for a financial year;
+
+(e) date of issue of the document;
+
+https://www.taxtmi.com/notifications?id=120275 17/53
+
+29/10/2026, 4:08:59 pm
+
+(f) name, address and Goods and Services Tax Identification Number or Unique Identity Number, if
+registered, of the recipient;
+
+(g) name and address of the recipient and the address of delivery, along with the name of State
+and its code, if such recipient is un-registered;
+
+(h) serial number and date of the corresponding tax invoice or, as the case may be, bill of supply;
+
+(i) value of taxable supply of goods or services, rate of tax and the amount of the tax credited or, as
+the case may be, debited to the recipient; and
+
+(j) signature or digital signature of the supplier or his authorised representative.
+
+(2) Every registered person who has been granted registration with effect from a date earlier than the date
+of issuance of certificate of registration to him, may issue revised tax invoices in respect of taxable
+supplies effected during the period starting from the effective date of registration till the date of the
+issuance of the certificate of registration:
+
+Provided that the registered person may issue a consolidated revised tax invoice in respect of all taxable
+supplies made to a recipient who is not registered under the Act during such period:
+
+Provided further that in the case of inter-State supplies, where the value of a supply does not exceed two
+lakh and fifty thousand rupees, a consolidated revised invoice may be issued separately in respect of all
+the recipients located in a State, who are not registered under the Act.
+
+(3) Any invoice or debit note issued in pursuance of any tax payable in accordance with the provisions of
+section 74 or section 129 or section 130 shall prominently contain the words “INPUT TAX CREDIT NOT
+ADMISSIBLE”.
+
+54. Tax invoice in special cases.- (1) An Input Service Distributor invoice or, as the case may be, an
+Input Service Distributor credit note issued by an Input Service Distributor shall contain the following
+details:-
+
+(a) name, address and Goods and Services Tax Identification Number of the Input Service
+Distributor;
+
+(b) a consecutive serial number not exceeding sixteen characters, in one or multiple series,
+containing alphabets or numerals or special charactershyphen or dash and slash symbolised as-
+“” “!" respectively, and any combination thereof, unique for a financial year;
+
+(c) date of its issue;
+
+(d) name, address and Goods and Services Tax Identification Number of the recipient to whom the
+credit is distributed;
+
+(e) amount of the credit distributed; and
+(f) signature or digital signature of the Input Service Distributor or his authorised representative:
+
+Provided that where the Input Service Distributor is an office of a banking company or a financial
+institution, including a non-banking financial company, a tax invoice shall include any document in
+lieu thereof, by whatever name called, whether or not serially numbered but containing the
+information as mentioned above.
+
+(2) Where the supplier of taxable service is an insurer or a banking company or a financial institution,
+including a non-banking financial company, the said supplier shall issue a tax invoice or any other
+document in lieu thereof, by whatever name called, whether issued or made available, physically or
+
+https://www.taxtmi.com/notifications?id=120275 18/53
+
+29/10/2026, 4:08:59 pm
+
+electronically whether or not serially numbered, and whether or not containing the address of the recipient
+of taxable service but containing other information as mentioned under rule 46.
+
+(3) Where the supplier of taxable service is a goods transport agency supplying services in relation to
+transportation of goods by road in a goods carriage, the said supplier shall issue a tax invoice or any other
+document in lieu thereof, by whatever name called, containing the gross weight of the consignment, name
+of the consigner and the consignee, registration number of goods carriage in which the goods are
+transported, details of goods transported, details of place of origin and destination, Goods and Services
+Tax Identification Number of the person liable for paying tax whether as consigner, consignee or goods
+transport agency, and also containing other information as mentioned under rule 46.
+
+(4) Where the supplier of taxable service is supplying passenger transportation service, a tax invoice shall
+include ticket in any form, by whatever name called, whether or not serially numbered, and whether or not
+containing the address of the recipient of service but containing other information as mentioned under rule
+46.
+
+(5) The provisions of sub-rule (2) or sub-rule (4) shall apply, mutatis mutandis, to the documents issued
+under rule 49 or rule 50 or rule 51 or rule 52 or rule 53.
+
+55. Transportation of goods without issue of invoice.- (1) For the purposes of-
+
+(a) supply of liquid gas where the quantity at the time of removal from the place of business of the
+supplier is not known,
+
+(b) transportation of goods for job work,
+(c) transportation of goods for reasons other than by way of supply, or
+(d) such other supplies as may be notified by the Board,
+
+the consigner may issue a delivery challan, serially numbered not exceeding sixteen characters, in one or
+multiple series, in lieu of invoice at the time of removal of goods for transportation, containing the following
+details, namely:-
+
+(i) date and number of the delivery challan;
+
+(ii) name, address and Goods and Services Tax Identification Number of the consigner, if
+registered;
+
+(iii) name, address and Goods and Services Tax Identification Number or Unique Identity Number
+of the consignee, if registered;
+
+(iv) Harmonised System of Nomenclature code and description of goods;
+(v) quantity (provisional, where the exact quantity being supplied is not known);
+(vi) taxable value;
+
+(vii) tax rate and tax amount — central tax, State tax, integrated tax, Union territory tax or cess,
+where the transportation is for supply to the consignee;
+
+(viii) place of supply, in case of inter-State movement; and
+(ix) signature.
+
+(2) The delivery challan shall be prepared in triplicate, in case of supply of goods, in the following manner,
+namely:—
+
+https://www.taxtmi.com/notifications?id=120275 19/53
+
+29/10/2026, 4:08:59 pm
+
+(a) the original copy being marked as ORIGINAL FOR CONSIGNEE;
+(b) the duplicate copy being marked as DUPLICATE FOR TRANSPORTER; and
+(c) the triplicate copy being marked as TRIPLICATE FOR CONSIGNER.
+
+(3) Where goods are being transported on a delivery challan in lieu of invoice, the same shall be declared
+as specified in rule 138.
+
+(4) Where the goods being transported are for the purpose of supply to the recipient but the tax invoice
+could not be issued at the time of removal of goods for the purpose of supply, the supplier shall issue a tax
+invoice after delivery of goods.
+
+(5) Where the goods are being transported in a semi knocked down or completely knocked down condition
+
+(a) the supplier shall issue the complete invoice before dispatch of the first consignment;
+
+(b) the supplier shall issue a delivery challan for each of the subsequent consignments, giving
+reference of the invoice;
+
+(c) each consignment shall be accompanied by copies of the corresponding delivery challan along
+with a duly certified copy of the invoice; and
+
+(d) the original copy of the invoice shall be sent along with the last consignment.
+Chapter VII
+Accounts and Records
+
+56. Maintenance of accounts by registered persons.- (1) Every registered person shall keep and
+maintain, in addition to the particulars mentioned in sub-section (1) of section 35, a true and correct
+account of the goods or services imported or exported or of supplies attracting payment of tax on reverse
+charge along with the relevant documents, including invoices, bills of supply, delivery challans, credit
+notes, debit notes, receipt vouchers, payment vouchers and refund vouchers.
+
+(2) Every registered person, other than a person paying tax under section 10, shall maintain the accounts
+of stock in respect of goods received and supplied by him, and such accounts shall contain particulars of
+the opening balance, receipt, supply, goods lost, stolen, destroyed, written off or disposed of by way of gift
+or free sample and the balance of stock including raw materials, finished goods, scrap and wastage
+thereof.
+
+(3) Every registered person shall keep and maintain a separate account of advances received, paid and
+adjustments made thereto.
+
+(4) Every registered person, other than a person paying tax under section 10, shall keep and maintain an
+account, containing the details of tax payable (including tax payable in accordance with the provisions of
+sub-section (3) and sub-section (4) of section 9), tax collected and paid, input tax, input tax credit claimed,
+together with a register of tax invoice, credit notes, debit notes, delivery challan issued or received during
+any tax period.
+
+(5) Every registered person shall keep the particulars of -
+
+(a) names and complete addresses of suppliers from whom he has received the goods or services
+chargeable to tax under the Act;
+
+(b) names and complete addresses of the persons to whom he has supplied goods or services,
+where required under the provisions of this Chapter;
+
+https://www.taxtmi.com/notifications?id=120275 20/53
+
+29/10/2026, 4:08:59 pm
+
+(c) the complete address of the premises where goods are stored by him, including goods stored
+during transit along with the particulars of the stock stored therein.
+
+(6) If any taxable goods are found to be stored at any place(s) other than those declared under sub-rule (5)
+without the cover of any valid documents, the proper officer shall determine the amount of tax payable on
+such goods as if such goods have been supplied by the registered person.
+
+(7) Every registered person shall keep the books of account at the principal place of business and books of
+account relating to additional place of business mentioned in his certificate of registration and such books
+of account shall include any electronic form of data stored on any electronic device.
+
+(8) Any entry in registers, accounts and documents shall not be erased, effaced or overwritten, and all
+incorrect entries, otherwise than those of clerical nature, shall be scored out under attestation and
+thereafter, the correct entry shall be recorded and where the registers and other documents are maintained
+electronically, a log of every entry edited or deleted shall be maintained.
+
+(9) Each volume of books of account maintained manually by the registered person shall be serially
+numbered.
+
+(10) Unless proved otherwise, if any documents, registers, or any books of account belonging to a
+registered person are found at any premises other than those mentioned in the certificate of registration,
+they shall be presumed to be maintained by the said registered person.
+
+(11) Every agent referred to in clause (5) of section 2 shall maintain accounts depicting the,-
+
+(a) particulars of authorisation received by him from each principal to receive or supply goods or
+services on behalf of such principal separately;
+
+(b) particulars including description, value and quantity (wherever applicable) of goods or services
+received on behalf of every principal;
+
+(c) particulars including description, value and quantity (wherever applicable) of goods or services
+supplied on behalf of every principal;
+
+(d) details of accounts furnished to every principal; and
+(e) tax paid on receipts or on supply of goods or services effected on behalf of every principal.
+
+(12) Every registered person manufacturing goods shall maintain monthly production accounts showing
+quantitative details of raw materials or services used in the manufacture and quantitative details of the
+goods so manufactured including the waste and by products thereof.
+
+(13) Every registered person supplying services shall maintain the accounts showing quantitative details of
+goods used in the provision of services, details of input services utilised and the services supplied.
+
+(14) Every registered person executing works contract shall keep separate accounts for works contract
+showing -
+
+(a) the names and addresses of the persons on whose behalf the works contract is executed;
+
+(b) description, value and quantity (wherever applicable) of goods or services received for the
+execution of works contract;
+
+(c) description, value and quantity (wherever applicable) of goods or services utilized in the
+execution of works contract;
+
+(d) the details of payment received in respect of each works contract; and
+
+https://www.taxtmi.com/notifications?id=120275 21/53
+
+29/10/2026, 4:08:59 pm
+
+(e) the names and addresses of suppliers from whom he received goods or services.
+
+(15) The records under the provisions of this Chapter may be maintained in electronic form and the record
+so maintained shall be authenticated by means of a digital signature.
+
+(16) Accounts maintained by the registered person together with all the invoices, bills of supply, credit and
+debit notes, and delivery challans relating to stocks, deliveries, inward supply and outward supply shall be
+preserved for the period as provided in section 36 and shall, where such accounts and documents are
+maintained manually, be kept at every related place of business mentioned in the certificate of registration
+and shall be accessible at every related place of business where such accounts and documents are
+maintained digitally.
+
+(17) Any person having custody over the goods in the capacity of a carrier or a clearing and forwarding
+agent for delivery or dispatch thereof to a recipient on behalf of any registered person shall maintain true
+and correct records in respect of such goods handled by him on behalf of such registered person and shall
+produce the details thereof as and when required by the proper officer.
+
+(18) Every registered person shall, on demand, produce the books of accounts which he is required to
+maintain under any law for the time being in force.
+
+57. Generation and maintenance of electronic records.- (1) Proper electronic back-up of records shall
+be maintained and preserved in such manner that, in the event of destruction of such records due to
+accidents or natural causes, the information can be restored within a reasonable period of time.
+
+(2) The registered person maintaining electronic records shall produce, on demand, the relevant records or
+documents, duly authenticated by him, in hard copy or in any electronically readable format.
+
+(3) Where the accounts and records are stored electronically by any registered person, he shall, on
+demand, provide the details of such files, passwords of such files and explanation for codes used, where
+necessary, for access and any other information which is required for such access along with a sample
+copy in print form of the information stored in such files.
+
+58. Records to be maintained by owner or operator of godown or warehouse and transporters.- (1)
+Every person required to maintain records and accounts in accordance with the provisions of sub-section
+(2) of section 35, if not already registered under the Act, shall submit the details regarding his business
+electronically on the common portal in FORM GST ENR-01, either directly or through a Facilitation Centre
+notified by the Commissioner and, upon validation of the details furnished, a unique enrolment number
+shall be generated and communicated to the said person.
+
+(2) The person enrolled under sub-rule (1) as aforesaid in any other State or Union territory shall be
+deemed to be enrolled in the State or Union territory.
+
+(3) Every person who is enrolled under sub-rule (1) shall, where required, amend the details furnished in
+FORM GST ENR-01 electronically on the common portal either directly or through a Facilitation Centre
+notified by the Commissioner.
+
+(4) Subject to the provisions of rule 56,-
+
+(a) any person engaged in the business of transporting goods shall maintain records of goods
+transported, delivered and goods stored in transit by him alongwith the Goods and Services Tax
+Identification Number of the registered consigner and consignee for each of his branches.
+
+(b) every owner or operator of a warehouse or godown shall maintain books of accounts with
+respect to the period for which particular goods remain in the warehouse, including the particulars
+relating to dispatch, movement, receipt and disposal of such goods.
+
+https://www.taxtmi.com/notifications?id=120275 22/53
+
+29/10/2026, 4:08:59 pm
+
+(5) The owner or the operator of the godown shall store the goods in such manner that they can be
+identified item-wise and owner-wise and shall facilitate any physical verification or inspection by the proper
+officer on demand.
+
+Chapter VIII
+Returns
+
+59. Form and manner of furnishing details of outward supplies.- (1) Every registered person, other
+than a person referred to in section 14 of the Integrated Goods and Services Tax Act, 2017, required to
+furnish the details of outward supplies of goods or services or both under section 37, shall furnish such
+details in FORM GSTR-1 electronically through the common portal, either directly or through a Facilitation
+Centre notified by the Commissioner.
+
+(2) The details of outward supplies of goods or services or both furnished in FORM GSTR-1 shall include
+the —
+
+(a) invoice wise details of all -
+(i) inter-State and intra-State supplies made to the registered persons; and
+
+(ii) inter-State supplies with invoice value more than two and a half lakh rupees made to the
+unregistered persons;
+
+(b) consolidated details of all -
+(i) intra-State supplies made to unregistered persons for each rate of tax; and
+
+(ii) State wise inter-State supplies with invoice value upto two and a half lakh rupees made
+to unregistered persons for each rate of tax;
+
+(c) debit and credit notes, if any, issued during the month for invoices issued previously.
+
+(3) The details of outward supplies furnished by the supplier shall be made available electronically to the
+concerned registered persons (recipients) in Part A of FORM GSTR- 2A, in FORM GSTR-4A and in
+FORM GSTR-6A through the common portal after the due date of filing of FORM GSTR-1.
+
+(4) The details of inward supplies added, corrected or deleted by the recipient in his FORM GSTR-2 under
+section 38 or FORM GSTR-4 or FORM GSTR-6 under section 39 shall be made available to the supplier
+electronically in FORM GSTR-1A through the common portal and such supplier may either accept or reject
+the modifications made by the recipient and FORM GSTR-1 furnished earlier by the supplier shall stand
+amended to the extent of modifications accepted by him.
+
+60. Form and manner of furnishing details of inward supplies.- (1) Every registered person, other than
+a person referred to in section 14 of the Integrated Goods and Services Tax Act, 2017, required to furnish
+the details of inward supplies of goods or services or both received during a tax period under sub-section
+(2) of section 38 shall, on the basis of details contained in Part A, Part B and Part C of FORM GSTR-2A,
+prepare such details as specified in sub-section (1) of the said section and furnish the same in FORM
+GSTR-2 electronically through the common portal, either directly or from a Facilitation Centre notified by
+the Commissioner, after including therein details of such other inward supplies, if any, required to be
+furnished under sub-section (2) of section 38.
+
+(2) Every registered person shall furnish the details, if any, required under sub-section (5) of section 38
+electronically in FORM GSTR-2.
+
+(3) The registered person shall specify the inward supplies in respect of which he is not eligible, either fully
+or partially, for input tax credit in FORM GSTR-2 where such eligibility can be determined at the invoice
+
+https://www.taxtmi.com/notifications?id=120275 23/53
+
+29/10/2026, 4:08:59 pm
+
+level.
+
+(4) The registered person shall declare the quantum of ineligible input tax credit on inward supplies which
+is relatable to non-taxable supplies or for purposes other than business and cannot be determined at the
+invoice level in FORM GSTR-2.
+
+(4A) The details of invoices furnished by an non-resident taxable person in his return in FORM GSTR-5
+under rule 63 shall be made available to the recipient of credit in Part A of FORM GSTR 2A electronically
+through the common portal and the said recipient may include the same in FORM GSTR-2.
+
+(5) The details of invoices furnished by an Input Service Distributor in his return in FORM GSTR-6 under
+rule 65 shall be made available to the recipient of credit in Part B of FORM GSTR 2A electronically through
+the common portal and the said recipient may include the same in FORM GSTR-2.
+
+(6) The details of tax deducted at source furnished by the deductor under sub-section (3) of section 39 in
+FORM GSTR-7 shall be made available to the deductee in Part C of FORM GSTR-2A electronically
+through the common portal and the said deductee may include the same in FORM GSTR-2.
+
+(7) The details of tax collected at source furnished by an e-commerce operator under section 52 in FORM
+GSTR-8 shall be made available to the concerned person in Part C of FORM GSTR 2A electronically
+through the common portal and such person may include the same in FORM GSTR-2.
+
+(8) The details of inward supplies of goods or services or both furnished in FORM GSTR-2 shall include
+the -
+
+(a) invoice wise details of all inter-State and intra-State supplies received from registered persons
+or unregistered persons;
+
+(b) import of goods and services made; and
+(c) debit and credit notes, if any, received from supplier.
+
+61. Form and manner of submission of monthly return.- (1) Every registered person other than a
+person referred to in section 14 of the Integrated Goods and Services Tax Act, 2017 or an Input Service
+Distributor or a non-resident taxable person or a person paying tax under section 10 or section 51 or, as
+the case may be, under section 52 shall furnish a return specified under sub-section (1) of section 39 in
+FORM GSTR-3 electronically through the common portal either directly or through a Facilitation Centre
+notified by the Commissioner.
+
+(2) Part A of the return under sub-rule (1) shall be electronically generated on the basis of information
+furnished through FORM GSTR-1, FORM GSTR-2 and based on other liabilities of preceding tax periods.
+
+(3) Every registered person furnishing the return under sub-rule (1) shall, subject to the provisions of
+section 49, discharge his liability towards tax, interest, penalty, fees or any other amount payable under the
+Act or the provisions of this Chapter by debiting the electronic cash ledger or electronic credit ledger and
+include the details in Part B of the return in FORM GSTR-3.
+
+(4) A registered person, claiming refund of any balance in the electronic cash ledger in accordance with the
+provisions of sub-section (6) of section 49, may claim such refund in Part B of the return in FORM GSTR-3
+and such return shall be deemed to be an application filed under section 54.
+
+(5) Where the time limit for furnishing of details in FORM GSTR-1 under section 37 and in FORM GSTR-2
+under section 38 has been extended and the circumstances so warrant, return in FORM GSTR-3B, in lieu
+of FORM GSTR-3, may be furnished in such manner and subject to such conditions as may be notified by
+the Commissioner.
+
+https://www.taxtmi.com/notifications?id=120275 24/53
+
+29/10/2026, 4:08:59 pm
+
+62. Form and manner of submission of quarterly return by the composition supplier.- (1) Every
+registered person paying tax under section 10 shall, on the basis of details contained in FORM GSTR-4A,
+and where required, after adding, correcting or deleting the details, furnish the quarterly return in FORM
+GSTR-4 electronically through the common portal, either directly or through a Facilitation Centre notified
+by the Commissioner.
+
+(2) Every registered person furnishing the return under sub-rule (1) shall discharge his liability towards tax,
+interest, penalty, fees or any other amount payable under the Act or the provisions of this Chapter by
+debiting the electronic cash ledger.
+
+(3) The return furnished under sub-rule (1) shall include the -
+
+(a) invoice wise inter-State and intra-State inward supplies received from registered and un-
+registered persons; and
+
+(b) consolidated details of outward supplies made.
+
+(4) Aregistered person who has opted to pay tax under section 10 from the beginning of a financial year
+shall, where required, furnish the details of outward and inward supplies and return under rules 59, 60 and
+61 relating to the period during which the person was liable to furnish such details and returns till the due
+date of furnishing the return for the month of September of the succeeding financial year or furnishing of
+annual return of the preceding financial year, whichever is earlier.
+
+Explanation.— For the purposes of this sub-rule, it is hereby declared that the person shall not be
+eligible to avail of input tax credit on receipt of invoices or debit notes from the supplier for the
+period prior to his opting for the composition scheme.
+
+(5) A registered person opting to withdraw from the composition scheme at his own motion or where option
+is withdrawn at the instance of the proper officer shall, where required, furnish the details relating to the
+period prior to his opting for payment of tax under section 9 in FORM GSTR- 4 till the due date of
+furnishing the return for the quarter ending September of the succeeding financial year or furnishing of
+annual return of the preceding financial year, whichever is earlier.
+
+63. Form and manner of submission of return by non-resident taxable person.- Every registered non-
+resident taxable person shall furnish a return in FORM GSTR-5 electronically through the common portal,
+either directly or through a Facilitation Centre notified by the Commissioner, including therein the details of
+outward supplies and inward supplies and shall pay the tax, interest, penalty, fees or any other amount
+payable under the Act or the provisions of this Chapter within twenty days after the end of a tax period or
+within seven days after the last day of the validity period of registration, whichever is earlier.
+
+64. Form and manner of submission of return by persons providing online information and
+database access or retrieval services.- Every registered person providing online information and data
+base access or retrieval services from a place outside India to a person in India other than a registered
+person shall file return in FORM GSTR-5A on or before the twentieth day of the month succeeding the
+calendar month or part thereof.
+
+65. Form and manner of submission of return by an Input Service Distributor.- Every Input Service
+Distributor shall, on the basis of details contained in FORM GSTR-6A, and where required, after adding,
+correcting or deleting the details, furnish electronically the return in FORM GSTR-6, containing the details
+of tax invoices on which credit has been received and those issued under section 20, through the common
+portal either directly or from a Facilitation Centre notified by the Commissioner.
+
+66. Form and manner of submission of return by a person required to deduct tax at source.- (1)
+Every registered person required to deduct tax at source under section 51 (hereafter in this rule referred to
+as deductor) shall furnish a return in FORM GSTR-7 electronically through the common portal either
+directly or from a Facilitation Centre notified by the Commissioner.
+
+https://www.taxtmi.com/notifications?id=120275 25/53
+
+29/10/2026, 4:08:59 pm
+
+(2) The details furnished by the deductor under sub-rule (1) shall be made available electronically to each
+of the suppliers in Part C of FORM GSTR-2A and FORM-GSTR- 4A on the common portal after the due
+date of filing of FORM GSTR-7.
+
+(3) The certificate referred to in sub-section (3) of section 51 shall be made available electronically to the
+deductee on the common portal in FORM GSTR-7A on the basis of the return furnished under sub-rule (1).
+
+67. Form and manner of submission of statement of supplies through an ecommerce operator.- (1)
+Every electronic commerce operator required to collect tax at source under section 52 shall furnish a
+statement in FORM GSTR-8 electronically on the common portal, either directly or from a Facilitation
+Centre notified by the Commissioner, containing details of supplies effected through such operator and the
+amount of tax collected as required under sub-section (1) of section 52.
+
+(2) The details furnished by the operator under sub-rule (1) shall be made available electronically to each
+of the suppliers in Part C of FORM GSTR-2A on the common portal after the due date of filing of FORM
+GSTR-8.
+
+68. Notice to non-filers of returns.- A notice in FORM GSTR-3A shall be issued, electronically, to a
+registered person who fails to furnish return under section 39 or section 44 or section 45 or section 52.
+
+69. Matching of claim of input tax credit .- The following details relating to the claim of input tax credit on
+inward supplies including imports, provisionally allowed under section 41, shall be matched under section
+42 after the due date for furnishing the return in FORM GSTR-3-
+
+(a) Goods and Services Tax Identification Number of the supplier;
+(b) Goods and Services Tax Identification Number of the recipient;
+(c) invoice or debit note number;
+
+(d) invoice or debit note date; and
+
+(e) tax amount:
+
+Provided that where the time limit for furnishing FORM GSTR-1 specified under section 37 and FORM
+GSTR-2 specified under section 38 has been extended, the date of matching relating to claim of input tax
+credit shall also be extended accordingly:
+
+Provided further that the Commissioner may, on the recommendations of the Council, by order, extend the
+date of matching relating to claim of input tax credit to such date as may be specified therein.
+
+Explanation.- For the purposes of this rule, it is hereby declared that —
+
+(i) The claim of input tax credit in respect of invoices and debit notes in FORM GSTR- 2 that were
+accepted by the recipient on the basis of FORM GSTR-2A without amendment shall be treated as
+matched if the corresponding supplier has furnished a valid return;
+
+(ii) The claim of input tax credit shall be considered as matched where the amount of input tax
+credit claimed is equal to or less than the output tax paid on such tax invoice or debit note by the
+corresponding supplier.
+
+70. Final acceptance of input tax credit and communication thereof.- (1) The final acceptance of claim
+of input tax credit in respect of any tax period, specified in sub-section (2) of section 42, shall be made
+available electronically to the registered person making such claim in FORM GST MIS-1 through the
+common portal.
+
+https://www.taxtmi.com/notifications?id=120275 26/53
+
+29/10/2026, 4:08:59 pm
+
+(2) The claim of input tax credit in respect of any tax period which had been communicated as mismatched
+but is found to be matched after rectification by the supplier or recipient shall be finally accepted and made
+available electronically to the person making such claim in FORM GST MIS-1 through the common portal.
+
+71. Communication and rectification of discrepancy in claim of input tax credit and reversal of
+claim of input tax credit.- (1) Any discrepancy in the claim of input tax credit in respect of any tax period,
+specified in sub-section (3) of section 42 and the details of output tax liable to be added under sub-section
+(5) of the said section on account of continuation of such discrepancy, shall be made available to the
+recipient making such claim electronically in FORM GST MIS-1 and to the supplier electronically in FORM
+GST MIS-2 through the common portal on or before the last date of the month in which the matching has
+been carried out.
+
+(2) A supplier to whom any discrepancy is made available under sub-rule (1) may make suitable
+rectifications in the statement of outward supplies to be furnished for the month in which the discrepancy is
+made available.
+
+(3) A recipient to whom any discrepancy is made available under sub-rule (1) may make suitable
+rectifications in the statement of inward supplies to be furnished for the month in which the discrepancy is
+made available.
+
+(4) Where the discrepancy is not rectified under sub-rule (2) or sub-rule (3), an amount to the extent of
+discrepancy shall be added to the output tax liability of the recipient in his return to be furnished in FORM
+GSTR-3 for the month succeeding the month in which the discrepancy is made available.
+
+Explanation.- For the purposes of this rule, it is hereby declared that -
+
+(i) Rectification by a supplier means adding or correcting the details of an outward supply in his
+valid return so as to match the details of corresponding inward supply declared by the recipient;
+
+(ii) Rectification by the recipient means deleting or correcting the details of an inward supply so as
+to match the details of corresponding outward supply declared by the supplier.
+
+72. Claim of input tax credit on the same invoice more than once.- Duplication of claims of input tax
+credit in the details of inward supplies shall be communicated to the registered person in FORM GST MIS-
+1 electronically through the common portal.
+
+73. Matching of claim of reduction in the output tax liability .-The following details relating to the claim
+of reduction in output tax liability shall be matched under section 43 after the due date for furnishing the
+return in FORM GSTR-3, namely:-
+
+(a) Goods and Services Tax Identification Number of the supplier;
+(b) Goods and Services Tax Identification Number of the recipient;
+(c) credit note number;
+
+(d) credit note date; and
+
+(e) tax amount:
+
+Provided that where the time limit for furnishing FORM GSTR-1 under section 37 and FORM GSTR-2
+under section 38 has been extended, the date of matching of claim of reduction in the output tax liability
+shall be extended accordingly:
+
+Provided further that the Commissioner may, on the recommendations of the Council, by order, extend the
+
+date of matching relating to claim of reduction in output tax liability to such date as may be specified
+therein.
+
+https://www.taxtmi.com/notifications?id=120275 27/53
+
+29/10/2026, 4:08:59 pm
+
+Explanation.- For the purposes of this rule, it is hereby declared that —
+
+(i) the claim of reduction in output tax liability due to issuance of credit notes in FORM GSTR-1 that
+were accepted by the corresponding recipient in FORM GSTR-2 without amendment shall be
+treated as matched if the said recipient has furnished a valid return.
+
+(ii) the claim of reduction in the output tax liability shall be considered as matched where the
+amount of output tax liability after taking into account the reduction claimed is equal to or more than
+the claim of input tax credit after taking into account the reduction admitted and discharged on such
+credit note by the corresponding recipient in his valid return.
+
+74, Final acceptance of reduction in output tax liability and communication thereof.- (1) The final
+acceptance of claim of reduction in output tax liability in respect of any tax period, specified in sub-section
+(2) of section 43, shall be made available electronically to the person making such claim in FORM GST
+MIS-1 through the common portal.
+
+(2) The claim of reduction in output tax liability in respect of any tax period which had been communicated
+as mis-matched but is found to be matched after rectification by the supplier or recipient shall be finally
+accepted and made available electronically to the person making such claim in FORM GST MIS-1 through
+the common portal.
+
+75. Communication and rectification of discrepancy in reduction in output tax liability and reversal
+of claim of reduction.- (1) Any discrepancy in claim of reduction in output tax liability, specified in sub-
+section (3) of section 43, and the details of output tax liability to be added under sub-section (5) of the said
+section on account of continuation of such discrepancy, shall be made available to the registered person
+making such claim electronically in FORM GST MIS- 1 and the recipient electronically in FORM GST MIS-
+2 through the common portal on or before the last date of the month in which the matching has been
+carried out.
+
+(2) A supplier to whom any discrepancy is made available under sub-rule (1) may make suitable
+rectifications in the statement of outward supplies to be furnished for the month in which the discrepancy is
+made available.
+
+(3) A recipient to whom any discrepancy is made available under sub-rule (1) may make suitable
+rectifications in the statement of inward supplies to be furnished for the month in which the discrepancy is
+made available.
+
+(4) Where the discrepancy is not rectified under sub-rule (2) or sub-rule (3), an amount to the extent of
+discrepancy shall be added to the output tax liability of the supplier and debited to the electronic liability
+register and also shown in his return in FORM GSTR-3 for the month succeeding the month in which the
+discrepancy is made available.
+
+Explanation.- For the purposes of this rule, it is hereby declared that —
+
+(i) rectification by a supplier means deleting or correcting the details of an outward supply in his
+valid return so as to match the details of corresponding inward supply declared by the recipient;
+
+(ii) rectification by the recipient means adding or correcting the details of an inward supply so as to
+match the details of corresponding outward supply declared by the supplier.
+
+76. Claim of reduction in output tax liability more than once.- The duplication of claims for reduction in
+output tax liability in the details of outward supplies shall be communicated to the registered person in
+FORM GST MIS-1 electronically through the common portal.
+
+77. Refund of interest paid on reclaim of reversals.- The interest to be refunded under sub-section (9)
+of section 42 or sub-section (9) of section 43 shall be claimed by the registered person in his return in
+
+https://www.taxtmi.com/notifications?id=120275 28/53
+
+29/10/2026, 4:08:59 pm
+
+FORM GSTR-3 and shall be credited to his electronic cash ledger in FORM GST PMT-05 and the amount
+credited shall be available for payment of any future liability towards interest or the taxable person may
+claim refund of the amount under section 54.
+
+78. Matching of details furnished by the e-Commerce operator with the details furnished by the
+supplier.- The following details relating to the supplies made through an e-Commerce operator, as
+declared in FORM GSTR-8, shall be matched with the corresponding details declared by the supplier in
+FORM GSTR-1,
+
+(a) State of place of supply; and
+(b) net taxable value:
+
+Provided that where the time limit for furnishing FORM GSTR-1 under section 37 has been extended, the
+date of matching of the above mentioned details shall be extended accordingly.
+
+Provided further that the Commissioner may, on the recommendations of the Council, by order, extend the
+date of matching to such date as may be specified therein.
+
+79. Communication and rectification of discrepancy in details furnished by the ecommerce
+operator and the supplier.- (1) Any discrepancy in the details furnished by the operator and those
+declared by the supplier shall be made available to the supplier electronically in FORM GST MIS-3 and to
+the e-commerce operator electronically in FORM GST MIS—4 on the common portal on or before the last
+date of the month in which the matching has been carried out.
+
+(2) A supplier to whom any discrepancy is made available under sub-rule (1) may make suitable
+rectifications in the statement of outward supplies to be furnished for the month in which the discrepancy is
+made available.
+
+(3) An operator to whom any discrepancy is made available under sub-rule (1) may make suitable
+rectifications in the statement to be furnished for the month in which the discrepancy is made available.
+
+(4) Where the discrepancy is not rectified under sub-rule (2) or sub-rule (3), an amount to the extent of
+discrepancy shall be added to the output tax liability of the supplier in his return in FORM GSTR-3 for the
+month succeeding the month in which the details of discrepancy are made available and such addition to
+the output tax liability and interest payable thereon shall be made available to the supplier electronically on
+the common portal in FORM GST MIS-3.
+
+80. Annual return.- (1) Every registered person, other than an Input Service Distributor, a person paying
+tax under section 51 or section 52, a casual taxable person and a nonresident taxable person, shall furnish
+an annual return as specified under sub-section (1) of section 44 electronically in FORM GSTR-9 through
+the common portal either directly or through a Facilitation Centre notified by the Commissioner:
+
+Provided that a person paying tax under section 10 shall furnish the annual return in FORM GSTR-9A.
+
+(2) Every electronic commerce operator required to collect tax at source under section 52 shall furnish
+annual statement referred to in sub-section (5) of the said section in FORM GSTR -9B.
+
+(3) Every registered person whose aggregate turnover during a financial year exceeds two crore rupees
+shall get his accounts audited as specified under sub-section (5) of section 35 and he shall furnish a copy
+of audited annual accounts and a reconciliation statement, duly certified, in FORM GSTR-9C, electronically
+through the common portal either directly or through a Facilitation Centre notified by the Commissioner.
+
+81. Final return.- Every registered person required to furnish a final return under section 45, shall furnish
+
+such return electronically in FORM GSTR-10 through the common portal either directly or through a
+Facilitation Centre notified by the Commissioner.
+
+https://www.taxtmi.com/notifications?id=120275 29/53
+
+29/10/2026, 4:08:59 pm
+
+82. Details of inward supplies of persons having Unique Identity Number.- (1) Every person who has
+been issued a Unique Identity Number and claims refund of the taxes paid on his inward supplies, shall
+furnish the details of such supplies of taxable goods or services or both electronically in FORM GSTR-11,
+along with application for such refund claim, through the common portal either directly or through a
+Facilitation Centre notified by the Commissioner.
+
+(2) Every person who has been issued a Unique Identity Number for purposes other than refund of the
+taxes paid shall furnish the details of inward supplies of taxable goods or services or both as may be
+required by the proper officer in FORM GSTR-11.
+
+83. Provisions relating to a goods and services tax practitioner.-(1) An application in FORM GST
+PCT-01 may be made electronically through the common portal either directly or through a Facilitation
+Centre notified by the Commissioner for enrolment as goods and services tax practitioner by any person
+who,
+
+(i) is a citizen of India;
+
+(ii) is a person of sound mind;
+
+(iii) is not adjudicated as insolvent;
+
+(iv) has not been convicted by a competent court;
+and satisfies any of the following conditions, namely:-
+
+(a) that he is a retired officer of the Commercial Tax Department of any State Government or of the
+Central Board of Excise and Customs, Department of Revenue, Government of India, who, during
+his service under the Government, had worked in a post not lower than the rank of a Group-B
+gazetted officer for a period of not less than two years; or
+
+(b) that he has enrolled as a sales tax practitioner or tax return preparer under the existing law for a
+period of not less than five years;
+
+(c) he has passed,
+(i) a graduate or postgraduate degree or its equivalent examination having a degree in
+Commerce, Law, Banking including Higher Auditing, or Business Administration or Business
+
+Management from any Indian University established by any law for the time being in force;
+or
+
+(ii) a degree examination of any Foreign University recognised by any Indian University as
+equivalent to the degree examination mentioned in sub-clause (i); or
+
+(iii) any other examination notified by the Government, on the recommendation of the
+Council, for this purpose; or
+
+(iv) has passed any of the following examinations, namely:-
+(a) final examination of the Institute of Chartered Accountants of India; or
+(b) final examination of the Institute of Cost Accountants of India; or
+(c) final examination of the Institute of Company Secretaries of India.
+
+(2) On receipt of the application referred to in sub-rule (1), the officer authorised in this behalf shall, after
+making such enquiry as he considers necessary, either enrol the applicant as a goods and services tax
+practitioner and issue a certificate to that effect in FORM GST PCT-02 or reject his application where it is
+found that the applicant is not qualified to be enrolled as a goods and services tax practitioner.
+
+https://www.taxtmi.com/notifications?id=120275 30/53
+
+29/10/2026, 4:08:59 pm
+
+(3) The enrolment made under sub-rule (2) shall be valid until it is cancelled:
+
+Provided that no person enrolled as a goods and services tax practitioner shall be eligible to remain
+enrolled unless he passes such examination conducted at such periods and by such authority as may be
+notified by the Commissioner on the recommendations of the Council:
+
+Provided further that no person to whom the provisions of clause (b) of sub-section (1) apply shall be
+eligible to remain enrolled unless he passes the said examination within a period of one year from the
+appointed date.
+
+(4) If any goods and services tax practitioner is found guilty of misconduct in connection with any
+proceedings under the Act, the authorised officer may, after giving him a notice to show cause in FORM
+GST PCT-03 for such misconduct and after giving him a reasonable opportunity of being heard, by order in
+FORM GST PCT -04 direct that he shall henceforth be disqualified under section 48 to function as a goods
+and services tax practitioner.
+
+(5) Any person against whom an order under sub-rule (4) is made may, within thirty days from the date of
+issue of such order, appeal to the Commissioner against such order.
+
+(6) Any registered person may, at his option, authorise a goods and services tax practitioner on the
+common portal in FORM GST PCT-05 or, at any time, withdraw such authorisation in FORM GST PCT-05
+and the goods and services tax practitioner so authorised shall be allowed to undertake such tasks as
+indicated in the said authorisation during the period of authorisation.
+
+(7) Where a statement required to be furnished by a registered person has been furnished by the goods
+and services tax practitioner authorised by him, a confirmation shall be sought from the registered person
+over email or SMS and the statement furnished by the goods and services tax practitioner shall be made
+available to the registered person on the common portal:
+
+Provided that where the registered person fails to respond to the request for confirmation till the last date
+of furnishing of such statement, it shall be deemed that he has confirmed the statement furnished by the
+goods and services tax practitioner.
+
+(8) A goods and services tax practitioner can undertake any or all of the following activities on behalf of a
+registered person, if so authorised by him to-
+
+(a) furnish the details of outward and inward supplies;
+
+(b) furnish monthly, quarterly, annual or final return;
+
+(c) make deposit for credit into the electronic cash ledger;
+
+(d) file a claim for refund; and
+
+(e) file an application for amendment or cancellation of registration:
+
+Provided that where any application relating to a claim for refund or an application for amendment or
+cancellation of registration has been submitted by the goods and services tax practitioner authorised by
+the registered person, a confirmation shall be sought from the registered person and the application
+submitted by the said practitioner shall be made available to the registered person on the common portal
+and such application shall not be proceeded with further until the registered person gives his consent to
+the same.
+
+(9) Any registered person opting to furnish his return through a goods and services tax practitioner shall-
+(a) give his consent in FORM GST PCT-05 to any goods and services tax practitioner to prepare
+
+and furnish his return; and
+
+https://www.taxtmi.com/notifications?id=120275 31/53
+
+29/10/2026, 4:08:59 pm
+
+(b) before confirming submission of any statement prepared by the goods and services tax
+practitioner, ensure that the facts mentioned in the return are true and correct.
+
+(10) The goods and services tax practitioner shall-
+(a) prepare the statements with due diligence; and
+
+(b) affix his digital signature on the statements prepared by him or electronically verify using his
+credentials.
+
+(11) A goods and services tax practitioner enrolled in any other State or Union territory shall be treated as
+enrolled in the State or Union territory for the purposes specified in sub-rule (8).
+
+84. Conditions for purposes of appearance.- (1) No person shall be eligible to attend before any
+authority as a goods and services tax practitioner in connection with any proceedings under the Act on
+behalf of any registered or un-registered person unless he has been enrolled under rule 83.
+
+(2) A goods and services tax practitioner attending on behalf of a registered or an unregistered person in
+any proceedings under the Act before any authority shall produce before such authority, if required, a copy
+of the authorisation given by such person in FORM GST PCT-05.
+
+Chapter IX
+Payment of Tax
+
+85. Electronic Liability Register.- (1) The electronic liability register specified under subsection (7) of
+section 49 shall be maintained in FORM GST PMT-01 for each person liable to pay tax, interest, penalty,
+late fee or any other amount on the common portal and all amounts payable by him shall be debited to the
+said register.
+
+(2) The electronic liability register of the person shall be debited by-
+
+(a) the amount payable towards tax, interest, late fee or any other amount payable as per the
+return furnished by the said person;
+
+(b) the amount of tax, interest, penalty or any other amount payable as determined by a proper
+officer in pursuance of any proceedings under the Act or as ascertained by the said person;
+
+(c) the amount of tax and interest payable as a result of mismatch under section 42 or section 43 or
+section 50; or
+
+(d) any amount of interest that may accrue from time to time.
+
+(3) Subject to the provisions of section 49, payment of every liability by a registered person as per his
+return shall be made by debiting the electronic credit ledger maintained as per rule 86 or the electronic
+cash ledger maintained as per rule 87 and the electronic liability register shall be credited accordingly.
+
+(4) The amount deducted under section 51, or the amount collected under section 52, or the amount
+payable on reverse charge basis, or the amount payable under section 10, any amount payable towards
+interest, penalty, fee or any other amount under the Act shall be paid by debiting the electronic cash ledger
+maintained as per rule 87 and the electronic liability register shall be credited accordingly.
+
+(5) Any amount of demand debited in the electronic liability register shall stand reduced to the extent of
+relief given by the appellate authority or Appellate Tribunal or court and the electronic tax liability register
+shall be credited accordingly.
+
+(6) The amount of penalty imposed or liable to be imposed shall stand reduced partly or fully, as the case
+may be, if the taxable person makes the payment of tax, interest and penalty specified in the show cause
+
+https://www.taxtmi.com/notifications?id=120275 32/53
+
+29/10/2026, 4:08:59 pm
+
+notice or demand order and the electronic liability register shall be credited accordingly.
+
+(7) Aregistered person shall, upon noticing any discrepancy in his electronic liability ledger, communicate
+the same to the officer exercising jurisdiction in the matter, through the common portal in FORM GST PMT-
+04.
+
+86. Electronic Credit Ledger.- (1) The electronic credit ledger shall be maintained in FORM GST PMT-02
+for each registered person eligible for input tax credit under the Act on the common portal and every claim
+of input tax credit under the Act shall be credited to the said ledger.
+
+(2) The electronic credit ledger shall be debited to the extent of discharge of any liability in accordance with
+the provisions of section 49.
+
+(3) Where a registered person has claimed refund of any unutilized amount from the electronic credit
+ledger in accordance with the provisions of section 54, the amount to the extent of the claim shall be
+debited in the said ledger.
+
+(4) If the refund so filed is rejected, either fully or partly, the amount debited under subrule (3), to the extent
+of rejection, shall be re-credited to the electronic credit ledger by the proper officer by an order made in
+FORM GST PMT-03.
+
+(5) Save as provided in the provisions of this Chapter, no entry shall be made directly in the electronic
+credit ledger under any circumstance.
+
+(6) Aregistered person shall, upon noticing any discrepancy in his electronic credit ledger, communicate
+the same to the officer exercising jurisdiction in the matter, through the common portal in FORM GST PMT-
+04.
+
+Explanation.— For the purposes of this rule, it is hereby clarified that a refund shall be deemed to be
+rejected, if the appeal is finally rejected or if the claimant gives an undertaking to the proper officer that he
+shall not file an appeal.
+
+87. Electronic Cash Ledger.- (1) The electronic cash ledger under sub-section (1) of section 49 shall be
+maintained in FORM GST PMT-05 for each person, liable to pay tax, interest, penalty, late fee or any other
+amount, on the common portal for crediting the amount deposited and debiting the payment therefrom
+towards tax, interest, penalty, fee or any other amount.
+
+(2) Any person, or a person on his behalf, shall generate a challan in FORM GST PMT-06 on the common
+portal and enter the details of the amount to be deposited by him towards tax, interest, penalty, fees or any
+other amount.
+
+(3) The deposit under sub-rule (2) shall be made through any of the following modes, namely:-
+(i) Internet Banking through authorised banks;
+(ii) Credit card or Debit card through the authorised bank;
+(iii) National Electronic Fund Transfer or Real Time Gross Settlement from any bank; or
+
+(iv) Over the Counter payment through authorised banks for deposits up to ten thousand rupees
+per challan per tax period, by cash, cheque or demand draft:
+
+Provided that the restriction for deposit up to ten thousand rupees per challan in case of an Over
+the Counter payment shall not apply to deposit to be made by —
+
+(a) Government Departments or any other deposit to be made by persons as may be notified by
+the Commissioner in this behalf;
+
+https://www.taxtmi.com/notifications?id=120275 33/53
+
+29/10/2026, 4:08:59 pm
+
+(b) Proper officer or any other officer authorised to recover outstanding dues from any person,
+whether registered or not, including recovery made through attachment or sale of movable or
+immovable properties;
+
+(c) Proper officer or any other officer authorised for the amounts collected by way of cash, cheque
+or demand draft during any investigation or enforcement activity or any ad hoc deposit:
+
+Provided further that the challan in FORM GST PMT-06 generated at the common portal shall be
+valid for a period of fifteen days.
+
+Explanation.— For the purposes of this sub-rule, it is hereby clarified that for making payment of any
+amount indicated in the challan, the commission, if any, payable in respect of such payment shall
+be borne by the person making such payment.
+
+(4) Any payment required to be made by a person who is not registered under the Act, shall be made on
+the basis of a temporary identification number generated through the common portal.
+
+(5) Where the payment is made by way of National Electronic Fund Transfer or Real Time Gross
+Settlement mode from any bank, the mandate form shall be generated along with the challan on the
+common portal and the same shall be submitted to the bank from where the payment is to be made:
+
+Provided that the mandate form shall be valid for a period of fifteen days from the date of generation of
+challan.
+
+(6) On successful credit of the amount to the concerned government account maintained in the authorised
+bank, a Challan Identification Number shall be generated by the collecting bank and the same shall be
+indicated in the challan.
+
+(7) On receipt of the Challan Identification Number from the collecting bank, the said amount shall be
+credited to the electronic cash ledger of the person on whose behalf the deposit has been made and the
+common portal shall make available a receipt to this effect.
+
+(8) Where the bank account of the person concerned, or the person making the deposit on his behalf, is
+debited but no Challan Identification Number is generated or generated but not communicated to the
+common portal, the said person may represent electronically in FORM GST PMT-07 through the common
+portal to the bank or electronic gateway through which the deposit was initiated.
+
+(9) Any amount deducted under section 51 or collected under section 52 and claimed in FORM GSTR-02
+by the registered taxable person from whom the said amount was deducted or, as the case may be,
+collected shall be credited to his electronic cash ledger in accordance with the provisions of rule 87.
+
+(10) Where a person has claimed refund of any amount from the electronic cash ledger, the said amount
+shall be debited to the electronic cash ledger.
+
+(11) If the refund so claimed is rejected, either fully or partly, the amount debited under sub-rule (10), to the
+extent of rejection, shall be credited to the electronic cash ledger by the proper officer by an order made in
+FORM GST PMT-03.
+
+(12) A registered person shall, upon noticing any discrepancy in his electronic cash ledger, communicate
+the same to the officer exercising jurisdiction in the matter, through the common portal in FORM GST PMT-
+04.
+
+Explanation 1.- The refund shall be deemed to be rejected if the appeal is finally rejected.
+
+Explanation 2.— For the purposes of this rule, it is hereby clarified that a refund shall be deemed to be
+rejected, if the appeal is finally rejected or if the claimant gives an undertaking to the proper officer that he
+shall not file an appeal.
+
+https://www.taxtmi.com/notifications?id=120275 34/53
+
+29/10/2026, 4:08:59 pm
+
+88. Identification number for each transaction.- (1) A unique identification number shall be generated at
+the common portal for each debit or credit to the electronic cash or credit ledger, as the case may be.
+
+(2) The unique identification number relating to discharge of any liability shall be indicated in the
+corresponding entry in the electronic liability register.
+
+(3) A unique identification number shall be generated at the common portal for each credit in the electronic
+liability register for reasons other than those covered under sub-rule (2).
+
+Chapter X
+Refund
+
+89. Application for refund of tax, interest, penalty, fees or any other amount.- (1)Any person, except
+the persons covered under notification issued under section 55, claiming refund of any tax, interest,
+penalty, fees or any other amount paid by him, other than refund of integrated tax paid on goods exported
+out of India, may file an application electronically in FORM GST RFD-01 through the common portal, either
+directly or through a Facilitation Centre notified by the Commissioner:
+
+Provided that any claim for refund relating to balance in the electronic cash ledger in accordance with the
+provisions of sub-section (6) of section 49 may be made through the return furnished for the relevant tax
+period in FORM GSTR-3 or FORM GSTR-4 or FORM GSTR-7, as the case may be:
+
+Provided further that in respect of supplies to a Special Economic Zone unit or a Special Economic Zone
+developer, the application for refund shall be filed by the —
+
+(a) supplier of goods after such goods have been admitted in full in the Special Economic Zone for
+authorised operations, as endorsed by the specified officer of the Zone;
+
+(b) supplier of services along with such evidence regarding receipt of services for authorised
+operations as endorsed by the specified officer of the Zone:
+
+Provided also that in respect of supplies regarded as deemed exports, the application shall be filed
+by the recipient of deemed export supplies:
+
+Provided also that refund of any amount, after adjusting the tax payable by the applicant out of the
+advance tax deposited by him under section 27 at the time of registration, shall be claimed in the last
+return required to be furnished by him.
+
+(2) The application under sub-rule (1) shall be accompanied by any of the following documentary
+evidences in Annexure 1 in Form GST RFD-01, as applicable, to establish that a refund is due to the
+applicant, namely:-
+
+(a) the reference number of the order and a copy of the order passed by the proper officer or an
+appellate authority or Appellate Tribunal or court resulting in such refund or reference number of
+the payment of the amount specified in subsection (6) of section 107 and sub-section (8) of section
+112 claimed as refund;
+
+(b) a statement containing the number and date of shipping bills or bills of export and the number
+and the date of the relevant export invoices, in a case where the refund is on account of export of
+goods;
+
+(c) a statement containing the number and date of invoices and the relevant Bank Realisation
+
+Certificates or Foreign Inward Remittance Certificates, as the case may be, in a case where the
+refund is on account of the export of services;
+
+https://www.taxtmi.com/notifications?id=120275 35/53
+
+29/10/2026, 4:08:59 pm
+
+(d) a statement containing the number and date of invoices as provided in rule 46 along with the
+evidence regarding the endorsement specified in the second proviso to sub-rule (1) in the case of
+the supply of goods made to a Special Economic Zone unit or a Special Economic Zone developer;
+
+(e) a statement containing the number and date of invoices, the evidence regarding the
+endorsement specified in the second proviso to sub-rule (1) and the details of payment, along with
+the proof thereof, made by the recipient to the supplier for authorised operations as defined under
+the Special Economic Zone Act, 2005, in a case where the refund is on account of supply of
+services made to a Special Economic Zone unit or a Special Economic Zone developer;
+
+(f) a declaration to the effect that the Special Economic Zone unit or the Special Economic Zone
+developer has not availed the input tax credit of the tax paid by the supplier of goods or services or
+both, in a case where the refund is on account of supply of goods or services made to a Special
+Economic Zone unit or a Special Economic Zone developer;
+
+(g) a statement containing the number and date of invoices along with such other evidence as may
+be notified in this behalf, in a case where the refund is on account of deemed exports;
+
+(h) a statement containing the number and the date of the invoices received and issued during a
+tax period in a case where the claim pertains to refund of any unutilised input tax credit under sub-
+section (3) of section 54 where the credit has accumulated on account of the rate of tax on the
+inputs being higher than the rate of tax on output supplies, other than nil-rated or fully exempt
+supplies;
+
+(i) the reference number of the final assessment order and a copy of the said order in a case where
+the refund arises on account of the finalisation of provisional assessment;
+
+(j) a statement showing the details of transactions considered as intra-State supply but which is
+subsequently held to be inter-State supply;
+
+(k) a statement showing the details of the amount of claim on account of excess payment of tax;
+
+(I) a declaration to the effect that the incidence of tax, interest or any other amount claimed as
+refund has not been passed on to any other person, in a case where the amount of refund claimed
+does not exceed two lakh rupees: Provided that a declaration is not required to be furnished in
+respect of the cases covered under clause (a) or clause (b) or clause (c) or clause (d) or clause (f)
+of sub-section (8) of section 54;
+
+(m) a Certificate in Annexure 2 of FORM GST RFD-01 issued by a chartered accountant or a cost
+accountant to the effect that the incidence of tax, interest or any other amount claimed as refund
+has not been passed on to any other person, in a case where the amount of refund claimed
+exceeds two lakh rupees:
+
+Provided that a certificate is not required to be furnished in respect of cases covered under clause
+(a) or clause (b) or clause (c) or clause (d) or clause (f) of subsection (8) of section 54;
+
+Explanation.— For the purposes of this rule-
+
+(i) in case of refunds referred to in clause (c) of sub-section (8) of section 54, the
+expression “invoice” means invoice conforming to the provisions contained in section 31;
+
+(ii) where the amount of tax has been recovered from the recipient, it shall be deemed that
+the incidence of tax has been passed on to the ultimate consumer.
+
+(3) Where the application relates to refund of input tax credit, the electronic credit ledger shall be debited
+by the applicant by an amount equal to the refund so claimed.
+
+https://www.taxtmi.com/notifications?id=120275 36/53
+
+29/10/2026, 4:08:59 pm
+
+(4) In the case of zero-rated supply of goods or services or both without payment of tax under bond or
+letter of undertaking in accordance with the provisions of sub-section (3) of section 16 of the Integrated
+Goods and Services Tax Act, 2017 (13 of 2017), refund of input tax credit shall be granted as per the
+following formula -
+
+Refund Amount = (Turnover of zero-rated supply of goods + Turnover of zero-rated supply of services) x
+Net ITC +Adjusted Total Turnover
+
+Where,-
+(A) "Refund amount" means the maximum refund that is admissible;
+(B) "Net ITC" means input tax credit availed on inputs and input services during the relevant period;
+
+(C) "Turnover of zero-rated supply of goods" means the value of zero-rated supply of goods made
+during the relevant period without payment of tax under bond or letter of undertaking;
+
+(D) "Turnover of zero-rated supply of services" means the value of zero-rated supply of services
+made without payment of tax under bond or letter of undertaking, calculated in the following
+manner, namely:-
+
+Zero-rated supply of services is the aggregate of the payments received during the relevant
+period for zero-rated supply of services and zero-rated supply of services where supply has
+been completed for which payment had been received in advance in any period prior to the
+relevant period reduced by advances received for zero-rated supply of services for which
+the supply of services has not been completed during the relevant period;
+
+(E) "Adjusted Total turnover" means the turnover in a State or a Union territory, as defined under
+sub-section (112) of section 2, excluding the value of exempt supplies other than zero-rated
+supplies, during the relevant period;
+
+(F) “Relevant period” means the period for which the claim has been filed.
+
+(5) In the case of refund on account of inverted duty structure, refund of input tax credit shall be granted as
+per the following formula -
+
+Maximum Refund Amount = {(Turnover of inverted rated supply of goods) x Net ITC + Adjusted Total
+Turnover} - tax payable on such inverted rated supply of goods
+
+Explanation.- For the purposes of this sub rule, the expressions “Net ITC” and “Adjusted Total turnover”
+shall have the same meanings as assigned to them in sub-rule (4).
+
+90. Acknowledgement.- (1) Where the application relates to a claim for refund from the electronic cash
+ledger, an acknowledgement in FORM GST RFD-02 shall be made available to the applicant through the
+common portal electronically, clearly indicating the date of filing of the claim for refund and the time period
+specified in sub-section (7) of section 54 shall be counted from such date of filing.
+
+(2) The application for refund, other than claim for refund from electronic cash ledger, shall be forwarded to
+the proper officer who shall, within a period of fifteen days of filing of the said application, scrutinize the
+application for its completeness and where the application is found to be complete in terms of sub-rule (2),
+(3) and (4) of rule 89, an acknowledgement in FORM GST RFD-02 shall be made available to the applicant
+through the common portal electronically, clearly indicating the date of filing of the claim for refund and the
+time period specified in sub-section (7) of section 54 shall be counted from such date of filing.
+
+(3) Where any deficiencies are noticed, the proper officer shall communicate the deficiencies to the
+applicant in FORM GST RFD-03 through the common portal electronically, requiring him to file a fresh
+refund application after rectification of such deficiencies.
+
+https://www.taxtmi.com/notifications?id=120275 37/53
+
+29/10/2026, 4:08:59 pm
+
+(4) Where deficiencies have been communicated in FORM GST RFD-03 under the State Goods and
+Service Tax Rules, 2017, the same shall also deemed to have been communicated under this rule along
+with the deficiencies communicated under sub-rule (3).
+
+91. Grant of provisional refund.-(1) The provisional refund in accordance with the provisions of sub-
+section (6) of section 54 shall be granted subject to the condition that the person claiming refund has,
+during any period of five years immediately preceding the tax period to which the claim for refund relates,
+not been prosecuted for any offence under the Act or under an existing law where the amount of tax
+evaded exceeds two hundred and fifty lakh rupees.
+
+(2) The proper officer, after scrutiny of the claim and the evidence submitted in support thereof and on
+being prima facie satisfied that the amount claimed as refund under sub-rule (1) is due to the applicant in
+accordance with the provisions of sub-section (6) of section 54, shall make an order in FORM GST RFD-
+04, sanctioning the amount of refund due to the said applicant on a provisional basis within a period not
+exceeding seven days from the date of the acknowledgement under sub-rule (1) or sub-rule (2) of rule 90.
+
+(3) The proper officer shall issue a payment advice in FORM GST RFD-05 for the amount sanctioned
+under sub-rule (2) and the same shall be electronically credited to any of the bank accounts of the
+applicant mentioned in his registration particulars and as specified in the application for refund.
+
+92. Order sanctioning refund.- (1) Where, upon examination of the application, the proper officer is
+satisfied that a refund under sub-section (5) of section 54 is due and payable to the applicant, he shall
+make an order in FORM GST RFD-06 sanctioning the amount of refund to which the applicant is entitled,
+mentioning therein the amount, if any, refunded to him on a provisional basis under sub-section (6) of
+section 54, amount adjusted against any outstanding demand under the Act or under any existing law and
+the balance amount refundable:
+
+Provided that in cases where the amount of refund is completely adjusted against any outstanding demand
+under the Act or under any existing law, an order giving details of the adjustment shall be issued in Part A
+of FORM GST RFD-07.
+
+(2) Where the proper officer or the Commissioner is of the opinion that the amount of refund is liable to be
+withheld under the provisions of sub-section (10) or, as the case may be, sub-section (11) of section 54, he
+shall pass an order in Part B of FORM GST RFD-07 informing him the reasons for withholding of such
+refund.
+
+(3) Where the proper officer is satisfied, for reasons to be recorded in writing, that the whole or any part of
+the amount claimed as refund is not admissible or is not payable to the applicant, he shall issue a notice in
+FORM GST RFD-08 to the applicant, requiring him to furnish a reply in FORM GST RFD-09 within a period
+of fifteen days of the receipt of such notice and after considering the reply, make an order in FORM GST
+RFD-06 sanctioning the amount of refund in whole or part, or rejecting the said refund claim and the said
+order shall be made available to the applicant electronically and the provisions of sub-rule (1) shall, mutatis
+mutandis, apply to the extent refund is allowed:
+
+Provided that no application for refund shall be rejected without giving the applicant an opportunity of being
+heard.
+
+(4) Where the proper officer is satisfied that the amount refundable under sub-rule (1) or sub-rule (2) is
+payable to the applicant under sub-section (8) of section 54, he shall make an order in FORM GST RFD-
+06 and issue a payment advice in FORM GST RFD-05 for the amount of refund and the same shall be
+electronically credited to any of the bank accounts of the applicant mentioned in his registration particulars
+and as specified in the application for refund.
+
+(5) Where the proper officer is satisfied that the amount refundable under sub-rule (1) or sub-rule (2) is not
+payable to the applicant under sub-section (8) of section 54, he shall make an order in FORM GST RFD-
+
+https://www.taxtmi.com/notifications?id=120275 38/53
+
+29/10/2026, 4:08:59 pm
+
+06 and issue an advice in FORM GST RFD-05, for the amount of refund to be credited to the Consumer
+Welfare Fund.
+
+93. Credit of the amount of rejected refund claim.- (1) Where any deficiencies have been
+communicated under sub-rule (3) of rule 90, the amount debited under sub-rule (3) of rule 89 shall be re-
+credited to the electronic credit ledger.
+
+(2) Where any amount claimed as refund is rejected under rule 92, either fully or partly, the amount
+debited, to the extent of rejection, shall be re-credited to the electronic credit ledger by an order made in
+FORM GST PMT-03.
+
+Explanation— For the purposes of this rule, a refund shall be deemed to be rejected, if the appeal is finally
+rejected or if the claimant gives an undertaking in writing to the proper officer that he shall not file an
+appeal.
+
+94. Order sanctioning interest on delayed refunds.- Where any interest is due and payable to the
+applicant under section 56, the proper officer shall make an order along with a payment advice in FORM
+GST RFD-05, specifying therein the amount of refund which is delayed, the period of delay for which
+interest is payable and the amount of interest payable, and such amount of interest shall be electronically
+credited to any of the bank accounts of the applicant mentioned in his registration particulars and as
+specified in the application for refund.
+
+95, Refund of tax to certain persons.- (1) Any person eligible to claim refund of tax paid by him on his
+inward supplies as per notification issued section 55 shall apply for refund in FORM GST RFD-10 once in
+every quarter, electronically on the common portal, either directly or through a Facilitation Centre notified
+by the Commissioner, along with a statement of the inward supplies of goods or services or both in FORM
+GSTR-11, prepared on the basis of the statement of the outward supplies furnished by the corresponding
+suppliers in FORM GSTR-1.
+
+(2) An acknowledgement for the receipt of the application for refund shall be issued in FORM GST RFD-
+02.
+
+(3) The refund of tax paid by the applicant shall be available if-
+
+(a) the inward supplies of goods or services or both were received from a registered person against
+a tax invoice and the price of the supply covered under a single tax invoice exceeds five thousand
+rupees, excluding tax paid, if any;
+
+(b) name and Goods and Services Tax Identification Number or Unique Identity Number of the
+applicant is mentioned in the tax invoice; and
+
+(c) such other restrictions or conditions as may be specified in the notification are satisfied.
+
+(4) The provisions of rule 92 shall, mutatis mutandis, apply for the sanction and payment of refund under
+this rule.
+
+(5) Where an express provision in a treaty or other international agreement, to which the President or the
+Government of India is a party, is inconsistent with the provisions of this Chapter, such treaty or
+international agreement shall prevail.
+
+96. Refund of integrated tax paid on goods exported out of India.-(1) The shipping bill filed by an exporter
+shall be deemed to be an application for refund of integrated tax paid on the goods exported out of India
+and such application shall be deemed to have been filed only when:-
+
+(a) the person in charge of the conveyance carrying the export goods duly files an export manifest
+or an export report covering the number and the date of shipping bills or bills of export; and
+
+https://www.taxtmi.com/notifications?id=120275 39/53
+
+29/10/2026, 4:08:59 pm
+
+(b) the applicant has furnished a valid return in FORM GSTR-3;
+
+(2) The details of the relevant export invoices contained in FORM GSTR-1 shall be transmitted
+electronically by the common portal to the system designated by the Customs and the said system shall
+electronically transmit to the common portal, a confirmation that the goods covered by the said invoices
+have been exported out of India.
+
+(3) Upon the receipt of the information regarding the furnishing of a valid return in FORM GSTR-3 from the
+common portal, the system designated by the Customs shall process the claim for refund and an amount
+equal to the integrated tax paid in respect of each shipping bill or bill of export shall be electronically
+credited to the bank account of the applicant mentioned in his registration particulars and as intimated to
+the Customs authorities.
+
+(4) The claim for refund shall be withheld where,-
+
+(a) a request has been received from the jurisdictional Commissioner of central tax, State tax or
+Union territory tax to withhold the payment of refund due to the person claiming refund in
+accordance with the provisions of sub-section (10) or sub-section (11) of section 54; or
+
+(b) the proper officer of Customs determines that the goods were exported in violation of the
+provisions of the Customs Act, 1962.
+
+(5) Where refund is withheld in accordance with the provisions of clause (a) of sub-rule (4), the proper
+officer of integrated tax at the Customs station shall intimate the applicant and the jurisdictional
+Commissioner of central tax, State tax or Union territory tax, as the case may be, and a copy of such
+intimation shall be transmitted to the common portal.
+
+(6) Upon transmission of the intimation under sub-rule (5), the proper officer of central tax or State tax or
+Union territory tax, as the case may be, shall pass an order in Part B of FORM GST RFD-07.
+
+(7) Where the applicant becomes entitled to refund of the amount withheld under clause (a) of sub-rule (4),
+the concerned jurisdictional officer of central tax, State tax or Union territory tax, as the case may be, shall
+proceed to refund the amount after passing an order in FORM GST RFD-06.
+
+(8) The Central Government may pay refund of the integrated tax to the Government of Bhutan on the
+exports to Bhutan for such class of goods as may be notified in this behalf and where such refund is paid
+to the Government of Bhutan, the exporter shall not be paid any refund of the integrated tax.
+
+97. Consumer Welfare Fund.- (1) All credits to the Consumer Welfare Fund shall be made under sub-rule
+(5) of rule 92.
+
+(2) Any amount, having been credited to the Fund, ordered or directed as payable to any claimant by
+orders of the proper officer, appellate authority or Appellate Tribunal or court, shall be paid from the Fund.
+
+(3) Any utilisation of amount from the Consumer Welfare Fund under sub-section (1) of section 58 shall be
+made by debiting the Consumer Welfare Fund account and crediting the account to which the amount is
+transferred for utilisation.
+
+(4) The Government shall, by an order, constitute a Standing Committee with a Chairman, a Vice-
+Chairman, a Member Secretary and such other Members as it may deem fit and the Committee shall make
+recommendations for proper utilisation of the money credited to the Consumer Welfare Fund for welfare of
+the consumers.
+
+(5) The Committee shall meet as and when necessary, but not less than once in three months.
+
+(6) Any agency or organisation engaged in consumer welfare activities for a period of three years
+registered under the provisions of the Companies Act, 2013 (18 of 2013) or under any other law for the
+
+https://www.taxtmi.com/notifications?id=120275 40/53
+
+29/10/2026, 4:08:59 pm
+
+time being in force, including village or mandal or samiti level cooperatives of consumers especially
+Women, Scheduled Castes and Scheduled Tribes, or any industry as defined in the Industrial Disputes Act,
+1947 (14 of 1947) recommended by the Bureau of Indian Standards to be engaged for a period of five
+years in viable and useful research activity which has made, or is likely to make, significant contribution in
+formulation of standard mark of the products of mass consumption, the Central Government or the State
+Government may make an application for a grant from the Consumer Welfare Fund:
+
+Provided that a consumer may make application for reimbursement of legal expenses incurred by him as a
+complainant in a consumer dispute, after its final adjudication.
+
+(7) All applications for grant from the Consumer Welfare Fund shall be made by the applicant Member
+Secretary, but the Committee shall not consider an application, unless it has been inquired into in material
+details and recommended for consideration accordingly, by the Member Secretary.
+
+(8) The Committee shall have powers -
+
+a. to require any applicant to produce before it, or before a duly authorised Officer of the
+Government such books, accounts, documents, instruments, or commodities in custody and control
+of the applicant, as may be necessary for proper evaluation of the application;
+
+b. to require any applicant to allow entry and inspection of any premises, from which activities
+claimed to be for the welfare of consumers are stated to be carried on, to a duly authorised officer
+of the Central Government or, as the case may be, State Government;
+
+c. to get the accounts of the applicants audited, for ensuring proper utilisation of the grant;
+
+d. to require any applicant, in case of any default, or suppression of material information on his
+part, to refund in lump-sum, the sanctioned grant to the Committee, and to be subject to
+prosecution under the Act;
+
+e. to recover any sum due from any applicant in accordance with the provisions of the Act;
+
+f. to require any applicant, or class of applicants to submit a periodical report, indicating proper
+utilisation of the grant;
+
+g. to reject an application placed before it on account of factual inconsistency, or inaccuracy in
+material particulars;
+
+h. to recommend minimum financial assistance, by way of grant to an applicant, having regard to
+his financial status, and importance and utility of nature of activity under pursuit, after ensuring that
+the financial assistance provided shall not be misutilised;
+
+i. to identify beneficial and safe sectors, where investments out of Consumer Welfare Fund may be
+made and make recommendations, accordingly;
+
+j. to relax the conditions required for the period of engagement in consumer welfare activities of an
+applicant;
+
+k. to make guidelines for the management, administration and audit of the Consumer Welfare
+Fund.
+
+(9) The Central Consumer Protection Council and the Bureau of Indian Standards shall recommend to the
+Goods and Services Tax Council, the broad guidelines for considering the projects or proposals for the
+purpose of incurring expenditure from the Consumer Welfare Fund.
+
+CHAPTER XI
+
+https://www.taxtmi.com/notifications?id=120275 41/53
+
+29/10/2026, 4:08:59 pm
+
+ASSESSMENT AND AUDIT
+
+98. Provisional Assessment.- (1) Every registered person requesting for payment of tax on a provisional
+basis in accordance with the provisions of sub-section (1) of section 60 shall furnish an application along
+with the documents in support of his request, electronically in FORM GST ASMT-01 on the common portal,
+either directly or through a Facilitation Centre notified by the Commissioner.
+
+(2) The proper officer may, on receipt of the application under sub-rule (1), issue a notice in FORM GST
+ASMT-02 requiring the registered person to furnish additional information or documents in support of his
+request and the applicant shall file a reply to the notice in FORM GST ASMT - 03, and may appear in
+person before the said officer if he so desires.
+
+(3) The proper officer shall issue an order in FORM GST ASMT-04 allowing the payment of tax on a
+provisional basis indicating the value or the rate or both on the basis of which the assessment is to be
+allowed on a provisional basis and the amount for which the bond is to be executed and security to be
+furnished not exceeding twenty five per cent. of the amount covered under the bond.
+
+(4) The registered person shall execute a bond in accordance with the provisions of subsection (2) of
+section 60 in FORM GST ASMT-05 along with a security in the form of a bank guarantee for an amount as
+determined under sub-rule (3):
+
+Provided that a bond furnished to the proper officer under the State Goods and Services Tax Act or
+Integrated Goods and Services Tax Act shall be deemed to be a bond furnished under the provisions of the
+Act and the rules made thereunder.
+
+Explanation.- For the purposes of this rule, the expression “amount” shall include the amount of integrated
+tax, central tax, State tax or Union territory tax and cess payable in respect of the transaction.
+
+(5) The proper officer shall issue a notice in FORM GST ASMT-06, calling for information and records
+required for finalization of assessment under sub-section (3) of section 60 and shall issue a final
+assessment order, specifying the amount payable by the registered person or the amount refundable, if
+any, in FORM GST ASMT-07.
+
+(6) The applicant may file an application in FORM GST ASMT- 08 for the release of the security furnished
+under sub-rule (4) after issue of the order under sub-rule (5).
+
+(7) The proper officer shall release the security furnished under sub-rule (4), after ensuring that the
+applicant has paid the amount specified in sub-rule (5) and issue an order in FORM GST ASMT-09 within
+a period of seven working days from the date of the receipt of the application under sub-rule (6).
+
+99. Scrutiny of returns.- (1) Where any return furnished by a registered person is selected for scrutiny,
+the proper officer shall scrutinize the same in accordance with the provisions of section 61 with reference
+to the information available with him, and in case of any discrepancy, he shall issue a notice to the said
+person in FORM GST ASMT-10, informing him of such discrepancy and seeking his explanation thereto
+within such time, not exceeding thirty days from the date of service of the notice or such further period as
+may be permitted by him and also, where possible, quantifying the amount of tax, interest and any other
+amount payable in relation to such discrepancy.
+
+(2) The registered person may accept the discrepancy mentioned in the notice issued under sub-rule (1),
+and pay the tax, interest and any other amount arising from such discrepancy and inform the same or
+furnish an explanation for the discrepancy in FORM GST ASMT- 11 to the proper officer.
+
+(3) Where the explanation furnished by the registered person or the information submitted under sub-rule
+(2) is found to be acceptable, the proper officer shall inform him accordingly in FORM GST ASMT-12.
+
+https://www.taxtmi.com/notifications?id=120275 42/53
+
+29/10/2026, 4:08:59 pm
+
+100. Assessment in certain cases. (1) The order of assessment made under sub-section (1) of section
+62 shall be issued in FORM GST ASMT-13.
+
+(2) The proper officer shall issue a notice to a taxable person in accordance with the provisions of section
+63 in FORM GST ASMT-14 containing the grounds on which the assessment is proposed to be made on
+best judgment basis and after allowing a time of fifteen days to such person to furnish his reply, if any, pass
+an order in FORM GST ASMT- 15.
+
+(3) The order of summary assessment under sub-section (1) of section 64 shall be issued in FORM GST
+ASMT-16.
+
+(4) The person referred to in sub-section (2) of section 64 may file an application for withdrawal of the
+summary assessment order in FORM GST ASMT-17.
+
+(5) The order of withdrawal or, as the case may be, rejection of the application under subsection (2) of
+section 64 shall be issued in FORM GST ASMT-18.
+
+101. Audit.- (1) The period of audit to be conducted under sub-section (1) of section 65 shall be a financial
+year or multiples thereof.
+
+(2) Where it is decided to undertake the audit of a registered person in accordance with the provisions of
+section 65, the proper officer shall issue a notice in FORM GST ADT-01 in accordance with the provisions
+of sub-section (3) of the said section.
+
+(3) The proper officer authorised to conduct audit of the records and the books of account of the registered
+person shall, with the assistance of the team of officers and officials accompanying him, verify the
+documents on the basis of which the books of account are maintained and the returns and statements
+furnished under the provisions of the Act and the rules made thereunder, the correctness of the turnover,
+exemptions and deductions claimed, the rate of tax applied in respect of the supply of goods or services or
+both, the input tax credit availed and utilised, refund claimed, and other relevant issues and record the
+observations in his audit notes.
+
+(4) The proper officer may inform the registered person of the discrepancies noticed, if any, as observed in
+the audit and the said person may file his reply and the proper officer shall finalise the findings of the audit
+after due consideration of the reply furnished.
+
+(5) On conclusion of the audit, the proper officer shall inform the findings of audit to the registered person
+in accordance with the provisions of sub-section (6) of section 65 in FORM GST ADT-02.
+
+102. Special Audit.- (1) Where special audit is required to be conducted in accordance with the provisions
+of section 66, the officer referred to in the said section shall issue a direction in FORM GST ADT-03 to the
+registered person to get his records audited by a chartered accountant or a cost accountant specified in
+the said direction.
+
+(2) On conclusion of the special audit, the registered person shall be informed of the findings of the special
+audit in FORM GST ADT-04.
+
+Chapter — XIl
+Advance Ruling
+
+103. Qualification and appointment of members of the Authority for Advance Ruling.- The Central
+Government and the State Government shall appoint officer of the rank of Joint Commissioner as member
+of the Authority for Advance Ruling.
+
+104. Form and manner of application to the Authority for Advance Ruling.- (1) An application for
+obtaining an advance ruling under sub-section (1) of section 97 shall be made on the common portal in
+
+https://www.taxtmi.com/notifications?id=120275 43/53
+
+29/10/2026, 4:08:59 pm
+
+FORM GST ARA-01 and shall be accompanied by a fee of five thousand rupees, to be deposited in the
+manner specified in section 49.
+
+(2) The application referred to in sub-rule (1), the verification contained therein and all the relevant
+documents accompanying such application shall be signed in the manner specified in rule 26.
+
+105. Certification of copies of advance rulings pronounced by the Authority.- A copy of the advance
+ruling shall be certified to be a true copy of its original by any member of the Authority for Advance Ruling.
+
+106. Form and manner of appeal to the Appellate Authority for Advance Ruling.- (1) An appeal
+against the advance ruling issued under sub-section (6) of section 98 shall be made by an applicant on the
+common portal in FORM GST ARA-02 and shall be accompanied by a fee of ten thousand rupees to be
+deposited in the manner specified in section 49.
+
+(2) An appeal against the advance ruling issued under sub-section (6) of section 98 shall be made by the
+concerned officer or the jurisdictional officer referred to in section 100 on the common portal in FORM GST
+ARA-03 and no fee shall be payable by the said officer for filing the appeal.
+
+(3) The appeal referred to in sub-rule (1) or sub-rule (2), the verification contained therein and all the
+relevant documents accompanying such appeal shall be signed,-
+
+(a) in the case of the concerned officer or jurisdictional officer, by an officer authorised in writing by
+such officer; and
+
+(b) in the case of an applicant, in the manner specified in rule 26.
+
+107. Certification of copies of the advance rulings pronounced by the Appellate Authority. - A copy
+of the advance ruling pronounced by the Appellate Authority for Advance Ruling and duly signed by the
+Members shall be sent to-
+
+(a) the applicant and the appellant;
+(b) the concerned officer of central tax and State or Union territory tax;
+(c) the jurisdictional officer of central tax and State or Union territory tax; and
+(d) the Authority,
+in accordance with the provisions of sub-section (4) of section 101 of the Act.
+Chapter — XIll
+Appeals and Revision
+
+108. Appeal to the Appellate Authority.- (1) An appeal to the Appellate Authority under sub-section (1) of
+section 107 shall be filed in FORM GST APL-01, along with the relevant documents, either electronically or
+otherwise as may be notified by the Commissioner, and a provisional acknowledgement shall be issued to
+the appellant immediately.
+
+(2) The grounds of appeal and the form of verification as contained in FORM GST APL- 01 shall be signed
+in the manner specified in rule 26.
+
+(3) A certified copy of the decision or order appealed against shall be submitted within seven days of filing
+the appeal under sub-rule (1) and a final acknowledgement, indicating appeal number shall be issued
+thereafter in FORM GST APL-02 by the Appellate Authority or an officer authorised by him in this behalf:
+
+Provided that where the certified copy of the decision or order is submitted within seven days from
+the date of filing the FORM GST APL-01, the date of filing of the appeal shall be the date of the
+
+https://www.taxtmi.com/notifications?id=120275 44/53
+
+29/10/2026, 4:08:59 pm
+
+issue of the provisional acknowledgement and where the said copy is submitted after seven days,
+the date of filing of the appeal shall be the date of the submission of such copy.
+
+Explanation.— For the provisions of this rule, the appeal shall be treated as filed only when the final
+acknowledgement, indicating the appeal number, is issued.
+
+109. Application to the Appellate Authority.- (1) An application to the Appellate Authority under sub-
+section (2) of section 107 shall be made in FORM GST APL-03, along with the relevant documents, either
+electronically or otherwise as may be notified by the Commissioner.
+
+(2) A certified copy of the decision or order appealed against shall be submitted within seven days of the
+filing the application under sub-rule (1) and an appeal number shall be generated by the Appellate
+Authority or an officer authorised by him in this behalf.
+
+110. Appeal to the Appellate Tribunal.- (1) An appeal to the Appellate Tribunal under sub-section (1) of
+section 112 shall be filed along with the relevant documents either electronically or otherwise as may be
+notified by the Registrar, in FORM GST APL-05, on the common portal and a provisional
+acknowledgement shall be issued to the appellant immediately.
+
+(2) Amemorandum of cross-objections to the Appellate Tribunal under sub-section (5) of section 112 shall
+be filed either electronically or otherwise as may be notified by the Registrar, in FORM GST APL-06.
+
+(3) The appeal and the memorandum of cross objections shall be signed in the manner specified in rule
+26.
+
+(4) A certified copy of the decision or order appealed against along with fees as specified in sub-rule (5)
+shall be submitted to the Registrar within seven days of the filing of the appeal under sub-rule (1) and a
+final acknowledgement, indicating the appeal number shall be issued thereafter in FORM GST APL-02 by
+the Registrar:
+
+Provided that where the certified copy of the decision or order is submitted within seven days from the date
+of filing the FORM GST APL-05, the date of filing of the appeal shall be the date of the issue of the
+provisional acknowledgement and where the said copy is submitted after seven days, the date of filing of
+the appeal shall be the date of the submission of such copy.
+
+Explanation — For the purposes of this rule, the appeal shall be treated as filed only when the final
+acknowledgement indicating the appeal number is issued.
+
+(5) The fees for filing of appeal or restoration of appeal shall be one thousand rupees for every one lakh
+rupees of tax or input tax credit involved or the difference in tax or input tax credit involved or the amount of
+fine, fee or penalty determined in the order appealed against, subject to a maximum of twenty five
+thousand rupees.
+
+(6) There shall be no fee for application made before the Appellate Tribunal for rectification of errors
+referred to in sub-section (10) of section 112.
+
+111. Application to the Appellate Tribunal.- (1) An application to the Appellate Tribunal under sub-section (3)
+of section 112 shall be made electronically or otherwise, in FORM GST APL-07, along with the relevant
+documents on the common portal.
+
+(2) A certified copy of the decision or order appealed against shall be submitted within seven days of filing
+the application under sub-rule (1) and an appeal number shall be generated by the Registrar.
+
+112. Production of additional evidence before the Appellate Authority or the Appellate Tribunal.- (1)
+
+The appellant shall not be allowed to produce before the Appellate Authority or the Appellate Tribunal any
+evidence, whether oral or documentary, other than the evidence produced by him during the course of the
+
+https://www.taxtmi.com/notifications?id=120275 45/53
+
+29/10/2026, 4:08:59 pm
+
+proceedings before the adjudicating authority or, as the case may be, the Appellate Authority except in the
+following circumstances, namely:-
+
+(a) where the adjudicating authority or, as the case may be, the Appellate Authority has refused to
+admit evidence which ought to have been admitted; or
+
+(b) where the appellant was prevented by sufficient cause from producing the evidence which he
+was called upon to produce by the adjudicating authority or, as the case may be, the Appellate
+Authority; or
+
+(c) where the appellant was prevented by sufficient cause from producing before the adjudicating
+authority or, as the case may be, the Appellate Authority any evidence which is relevant to any
+ground of appeal; or
+
+(d) where the adjudicating authority or, as the case may be, the Appellate Authority has made the
+order appealed against without giving sufficient opportunity to the appellant to adduce evidence
+relevant to any ground of appeal.
+
+(2) No evidence shall be admitted under sub-rule (1) unless the Appellate Authority or the Appellate
+Tribunal records in writing the reasons for its admission.
+
+(3) The Appellate Authority or the Appellate Tribunal shall not take any evidence produced under sub-rule
+(1) unless the adjudicating authority or an officer authorised in this behalf by the said authority has been
+allowed a reasonable opportunity -
+
+(a) to examine the evidence or document or to cross-examine any witness produced by the
+appellant; or
+
+(b) to produce any evidence or any witness in rebuttal of the evidence produced by the appellant
+under sub-rule (1).
+
+(4) Nothing contained in this rule shall affect the power of the Appellate Authority or the Appellate Tribunal
+to direct the production of any document, or the examination of any witness, to enable it to dispose of the
+appeal.
+
+113. Order of Appellate Authority or Appellate Tribunal.- (1) The Appellate Authority shall, along with its
+order under sub-section (11) of section 107, issue a summary of the order in FORM GST APL-04 clearly
+indicating the final amount of demand confirmed.
+
+(2) The jurisdictional officer shall issue a statement in FORM GST APL-04 clearly indicating the final
+amount of demand confirmed by the Appellate Tribunal.
+
+114. Appeal to the High Court.- (1) An appeal to the High Court under sub-section (1) of section 117 shall
+be filed in FORM GST APL-08.
+
+(2) The grounds of appeal and the form of verification as contained in FORM GST APL-08 shall be signed
+in the manner specified in rule 26.
+
+115. Demand confirmed by the Court.- The jurisdictional officer shall issue a statement in FORM GST
+APL-04 clearly indicating the final amount of demand confirmed by the High Court or, as the case may be,
+the Supreme Court.
+
+116. Disqualification for misconduct of an authorised representative.- Where an authorised
+representative, other than those referred to in clause (b) or clause (c) of subsection (2) of section 116 is
+found, upon an enquiry into the matter, guilty of misconduct in connection with any proceedings under the
+Act, the Commissioner may, after providing him an opportunity of being heard, disqualify him from
+appearing as an authorised representative.
+
+https://www.taxtmi.com/notifications?id=120275 46/53
+
+29/10/2026, 4:08:59 pm
+
+Chapter XIV
+Transitional Provisions
+
+117. Tax or duty credit carried forward under any existing law or on goods held in stock on the
+appointed day.- (1) Every registered person entitled to take credit of input tax under section 140 shall,
+within ninety days of the appointed day, submit a declaration electronically in FORM GST TRAN-1, duly
+signed, on the common portal specifying therein, separately, the amount of input tax credit to which he is
+entitled under the provisions of the said section:
+
+Provided that the Commissioner may, on the recommendations of the Council, extend the period of ninety
+days by a further period not exceeding ninety days.
+
+Provided further that where the inputs have been received from an Export Oriented Unit or a unit located in
+Electronic Hardware Technology Park, the credit shall be allowed to the extent as provided in sub-rule (7)
+of rule 3 of the CENVAT Credit Rules, 2004.
+
+(2) Every declaration under sub-rule (1) shall-
+
+(a) in the case of a claim under sub-section (2) of section 140, specify separately the following
+particulars in respect of every item of capital goods as on the appointed day
+
+(i) the amount of tax or duty availed or utilized by way of input tax credit under each of the
+existing laws till the appointed day; and
+
+(ii) the amount of tax or duty yet to be availed or utilized by way of input tax credit under
+each of the existing laws till the appointed day;
+
+(b) in the case of a claim under sub-section (3) or clause (b) of sub-section (4) or sub-section (6) or
+sub-section (8) of section 140, specify separately the details of stock held on the appointed day;
+
+(c) in the case of a claim under sub-section (5) of section 140, furnish the following details,
+namely:-
+
+(i) the name of the supplier, serial number and date of issue of the invoice by the supplier or
+any document on the basis of which credit of input tax was admissible under the existing
+law;
+
+(ii) the description and value of the goods or services;
+(iii) the quantity in case of goods and the unit or unit quantity code thereof;
+
+(iv) the amount of eligible taxes and duties or, as the case may be, the value added tax [or
+entry tax] charged by the supplier in respect of the goods or services; and
+
+(v) the date on which the receipt of goods or services is entered in the books of account of
+the recipient.
+
+(3) The amount of credit specified in the application in FORM GST TRAN-1 shall be credited to the
+electronic credit ledger of the applicant maintained in FORM GST PMT-2 on the common portal.
+
+(4) (a) (i) A registered person who was not registered under the existing law shall, in accordance with the
+proviso to sub-section (3) of section 140, be allowed to avail of input tax credit on goods (on which the duty
+of central excise or, as the case may be, additional duties of customs under sub-section (1) of section 3 of
+the Customs Tariff Act, 1975, is leviable) held in stock on the appointed day in respect of which he is not in
+possession of any document evidencing payment of central excise duty.
+
+https://www.taxtmi.com/notifications?id=120275 47/53
+
+29/10/2026, 4:08:59 pm
+
+(ii) The input tax credit referred to in sub-clause (i) shall be allowed at the rate of sixty per cent. on such
+goods which attract central tax at the rate of nine per cent. or more and forty per cent. for other goods of
+the central tax applicable on supply of such goods after the appointed date and shall be credited after the
+central tax payable on such supply has been paid:
+
+Provided that where integrated tax is paid on such goods, the amount of credit shall be allowed at the rate
+of thirty per cent. and twenty per cent. respectively of the said tax;
+
+(iii) The scheme shall be available for six tax periods from the appointed date. (b) The credit of central tax
+shall be availed subject to satisfying the following conditions, namely:-
+
+(i) such goods were not unconditionally exempt from the whole of the duty of excise specified in the
+First Schedule to the Central Excise Tariff Act, 1985 or were not nil rated in the said Schedule;
+
+(ii) the document for procurement of such goods is available with the registered person;
+
+(iii) the registered person availing of this scheme and having furnished the details of stock held by
+him in accordance with the provisions of clause (b) of sub-rule (2), submits a statement in FORM
+GST TRAN 2 at the end of each of the six tax periods during which the scheme is in operation
+indicating therein, the details of supplies of such goods effected during the tax period;
+
+(iv) the amount of credit allowed shall be credited to the electronic credit ledger of the applicant
+maintained in FORM GST PMT-2 on the common portal; and
+
+(v) the stock of goods on which the credit is availed is so stored that it can be easily identified by
+the registered person.
+
+118. Declaration to be made under clause (c) of sub-section (11) of section 142.- Every person to
+whom the provision of clause (c) of sub-section (11) of section 142 applies, shall within a period of ninety
+days of the appointed day, submit a declaration electronically in FORM GST TRAN-1 furnishing the
+proportion of supply on which Value Added Tax or service tax has been paid before the appointed day but
+the supply is made after the appointed day, and the Input Tax Credit admissible thereon.
+
+119. Declaration of stock held by a principal and agent.- Every person to whom the provisions of
+section 141 apply shall, within ninety days of the appointed day, submit a declaration electronically in
+FORM GST TRAN-1, specifying therein, the stock of the inputs, semi-finished goods or finished goods, as
+applicable, held by him on the appointed day.
+
+120. Details of goods sent on approval basis.- Every person having sent goods on approval under the
+existing law and to whom sub-section (12) of section 142 applies shall, within ninety days of the appointed
+day, submit details of such goods sent on approval in FORM GST TRAN-1.
+
+121. Recovery of credit wrongly availed.- The amount credited under sub-rule (3) of rule 117 may be
+verified and proceedings under section 73 or, as the case may be, section 74 shall be initiated in respect of
+any credit wrongly availed, whether wholly or partly.
+
+Chapter XV
+Anti-Profiteering
+122. Constitution of the Authority.- The Authority shall consist of,-
+
+(a) a Chairman who holds or has held a post equivalent in rank to a Secretary to the Government
+of India; and
+
+(b) four Technical Members who are or have been Commissioners of State tax or central tax or
+have held an equivalent post under the existing law, to be nominated by the Council.
+
+https://www.taxtmi.com/notifications?id=120275 48/53
+
+29/10/2026, 4:08:59 pm
+
+123. Constitution of the Standing Committee and Screening Committees.- (1) The Council may
+constitute a Standing Committee on Anti-profiteering which shall consist of such officers of the State
+Government and Central Government as may be nominated by it.
+
+(2) A State level Screening Committee shall be constituted in each State by the State Governments which
+shall consist of-
+
+(a) one officer of the State Government, to be nominated by the Commissioner, and
+(b) one officer of the Central Government, to be nominated by the Chief Commissioner.
+
+124. Appointment, salary, allowances and other terms and conditions of service of the Chairman
+and Members of the Authority:- (1) The Chairman and Members of the Authority shall be appointed by
+the Central Government on the recommendations of a Selection Committee to be constituted for the
+purpose by the Council.
+
+(2) The Chairman shall be paid a monthly salary of = 2,25,000 (fixed) and other allowances and benefits as
+are admissible to a Central Government officer holding posts carrying the same pay: Provided that where a
+retired officer is selected as a Chairman, he shall be paid a monthly salary of = 2,25,000 reduced by the
+amount of pension.
+
+(3) The Technical Member shall be paid a monthly salary of = 2,05,400 (fixed) and shall be entitled to draw
+allowances as are admissible to a Government of India officer holding Group ‘A’ post carrying the same
+pay: Provided that where a retired officer is selected as a Technical Member, he shall be paid a monthly
+salary of = 2,05,400 reduced by the amount of pension.
+
+(4) The Chairman shall hold office for a term of two years from the date on which he enters upon his office,
+or until he attains the age of sixty- five years, whichever is earlier and shall be eligible for reappointment:
+Provided that person shall not be selected as the Chairman, if he has attained the age of sixty-two years.
+
+(5) The Technical Member of the Authority shall hold office for a term of two years from the date on which
+he enters upon his office, or until he attains the age of sixty-five years, whichever is earlier and shall be
+eligible for reappointment:
+
+Provided that person shall not be selected as a Technical Member if he has attained the age of sixty-two
+years.
+
+125. Secretary to the Authority.- The Additional Director General of Safeguards under the Board shall be
+the Secretary to the Authority.
+
+126. Power to determine the methodology and procedure.- The Authority may determine the
+methodology and procedure for determination as to whether the reduction in the rate of tax on the supply
+of goods or services or the benefit of input tax credit has been passed on by the registered person to the
+recipient by way of commensurate reduction in prices.
+
+127. Duties of the Authority.- It shall be the duty of the Authority,-
+
+(i) to determine whether any reduction in the rate of tax on any supply of goods or services or the
+benefit of input tax credit has been passed on to the recipient by way of commensurate reduction in
+prices;
+
+(ii) to identify the registered person who has not passed on the benefit of reduction in the rate of tax
+on supply of goods or services or the benefit of input tax credit to the recipient by way of
+commensurate reduction in prices;
+
+(iii) to order,
+
+https://www.taxtmi.com/notifications?id=120275 49/53
+
+29/10/2026, 4:08:59 pm
+
+(a) reduction in prices;
+
+(b) return to the recipient, an amount equivalent to the amount not passed on by way of
+commensurate reduction in prices along with interest at the rate of eighteen per cent. from
+the date of collection of the higher amount till the date of the return of such amount or
+recovery of the amount not returned, as the case may be, in case the eligible person does
+not claim return of the amount or is not identifiable, and depositing the same in the Fund
+referred to in section 57;
+
+(c) imposition of penalty as specified in the Act; and
+(d) cancellation of registration under the Act.
+
+128. Examination of application by the Standing Committee and Screening Committee.- (1) The
+Standing Committee shall, within a period of two months from the date of the receipt of a written
+application, in such form and manner as may be specified by it, from an interested party or from a
+Commissioner or any other person, examine the accuracy and adequacy of the evidence provided in the
+application to determine whether there is prima-facie evidence to support the claim of the applicant that the
+benefit of reduction in the rate of tax on any supply of goods or services or the benefit of input tax credit
+has not been passed on to the recipient by way of commensurate reduction in prices.
+
+(2) All applications from interested parties on issues of local nature shall first be examined by the State
+level Screening Committee and the Screening Committee shall, upon being satisfied that the supplier has
+contravened the provisions of section 171, forward the application with its recommendations to the
+Standing Committee for further action.
+
+129. Initiation and conduct of proceedings.- (1) Where the Standing Committee is satisfied that there is
+a prima-facie evidence to show that the supplier has not passed on the benefit of reduction in the rate of
+tax on the supply of goods or services or the benefit of input tax credit to the recipient by way of
+commensurate reduction in prices, it shall refer the matter to the Director General of Safeguards for a
+detailed investigation.
+
+(2) The Director General of Safeguards shall conduct investigation and collect evidence necessary to
+determine whether the benefit of reduction in the rate of tax on any supply of goods or services or the
+benefit of input tax credit has been passed on to the recipient by way of commensurate reduction in prices.
+
+(3) The Director General of Safeguards shall, before initiation of the investigation, issue a notice to the
+interested parties containing, inter alia, information on the following, namely:-
+
+(a) the description of the goods or services in respect of which the proceedings have been initiated;
+(b) summary of the statement of facts on which the allegations are based; and
+
+(c) the time limit allowed to the interested parties and other persons who may have information
+related to the proceedings for furnishing their reply.
+
+(4) The Director General of Safeguards may also issue notices to such other persons as deemed fit for a
+fair enquiry into the matter.
+
+(5) The Director General of Safeguards shall make available the evidence presented to it by one interested
+party to the other interested parties, participating in the proceedings.
+
+(6) The Director General of Safeguards shall complete the investigation within a period of three months of
+the receipt of the reference from the Standing Committee or within such extended period not exceeding a
+further period of three months for reasons to be recorded in writing as allowed by the Standing Committee
+and, upon completion of the investigation, furnish to the Authority, a report of its findings along with the
+relevant records.
+
+https://www.taxtmi.com/notifications?id=120275 50/53
+
+29/10/2026, 4:08:59 pm
+
+130. Confidentiality of information.- (1) Notwithstanding anything contained in subrules (3) and (5) of
+rule 129 and sub-rule (2) of rule 133, the provisions of section 11 of the Right to Information Act, 2005 (22
+of 2005), shall apply mutatis mutandis to the disclosure of any information which is provided on a
+confidential basis.
+
+(2) The Director General of Safeguards may require the parties providing information on confidential basis
+to furnish non-confidential summary thereof and if, in the opinion of the party providing such information,
+the said information cannot be summarised, such party may submit to the Director General of Safeguards
+a statement of reasons as to why summarisation is not possible.
+
+131. Cooperation with other agencies or statutory authorities.- Where the Director General of
+Safeguards deems fit, he may seek opinion of any other agency or statutory authorities in the discharge of
+his duties.
+
+132. Power to summon persons to give evidence and produce documents.- (1) The Director General
+of Safeguards, or an officer authorised by him in this behalf, shall be deemed to be the proper officer to
+exercise the power to summon any person whose attendance he considers necessary either to give
+evidence or to produce a document or any other thing under section 70 and shall have power in any
+inquiry in the same manner, as provided in the case of a civil court under the provisions of the Code of Civil
+Procedure, 1908 (5 of 1908).
+
+(2) Every such inquiry referred to in sub-rule (1) shall be deemed to be a judicial proceedings within the
+meaning of sections 193 and 228 of the Indian Penal Code (45 of 1860).
+
+133. Order of the Authority.- (1) The Authority shall, within a period of three months from the date of the
+receipt of the report from the Director General of Safeguards determine whether a registered person has
+passed on the benefit of the reduction in the rate of tax on the supply of goods or services or the benefit of
+input tax credit to the recipient by way of commensurate reduction in prices.
+
+(2) An opportunity of hearing shall be granted to the interested parties by the Authority where any request
+is received in writing from such interested parties.
+
+(3) Where the Authority determines that a registered person has not passed on the benefit of the reduction
+in the rate of tax on the supply of goods or services or the benefit of input tax credit to the recipient by way
+of commensurate reduction in prices, the Authority may order-
+
+(a) reduction in prices;
+
+(b) return to the recipient, an amount equivalent to the amount not passed on by way of
+commensurate reduction in prices along with interest at the rate of eighteen per cent. from the date
+of collection of the higher amount till the date of the return of such amount or recovery of the
+amount including interest not returned, as the case may be, in case the eligible person does not
+claim return of the amount or is not identifiable, and depositing the same in the Fund referred to in
+section 57;
+
+(c) imposition of penalty as specified under the Act; and
+(d) cancellation of registration under the Act.
+
+134. Decision to be taken by the majority.- If the Members of the Authority differ in opinion on any point,
+the point shall be decided according to the opinion of the majority.
+
+135. Compliance by the registered person.- Any order passed by the Authority under these rules shall
+be immediately complied with by the registered person failing which action shall be initiated to recover the
+amount in accordance with the provisions of the Integrated Goods and Services Tax Act or the Central
+
+https://www.taxtmi.com/notifications?id=120275 51/53
+
+29/10/2026, 4:08:59 pm
+
+Goods and Services Tax Act or the Union territory Goods and Services Tax Act or the State Goods and
+Services Tax Act of the respective States, as the case may be.
+
+136. Monitoring of the order.- The Authority may require any authority of central tax, State tax or Union
+territory tax to monitor the implementation of the order passed by it.
+
+137. Tenure of Authority.- The Authority shall cease to exist after the expiry of two years from the date on
+which the Chairman enters upon his office unless the Council recommends otherwise.
+
+Explanation.- For the purposes of this Chapter,
+(a) “Authority” means the National Anti-profiteering Authority constituted under rule 122;
+
+(b) “Committee” means the Standing Committee on Anti-profiteering constituted by the Council in
+terms of sub-rule (1) of rule 123 of these rules;
+
+(c) “interested party” includes
+a. suppliers of goods or services under the proceedings; and
+b. recipients of goods or services under the proceedings;
+
+(d) “Screening Committee” means the State level Screening Committee constituted in terms of sub-
+rule (2) of rule 123 of these rules.
+
+Chapter XVI
+E-way Rules
+
+138. E-way rule.- Till such time as an E-way bill system is developed and approved by the Council, the
+Government may, by notification, specify the documents that the person in charge of a conveyance
+carrying any consignment of goods shall carry while the goods are in movement or in transit storage.
+
+PDF DOWNLOAD
+
+https://www.taxtmi.com/notifications?id=120275 52/53
+
+29/10/2026, 4:08:59 pm
+
+[F.No 349/58/2017-GST(Pt)]
+(Dr. Sreeparvathy S. L.)
+Under Secretary to the Government of India
+
+Note:- The principal rules were published in the Gazette of India, Extraordinary, Part Il, Section 3, Sub-
+section (i) vide notification No. 3/2017-Central Tax, dated the 19" June, 2017, published vide G.S.R
+
+number 610 (E), dated the ygth June, 2017 and last amended vide notification No. 7/2017-Central Tax,
+dated the 27th June, 2017, published vide G.S.R number 644 (E), dated the 27th June, 2017.
+
+https://www.taxtmi.com/notifications?id=120275 53/53

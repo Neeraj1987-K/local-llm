@@ -1,0 +1,2906 @@
+29/10/2026, 2:52:24 pm
+
+TaxTMI https://www.taxtmi.com
+
+Central Goods and Services Tax (Fourteenth Amendment) Rules, 2018. - 74/2018 - Central GST (CGST)
+
+Government of India
+Ministry of Finance
+(Department of Revenue)
+Central Board of Indirect Taxes and Customs
+Notification No. 74/2018 — Central Tax
+New Delhi, 31st December, 2018
+
+G.S.R. 1251 (E). - In exercise of the powers conferred by section 164 of the Central Goods and Services Tax Act, 2017 (12 of 2017), the
+Central Government hereby makes the following rules further to amend the Central Goods and Services Tax Rules, 2017, namely:-
+
+1. (1) These rules may be called the Central Goods and Services Tax (Fourteenth Amendment) Rules, 2018.
+(2) Save as otherwise provided in these rules, they shall come into force on the date of their publication in the Official Gazette.
+
+2. In the Central Goods and Services Tax Rules, 2017 (hereinafter referred to as the said rules), in rule 12, after sub-rule (1), the
+following sub-rule shall be inserted, namely:-
+
+“(1A) Aperson applying for registration to collect tax in accordance with the provisions of section 52, in a State or Union territory
+where he does not have a physical presence, shall mention the name of the State or Union territory in PART A of the application
+in FORM GST REG-07 and mention the name of the State or Union territory in PART B thereof in which the principal place of
+business is located which may be different from the State or Union territory mentioned in PART A.”.
+
+3. In the said rules, in rule 45, in sub-rule (3), after the words “received from a job worker”, the words, “or sent from one job worker to
+another” shall be omitted.
+
+4. In the said rules, in rule 46, after the fourth proviso, the following proviso shall be inserted, namely:-
+
+“Provided also that the signature or digital signature of the supplier or his authorised representative shall not be required in the
+case of issuance of an electronic invoice in accordance with the provisions of the Information Technology Act, 2000 (21 of
+2000).”.
+
+5. In the said rules, in rule 49, after the second proviso, the following proviso shall be inserted, namely:-
+
+“Provided also that the signature or digital signature of the supplier or his authorised representative shall not be required in the
+case of issuance of an electronic bill of supply in accordance with the provisions of the Information Technology Act, 2000 (21 of
+2000).”.
+
+6. In the said rules, in rule 54,-
+(a) in sub-rule (2), the following proviso shall be inserted, namely:-
+
+“Provided that the signature or digital signature of the supplier or his authorised representative shall not be required in the case
+of issuance of a consolidated tax invoice or any other document in lieu thereof in accordance with the provisions of the
+Information Technology Act, 2000 (21 of 2000).”.
+
+(b) in sub-rule (4), the following proviso shall be inserted, namely:-
+
+“Provided that the signature or digital signature of the supplier or his authorised representative shall not be required in the case
+of issuance of ticket in accordance with the provisions of the Information Technology Act, 2000 (21 of 2000).”.
+
+7. In the said rules, in explanation (b) to sub-rule (5) of rule 89, the following clause shall be substituted, namely:-
+“Adjusted Total turnover” and “relevant periodil shall have the same meaning as assigned to them in sub-rule (4).”.
+
+8. In the said rules, in rule 96, in sub-rule (1), in clause (a), after the words “export goods duly files”, the words “a departure manifest or”
+shall be inserted.
+
+9. In the said rules, in rule 101, in sub-rule (1), after the words “financial year”, the words “or part thereof” shall be inserted.
+
+10. In the said rules, after rule 109A, the following rule shall be inserted, namely:-
+
+https://www.taxtmi.com/notifications?id=127647 1/48
+
+29/10/2026, 2:52:24 pm
+
+“409B. Notice to person and order of revisional authority in case of revision. - (1) Where the Revisional Authority decides
+to pass an order in revision under section 108 which is likely to affect the person adversely, the Revisional Authority shall serve
+‘on him a notice in FORM GST RVN-01 and shall give him a reasonable opportunity of being heard.
+
+(2) The Revisional Authority shall, along with its order under sub-section (1) of section 108, issue a summary of the order in
+FORM GST APL-04 clearly indicating the final amount of demand confirmed.”.
+
+11. In the said rules, in rule 138, in sub-rule (1), for Explanation 1, the following Explanation shall be substituted, namely-.
+
+“Explanation 1. — For the purposes of this rule, the expression “handicraft goods” has the meaning as assigned to it in the
+Government of India, Ministry of Finance, notification No. 56/2018-Central Tax, dated the 23rd October, 2018, published in the
+Gazette of India, Extraordinary, Part Il, Section 3, Sub-section (i), vide number G.S.R 1056 (E), dated the 23rd October, 2018 as
+amended from time to time.”
+
+12. In the said rules, after rule 138D, from a date to be notified later, the following rule shall be inserted, namely:-
+
+“138E. Restriction on furnishing of information in PART A of FORM GST EWB-01.- Notwithstanding anything contained in
+sub-rule (1) of rule 138, no person (including a consignor, consignee, transporter, an e-commerce operator or a courier agency)
+shall be allowed to furnish the information in PART A of FORM GST EWB-01 in respect of a registered person, whether as a
+supplier or a recipient, who,-
+
+(a) being a person paying tax under section 10, has not furnished the returns for two consecutive tax periods; or
+
+(b) being a person other than a person specified in clause (a), has not furnished the returns for a consecutive period of two
+months:
+
+Provided that the Commissioner may, on sufficient cause being shown and for reasons to be recorded in writing, by order, allow
+furnishing of the said information in PART A of FORM GST EWB 01, subject to such conditions and restrictions as may be
+specified by him:
+
+Provided further that no order rejecting the request of such person to furnish the information in PART A of FORM GST EWB 01
+under the first proviso shall be passed without affording the said person a reasonable opportunity of being heard:
+
+Provided also that the permission granted or rejected by the Commissioner of State tax or Commissioner of Union territory tax
+shall be deemed to be granted or, as the case may be, rejected by the Commissioner.
+
+Explanation:— For the purposes of this rule, the expression “Commissioner” shall mean the jurisdictional Commissioner in
+respect of the persons specified in clauses (a) and (b).”.
+
+13. In the said rules in rule 142, in sub-rule (5), after the words “section 74”, the words “or sub-section (12) of section 75” shall be
+inserted.
+
+14. In the said rules, for FORM GST RFD-01, the following form shall be substituted, namely:-
+“FORM-GST-RFD-01
+[See rule 89(1)]
+Application for Refund
+
+(Applicable for casual or non-resident taxable person, tax deductor, tax collector, un-registered person and other registered taxable
+person)
+
+1. | GSTIN /
+Temporary
+ID
+
+2. |Legal Name
+
+3. | Trade
+Name, if
+any
+
+4. | Address
+
+5. | Tax period From To
+(if
+applicable)
+
+https://www.taxtmi.com/notifications?id=127647 2/48
+
+29/10/2026, 2:52:24 pm
+
+Tax Interest | Penalty Fees Others Total
+
+Excess balance in Electronic Cash Ledger
+
+Exports of services- with payment of tax
+
+Exports of goods / services- without payment of tax
+(accumulated ITC)
+
+On account of order
+
+Sr. Order no. Order | Order Payment
+No. date | Issuing | reference
+Type of Authority | no., if any
+order
+(i) Assessment
+(ii) Finalization
+of
+Provisional
+assessment
+(iii) Appeal
+(iv) Any — other
+order
+(specify)
+
+ITC accumulated due to inverted tax structure [clause (ii) of
+first proviso to section 54(3)]
+
+On account of supplies made to SEZ unit/ SEZ developer (with
+payment of tax)
+
+On account of supplies made to SEZ unit/ SEZ developer
+(without payment of tax)
+
+6. Amount of Act
+Refund
+Claimed Central t
+(Rs.) ‘entral tax
+State / UT
+tax
+Integrated
+tax
+Cess
+Total
+7. Grounds of (a)
+refund claim
+(select from
+drop down) (b)
+(c)
+(d)
+(e)
+()
+(9)
+(h)
+(i)
+
+Recipient of deemed export supplies/ Supplier of deemed
+export supplies
+
+Tax paid on a supply which is not provided, either wholly or
+partially, and for which invoice has not been issued (tax paid on
+advance payment)
+
+https://www.taxtmi.com/notifications?id=127647
+
+3/48
+
+29/10/2026, 2:52:24 pm
+
+i) Tax paid on an intra-State supply which is subsequently held to
+be inter-State supply and vice versa(change of POS)
+
+(k) | Excess payment of tax, if any
+
+() Any other (specify)
+
+8. Details of Nameof Address of branch | IFSC | Type of account | Account No.
+Bank bank
+account
+
+9. Whether Self-Declaration filed by Applicant u/s |__Yes __No
+54(4), if applicable
+
+[DECLARATION [second proviso to section 54(3)]
+
+| hereby declare that the goods exported are not subject to any export duty. | also declare
+that | have not availed any drawback of central excise duty/service tax/central tax on goods
+or services or both and that | have not claimed refund of the integrated tax paid on supplies
+in respect of which refund is claimed.
+
+Signature
+Name —
+
+Designation / Status”)
+
+DECLARATION [section 54(3)(ii)]
+
+| hereby declare that the refund of input tax credit claimed in the application does
+not include ITC availed on goods or services used for making ‘nil’ rated or fully
+exempt supplies.
+
+Signature
+Name —
+
+Designation / Status
+
+DECLARATION [rule 89(2)(f)]
+
+| hereby declare that the Special Economic Zone unit /the Special Economic Zone
+developer has not availed of the input tax credit of the tax paid by the applicant,
+covered under this refund claim.
+
+Signature
+Name —
+
+Designation / Status
+
+DECLARATION [rule 89(2)(g)]
+(For recipient/supplier of deemed export)
+
+In case refund claimed by recipient__
+
+https://www.taxtmi.com/notifications?id=127647 4/48
+
+29/10/2026, 2:52:24 pm
+
+| hereby declare that the refund has been claimed only for those invoices which have been
+detailed in statement 5B for the tax period for which refund is being claimed and the amount
+does not exceed the amount of input tax credit availed in the valid return filed for the said tax
+period. | also declare that the supplier has not claimed refund with respect to the said supplies.
+
+In case refund claimed by supplier__
+
+| hereby declare that the refund has been claimed only for those invoices which have been
+detailed in statement 5B for the tax period for which refund is being claimed. | also declare that
+the recipient shall not claim any refund with respect of the said supplies and also, the recipient
+has not availed any input tax credit on such supplies.
+
+Signature
+Name —
+
+Designation / Status
+
+UNDERTAKING
+
+| hereby undertake to pay back to the Government the amount of refund sanctioned along with interest in case it is
+found subsequently that the requirements of clause (c) of sub-section (2) of section 16 read with sub-section (2) of
+section 42 of the CGST/SGST Act have not been complied with in respect of the amount refunded.
+
+Signature
+Name —
+
+Designation / Status
+
+SELF- DECLARATION [rule 89(2)(I)]
+
+! (Applicant) having GSTIN/ temporary Id -------, solemnly affirm and certify that in respect of the
+refund amounting to Rs. -—-/ with respect to the tax, interest, or any other amount for the period from-—to----, claimed in the
+refund application, the incidence of such tax and interest has not been passed on to any other person.
+
+Signature
+Name —
+Designation / Status
+
+(This Declaration is not required to be furnished by applicants, who are claiming refund under clause (a) or clause (b) or
+clause (c) or clause (d) or clause (f) of sub-section (8) of section 54.)
+
+10. Verification
+
+\We hereby solemnly affirm and declare that the information given herein above is true and correct to the best of
+my/our knowledge and belief and nothing has been concealed therefrom.
+
+We declare that no refund on this account has been received by me/us earlier.
+Place
+Date
+Signature of Authorised Signatory
+(Name)
+
+Designation/ Status
+
+https://www.taxtmi.com/notifications?id=127647 5/48
+
+29/10/2026, 2:52:24 pm
+
+Annexure-1
+
+Statement -1 [rule 89(5)]
+
+Refund Type: ITC accumulated due to inverted tax structure [clause (ii) of first proviso to section 54(3)]
+
+(Amount in Rs.)
+
+Turnover of|Tax payable Adjusted | Net input tax Maximum refund
+inverted rated | on such total credit amount to be
+supply of goods inverted rated turnover claimed [(1*4+3)-2]
+and services supply of
+
+goods and
+
+services
+1 2 3 4 5
+
+Statement 1A [rule 89(2)(h)]
+
+Refund Type: ITC accumulated due to inverted tax structure [clause (ii) of first proviso to section 54(3)]
+
+SI. Details of invoices of inward Tax paid on inward supplies Details of invoices of Tax paid on outward
+
+No. | supplies of inputs received of inputs outward supplies issued supplies
+GST IN| No. Date Taxable Integrated | Central State No) Date Taxable Invoice Integrated Central | State
+of the Value | Tax Tax Tax Value type Tax Tax Tax
+supplier JUni on (B2B/ JUni on
+* territory B2C) territory
+
+Tax Tax
+1 2 3°04 5 6 7 8 9 }10 (11 12 13 14 15
+
+* In case of imports or supplies received under reverse charge mechanism [sub-section (3) of section 9 of the CGST Act/SGST Act or
+sub-section (3) of section 5 of IGST Act], the GSTIN of supplier will mean GSTIN of applicant (recipient).
+
+Statement- 2 [rule 89(2)(c)]
+
+Refund Type: Exports of services with payment of tax
+
+(Amount in Rs.)
+
+Sr. Invoice details Integrated tax |Cess | BRC/FIRC Integrated | Integrated | Net
+No. taxand tax and / Integrated
+cess cess tax and
+No. | Date} Value | Taxable | Amt. No. | Date involved involved | cess
+value indebit in credit (6+7+10 -
+note, if note, — if| 11)
+any any
+1 2 3 4 5 6 7 9 10 1 12
+
+https://www.taxtmi.com/notifications?id=127647
+
+6/48
+
+29/10/2026, 2:52:24 pm
+
+Statement- 3 [rule 89(2)(b) and 89(2)(c)]
+Refund Type: Export without payment of tax (accumulated ITC)
+
+(Amount in Rs.)
+
+Sr. Invoice details Goods/ Shipping bill/ Bill of EGM BRC/ FIRC
+No. Services export Details
+(GIS)
+No. Date | Value Port No. Date | Ref | Date | No. Date
+code No.
+| 1 | 2 3 | 4 5 6 | 7 8 | 9 10 1 12
+
+Statement- 3A [rule 89(4)]
+Refund Type: Export without payment of tax (accumulated ITC) - calculation of refund amount
+
+(Amount in Rs.)
+
+Turnover of zero rated| Net input tax | Adjusted total Refund amount
+supply of goods and | credit turnover (1*2+3)
+services
+
+1 2 3 4
+
+Statement-4 [rule 89(2)(d) and 89(2)(e)]
+Refund Type: On account of supplies made to SEZ unit or SEZ Developer (on payment of tax)
+
+(Amount in Rs.)
+
+GSTIN | Invoice details Shipping | Integrated Tax |Cess| Integrated | Integrated| Net
+
+of bill/ Bill of tax and tax and | Integrated
+recipient export/ cess cess tax and
+Endorsed involved | involved cess
+invoice in debit in credit | (8+9+10
+by SEZ note, if note, if -11)
+any any
+
+No | Date Value | No | Date | Taxable | Amt.
+Value
+
+Statement-5 [rule 89(2)(d) and 89(2)(e)]
+Refund Type: On account of supplies made to SEZ unit or SEZ Developer (without payment of tax)
+
+(Amount in Rs.)
+
+https://www.taxtmi.com/notifications?id=127647 7/48
+
+29/10/2026, 2:52:24 pm
+
+Sr. No. Invoice details Goods/ Shipping bill/ Bill of export/
+Services Endorsed invoice no.
+(GIS)
+No. Date Value No. | Date
+1 2 3 4 5 6 | 7
+
+Statement-5A [rule 89(4)]
+
+Refund Type: On account of supplies made to SEZ unit / SEZ developer without payment of tax (accumulated ITC) — calculation of
+
+refund amount
+
+(Amount in Rs.)
+
+Turnover of zero rated supply of | Net input tax credit | Adjusted total turnover | Refund amount (1x2+3)
+
+goods and services
+
+1 2 3 4
+Statement 5B [rule 89(2)(g)]
+Refund Type: On account of deemed exports
+(Amount in Rs)
+Si. Details of invoices of outward Tax paid
+No. | supplies in case refund is claimed
+
+by supplier/Details of invoices of
+inward supplies in case refund is
+claimed by recipient
+
+Date Taxable Integrated | Central
+
+State Tax | Cess
+
+GSTIN of No.
+the Value Tax Tax /Union
+supplier Territory Tax
+1 2 3 4 5 6 7 8 9
+
+Statement-6 [rule 89(2)(j)]
+
+Refund Type: On account of change in POS (inter-State to intra-State and vice versa) Order Details (issued in pursuance of sections 77
+
+(1) and (2), if any: Order No: Order Date:
+
+(Amount in Rs.)
+Recipient's Invoice details Details of tax paid on transaction Taxes re-assessed on transaction which
+GSTIN/ considered as intra —State / inter-State were held inter State / intra-State supply
+UIN Name transaction earlier subsequently
+(in case
+B2c)
+
+https://www.taxtmi.com/notifications?id=127647
+
+8/48
+
+29/10/2026, 2:52:24 pm
+
+No | Date Value Taxable Integrated | Central State/| Cess | Place | Integrated Central | Stat Cess | Place
+
+Value tax tax UT of tax tax of
+tax Supply el Supply
+UT
+tax
+1 2 3 4 5 6 7 8 9 10 1 12 13) 14 15
+
+Statement-7 [rule 89(2)(k)]
+
+Refund Type: Excess payment of tax, if any in case of last return filed.
+
+(Amount in Rs.)
+
+Tax period | ARN of Date of Tax Payable
+return filing
+tt
+return Integrated Central | State/ Cess
+tax tax UT tax
+1 2 3 4 5 6 7
+Annexure-2
+Certificate [rule 89(2)(m)]
+This is to certify that in respect of the refund amounting to Rs.< < > > ---------—- --- (in words) claimed by M/s----------------- (Applicant's
+
+Name) GSTIN/ Temporary ID: for the tax period < ---->, the incidence of tax and interest, has not been passed on to any other
+person. This certificate is based on the examination of the books of account and other relevant records and returns particulars
+maintained/ furnished by the applicant.
+
+Signature of the Chartered Accountant/ Cost Accountant:
+Name:
+
+Membership Number:
+
+Place:
+
+Date:
+
+Note - This Certificate is not required to be furnished by the applicant, claiming refund under clause (a) or clause (b) or clause
+(c) or clause (d) or clause (f) of sub-section (8) of section 54 of the Act.
+
+Instructions —
+1. Terms used:
+a. B to C: From registered person to unregistered person
+b. EGM: Export General Manifest
+c. GSTIN: Goods and Services Tax Identification Number
+d. IGST: Integrated goods and services tax
+e. ITC: Input tax credit
+f. POS: Place of Supply (Respective State)
+
+g. SEZ: Special Economic Zone
+
+https://www.taxtmi.com/notifications?id=127647 9/48
+
+29/10/2026, 2:52:24 pm
+
+h. Temporary ID: Temporary Identification Number
+i, UIN: Unique Identity Number
+2, Refund of excess amount available in electronic cash ledger can also be claimed through return or by filing application.
+3. Debit entry shall be made in electronic credit or cash ledger at the time of filing the application.
+4. Acknowledgement in FORM GST RFD-02 will be issued if the application is found complete in all respects.
+5. Claim of refund on export of goods with payment of IGST shall not be processed through this application.
+
+6. Bank account details should be as per registration data. Any change in bank details shall first be amended in registration
+particulars before quoting in the application.
+
+7. Declaration shall be filed in cases wherever required.
+
+8. ‘Net input tax credit’ means input tax credit availed on inputs during the relevant period for the purpose of Statement-1 and will
+include ITC on input services also for the purpose of Statement-3A and 5A.
+
+9. ‘Adjusted total turnover’ means the turnover in a State or a Union territory, as defined under clause (112) of section 2
+excluding the value of exempt supplies other than zero-rated supplies, during the relevant period.
+
+10. For the purpose of Statement-1, refund claim will be based on supplies reported in GSTR-1 and GSTR-2.
+
+11. BRC or FIRC details will be mandatory where refund is claimed against export of services details of shipping bill and EGM
+will be mandatory to be provided in case of export of goods.
+
+12. Where the invoice details are amended (including export), refund shall be allowed as per the calculation based on amended
+value.
+
+13. Details of export made without payment of tax shall be reported in Statement-3.
+
+14. Availability of refund to be claimed in case of supplies made to SEZ unit or SEZ developer without payment of tax shall be
+worked out in accordance with the formula prescribed in rule 89(4).
+
+15. ‘Turnover of zero rated supply of goods and services’ shall have the same meaning as defined in rule 89(4).”.
+15. In the said rules, for FORM GST RFD-01A, the following form shall be substituted, namely:-
+“FORM-GST-RFD-01 A
+[See rules 89(1) and 97A]
+Application for Refund (Manual)
+
+(Applicable for casual taxable person or non-resident taxable person, tax deductor, tax collector and other registered taxable person)
+
+1. | GSTIN !
+Temporary ID
+
+2. | Legal Name
+
+3. | Trade Name, if
+any
+
+4. | Address
+
+5. | Tax period (if | From To
+
+applicable)
+6. | Amount of Act Tax Interest Penalty Fees Others Total
+Refund
+Claimed (Rs.
+(Rs) Central tax
+State / UT tax
+
+https://www.taxtmi.com/notifications?id=127647 10/48
+
+29/10/2026, 2:52:24 pm
+
+7. |Grounds — of
+Refund Claim
+(select from
+drop down)
+
+Integrated tax
+
+Cess
+Total
+(a) | Excess balance in Electronic Cash Ledger
+(b) | Exports of services- with payment of tax
+(c) | Exports of goods / services- without payment of tax (accumulated ITC)
+(d) | ITC accumulated due to inverted tax structure [under clause (ii) of first proviso
+to section 54(3)]
+(e) | On account of supplies made to SEZ unit/ SEZ developer (with payment of tax)
+(f)_ | On account of supplies made to SEZ unit/ SEZ developer (without payment of
+tax)
+(g) | Recipient of deemed export supplies/ Supplier of deemed export supplies
+(h)
+On account of order
+Sl._| Type of order | Order No. Order Order Issuing Payment
+No. date Authority reference
+no., if any
+(i) Assessment
+(ii) | Finalization
+of
+Provisional
+assessment
+(iii) | Appeal
+(iv) | Any other
+order
+(specify)
+(i) | Tax paid on an intra-State supply which is subsequently held to be inter-State
+supply and vice versa (change of POS)
+(j) | Excess payment of tax, if any
+(k) | Any other (specify)
+
+[DECLARATION [second proviso to section 54(3)]
+
+https://www.taxtmi.com/notifications?id=127647
+
+11/48
+
+29/10/2026, 2:52:24 pm
+
+| hereby declare that the goods exported are not subject to any export duty. | also declare that | have not availed any
+drawback of central excise duty/service tax/central tax on goods or services or both and that | have not claimed refund of
+the integrated tax paid on supplies in respect of which refund is claimed.
+
+Signature
+Name —
+
+Designation / Status].
+
+DECLARATION [section 54(3)(ji)]
+
+| hereby declare that the refund of ITC claimed in the application does not include ITC availed on goods or services used for
+making ‘nil’ rated or fully exempt supplies.
+
+Signature
+Name —
+
+Designation / Status
+
+DECLARATION [rule 89(2)(f)]
+
+| hereby declare that the Special Economic Zone unit /the Special Economic Zone developer has not availed of the input
+tax credit of the tax paid by the applicant, covered under this refund claim.
+
+Signature
+Name —
+
+Designation / Status
+
+DECLARATION [rule 89(2)(g)]
+(For recipient/supplier of deemed export)
+In case refund claimed by recipient__
+
+| hereby declare that the refund has been claimed only for those invoices which have been detailed in statement 5B for the
+tax period for which refund is being claimed and the amount does not exceed the amount of input tax credit availed in the
+valid return filed for the said tax period. | also declare that the supplier has not claimed refund with respect to the said
+supplies.
+
+In case refund claimed by supplier__
+
+| hereby declare that the refund has been claimed only for those invoices which have been detailed in statement 5B for the
+tax period for which refund is being claimed and the recipient shall not claim any refund with respect of the said supplies and
+also, the recipient has not availed any input tax credit on such supplies.
+
+Signature
+Name —
+
+Designation / Status
+
+UNDERTAKING
+
+I hereby undertake to pay back to the Government the amount of refund sanctioned along with interest in case it is found
+subsequently that the requirements of clause (c) of sub-section (2) of section 16 read with sub-section (2) of section 42 of the
+CGST/SGST Act have not been complied with in respect of the amount refunded.
+
+https://www.taxtmi.com/notifications?id=127647 12/48
+
+29/10/2026, 2:52:24 pm
+
+Signature
+Name —
+
+Designation / Status
+
+SELF- DECLARATION [rule 89(2)(I)]
+
+We (Applicant) having GSTIN/ temporary Id -------, solemnly affirm and certify that in respect of the
+refund amounting to Rs. with respect to the tax, interest, or any other amount for the period from---to----, claimed in the
+refund application, the incidence of such tax and interest has not been passed on to any other person.
+
+Signature
+Name —
+
+Designation / Status
+
+(This Declaration is not required to be furnished by applicants, who are claiming refund under clause (a) or clause (b) or
+clause (c) or clause (d) or clause (f) of sub- of sub-section (8) of section 54.)
+
+8. Verification
+
+\We hereby solemnly affirm and declare that the information given herein above is true and correct to the best of my/our
+knowledge and belief and nothing has been concealed therefrom.
+
+\We declare that no refund on this account has been received by me/us earlier.
+
+Place
+Date
+Signature of Authorised Signatory
+(Name)
+Designation/ Status
+Annexure-1
+
+Statement -1 [rule 89(5)]
+Refund Type: ITC accumulated due to inverted tax structure [clause (ii) of first proviso to section 54(3)]
+
+(Amount in Rs.)
+
+Turnover of | Tax payable on such Adjusted _ total | Net input tax | Maximum refund
+inverted rated turnover credit
+inverted rated supply of amount to be claimed
+supply of goods goods and services [(1*4+3)-2]
+and services
+1 2 3 4 5
+
+Statement 1A [rule 89(2)(h)]
+
+Refund Type: ITC accumulated due to inverted tax structure [clause (ii) of first proviso to section 54(3)]
+
+https://www.taxtmi.com/notifications?id=127647 13/48
+
+29/10/2026, 2:52:24 pm
+
+SI Details of invoices Tax paid on inward Details of invoices of Tax paid on outward
+
+. | of inward supplies supplies of inputs outward supplies supplies
+
+N | of inputs received issued
+
+o.
+Gs D Tax | Integrated | Cen State No. D | Tax | Invoice Integrated Central | Stat
+TIN 0. at| able | Tax tral Tax at able — type Tax Tax e
+of e | Value Tax |/Uni on e | Value | (B2B/ Tax
+the territory B2C) JUni
+sup Tax on
+plier terri
+* tory
+
+1.2 4\5 6 7 8 9 |10 11 12 13 14 15
+
+* In case of imports or supplies received under reverse charge mechanism [sub-section (3) of section 9 of the CGST Act/ SGST Act or
+sub-section (3) of section 5 of IGST Act], the GSTIN of supplier will mean GSTIN of applicant (recipient).
+
+Statement- 2 [rule 89(2)(c)]
+
+Refund Type: Exports of services with payment of tax
+
+(Amount in Rs.)
+
+Sr. Invoice details Integrated tax |Cess BRC/ Integrated Integrated Net
+No. FIRC tax and tax and | Integrated
+cess cess tax and
+involved involved cess
+in debit in credit | (6+7+10 -
+note, if} note, if 11)
+any any
+No. | Date | Value | Taxable Amt. No. | Date
+value
+1 2 3 4 5 6 7 8 9 10 11 12
+Statement- 3 [rule 89(2)(b) and 89(2)(c)]
+Refund Type: Export without payment of tax (accumulated ITC) (Amount in Rs.)
+Sr. | Invoice details Goods/ | Shipping bill/ Bill of EGM BRC/ FIRC
+No. Services Details
+(GIS) | export
+No. | Date Value Port No. | Date Ref | Date | No. | Date
+code No,
+1 2 3 4 5 6 7 8 9 10 1 12
+
+https://www.taxtmi.com/notifications?id=127647
+
+14/48
+
+29/10/2026, 2:52:24 pm
+Statement- 3A [rule 89(4)]
+
+Refund Type: Export without payment of tax (accumulated ITC) — calculation of refund amount
+
+(Amount in Rs.)
+
+Turnover of zero rated supply of goods and services | Net input tax credit | Adjusted total turnover Refund amount (1*2+3)
+
+Statement-4 [rule 89(2)(d) and 89(2)(e)]
+
+Refund Type: On account of supplies made to SEZ unit or SEZ Developer (on payment of tax)
+
+(Amount in Rs.)
+
+GSTIN | Invoice details | Shipping | Integrated Tax |Cess Integrated Integrate| Net
+of bill/ Bill of tax and dtax — Integrated
+recipient export/ cess and tax and
+Endorsed involved cess cess
+invoice in debit involved (8+9+10
+by SEZ note, if | in credit -11)
+any note, if
+any
+No | Date Value | No | Date | Taxable | Amt.
+Value
+1 2 3 4 5 6 7 8 9 10 11 12
+
+Statement-5A [rule 89(4)]
+Refund Type: On account of supplies made to SEZ unit / SEZ developer without payment of tax (accumulated ITC) — calculation of
+refund amount
+(Amount in Rs.)
+
+Turnover of zero rated supply of goods and services | Net input tax credit | Adjusted total turnover | Refund amount (1*2+3)
+
+Statement 5B [rule 89(2)(g)]
+
+Refund Type: On account of deemed exports
+
+(Amount in Rs)
+
+Si. Details of invoices of outward Tax paid
+No. | supplies in case refund is claimed by
+supplier/Details of invoices of inward
+supplies in case refund is claimed by
+recipient
+
+https://www.taxtmi.com/notifications?id=127647 15/48
+
+29/10/2026, 2:52:24 pm
+
+GSTIN of No. | Date Taxable Integrated | Central State Tax | Cess
+the Value Tax Tax /Union
+supplier Territory Tax
+1 2 3 4 5 6 7 8 9
+
+‘Statement-6 [rule 89(2)(j)]
+Refund Type: On account of change in POS (inter-State to intra-State and vice versa)
+
+Order Details (issued in pursuance of sections 77(1) and 77(2), if any:
+
+Order No:
+Order Date:
+(Amount in Rs.)
+Recipients’ | Invoice details Details of tax paid on transaction Taxes re-assessed on transaction which
+GSTIN/ considered as intra —State / inter-State were held inter State / intra- State supply
+UIN Name transaction earlier subsequently
+(in case
+B2c)
+No. Date Value} Taxable Integrated Central, State/, Cess Place Integrated Central State/| Cess| Place
+Value tax tax UT of tax tax UT of
+tax Supply tax Supply
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+Statement-7 [rule 89(2)(k)]
+Refund Type: Excess payment of tax, if any in case of last return filed.
+(Amount in Rs.)
+Tax period | ARN of| Date of | Tax Paid in Excess
+return filing
+tt
+relumn | integrated tax | Central | State/) | Cess
+tax UT tax
+1 2 3 4 5 6 7
+16. In the said rules, for FORM GSTR 9, the following form shall be substituted, namely:
+“FORM GSTR -9
+[See rule 80]
+Annual Return
+Pt. Basic Details
+https://www.taxtmi.com/notifications?id=127647 16/48
+
+29/10/2026, 2:52:24 pm
+
+1 Financial Year
+
+2 | GSTIN
+
+3A | Legal Name
+
+3B Trade Name (if any)
+
+Pt. Il Details of Outward and inward supplies made during the financial year
+
+(Amount in Rs. in all tables)
+
+Nature of Supplies Taxable Central | State | Integrated | Cess
+Value Tax Tax / Tax
+UT
+Tax
+1 2 3 4 5 6
+
+4 Details of advances, inward and outward supplies made during the financial year
+on which tax is payable
+
+A_ | Supplies made to un-registered
+persons (B2C)
+
+B | Supplies made to registered
+persons (B2B)
+
+C | Zero rated supply (Export) on
+payment of tax (except supplies
+to SEZs)
+
+D_ | Supply to SEZs on payment of
+tax
+
+E Deemed Exports
+
+F | Advances on which tax has
+been paid but invoice has not
+been issued (not covered under
+(A) to (E) above)
+
+G Inward supplies on which tax is
+to be paid on reverse charge
+basis
+
+H Sub-total (A to G above)
+
+1 Credit Notes issued in respect
+of transactions specified in (B)
+to (E) above (-)
+
+J | Debit Notes issued in respect of
+transactions specified in (B) to
+(E) above (+)
+
+https://www.taxtmi.com/notifications?id=127647 17/48
+
+29/10/2026, 2:52:24 pm
+
+K Supplies / tax declared through
+Amendments (+)
+
+L | Supplies / tax reduced through
+Amendments (-)
+
+M Sub-total (I to L above)
+
+N Supplies and advances on
+which tax is to be paid (H + M)
+above
+
+5 | Details of Outward supplies made during the financial year on which tax is not
+payable
+
+A Zero rated supply (Export)
+without payment of tax
+
+B |Supply to SEZs without
+payment of tax
+
+C | Supplies on which tax is to be
+paid by the recipient on reverse
+
+charge basis
+D | Exempted
+E | Nil Rated
+
+F | Non-GST supply (includes _no
+supply’)
+
+G Sub-total (A to F above)
+
+H Credit Notes issued in respect
+of transactions specified in A to
+F above (-)
+
+i} Debit Notes issued in respect of
+transactions specified in A to F
+above (+)
+
+J Supplies declared through
+Amendments (+)
+
+K Supplies reduced through
+Amendments (-)
+
+L | Sub-Total (H to K above)
+
+M Turnover on which tax is not to
+be paid (G + L above)
+
+N Total Turnover (including
+advances) (4N + 5M - 4G
+above)
+
+https://www.taxtmi.com/notifications?id=127647
+
+18/48
+
+29/10/2026, 2:52:24 pm
+
+Pt. Ill
+
+Details of ITC for the financial year
+
+Description Type Central State Integrated | Cess
+Tax Tax / Tax
+UT
+Tax
+1 2 3 4 5 6
+
+Details of ITC availed during the financial year
+
+Total amount of input tax credit availed
+through FORM GSTR-3B (sum total of Table
+4A of FORM GSTR-3B)
+
+Inward supplies (other than Inputs
+imports and inward supplies
+liable to reverse charge but
+
+includes services received from eal
+
+SEZs) oods
+Input
+Services
+
+Inward supplies received from Inputs
+unregistered persons liable to
+
+reverse charge (other than B
+
+above) on which tax is paid & eae
+
+ITC availed joods
+Input
+Services
+
+Inward supplies received from Inputs
+registered persons liable to
+
+reverse charge (other than B
+
+above) on which tax is paid and eal
+
+ITC availed joods
+Input
+Services
+
+Import of goods (including Inputs
+supplies from SEZs)
+
+Capital
+Goods
+
+Import of services (excluding inward supplies
+from SEZs)
+
+Input Tax credit received from ISD
+
+Amount of ITC reclaimed (other than B
+above) under the provisions of the Act
+
+Sub-total (B to H above)
+
+Difference (| - A above)
+
+https://www.taxtmi.com/notifications?id=127647
+
+19/48
+
+29/10/2026, 2:52:24 pm
+
+Transition Credit through TRAN-I (including
+revisions if any)
+
+Transition Credit through TRAN-II
+
+Any other ITC availed but not specified
+above
+
+Sub-total (K to M above)
+
+Total ITC availed (I + N above)
+
+Details of ITC Reversed and Ineligible ITC for the financial year
+
+As per Rule 37
+
+As per Rule 39
+
+As per Rule 42
+
+As per Rule 43
+
+As per section 17(5)
+
+Reversal of TRAN-I credit
+
+Reversal of TRAN-II credit
+
+Other reversals (pl. specify)
+
+Total ITC Reversed (Sum of A to H above)
+
+Net ITC Available for Utilization (60 - 71)
+
+Other ITC related information
+
+ITC as per GSTR-2A (Table 3 & 5 thereof)
+
+ITC as per sum total of 6(B) and 6(H) above
+
+ITC on inward supplies (other than imports
+and inward supplies liable to reverse charge
+but includes services received from SEZs)
+received during 2017-18 but availed during
+April to September, 2018
+
+Difference [A-(B+C)]
+
+ITC available but not availed
+
+ITC available but ineligible
+
+https://www.taxtmi.com/notifications?id=127647
+
+20/48
+
+29/10/2026, 2:52:24 pm
+
+G IGST paid on import of goods (including
+
+supplies from SEZ)
+H IGST credit availed on import of goods (as
+
+per 6(E) above)
+I Difference (G-H)
+J ITC available but not availed on import of
+
+goods (Equal to !)
+K Total ITC to be lapsed in current financial
+
+year (E+F + J)
+Pt. Details of tax paid as declared in returns filed during the financial year
+IV
+9 Description Tax Paid Paid through ITC
+
+Payable through
+h
+cas Central | State | Integrated | Cess
+Tax Tax / Tax
+UT
+Tax
+1 2 3 4 5 6 7
+
+Integrated Tax
+
+Central Tax
+
+State/UT Tax
+
+Cess
+
+Interest
+
+Late fee
+
+Penalty
+
+Other
+
+PLV Particulars of the transactions for the previous FY declared in returns of April to
+
+September of current FY or upto date of filing of annual return of previous FY
+whichever is earlier
+Description Taxable Central | State Integrated | Cess
+Value Tax Tax / Tax
+UT
+Tax
+1 2 3 4 5 6
+
+hittps://www.taxtmi.com/notifications?id=127647
+
+21/48
+
+29/10/2026, 2:52:24 pm
+
+10
+
+Supplies / tax declared through
+Amendments (+) (net of debit
+
+notes)
+
+1
+
+Supplies / tax reduced through
+Amendments (-) (net of credit
+
+notes)
+
+12
+
+Reversal of ITC availed during
+previous financial year
+
+13
+
+ITC availed for the previous
+
+financial year
+
+14
+
+Differential tax paid on account of declaration in 10 &
+
+11 above
+
+Description
+
+Payable
+
+Paid
+
+Integrated Tax
+
+Central Tax
+
+State/UT Tax
+
+Cess
+
+Interest
+
+Pt. VI
+
+Other Information
+
+15
+
+Particulars of Demands and Refunds
+
+Details | Central
+
+Tax
+
+State Tax
+/ UT Tax
+
+Integrated
+Tax
+
+Cess | Intere
+st
+
+Penalty Late
+Fee/
+Other s
+
+Total
+Refund
+claimed
+
+Total
+Refund
+sanction
+ed
+
+Total
+Refund
+Rejected
+
+hittps://www.taxtmi.com/notifications?id=127647
+
+22/48
+
+29/10/2026, 2:52:24 pm
+
+D_ | Total
+Refund
+Pending
+E Total
+demand
+of taxes
+F Total
+taxes
+paid in
+respect
+of E
+above
+G Total
+demands
+pending
+out of E
+above
+16 Information on supplies received from composition taxpayers, deemed supply under
+section 143 and goods sent on approval basis
+Details Taxable Central | State | Integrated | Cess
+Value Tax Tax / Tax
+UT
+Tax
+1 2 3 4 5 6
+A |Supplies received —from
+Composition taxpayers
+B Deemed supply under Section
+143,
+C | Goods sent on approval basis
+but not returned
+17 HSN Wise Summary of outward supplies
+HSN UQc Total Taxable | Rate of Tax Central | State | Integrated | Cess
+Code Quantity Value Tax Tax / Tax
+UT
+Tax
+1 2 3 4 5 6 7 8 9
+18 HSN Wise Summary of Inward supplies
+HSN UQc Total Taxable | Rate of Tax) Central) State | Integrated  Cess
+Cod Quantity, Value Tax Tax / Tax
+e UT
+Tax
+
+hittps://www.taxtmi.com/notifications?id=127647
+
+23/48
+
+29/10/2026, 2:52:24 pm
+
+Verification:
+
+1 2 | 3 4 5 6 | 7 8 | 9
+| | |
+19 Late fee payable and paid
+Description Payable Paid
+1 2 3
+A Central Tax
+B State Tax
+
+| hereby solemnly affirm and declare that the information given herein above is true and correct to the best of my knowledge and belief
+and nothing has been concealed there from and in case of any reduction in output tax liability the benefit thereof has been/will be
+passed on to the recipient of supply.
+
+Place
+
+Signatory
+
+Date
+Signature
+Name of Authorised
+
+Designation / Status
+
+Instructions: —
+
+1. Terms used:
+
+a, GSTIN: Goods and Services Tax Identification Number
+
+b. UQC: Unit Quantity Code
+
+c. HSN: Harmonized System of Nomenclature Code
+
+2. It is mandatory to file all your FORM GSTR-1 and FORM GSTR-3B for the FY 2017-18 before filing this return. The details for the
+period between July 2017 to March 2018 are to be provided in this return.
+
+3. It may be noted that additional liability for the FY 2017-18 not declared in FORM GSTR-1 and FORM GSTR-3B may be declared in
+this return. However, taxpayers cannot claim input tax credit unclaimed during FY 2017-18 through this return.
+
+4. Part Il consists of the details of all outward supplies & advances received during the financial year for which the annual return is filed.
+It may be noted that all the supplies for which payment has been made through FORM GSTR-3B between July 2017 to March 2018
+shall be declared in this part. The instructions to fill Part II are as follows:
+
+Table Instructions
+No.
+4A Aggregate value of supplies made to consumers and unregistered persons on which tax has been paid shall be
+
+declared here. These will include details of supplies made through E-Commerce operators and are to be declared as
+net of credit notes or debit notes issued in this regard. Table 5, Table 7 along with respective amendments in Table 9
+and Table 10 of FORM GSTR-1 may be used for filling up these details.
+
+https://www.taxtmi.com/notifications?id=127647 24/48
+
+29/10/2026, 2:52:24 pm
+
+4B Aggregate value of supplies made to registered persons (including supplies made to UINs) on which tax has been paid
+shall be declared here. These will include supplies made through E-Commerce operators but shall not include supplies
+on which tax is to be paid by the recipient on reverse charge basis. Details of debit and credit notes are to be
+mentioned separately. Table 4A and Table 4C of FORM GSTR-1 may be used for filling up these details.
+
+4c Aggregate value of exports (except supplies to SEZs) on which tax has been paid shall be declared here. Table 6A of
+FORM GSTR-1 may be used for filling up these details.
+
+4D Aggregate value of supplies to SEZs on which tax has been paid shall be declared here. Table 6B of GSTR-1 may be
+used for filling up these details.
+
+4E Aggregate value of supplies in the nature of deemed exports on which tax has been paid shall be declared here. Table
+6C of FORM GSTR-1 may be used for filling up these details.
+
+4F Details of all unadjusted advances i.e. advance has been received and tax has been paid but invoice has not been
+issued in the current year shall be declared here. Table 11A of FORM GSTR-1 may be used for filling up these details.
+
+4G Aggregate value of all inward supplies (including advances and net of credit and debit notes) on which tax is to be paid
+by the recipient (i.e.by the person filing the annual return) on reverse charge basis. This shall include supplies received
+from registered persons, unregistered persons on which tax is levied on reverse charge basis. This shall also include
+aggregate value of all import of services. Table 3.1(d) of FORM GSTR-3B may be used for filling up these details.
+
+4l Aggregate value of credit notes issued in respect of B to B supplies (4B), exports (4C), supplies to SEZs (4D) and
+deemed exports (4E) shall be declared here. Table 9B of FORM GSTR-1 may be used for filling up these details.
+
+4J Aggregate value of debit notes issued in respect of B to B supplies (4B), exports (4C), supplies to SEZs (4D) and
+deemed exports (4E) shall be declared here. Table 9B of FORM GSTR-1 may be used for filling up these details.
+
+4K & 4L | Details of amendments made to B to B supplies (4B), exports (4C), supplies to SEZs (4D) and deemed exports (4E),
+credit notes (41), debit notes (4J) and refund vouchers shall be declared here. Table 9A and Table 9C of FORM GSTR-1
+may be used for filling up these details.
+
+5A Aggregate value of exports (except supplies to SEZs) on which tax has not been paid shall be declared here. Table 6A
+of FORM GSTR-1 may be used for filling up these details.
+
+5B Aggregate value of supplies to SEZs on which tax has not been paid shall be declared here. Table 6B of GSTR-1 may
+be used for filling up these details.
+
+5C Aggregate value of supplies made to registered persons on which tax is payable by the recipient on reverse charge
+basis. Details of debit and credit notes are to be mentioned separately. Table 4B of FORM GSTR-1 may be used for
+filling up these details.
+
+5D,5E | Aggregate value of exempted, Nil Rated and Non-GST supplies shall be declared here. Table 8 of FORM GSTR-1 may
+and 5F | be used for filling up these details. The value of “no supply” shall be declared under Non-GST supply (5F).
+
+5H Aggregate value of credit notes issued in respect of supplies declared in 5A, 5B, 5C, 5D, SE and 5F shall be declared
+here. Table 9B of FORM GSTR-1 may be used for filling up these details.
+
+Sl Aggregate value of debit notes issued in respect of supplies declared in 5A, 5B, 5C, 5D, 5E and 5F shall be declared
+here. Table 9B of FORM GSTR-1 may be used for filling up these details.
+
+5J & 5K | Details of amendments made to exports (except supplies to SEZs) and supplies to SEZs on which tax has not been
+paid shall be declared here. Table 9A and Table 9C of FORM GSTR-1 may be used for filling up these details.
+
+https://www.taxtmi.com/notifications?id=127647 25/48
+
+29/10/2026, 2:52:24 pm
+
+5N Total turnover including the sum of all the supplies (with additional supplies and amendments) on which tax is payable
+and tax is not payable shall be declared here. This shall also include amount of advances on which tax is paid but
+invoices have not been issued in the current year. However, this shall not include the aggregate value of inward
+supplies on which tax is paid by the recipient (i.e. by the person filing the annual return) on reverse charge basis.
+
+5. Part Ill consists of the details of all input tax credit availed and reversed in the financial year for which the annual return is filed. The
+instructions to fill Part Ill are as follows:
+
+Table Instructions
+
+No.
+
+6A Total input tax credit availed in Table 4A of FORM GSTR-3B for the taxpayer would be auto-populated here.
+
+6B Aggregate value of input tax credit availed on all inward supplies except those on which tax is payable on reverse
+
+charge basis but includes supply of services received from SEZs shall be declared here. It may be noted that the
+total ITC availed is to be classified as ITC on inputs, capital goods and input services. Table 4(A)(5) of FORM
+GSTR-3B may be used for filling up these details. This shall not include ITC which was availed, reversed and then
+reclaimed in the ITC ledger. This is to be declared separately under 6(H) below.
+
+6c Aggregate value of input tax credit availed on all inward supplies received from unregistered persons (other than
+import of services) on which tax is payable on reverse charge basis shall be declared here. It may be noted that
+the total ITC availed is to be classified as ITC on inputs, capital goods and input services. Table 4(A)(3) of FORM
+GSTR-3B may be used for filling up these details.
+
+6D Aggregate value of input tax credit availed on all inward supplies received from registered persons on which tax is
+payable on reverse charge basis shall be declared here. It may be noted that the total ITC availed is to be
+classified as ITC on inputs, capital goods and input services. Table 4(A)(3) of FORM GSTR-3B may be used for
+filling up these details.
+
+6E Details of input tax credit availed on import of goods including supply of goods received from SEZs shall be
+declared here. It may be noted that the total ITC availed is to be classified as ITC on inputs and capital goods.
+Table 4(A)(1) of FORM GSTR-3B may be used for filling up these details.
+
+6F Details of input tax credit availed on import of services (excluding inward supplies from SEZs) shall be declared
+here. Table 4(A)(2) of FORM GSTR-3B may be used for filling up these details.
+
+6G Aggregate value of input tax credit received from input service distributor shall be declared here. Table 4(A)(4) of
+FORM GSTR-3B may be used for filling up these details.
+
+6H Aggregate value of input tax credit availed, reversed and reclaimed under the provisions of the Act shall be
+declared here.
+
+6J The difference between the total amount of input tax credit availed through FORM GSTR-3B and input tax credit
+declared in row B to H shall be declared here. Ideally, this amount should be zero.
+
+6K Details of transition credit received in the electronic credit ledger on filing of FORM GST TRAN-I including revision
+of TRAN-I (whether upwards or downwards), if any shall be declared here.
+
+6L Details of transition credit received in the electronic credit ledger after filing of FORM GST TRAN-II shall be
+declared here.
+
+6M Details of ITC availed but not covered in any of heads specified under 6B to 6L above shall be declared here.
+Details of ITC availed through FORM ITC-01 and FORM ITC-02 in the financial year shall be declared here.
+
+7A, 7B, | Details of input tax credit reversed due to ineligibility or reversals required under rule 37, 39, 42 and 43 of the
+7C, 7D, CGST Rules, 2017 shall be declared here. This column should also contain details of any input tax credit reversed
+
+https://www.taxtmi.com/notifications?id=127647 26/48
+
+29/10/2026, 2:52:24 pm
+
+7E, 7F,
+7G and
+
+8A
+
+under section 17(5) of the CGST Act, 2017 and details of ineligible transition credit claimed under FORM GST
+TRAN-I or FORM GST TRAN-II and then subsequently reversed. Table 4(B) of FORM GSTR-3B may be used for
+filling up these details. Any ITC reversed through FORM ITC -03 shall be declared in 7H. If the amount stated in
+Table 4D of FORM GSTR-3B was not included in table 4A of FORM GSTR-3B, then no entry should be made in
+table 7E of FORM GSTR-9. However, if amount mentioned in table 4D of FORM GSTR-3B was included in table
+4A of FORM GSTR-3B, then entry will come in 7E of FORM GSTR-9.
+
+The total credit available for inwards supplies (other than imports and inwards supplies liable to reverse charge
+but includes services received from SEZs) pertaining to FY 2017-18 and reflected in FORM GSTR-2A (table 3 & 5
+only) shall be auto-populated in this table. This would be the aggregate of all the input tax credit that has been
+declared by the corresponding suppliers in their FORM GSTR-1.
+
+8B
+
+8c
+
+8D
+
+The input tax credit as declared in Table 6B and 6H shall be auto-populated here.
+
+Aggregate value of input tax credit availed on all inward supplies (except those on which tax is payable on reverse
+charge basis but includes supply of services received from SEZs) received during July 2017 to March 2018 but
+credit on which was availed between April to September 2018 shall be declared here. Table 4(A)(5) of FORM
+GSTR-3B may be used for filling up these details.
+
+Aggregate value of the input tax credit which was available in FORM GSTR-2A (table 3 & 5 only) but not availed
+in FORM GSTR-3B returns shall be computed based on values of 8A, 8B and 8C. However, there may be
+circumstances where the credit availed in FORM GSTR-3B was greater than the credit available in FORM GSTR-
+2A. In such cases, the value in row 8D shall be negative.
+
+8E & 8F
+
+8G
+
+The credit which was available and not availed in FORM GSTR-3B and the credit was not availed in FORM
+GSTR-3B as the same was ineligible shall be declared here. Ideally, if 8D is positive, the sum of 8E and 8F shall
+be equal to 8D.
+
+Aggregate value of IGST paid at the time of imports (including imports from SEZs) during the financial year shall
+be declared here.
+
+8H
+
+8K
+
+The input tax credit as declared in Table 6E shall be auto-populated here.
+
+The total input tax credit which shall lapse for the current financial year shall be computed in this row.
+
+6. Part IV is the actual tax paid during the financial year. Payment of tax under Table 6.1 of FORM GSTR-3B may be used for filling up
+
+these details.
+
+7. Part V consists of particulars of transactions for the previous financial year but paid in the FORM GSTR-3B of April to September of
+current FY or date of filing of Annual Return for previous financial year (for example in the annual return for the FY 2017-18, the
+transactions declared in April to September 2018 for the FY 2017-18 shall be declared), whichever is earlier. The instructions to fill Part
+V are as follows:
+
+Table Instructions
+
+No.
+
+10 & Details of additions or amendments to any of the supplies already declared in the returns of the previous financial year but
+11 such amendments were furnished in Table 9A, Table 9B and Table 9C of FORM GSTR-1 of April to September of the
+current financial year or date of filing of Annual Return for the previous financial year, whichever is earlier shall be declared
+
+here.
+
+12 Aggregate value of reversal of ITC which was availed in the previous financial year but reversed in returns filed for the
+months of April to September of the current financial year or date of filing of Annual Return for previous financial year,
+whichever is earlier shall be declared here. Table 4(B) of FORM GSTR-3B may be used for filling up these details.
+
+https://www.taxtmi.com/notifications?id=127647
+
+27/48
+
+29/10/2026, 2:52:24 pm
+
+13 Details of ITC for goods or services received in the previous financial year but ITC for the same was availed in returns filed
+for the months of April to September of the current financial year or date of filing of Annual Return for the previous financial
+year whichever is earlier shall be declared here. Table 4(A) of FORM GSTR-3B may be used for filling up these details.
+However, any ITC which was reversed in the FY 2017-18 as per second proviso to sub-section (2) of section 16 but was.
+reclaimed in FY 2018-19, the details of such ITC reclaimed shall be furnished in the annual return for FY 2018-19.
+
+8. Part VI consists of details of other information. The instructions to fill Part VI are as follows:
+
+Table | Instructions
+No.
+
+15A, Aggregate value of refunds claimed, sanctioned, rejected and pending for processing shall be declared here. Refund
+
+15B, claimed will be the aggregate value of all the refund claims filed in the financial year and will include refunds which
+15C have been sanctioned, rejected or are pending for processing. Refund sanctioned means the aggregate value of all
+and refund sanction orders. Refund pending will be the aggregate amount in all refund application for which
+15D acknowledgement has been received and will exclude provisional refunds received. These will not include details of
+
+non-GST refund claims.
+
+15E, Aggregate value of demands of taxes for which an order confirming the demand has been issued by the adjudicating
+15F authority shall be declared here. Aggregate value of taxes paid out of the total value of confirmed demand as
+and declared in 15E above shall be declared here. Aggregate value of demands pending recovery out of 15E above shall
+
+15G be declared here.
+
+16A _ Aggregate value of supplies received from composition taxpayers shall be declared here. Table 5 of FORM GSTR-3B
+may be used for filling up these details.
+
+16B Aggregate value of all deemed supplies from the principal to the job-worker in terms of sub-section (3) and sub-
+section (4) of Section 143 of the CGST Act shall be declared here.
+
+16C Aggregate value of all deemed supplies for goods which were sent on approval basis but were not returned to the
+principal supplier within one eighty days of such supply shall be declared here.
+
+17 & 18 | Summary of supplies effected and received against a particular HSN code to be reported only in this table. It will be
+optional for taxpayers having annual turnover upto = 1.50 Cr. It will be mandatory to report HSN code at two digits
+level for taxpayers having annual turnover in the preceding year above € 1.50 Cr but upto € 5.00 Cr and at four digits
+‘level for taxpayers having annual turnover above % 5.00 Cr. UQC details to be furnished only for supply of goods.
+Quantity is to be reported net of returns. Table 12 of FORM GSTR-1 may be used for filling up details in Table 17. It
+may be noted that this summary details are required to be declared only for those inward supplies which in value
+independently account for 10 % or more of the total value of inward supplies.
+
+19 Late fee will be payable if annual return is filed after the due date.
+
+9. Towards the end of the return, taxpayers shall be given an option to pay any additional liability declared in this form, through
+FORM DRC-03. Taxpayers shall select “Annual Return” in the drop down provided in FORM DRC-03. It may be noted that such
+liability can be paid through electronic cash ledger only.”.
+
+17. In the said rules, for FORM GSTR 9A, the following form shall be substituted, namely:-
+“FORM GSTR-9A
+[See rule 80]
+
+Annual Return (For Composition Taxpayer)
+
+Pt | Basic Details |
+
+Financial Year |
+
+https://www.taxtmi.com/notifications?id=127647 28/48
+
+29/10/2026, 2:52:24 pm
+
+2)| GSTIN
+
+3A Legal Name
+
+3B Trade Name (if any)
+
+4 | Period of composition scheme during the year
+(From --- To —-)
+5) Aggregate Turnover of Previous Financial
+Year
+(Amount in Rs.in all tables)
+Pt. Il Details of outward and inward supplies made during the financial year
+Description Turnover Rate of Central) State/ | Integrated) Cess
+Tax Tax | UT Tax tax
+1 2 3 4 5 6 7
+6 Details of Outward supplies made during the financial year
+A | Taxable
+B Exempted, Nil-rated
+C Total
+7 Details of inward supplies on which tax is payable on reverse charge basis (net of
+debit/credit notes) for the financial year
+Description Taxable Central Tax State Integrated | Cess
+Value Tax / Tax
+UT Tax
+4 2 3 4 5 6
+
+A _| Inward supplies liable
+to reverse charge
+received from
+registered persons
+
+B Inward supplies liable
+to reverse charge
+received from
+unregistered persons
+
+C__| Import of services
+
+D Net Tax Payable on
+(A), (B) and (C)
+above
+
+hittps://www.taxtmi.com/notifications?id=127647
+
+29/48
+
+29/10/2026, 2:52:24 pm
+
+8 Details of other inward supplies for the financial year
+A_ | Inward supplies from
+
+registered persons
+
+(other than 7A above)
+B Import of Goods
+
+Pt. Il Details of tax paid as declared in returns filed during the financial year
+9 Description Total tax payable Paid
+1 2 3
+
+Integrated Tax
+
+Central Tax
+
+State/UT Tax
+
+Cess
+
+Interest
+
+Late fee
+
+Penalty
+Pt. Particulars of the transactions for the previous FY declared in returns of April to
+VV September of current FY or upto date of filing of annual return of previous FY
+
+whichever is earlier
+Description Turnover Central | State Integrated) Cess
+Tax Tax / Tax
+UT Tax
+1 2 3 4 5 6
+
+40 | Supplies / tax (outward) declared
+
+through Amendments (+) (net of
+
+debit notes)
+11 | Inward supplies liable to reverse
+
+charge declared through
+
+Amendments (+) (net of debit
+
+notes)
+12 | Supplies / tax (outward) reduced
+
+through Amendments (-) (net of
+
+credit notes)
+13 Inward supplies liable to reverse
+
+charge reduced through
+Amendments (-) (net of credit
+notes)
+
+hittps://www.taxtmi.com/notifications?id=127647
+
+30/48
+
+29/10/2026, 2:52:24 pm
+
+14 Differential tax paid on account of declaration made in 10, 11, 12 & 13 above
+Description Payable Paid
+1 2 3
+
+Integrated Tax
+
+Central Tax
+State/UT Tax
+Cess
+Interest
+PLV Other Information
+15 Particulars of Demands and Refunds
+
+Description Central | State Tax
+Tax / UT Tax
+
+Integrate
+d Tax
+
+Cess | Interest
+
+Penalty Late
+Fee/
+Other
+
+A | Total
+Refund
+claimed
+
+B_ | Total
+Refund
+sanctioned
+
+C Total
+Refund
+Rejected
+
+D_ | Total
+Refund
+Pending
+
+E | Total
+demand of
+taxes
+
+F | Total taxes
+paid in
+respect of E
+above
+
+G Total
+demands
+pending out
+of E above
+
+hittps://www.taxtmi.com/notifications?id=127647
+
+31/48
+
+29/10/2026, 2:52:24 pm
+
+16 Details of credit reversed or availed
+Description Central | State | Integrated | Cess
+Tax Tax / Tax
+UT Tax
+2 3 4 5
+A | Credit reversed on opting in the composition
+scheme (-)
+B Credit availed on opting out of the composition
+scheme (+)
+17 Late fee payable and paid
+Description Payable Paid
+2 3
+
+A__| Central Tax
+
+B_ | State Tax
+
+Verification:
+
+| hereby solemnly affirm and declare that the information given herein above is true and correct to the best of my knowledge and belief
+and nothing has been concealed there from and in case of any reduction in output tax liability the benefit thereof has been/will be
+
+passed on to the recipient of supply.
+Place
+
+Date
+
+Instructions: —
+
+Signature
+
+Name of Authorised Signatory
+
+Designation / Status
+
+1. It is mandatory to file all your FORM GSTR-4 for the FY 2017-18 before filing this return. The details for the period between July 2017
+
+to March 2018 shall be provided in this return.
+
+2. It may be noted that additional liability for the FY 2017-18 not declared in FORM GSTR-4 may be declared in this return.
+
+3. Part | consists of basic details of taxpayer. The instructions to fill Part | are as follows :
+
+Table — Instructions
+No.
+
+5 Aggregate turnover for the previous financial year is the turnover of the financial year previous to the year for which the
+return is being filed. For example for the annual return for FY 2017-18, the aggregate turnover of FY 2016-17 shall be
+entered into this table, It is the sum total of turnover of all taxpayers registered on the same PAN.
+
+4. Part Il consists of the details of all outward and inward supplies in the financial year for which the annual return is filed. The
+
+instructions to fill Part Il are as follows:
+
+https://www.taxtmi.com/notifications?id=127647
+
+32/48
+
+29/10/2026, 2:52:24 pm
+
+5. Part IV consists of the details of amendments made for the supplies of the previous financial year in the returns of April to September
+of the current FY or date of filing of Annual Return for previous financial year (for example in the annual return for the FY 2017-18, the
+transactions declared in April to September 2018 for the FY 2017-18 shall be declared), whichever is earlier. The instructions to fill Part
+
+Table | Instructions
+
+No.
+
+6A Aggregate value of all outward supplies net of debit notes / credit notes, net of advances and net of goods returned
+for the entire financial year shall be declared here. Table 6 and Table 7 of FORM GSTR-4 may be used for filling up
+these details.
+
+6B Aggregate value of exempted, Nil Rated and Non-GST supplies shall be declared here.
+
+7A Aggregate value of all inward supplies received from registered persons on which tax is payable on reverse charge
+basis shall be declared here. Table 4B, Table 5 and Table 8A of FORM GSTR-4 may be used for filling up these
+details.
+
+7B Aggregate value of all inward supplies received from unregistered persons (other than import of services) on which
+tax is payable on reverse charge basis shall be declared here. Table 4C, Table 5 and Table 8A of FORM GSTR-4
+may be used for filling up these details.
+
+7c Aggregate value of all services imported during the financial year shall be declared here. Table 4D and Table 5 of
+FORM GSTR-4 may be used for filling up these details.
+
+8A Aggregate value of all inward supplies received from registered persons on which tax is payable by the supplier shall
+be declared here. Table 4A and Table 5 of FORM GSTR-4 may be used for filling up these details.
+
+8B Aggregate value of all goods imported during the financial year shall be declared here.
+
+V are as follows:
+
+Table No. Instructions
+
+10,11,12,13 | Details of additions or amendments to any of the supplies already declared in the returns of the previous
+
+and 14
+
+financial year but such amendments were furnished in Table 5 (relating to inward supplies) or Table 7 (relating
+to outward supplies) of FORM GSTR- 4 of April to September of the current financial year or upto the date of
+filing of Annual Return for the previous financial year, whichever is earlier shall be declared here.
+
+6. Part V consists of details of other information. The instruction to fill Part V are as follows:
+
+No.
+
+Table
+
+Instructions
+
+15C
+and
+15D
+
+15E,
+
+15G
+
+https://www.taxtmi.com/notifications?id=127647
+
+15A,
+15B,
+
+15F and | adjudicating authority has been issued shall be declared here. Aggregate value of taxes paid out of the total
+
+Aggregate value of refunds claimed, sanctioned, rejected and pending for processing shall be declared here.
+Refund claimed will be the aggregate value of all the refund claims filed in the financial year and will include
+refunds which have been sanctioned, rejected or are pending for processing. Refund sanctioned means the
+aggregate value of all refund sanction orders. Refund pending will be the aggregate amount in all refund
+application for which acknowledgement has been received and will exclude provisional refunds received. These
+will not include details of non-GST refund claims.
+
+Aggregate value of demands of taxes for which an order confirming the demand has been issued by the
+
+value of confirmed demand in 15E above shall be declared here. Aggregate value of demands pending recovery
+out of 15E above shall be declared here.
+
+33/48
+
+29/10/2026, 2:52:24 pm
+
+16A
+
+16B
+
+Aggregate value of all credit reversed when a person opts to pay tax under the composition scheme shall be
+declared here. The details furnished in FORM ITC-03 may be used for filling up these details.
+
+Aggregate value of all the credit availed when a registered person opts out of the composition scheme shall be
+declared here. The details furnished in FORM ITC-01 may be used for filling up these details.
+
+17
+
+Late fee will be payable if annual return is filed after the due date.”;
+
+7. Towards the end of the return, taxpayers shall be given an option to pay any additional liability declared in this form, through
+FORM DRC-03. Taxpayers shall select “Annual Return” in the drop down provided in FORM DRC-03. It may be noted that such
+liability shall be paid through electronic cash ledger only.”.
+
+18. In the said rules, for FORM GSTR 9C, the following form shall be substituted, namely:-
+
+“FORM GSTR-9C
+See rule 80(3)
+
+PART —A- Reconciliation Statement
+
+Pt. Basic Details
+
+1 | Financial Year
+
+2) GSTIN
+
+3A | Legal Name < Auto>
+
+3B Trade Name
+(if any)
+
+4 Are you liable to audit under any Act?
+
+<< Please specify >>
+
+(Amount in Rs.in all tables)
+
+Pt. Il Reconciliation of turnover declared in audited Annual Financial
+Statement with turnover declared in Annual Return (GSTR9)
+
+5 Reconciliation of Gross Turnover
+
+A. Turnover (including exports) as per audited financial statements
+for the State / UT (For multi-GSTIN units under same PAN the
+turnover shall be derived from the audited Annual Financial
+Statement)
+
+B_ Unbilled revenue at the beginning of Financial Year | (+)
+
+C Unadjusted advances at the end of the Financial (+)
+Year
+
+D Deemed Supply under Schedule I (+)
+
+E Credit Notes issued after the end of the financial 10)
+year but reflected in the annual return
+
+https://www.taxtmi.com/notifications?id=127647
+
+34/48
+
+29/10/2026, 2:52:24 pm
+
+Trade Discounts accounted for in the audited (+)
+Annual Financial Statement but are not permissible
+under GST
+
+Turnover from April 2017 to June 2017 0)
+
+Unbilled revenue at the end of Financial Year ()
+
+ce
+
+Unadjusted Advances at the beginning of the ()
+Financial Year
+
+Credit notes accounted for in the audited Annual | (+)
+Financial Statement but are not permissible under
+GST
+
+r
+
+Adjustments on account of supply of goods by SEZ ()
+units to DTA Units
+
+Turnover for the period under composition scheme C)
+
+Adjustments in turnover under section 15 and rules (+/-)
+thereunder
+
+Adjustments in turnover due to foreign exchange (+/-)
+fluctuations
+
+Adjustments in turnover due to reasons not listed above | (+/-)
+
+Annual turnover after adjustments as above
+
+Turnover as declared in Annual Return (GSTR9)
+
+Un-Reconciled turnover (Q - P) AT1
+
+Reasons for Un - Reconciled difference in Annual Gross Turnover
+
+Reason 1 <>
+
+Reason 2 <>
+
+Reason 3 <>
+
+Reconciliation of Taxable Turnover
+
+Annual turnover after adjustments (from 5P above)
+
+Value of Exempted, Nil Rated, Non-GST supplies, No-Supply
+turnover
+
+https://www.taxtmi.com/notifications?id=127647
+
+35/48
+
+29/10/2026, 2:52:24 pm
+
+C Zero rated supplies without payment of tax
+D
+Supplies on which tax is to be paid by the recipient on reverse
+E | charge basis
+F
+Taxable turnover as per adjustments above (A-B-C-D)
+Taxable turnover as per liability declared in Annual Return
+(GSTR9)
+G _ Unreconciled taxable turnover (F-E) AT2
+8 Reasons for Un - Reconciled difference in taxable turnover
+ABC Reason 1 << Text >>
+Reason 2 << Text >>
+Reason 3 << Text >>
+Pt. Ill Reconciliation of tax paid
+9 Reconciliation of rate wise liability and amount payable thereon
+Tax payable
+Description Taxable Value Central State Integrated | Cess, if
+tax tax/ Tax applicable
+UT
+tax
+1 2 3 4 5 6
+A 5%
+B 5% (RC)
+Cc 12%
+D 12% (RC)
+E | 18%
+F 18% (RC)
+G 28%
+H | 28% (RC)
+1 3%
+
+https://www.taxtmi.com/notifications?id=127647 36/48
+
+29/10/2026, 2:52:24 pm
+
+0.25%
+
+0.10%
+
+Interest
+
+Late Fee
+
+Penalty
+
+Others
+
+Total amount
+to be paid as
+per tables
+above
+
+Total amount
+paid as
+declared in
+Annual Return
+(GSTR 9)
+
+Un- reconciled
+payment of
+amount (PT1)
+
+10
+
+Reasons for un-reconciled payment of amount
+
+Reason 1
+
+<>
+
+Reason 2
+
+<>
+
+Reason 3
+
+<>
+
+Additional amount payable but not paid (due to reasons specified under Tables
+6,8 and 10 above)
+
+To be paid through Cash
+
+Description
+
+Taxable Value
+
+Central
+tax
+
+State | Integrated tax
+tax/
+UT
+tax
+
+Cess, if
+applicable
+
+5%
+
+12%
+
+18%
+
+hittps://www.taxtmi.com/notifications?id=127647
+
+37/48
+
+29/10/2026, 2:52:24 pm
+
+28%
+
+3%
+
+0.25%
+
+0.10%
+
+Interest
+
+Late Fee
+
+Pt.
+
+12
+
+Penalty
+
+Others
+(please
+specify)
+
+Reconciliation of Input Tax Credit (ITC)
+
+Reconciliation of Net Input Tax Credit (ITC)
+
+ITC availed as per audited Annual Financial Statement for the
+State/ UT (For multi-GSTIN units under same PAN this should be
+derived from books of accounts)
+
+ITC booked in earlier Financial Years claimed in current | (+)
+Financial Year
+
+13
+
+ITC booked in current Financial Year to be claimed in (-)
+subsequent Financial Years
+
+ITC availed as per audited financial statements or books of
+account
+
+ITC claimed in Annual Return (GSTR9)
+
+Un-reconciled ITC
+
+Reasons for un-reconciled difference in ITC
+
+Reason 1 <>
+
+ITC 1
+
+Reason 2 <>
+
+Reason 3 <>
+
+https://www.taxtmi.com/notifications?id=127647
+
+38/48
+
+29/10/2026, 2:52:24 pm
+
+14
+
+Reconciliation of ITC declared in Annual Return (GSTR9) with ITC availed on
+expenses as per audited Annual Financial Statement or books of account
+
+Description Value Amount of | Amount of eligible
+Total ITC ITC availed
+1 2 3 4
+A Purchases
+B Freight / Carriage
+Cc Power and Fuel
+D Imported goods (Including
+received from SEZs)
+E Rent and Insurance
+F Goods lost, _stolen,
+destroyed, written off or
+disposed of by way of gift
+or free samples
+G Royalties
+H Employees' Cost
+(Salaries, wages, Bonus
+etc.)
+1 Conveyance charges
+J Bank Charges.
+K Entertainment charges
+L_ Stationery Expenses
+(including postage etc.)
+M Repair and Maintenance
+N Other Miscellaneous
+expenses
+fe) Capital goods
+P Any other expense 1
+Q Any other expense 2
+R Total amount of eligible °
+
+ITC availed
+
+https://www.taxtmi.com/notifications?id=127647
+
+39/48
+
+29/10/2026, 2:52:24 pm
+
+ITC claimed in Annual
+
+Return (GSTR9)
+
+T | Un-reconciled ITC (ITC 2)
+15 Reasons for un - reconciled difference in ITC
+A Reason 1 <>
+B Reason 2 <>
+Cc Reason 3 <>
+16 Tax payable on un-reconciled difference in ITC (due to reasons specified in 13
+and 15 above)
+Description Amount Payable
+Central Tax
+State/UT Tax
+Integrated Tax
+Cess
+Interest
+Penalty
+PLeV Auditor's recommendation on additional Liability due to non-reconciliation
+
+To be paid through Cash
+
+Description Value Central | State Integrated Cess, if
+tax tax/ tax applicable
+UT
+tax
+1 2 3 4 5 6
+
+5%
+
+12%
+
+18%
+
+28%
+
+3%
+
+0.25%
+
+hittps://www.taxtmi.com/notifications?id=127647
+
+40/48
+
+29/10/2026, 2:52:24 pm
+
+0.10%
+
+Input Tax
+Credit
+
+Interest
+
+Late Fee
+
+Penalty
+
+Any other
+amount paid
+for — supplies
+not included in
+Annual Return
+(GSTR 9)
+
+Erroneous
+refund to be
+paid back
+
+Outstanding
+demands to
+be settled
+
+Other (PL.
+specify)
+
+Verification:
+
+| hereby solemnly affirm and declare that the information given herein above is true and correct to the best of my knowledge and belief
+and nothing has been concealed there from.
+
+**(Signature and stamp/Seal of the Auditor)
+
+Place: ......
+
+Name of the signatory ....
+
+Membership No...
+
+Date: .
+
+Full address ...
+
+Verification of registered person:
+
+| hereby solemnly affirm and declare that | am uploading the reconciliation statement in FORM GSTR-9C prepared and duly signed by
+the Auditor and nothing has been tampered or altered by me in the statement. | am also uploading other statements, as applicable,
+including financial statement, profit and loss account and balance sheet etc.
+
+Signature
+Place:
+Date:
+Name of Authorized Signatory
+Designation/status
+
+Instructions: —
+
+https://www.taxtmi.com/notifications?id=127647 41/48
+
+29/10/2026, 2:52:24 pm
+
+1. Terms used:
+
+(a) GSTIN: Goods and Services Tax Identification Number
+
+2. It is mandatory to file all your FORM GSTR-1, FORM GSTR-3B and FORM GSTR -9 for the FY 2017-18 before filing this return. The
+details for the period between July 2017 to March 2018 are to be provided in this statement for the financial year 2017-18. The
+reconciliation statement is to be filed for every GSTIN separately.
+
+3. The reference to current financial year in this statement is the financial year for which the reconciliation statement is being filed for.
+
+4. Part Il consists of reconciliation of the annual turnover declared in the audited Annual Financial Statement with the turnover as
+declared in the Annual Return furnished in FORM GSTR-9 for this GSTIN. The instructions to fill this part are as follows :-
+
+Table
+No.
+
+SA
+
+Instructions
+
+The turnover as per the audited Annual Financial Statement shall be declared here. There may be cases where
+multiple GSTINs (State-wise) registrations exist on the same PAN. This is common for persons / entities with
+presence over multiple States. Such persons / entities, will have to internally derive their GSTIN wise turnover and
+declare the same here. This shall include export turnover (if any). It may be noted that reference to audited Annual
+Financial Statement includes reference to books of accounts in case of persons / entities having presence over
+multiple States.
+
+5B
+
+5C
+
+5D
+
+5E
+
+Unbilled revenue which was recorded in the books of accounts on the basis of accrual system of accounting in the
+last financial year and was carried forward to the current financial year shall be declared here. In other words, when
+GST is payable during the financial year on such revenue (which was recognized earlier), the value of such revenue
+shall be declared here. (For example, if rupees Ten Crores of unbilled revenue existed for the financial year 2016-
+17, and during the current financial year, GST was paid on rupees Four Crores of such revenue, then value of
+rupees Four Crores rupees shall be declared here)
+
+Value of all advances for which GST has been paid but the same has not been recognized as revenue in the audited
+Annual Financial Statement shall be declared here.
+
+Aggregate value of deemed supplies under Schedule | of the CGST Act, 2017 shall be declared here. Any deemed
+supply which is already part of the turnover in the audited Annual Financial Statement is not required to be included
+here.
+
+Aggregate value of credit notes which were issued after 31st of March for any supply accounted in the current
+financial year but such credit notes were reflected in the annual return (GSTR-9) shall be declared here.
+
+SF
+
+5G
+
+5H
+
+Trade discounts which are accounted for in the audited Annual Financial Statement but on which GST was leviable
+(being not permissible) shall be declared here.
+
+Turnover included in the audited Annual Financial Statement for April 2017 to June 2017 shall be declared here.
+
+Unbilled revenue which was recorded in the books of accounts on the basis of accrual system of accounting during
+the current financial year but GST was not payable on such revenue in the same financial year shall be declared
+here.
+
+SI
+
+5J
+
+Value of all advances for which GST has not been paid but the same has been recognized as revenue in the audited
+Annual Financial Statement shall be declared here.
+
+Aggregate value of credit notes which have been accounted for in the audited Annual Financial Statement but were
+not admissible under Section 34 of the CGST Act shall be declared here.
+
+5K
+
+SL
+
+Aggregate value of all goods supplied by SEZs to DTA units for which the DTA units have filed bill of entry shall be
+declared here.
+
+There may be cases where registered persons might have opted out of the composition scheme during the current
+financial year. Their turnover as per the audited Annual Financial Statement would include turnover both as
+
+https://www.taxtmi.com/notifications?id=127647 42/48
+
+29/10/2026, 2:52:24 pm
+
+5M
+
+composition taxpayer as well as normal taxpayer. Therefore, the turnover for which GST was paid under the
+composition scheme shall be declared here.
+
+There may be cases where the taxable value and the invoice value differ due to valuation principles under section
+15 of the CGST Act, 2017 and rules thereunder. Therefore, any difference between the turnover reported in the
+Annual Return (GSTR 9) and turnover reported in the audited Annual Financial Statement due to difference in
+valuation of supplies shall be declared here.
+
+SN
+
+50
+
+Any difference between the turnover reported in the Annual Return (GSTRQ) and turnover reported in the audited
+Annual Financial Statement due to foreign exchange fluctuations shall be declared here.
+
+Any difference between the tumover reported in the Annual Return (GSTR9) and turnover reported in the audited
+Annual Financial Statement due to reasons not listed above shall be declared here.
+
+5Q
+
+Annual turnover as declared in the Annual Return (GSTR 9) shall be declared here. This turnover may be derived
+from Sr. No. 5N, 10 and 11 of Annual Return (GSTR 9).
+
+Reasons for non-reconciliation between the annual turnover declared in the audited Annual Financial Statement and
+turnover as declared in the Annual Return (GSTR 9) shall be specified here.
+
+The table provides for reconciliation of taxable turnover from the audited annual turnover after adjustments with the
+taxable turnover declared in annual return (GSTR-9).
+
+TA
+
+Annual turnover as derived in Table 5P above would be auto-populated here.
+
+7B
+
+7c
+
+Value of exempted, nil rated, non-GST and no-supply turnover shall be declared here. This shall be reported net of
+credit notes, debit notes and amendments if any.
+
+Value of zero rated supplies (including supplies to SEZs) on which tax is not paid shall be declared here. This shall
+be reported net of credit notes, debit notes and amendments if any.
+
+7D
+
+7E
+
+Value of reverse charge supplies on which tax is to be paid by the recipient shall be declared here. This shall be
+reported net of credit notes, debit notes and amendments if any.
+
+The taxable turnover is derived as the difference between the annual turnover after adjustments declared in Table
+7A above and the sum of all supplies (exempted, non-GST, reverse charge etc.) declared in Table 7B, 7C and 7D
+above.
+
+7F
+
+Taxable turnover as declared in Table (4N — 4G) + (10-11) of the Annual Return (GSTRQ) shall be declared here.
+
+Reasons for non-reconciliation between adjusted annual taxable turnover as derived from Table 7E above and the
+taxable turnover declared in Table 7F shall be specified here.
+
+5. Part Ill consists of reconciliation of the tax payable as per declaration in the reconciliation statement and the actual tax paid as
+declared in Annual Return (GSTR9). The instructions to fill this part are as follows :-
+
+Table
+No.
+
+9P.
+
+Instructions
+
+The table provides for reconciliation of tax paid as per reconciliation statement and amount of tax paid as declared in
+Annual Return (GSTR 9). Under the head labelled —RCIl, supplies where tax was paid on reverse charge basis by the
+recipient (i.e. the person for whom reconciliation statement has been prepared) shall be declared.
+
+The total amount to be paid as per liability declared in Table 9A to 90 is auto populated here.
+
+https://www.taxtmi.com/notifications?id=127647 43/48
+
+29/10/2026, 2:52:24 pm
+
+9Q The amount payable as declared in Table 9 of the Annual Return (GSTR9) shall be declared here. It should also contain
+any differential tax paid on Table 10 or 11 of the Annual Return (GSTR9).
+
+10 Reasons for non-reconciliation between payable / liability declared in Table 9P above and the amount payable in Table
+9Q shall be specified here.
+
+1 Any amount which is payable due to reasons specified under Table 6, 8 and 10 above shall be declared here.
+
+6. Part IV consists of reconciliation of Input Tax Credit (ITC). The instructions to fill Part IV are as under:-
+
+7. Part V consists of the auditor's recommendation on the additional liability to be discharged by the taxpayer due to non-reconciliation
+of turnover or non-reconciliation of input tax credit. The auditor shall also recommend if there is any other amount to be paid for supplies
+not included in the Annual Return. Any refund which has been erroneously taken and shall be paid back to the Government shall also be
+declared in this table. Lastly, any other outstanding demands which is recommended to be settled by the auditor shall be declared in this
+
+Table.
+
+https://www.taxtmi.com/notifications?id=127647
+
+Table | Instructions
+
+No.
+
+12A ITC availed (after reversals) as per the audited Annual Financial Statement shall be declared here. There may be cases
+where multiple GSTINs (State-wise) registrations exist on the same PAN. This is common for persons / entities with
+presence over multiple States. Such persons / entities, will have to internally derive their ITC for each individual GSTIN
+and declare the same here. It may be noted that reference to audited Annual Financial Statement includes reference to
+books of accounts in case of persons / entities having presence over multiple States.
+
+12B Any ITC which was booked in the audited Annual Financial Statement of earlier financial year(s) but availed in the ITC
+ledger in the financial year for which the reconciliation statement is being filed for shall be declared here. This shall
+include transitional credit which was booked in earlier years but availed during Financial Year 2017-18.
+
+12C Any ITC which has been booked in the audited Annual Financial Statement of the current financial year but the same
+has not been credited to the ITC ledger for the said financial year shall be declared here.
+
+12D _ ITC availed as per audited Annual Financial Statement or books of accounts as derived from values declared in Table
+12A, 12B and 12C above will be auto-populated here.
+
+12E Net ITC available for utilization as declared in Table 7J of Annual Return (GSTR9) shall be declared here.
+
+13 Reasons for non-reconciliation of ITC as per audited Annual Financial Statement or books of account (Table 12D) and
+the net ITC (Table12E) availed in the Annual Return (GSTR9) shall be specified here.
+
+14 This table is for reconciliation of ITC declared in the Annual Return (GSTR9) against the expenses booked in the audited
+Annual Financial Statement or books of account. The various sub-heads specified under this table are general expenses
+in the audited Annual Financial Statement or books of account on which ITC may or may not be available. Further, this is
+only an indicative list of heads under which expenses are generally booked. Taxpayers may add or delete any of these
+heads but all heads of expenses on which GST has been paid / was payable are to be declared here.
+
+14R Total ITC declared in Table 14A to 14Q above shall be auto populated here.
+
+14S Net ITC availed as declared in the Annual Return (GSTRQ) shall be declared here. Table 7J of the Annual Return
+(GSTR9) may be used for filing this Table.
+
+15 Reasons for non-reconciliation between ITC availed on the various expenses declared in Table 14R and ITC declared in
+Table 14S shall be specified here.
+
+16 Any amount which is payable due to reasons specified in Table 13 and 15 above shall be declared here.
+
+44/48
+
+29/10/2026, 2:52:24 pm
+
+8. Towards the end of the return, taxpayers shall be given an option to pay any additional liability declared in this form, through FORM
+DRC-03. Taxpayers shall select “Reconciliation Statementll in the drop down provided in FORM DRC-03. It may be noted that such
+liability shall be paid through electronic cash ledger only.
+
+PART — B- CERTIFICATION
+
+|. Certification in cases where the reconciliation statement (FORM GSTR-9C) is drawn up by the person who had
+
+conducted the audit:
+
+* liwe have examined the-
+(a) balance sheet as on .........
+
+(b) the *profit and loss account/income and expenditure account for the period beginning from .
+
+io ending on
+
+(c) the cash flow statement for the period beginning from ...........to ending on ...
+. (Address), (GSTIN).
+
+«++, “attached herewith, of M/s
+
+2. Based on our audit I/we report that the said registered person-
+
+*has maintained the books of accounts, records and documents as required by the IGST/CGST/<<>>GST Act, 2017 and the
+rules/notifications made/issued thereunder
+
+*has not maintained the following accounts/records/documents as required by the IGST/CGST/<<>>GST Act, 2017 and the
+rules/notifications made/issued thereunder:
+
+1.
+2.
+3.
+3. (a) “I/we report the following observations/ comments / discrepancies / inconsistencies; if
+
+any:
+
+3. (b) *l/we further report that, -
+
+(A) “I/we have obtained all the information and explanations which, to the best of “my/our knowledge and belief, were necessary for the
+purpose of the audit/ information and explanations which, to the best of *my/our knowledge and belief, were necessary for the purpose
+of the audit were not provided/partially provided to us.
+
+(B) In “my/our opinion, proper books of account “*have/have not been kept by the registered person so far as appears from*my/ our
+examination of the books.
+
+(C) I/we certify that the balance sheet, the “profit and loss/income and expenditure account and the cash flow Statement are *in
+agreement/not in agreement with the books of account maintained at the Principal place of business at ... .and **
+....additional place of business within the State.
+
+4. The documents required to be furnished under section 35 (5) of the CGST Act/SGST Act and Reconciliation Statement required to be
+furnished under section 44(2) of the CGST Act/SGST Act is annexed herewith in Form No. GSTR-9C.
+
+5. In *my/our opinion and to the best of *my/our information and according to explanations given to *me/us, the particulars given in the
+said Form No.GSTR-9C are true and correct subject to following observations/qualifications, if any:
+
+**(Signature and stamp/Seal of the Auditor)
+
+Place: ......
+
+Name of the signatory .
+
+https://www.taxtmi.com/notifications?id=127647 45/48
+
+29/10/2026, 2:52:24 pm
+
+Membership No...
+
+Full address
+
+IL. Certification in cases where the reconciliation statement (FORM GSTR-9C) is drawn up by a person other than the person
+who hi Tal hi of th
+
+*I/we report that the audit of the books of accounts and the financial statements of M/s.
+address of the assessee with GSTIN) was conducted by M/s.
+auditor along with status), bearing membership number in pursuance of the provisions of the .
+annex hereto a copy of their audit report dated .... .. along with a copy of each of
+
+(Name and
+. (full name and address of
+. Act, and *l/we
+
+(a) balance sheet as on .........
+
+(b) the “profit and loss account/income and expenditure account for the period beginning from .
+
+(c) the cash flow statement for the period beginning from .... .to ending on ........., and
+
+(d) documents declared by the said Act to be part of, or annexed to, the *profit and loss account/income and expenditure account and
+balance sheet.
+
+2. liwe report that the said registered person-
+
+*has maintained the books of accounts, records and documents as required by the IGST/CGST/<<>>GST Act, 2017 and the
+rules/notifications made/issued thereunder
+
+*has not maintained the following accounts/records/documents as required by the IGST/CGST/<<>>GST Act, 2017 and the
+tules/notifications made/issued thereunder:
+
+1.
+2.
+3.
+
+3. The documents required to be furnished under section 35 (5) of the CGST Act/SGST Act and Reconciliation Statement required to be
+furnished under section 44(2) of the CGST Act/SGST Act is annexed herewith in Form No.GSTR-9C.
+
+4. In *my/our opinion and to the best of *my/our information and according to examination of books of account including other relevant
+documents and explanations given to *me/us, the particulars given in the said Form No.9C are true and correct subject to the following
+observations/qualifications, if any:
+
+(a).
+
+**(Signature and stamp/Seal of the Auditor)
+
+Place: ......
+
+Name of the signatory ....
+
+Membership No...
+
+Date: .
+
+Full address ...
+19. In the said rules, after FORM GST APL-03, the following form shall be inserted, namely:-
+“FORM GST RVN-01
+[See rule 109B]
+Reference No.
+Date -
+
+To,
+
+https://www.taxtmi.com/notifications?id=127647 46/48
+
+29/10/2026, 2:52:24 pm
+
+GSTIN:..
+
+Order No. —
+Date -
+Notice under section 108
+
+Whereas it has come to the notice of the undersigned that decision/order passed under this Act/the << Name of the State>> Goods and
+Services Tax Act, 2017/the Integrated Goods and Services Tax Act, 2017/ the Union territory Goods and Services Tax Act, 2017/ the
+Goods and Services Tax (Compensation to States) Act, 2017 by ... (Designation of officer) is erroneous in so far as it is
+prejudicial to the interest of revenue and is illegal or improper or has not taken into account certain material facts, and therefore, | intend
+to pass an order in revision under section 108 on grounds specified in the document attached herewith.
+
+__You are hereby directed to furnish a reply to this notice within seven working days from the date of service of this notice.
+
+___ You are hereby directed to appear before the undersigned on DD/MM/YYYY at
+
+HH/MM
+
+If you fail to furnish a reply within the stipulated date or fail to appear for personal hearing on the appointed date and time, the case will
+
+be decided ex parte on the basis of available records and on merits
+
+Place: Signature:
+
+Date: Designation: Jurisdiction / Office -.”.
+
+20. In the said rules, for FORM GST APL-04, the following form shall be substituted,
+namely:-
+“Form GST APL-04
+[See rules 109B, 113 (1) and115]
+
+SUMMARY OF THE DEMAND AFTER ISSUE OF ORDER BY THE APPELLATE AUTHORITY, REVISIONAL AUTHORITY,
+TRIBUNAL OR COURT
+
+Reference no. —
+Date -
+1. GSTIN/ Temporary ID/UIN -
+2. Name of the appellant / person -
+3. Address of the appellant / person-
+4. Order appealed against or intended to be revised - Number- Date-
+5. Appeal no. Date-
+6. Personal Hearing —
+7. Order in brief-
+8. Status of order- Confirmed / Modified / Rejected
+
+9. Amount of demand after appeal / revision:
+
+Particulars Central tax State / UT tax Integrated tax Cess Total
+
+Amount | Determined | Amount Determined Amount Determined | Amount | Determined Amount | Determined
+in Amount in Amount in Amount in Amount in Amount
+dispute dispute dispute dispute dispute
+
+https://www.taxtmi.com/notifications?id=127647 47/48
+
+29/10/2026, 2:52:24 pm
+
+/ earlier Jearlier /earlier Jearlier Jearlier
+order order order order order
+1 2 3 4 5 6 7 8 9 10 11
+a) Tax
+b) Interest
+c) Penalty
+d) Fees
+e) Others
+f) Refund :
+10. Place of supply wise details of |GST demand
+Place of Supply Demand Tax Interest Penalty Other Total
+(Name of State
+UT)
+1 2 3 4 5 6 7
+
+Amount in dispute
+/ earlier order
+
+Determined
+Amount
+
+Place:
+
+Date:
+
+Note:- The principal rules were published in the Gazette of India, Extraordinary, Part Il, Section 3, Sub-section (i) vide notification No.
+3/2017-Central Tax, dated the 19th June,2017, published vide number G.S.R 610 (E), dated the 19th June, 2017 and last amended vide
+notification No. 60/2018 - Central Tax, dated the 30th October, 2018, published vide number G.S.R 1075 (E), dated the 30th October,
+
+2018.
+
+hittps://www.taxtmi.com/notifications?id=127647
+
+Name of the Appellate Authority / Revisional
+
+Authority/ Tribunal / Jurisdictional Officer Designation:
+
+Under Secretary to the Government of India
+
+[F.No.20/06/16/2018-GST]
+(Dr. Sreeparvathy S.L.)
+
+Jurisdiction:”.
+

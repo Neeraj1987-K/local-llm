@@ -1,0 +1,933 @@
+29/10/2026, 2:22:25 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+Central Goods and Services Tax (Second Amendment) Rules, 2023. - 38/2023 - Central GST (CGST)
+
+MINISTRY OF FINANCE
+(Department of Revenue)
+(CENTRAL BOARD OF INDIRECT TAXES AND CUSTOMS)
+NOTIFICATION NO. 38/2023- Central Tax
+New Delhi, the 4th August, 2023
+
+G.S.R. 590(E).— In exercise of the powers conferred by section 164 of the Central Goods and Services
+Tax Act, 2017 (12 of 2017), the Central Government, on the recommendations of the Council, hereby
+makes the following rules further to amend the Central Goods and Services Tax Rules, 2017, namely: -
+
+1. Short title and commencement. -
+
+(1) These rules may be called the Central Goods and Services Tax (Second Amendment) Rules,
+2023.
+
+(2) Save as otherwise provided in these rules, they shall come into force on the date of their
+publication in the Official Gazette.
+
+2. In the Central Goods and Services Tax Rules, 2017 (hereinafter referred to as the said rules), in rule 9,
+in sub-rule (1), in the proviso, in the longline, the words “in the presence of the said person” shall be
+omitted.
+
+3. In the said rules, in rule 10A, for the portion beginning with the words and figure “as soon as may be, but
+not later than forty-five days” and ending with the words “in order to comply with any other provision” the
+following shall be substituted, namely:-
+
+“within a period of thirty days from the date of grant of registration, or before furnishing the details of
+outward supplies of goods or services or both under section 37 in FORM GSTR-1 or using invoice
+furnishing facility, whichever is earlier, furnish information with respect to details of bank account on
+the common portal”.
+
+4. In the said rules, in rule 21A, —
+(i) for sub-rule (2A), the following sub-rule shall be substituted, namely:—
+“(2A) Where, -
+
+(a) a comparison of the returns furnished by a registered person under section 39 with the
+details of outward supplies furnished in FORM GSTR-1 or the details of inward supplies
+derived based on the details of outward supplies furnished by his suppliers in their FORM
+GSTR-1, or such other analysis, as may be carried out on the recommendations of the
+Council, show that there are significant differences or anomalies indicating contravention of
+the provisions of the Act or the rules made thereunder, leading to cancellation of registration
+of the said person, or
+
+(b) there is a contravention of the provisions of rule 10A by the registered person,
+
+https://www.taxtmi.com/notifications?id=140542 W/17
+
+29/10/2026, 2:22:25 pm
+
+the registration of such person shall be suspended and the said person shall be intimated in FORM
+GST REG-31, electronically, on the common portal, or by sending a communication to his e-mail
+address provided at the time of registration or as amended from time to time, highlighting the said
+differences, anomalies or non-compliances and asking him to explain, within a period of thirty days,
+as to why his registration shall not be cancelled.”;
+
+(ii) in sub-rule (4), after second proviso, the following proviso shall be inserted, namely: —
+
+“Provided also that where the registration has been suspended under sub-rule (2A) for
+contravention of provisions of rule 10A and the registration has not already been cancelled
+by the proper officer under rule 22, the suspension of registration shall be deemed to be
+revoked upon compliance with the provisions of rule 10A.”.
+
+5. In the said rules, in rule 23, in sub-rule (1), with effect from the 1st day of October, 2023,—
+
+(a) for the part beginning with the words “within a period of thirty days” and ending with the words
+and figures “section 30”, the words “within a period of ninety days from the date of the service of
+the order of cancellation of registration” shall be substituted;
+
+(b) in the first proviso, for the words “Provided that”, the following shall be substituted, namely: —
+
+“Provided that such period may, on sufficient cause being shown, and for reasons to be
+recorded in writing, be extended by the Commissioner or an officer authorised by him in this
+behalf, not below the rank of Additional Commissioner or Joint Commissioner, as the case
+may be, for a further period not exceeding one hundred and eighty days:
+
+Provided further that”;
+
+(c) in the second proviso, for the words “Provided further”, the words “ Provided also” shall be
+substituted.
+
+6. In the said rules, for rule 25, the following rule shall be substituted, namely: —
+“25. Physical verification of business premises in certain cases. —
+
+(1) Where the proper officer is satisfied that the physical verification of the place of business of a
+person is required after the grant of registration, he may get such verification of the place of
+business done and the verification report along with the other documents, including photographs,
+shall be uploaded in FORM GST REG-30 on the common portal within a period of fifteen working
+days following the date of such verification.
+
+(2) Where the physical verification of the place of business of a person is required before the grant
+of registration in the circumstances specified in the proviso to sub-rule (1) of rule 9, the proper
+officer shall get such verification of the place of business done and the verification report along with
+the other documents, including photographs, shall be uploaded in FORM GST REG-30 on the
+common portal at least five working days prior to the completion of the time period specified in the
+said proviso.”.
+
+7. In the said rules, in rule 43, after sub-rule (5), —
+(a) in Explanation 1, clause (c) shall be omitted;
+
+(b) after Explanation 2, with effect from the 1st day of October, 2023, the following Explanation shall
+be inserted, namely: -
+
+“Explanation 3:- For the purpose of rule 42 and this rule, the value of activities or transactions
+mentioned in sub-paragraph (a) of paragraph 8 of Schedule Ill of the Act which is required to be
+
+https://www.taxtmi.com/notifications?id=140542 2/17
+
+29/10/2026, 2:22:25 pm
+
+included in the value of exempt supplies under clause (b) of the Explanation to sub-section (3) of
+section 17 of the Act shall be the value of supply of goods from Duty Free Shops at arrival terminal
+in international airports to the incoming passengers.”.
+
+8. In the said rules, in rule 46, in clause (f), in the proviso, for the words “name and address of the recipient
+along with its PIN code and the name of the State and the said address shall be deemed to be the address
+on record of the recipient”, the following words “name of the state of the recipient and the same shall be
+deemed to be the address on record of the recipient” shall be substituted;
+
+9. In the said rules, in rule 59, in sub-rule (6), after clause (d), the following clauses shall be inserted,
+namely:-
+
+“(e) a registered person, to whom an intimation has been issued on the common portal under the
+provisions of sub-rule (1) of rule 88D in respect of a tax period or periods, shall not be allowed to
+furnish the details of outward supplies of goods or services or both under section 37 in FORM
+GSTR-1 or using the invoice furnishing facility for a subsequent tax period, unless he has either
+paid the amount equal to the excess input tax credit as specified in the said intimation or has
+furnished a reply explaining the reasons in respect of the amount of excess input tax credit that still
+remains to be paid, as required under the provisions of sub-rule (2) of rule 88D;
+
+(f) a registered person shall not be allowed to furnish the details of outward supplies of goods or
+services or both under section 37 in FORM GSTR-1 or using the invoice furnishing facility, if he has
+not furnished the details of the bank account as per the provisions of rule 10A.”.
+
+10. In the said rules, in rule 64, with effect from the 1st day of October, 2023, for the words “person in India
+other than”, the words “non-taxable online recipient referred to in section 14 of the Integrated Goods and
+Services Tax Act, 2017 (13 of 2017) or to” shall be substituted.
+
+11. In the said rules, in rule 67, in sub-rule (2), with effect from the 1st day of October, 2023, for the portion
+beginning with the words “The details” and ending with the words “suppliers”, the words “The details of tax
+collected at source under sub-section (1) of section 52 furnished by the operator under sub-rule (1) shall
+be made available electronically to each of the registered suppliers” shall be substituted.
+
+12. In the said rules, after rule 88C, the following rule shall be inserted, namely:-
+
+“88D. Manner of dealing with difference in input tax credit available in auto-generated
+statement containing the details of input tax credit and that availed in return.-
+
+(1) Where the amount of input tax credit availed by a registered person in the return for a tax period
+or periods furnished by him in FORM GSTR-3B exceeds the input tax credit available to such
+person in accordance with the auto-generated statement containing the details of input tax credit in
+FORM GSTR-2B in respect of the said tax period or periods, as the case may be, by such amount
+and such percentage, as may be recommended by the Council, the said registered person shall be
+intimated of such difference in Part A of FORM GST DRC- 01C, electronically on the common
+portal, and a copy of such intimation shall also be sent to his e-mail address provided at the time of
+registration or as amended from time to time, highlighting the said difference and directing him to—
+
+(a) pay an amount equal to the excess input tax credit availed in the said FORM GSTR-3B,
+along with interest payable under section 50, through FORM GST DRC-03, or
+
+(b) explain the reasons for the aforesaid difference in input tax credit on the common portal,
+within a period of seven days.
+(2) The registered person referred to sub-rule (1) shall, upon receipt of the intimation referred to in
+
+the said sub-rule, either,
+
+https://www.taxtmi.com/notifications?id=140542 3/17
+
+29/10/2026, 2:22:25 pm
+
+(a) pay an amount equal to the excess input tax credit, as specified in Part A of FORM GST
+DRC- 01C, fully or partially, along with interest payable under section 50, through FORM
+GST DRC-03 and furnish the details thereof in Part B of FORM GST DRC-01C,
+electronically on the common portal, or
+
+(b) furnish a reply, electronically on the common portal, incorporating reasons in respect of
+the amount of excess input tax credit that has still remained to be paid, if any, in Part B of
+FORM GST DRC-01C,
+
+within the period specified in the said sub-rule.
+
+(3) Where any amount specified in the intimation referred to in sub-rule (1) remains to be paid
+within the period specified in the said sub-rule and where no explanation or reason is furnished by
+the registered person in default or where the explanation or reason furnished by such person is not
+found to be acceptable by the proper officer, the said amount shall be liable to be demanded in
+accordance with the provisions of section 73 or section 74, as the case may be.”.
+
+13. In the said rules, in rule 89,-
+
+(a) in sub-rule (1), in third proviso, for the words “in the last return required to be furnished by him”
+the words “only after the last return required to be furnished by him has been so furnished” shall be
+substituted;
+
+(b) in sub-rule (2), in clause (k), after the words “payment of tax” the words “and interest, if any, or
+any other amount paid” shall be inserted.
+
+14. In the said rules, rule 94 shall, with effect from the 1st day of October, 2023, be renumbered as sub-
+rule (1) and after the sub-rule as so renumbered, the following sub-rule shall be inserted, namely:-
+
+“(2) The following periods shall not be included in the period of delay under sub-rule (1), namely:-
+
+(a) any period of time beyond fifteen days of receipt of notice in FORM GST RFD-08 under sub-rule
+(3) of rule 92, that the applicant takes to-
+
+(i) furnish a reply in FORM GST RFD-O9, or
+(ii) submit additional documents or reply;
+and
+
+(b) any period of time taken either by the applicant for furnishing the correct details of the bank
+account to which the refund is to be credited or for validating the details of the bank account so
+furnished, where the amount of refund sanctioned could not be credited to the bank account
+furnished by the applicant.”.
+
+15. In the said rules, in rule 96, in sub-rule (2), both the provisos shall be omitted.
+16. In the said rules, in rule 108, in sub-rule (1), —
+
+(a) for the words “either electronically or otherwise as may be notified by the Commissioner’, the
+word “electronically” shall be substituted;
+
+(b) the following proviso shall be inserted, namely:-
+
+“Provided that an appeal to the Appellate Authority may be filed manually in FORM GST
+APL-01, along with the relevant documents, only if-
+
+(i) the Commissioner has so notified, or
+
+https://www.taxtmi.com/notifications?id=140542 ANT
+
+29/10/2026, 2:22:25 pm
+
+(ii) the same cannot be filed electronically due to non-availability of the decision or
+order to be appealed against on the common portal,
+
+and in such case, a provisional acknowledgement shall be issued to the appellant
+immediately.”.
+
+17. In the said rules, in rule 109, in sub-rule (1),—
+
+(a) for the words “either electronically or otherwise as may be notified by the Commissioner’, the
+word “electronically” shall be substituted;
+
+(b) the following proviso shall be inserted, namely:-
+
+“Provided that an appeal to the Appellate Authority may be filed manually in FORM GST
+APL-03, along with the relevant documents, only if-
+
+(i) the Commissioner has so notified, or
+
+(ii) the same cannot be filed electronically due to non-availability of the decision or
+order to be appealed against on the common portal,
+
+and in such case, a provisional acknowledgement shall be issued to the appellant
+immediately.”.
+
+18. In the said rules, after rule 138E, the following rule shall be inserted, namely:-
+
+“4138F. Information to be furnished in case of intra-State movement of gold, precious stones,
+etc. and generation of e-way bills thereof.-
+
+(1) Where-
+
+(a) a Commissioner of State tax or Union territory tax mandates furnishing of information
+regarding intra-State movement of goods specified against serial numbers 4 and 5 in the
+Annexure appended to sub-rule (14) of rule 138, in accordance with sub-rule (1) of rule
+138F of the State or Union territory Goods and Services Tax Rules, and
+
+(b) the consignment value of such goods exceeds such amount, not below rupees two
+lakhs, as may be notified by the Commissioner of State tax or Union territory tax, in
+consultation with the jurisdictional Principal Chief Commissioner or Chief Commissioner of
+Central Tax, or any Commissioner of Central Tax authorised by him,
+
+notwithstanding anything contained in Rule 138, every registered person who causes intra-State
+movement of such goods, -
+
+(i) in relation to a supply; or
+(ii) for reasons other than supply; or
+(iii) due to inward supply from an un-registered person,
+
+shall, before the commencement of such movement within that State or Union territory, furnish
+information relating to such goods electronically, as specified in Part A of FORM GST EWB-01,
+against which a unique number shall be generated:
+
+Provided that where the goods to be transported are supplied through an e-commerce operator or
+
+a courier agency, the information in Part A of FORM GST EWB-01 may be furnished by such e-
+commerce operator or courier agency.
+
+https://www.taxtmi.com/notifications?id=140542 S/17
+
+29/10/2026, 2:22:25 pm
+
+(2) The information as specified in PART B of FORM GST EWB-01 shall not be required to be
+furnished in respect of movement of goods referred to in the sub-rule (1) and after furnishing
+information in Part-A of FORM GST EWB-01 as specified in sub-rule (1), the e-way bill shall be
+generated in FORM GST EWB-01, electronically on the common portal.
+
+(3) The information furnished in Part A of FORM GST EWB-01 shall be made available to the
+registered supplier on the common portal who may utilize the same for furnishing the details in
+FORM GSTR-1.
+
+(4) Where an e-way bill has been generated under this rule, but goods are either not transported or
+are not transported as per the details furnished in the e-waybill, the e-way bill may be cancelled,
+electronically on the common portal, within twenty-four hours of generation of the e-way bill:
+
+Provided that an e-way bill cannot be cancelled if it has been verified in transit in accordance with
+the provisions of rule 138B.
+
+(5) Notwithstanding anything contained in this rule, no e-way bill is required to be generated-
+
+(a) where the goods are being transported from the customs port, airport, air cargo complex and
+land customs station to an inland container depot or a container freight station for clearance by
+Customs;
+
+(b) where the goods are being transported-
+
+(i) under customs bond from an inland container depot or a container freight station to a
+customs port, airport, air cargo complex and land customs station, or from one customs
+station or customs port to another customs station or customs port, or
+
+(ii) under customs supervision or under customs seal.
+
+(6) The provisions of sub-rule (10), sub-rule (11) and sub-rule (12) of rule 138, rule 138A, rule
+138B, rule 138C, rule 138D and rule 138E shall, mutatis mutandis, apply to an e-way bill generated
+under this rule.
+
+Explanation.- For the purposes of this rule, the consignment value of goods shall be the value,
+determined in accordance with the provisions of section 15, declared in an invoice, a bill of supply
+or a delivery challan, as the case may be, issued in respect of the said consignment and also
+includes the central tax, State tax or Union territory tax charged in the document and shall exclude
+the value of exempt supply of goods where the invoice is issued in respect of both exempt and
+taxable supply of goods.”.
+
+19. in the said rules, after rule 142A, the following rule shall be inserted, namely:-
+
+“142B. Intimation of certain amounts liable to be recovered under section 79 of the Act.-(1)
+Where, in accordance with section 75 read with rule 88C, or otherwise, any amount of tax or
+interest has become recoverable under section 79 and the same has remained unpaid, the proper
+officer shall intimate, electronically on the common portal, the details of the said amount in FORM
+GST DRC-01D, directing the person in default to pay the said amount, along with applicable
+interest, or, as the case may the amount of interest, within seven days of the date of the said
+intimation and the said amount shall be posted in Part-II of Electronic Liability Register in FORM
+GST PMT-01.
+
+(2) The intimation referred to in sub-rule (1) shall be treated as the notice for recovery.
+
+(3) Where any amount of tax or interest specified in the intimation referred to in sub-rule (1)
+remains unpaid on the expiry of the period specified in the said intimation, the proper officer shall
+
+https://www.taxtmi.com/notifications?id=140542 6/17
+
+29/10/2026, 2:22:25 pm
+
+proceed to recover the amount that remains unpaid in accordance with the provisions of rule 143 or
+rule 144 or rule 145 or rule 146 or rule 147 or rule 155 or rule 156 or rule 157 or rule 160.”.
+
+20. In the said rules, in rule 162, with effect from the 1st day of October, 2023, —
+
+(a) in sub-rule (3), the words “has cooperated in the proceedings before him and” shall be omitted;
+
+(b) after sub-rule (3), the following sub-rule shall be inserted, namely:-
+
+“(3A) The Commissioner shall determine the compounding amount under sub-rule (3) as per
+
+the Table below:-
+
+Offence
+
+(2)
+
+Offence specified in
+clause (a) of sub-
+section (1) of section
+132 of the Act
+
+Offence specified in
+clause (c) of sub-
+section (1) of section
+132 of the Act
+
+Offence specified in
+clause (d) of sub-
+section (1) of section
+132 of the Act
+
+Offence specified in
+clause (e) of sub-
+section (1) of section
+132 of the Act
+
+Offence specified in
+clause (f) of sub-
+section (1) of section
+132 of the Act
+
+Offence specified in
+clause (h) of sub-
+section (1) of section
+132 of the Act
+
+TABLE
+
+Compounding amount if offence
+is punishable under clause (i) of
+sub-section (1) of section 132
+
+(3)
+
+Up to seventy-five per cent of the
+amount of tax evaded or the amount
+of input tax credit wrongly availed or
+utilised or the amount of refund
+wrongly taken, subject to minimum of
+fifty per cent of such amount of tax
+evaded or the amount of input tax
+credit wrongly availed or utilised or
+the amount of refund wrongly taken.
+
+Amount equivalent to twenty five per
+cent of tax evaded.
+
+https://www.taxtmi.com/notifications?id=140542
+
+Compounding amount if offence
+is punishable under clause (ii) of
+sub-section (1) of section 132
+
+(4)
+
+Up to sixty per cent of the amount of
+tax evaded or the amount of input
+tax credit wrongly availed or utilised
+or the amount of refund wrongly
+taken, subject to minimum of forty
+per cent of such amount of tax
+evaded or the amount of input tax
+credit wrongly availed or utilised or
+the amount of refund wrongly taken.
+
+Amount equivalent to twenty five per
+cent of tax evaded.
+
+TAT
+
+29/10/2026, 2:22:25 pm
+
+7 | Offence specified in
+clause (i) of sub-
+section (1) of section
+132 of the Act
+
+8 | Attempt to commit the |Amount equivalent to twentyfive per | Amount equivalent to twentyfive per
+offences or abets the | cent of such amount of tax evaded or | cent of such amount of tax evaded
+commission of|the amount of input tax credit|or the amount of input tax credit
+offences mentioned in| wrongly availed or utilised or the | wrongly availed or utilised or the
+clause (a), (c) to (f)| amount of refund wrongly taken. amount of refund wrongly taken.
+and clauses (h) and (i)
+of subsection (1) of
+section 132 of the Act
+
+Provided that where the offence committed by the person falls under more than one category specified in
+the Table above, the compounding amount, in such case, shall be the amount determined for the offence
+for which higher compounding amount has been prescribed.”.
+
+21. In the said rules, after rule 162, with effect from the 1st day of October, 2023, the following rule, shall
+be inserted, namely:-
+
+“163. Consent based sharing of information.- (1) Where a registered person opts to share the
+information furnished in—
+
+(a) FORM GST REG-01 as amended from time to time;
+(b) return in FORM GSTR-3B for certain tax periods;
+
+(c) FORM GSTR-1 for certain tax periods, pertaining to invoices, debit notes and credit
+notes issued by him, as amended from time to time,
+
+with a system referred to in sub-section (1) of section 158A (hereinafter referred to as “requesting
+system”), the requesting system shall obtain the consent of the said registered person for sharing
+of such information and shall communicate the consent along with the details of the tax periods,
+where applicable, to the common portal.
+
+(2) The registered person shall give his consent for sharing of information under clause (c) of sub-
+rule (1) only after he has obtained the consent of all the recipients, to whom he has issued the
+invoice, credit notes and debit notes during the said tax periods, for sharing such information with
+the requesting system and where he provides his consent, the consent of such recipients shall be
+deemed to have been obtained.
+
+(3) The common portal shall communicate the information referred to in sub-rule (1) with the
+requesting system on receipt from the said system-
+
+(a) the consent of the said registered person, and
+
+(b) the details of the tax periods or the recipients, as the case may be, in respect of which
+the information is required.”.
+
+22. In the said rules, in FORM GSTR-3A, the following shall be inserted at the end, namely:-
+
+“ Or
+
+https://www.taxtmi.com/notifications?id=140542 8/17
+
+29/10/2026, 2:22:25 pm
+
+Notice to return defaulter u/s 46 for not filing annual return
+Financial year- Type of Return -GSTR-9/GSTR-9A
+
+Being a registered taxpayer, you are required to furnish annual return for the supplies made or
+received and/or to include self-certified reconciliation statement for the aforesaid financial year by
+due date. The due date specified for filing annual return for the said financial year is over and it has
+been noticed that you have not filed the said return till date.
+
+2. You are, therefore, requested to furnish the said return within 15 days failing which appropriate
+action including imposition of penalty as per law will be taken.
+
+3. This notice shall be deemed to have been withdrawn in case the return referred above, is filed by
+you before issue of the show cause notice of penalty proceeding.
+
+4. This is a system generated notice and does not require signature.”.
+23. In the said rules, in FORM GSTR-5A, with effect from 1st day of October, 2023;-
+
+(i) in the heading, for the words “persons in India”, the words, brackets and figure “online recipient
+(as defined in Integrated Goods and Services Tax Act, 2017) and to registered persons in
+India” shall be substituted;
+
+(ii) for serial number 4 and the entries relating thereto, the following serial number and entries shall
+be substituted, namely:-
+
+“4, Period: Month - Year —
+4(a) ARN:
+4(b) Date of ARN:”;
+
+(iii) in serial number 5, for the word “consumers”, the words “non-taxable online recipient” shall be
+substituted;
+
+(iv) in serial number 5A, for the word “persons”, the words “online recipient” shall be substituted;
+
+(v) after serial number 5A and the entries relating thereto, the following serial numbers and entries
+shall be inserted, namely:
+
+“5B. Taxable outward supplies made to registered persons in India, other than non-taxable
+online recipient, on which tax is to be paid by the said registered persons on reverse charge
+basis
+
+(Amount in Rupees)
+
+GSTIN | Taxable Value
+
+https://www.taxtmi.com/notifications?id=140542 OAT
+
+29/10/2026, 2:22:25 pm
+
+5C. Amendments to the taxable outward supplies made to registered persons in India, other
+than non-taxable online recipient, on which tax is to be paid by the said registered persons
+on reverse charge basis
+
+Month | Original GSTIN
+
+Revised GSTIN
+
+Taxable value
+
+24. In the said rules, in FORM GSTR-8, with effect from the 1st day of October, 2023,-
+
+(Amount in Rupees)
+
+(a) after serial number 3 and the entries relating thereto, the following serial number and entries,
+shall be inserted, namely;-
+
+“3.1. Details of supplies made through e-commerce operator by un-registered suppliers
+
+Enrolment
+Supplier
+
+no.
+
+of
+made
+
+Gross value of supplies
+
+Value of
+
+Returned
+
+supplies
+
+Net
+supplies
+
+value of the
+
+(c) after serial number 4 and the entries relating thereto, the following serial number and entries ,
+shall be inserted, namely;-
+
+“4.1. Amendments to details of supplies made through e-commerce operator by unregistered
+
+suppliers
+Original details Revised details
+Month | Enrolment no. | Enrolment no. | Gross value of | Value of Net value of
+of supplier of supplier supplies made supply the supplies
+returned
+1 2 3 4 5 6
+
+https://www.taxtmi.com/notifications?id=140542
+
+10/17
+
+29/10/2026, 2:22:25 pm
+
+25. In the said rules, in FORM GSTR-9, under the heading ‘Instructions’, -
+(a) in paragraph 4, -
+
+(A) after the word, letters and figures “or FY 2021-22”, the word, letters and figures “or FY
+2022-23” shall be inserted;
+
+(B) in the Table, in second column, -
+
+(|) against serial numbers 5D, 5E and 5F, the following entries shall be inserted at
+the end, namely: —
+
+‘For FY 2022-23, the registered person shall report Non-GST supply (5F)
+separately and shall have an option to either separately report his supplies
+as exempted and nil rated supply or report consolidated information for
+these two heads in the “exempted” row only.’;
+
+(Il) against serial numbers 5H, 5-I and 5J & 5K, for the figures and word “2020-21
+and 2021-22”, the figures and word “2020-21, 2021-22 and 2022-23” shall
+respectively be substituted;
+
+(b) in paragraph 5, in the Table, in second column, -
+
+(A) against serial numbers 6B, 6C, 6D and 6E, for the letters and figures “FY 2019-20,
+2020-21 and 2021-22”, the letters, figures and word “FY 2019-20, 2020-21, 2021-22 and
+2022-23” shall respectively be substituted;
+
+(B) against serial numbers 7A, 7B, 7C, 7D, 7E, 7F, 7G and 7H, for the figures and word
+“2020-21 and 2021-22”, the figures and word “2020-21, 2021-22 and 2022-23” shall be
+substituted;
+
+(c) in paragraph 7, -
+
+(A) after the words and figures “filed upto 30th November, 2022.”, the following words,
+figures and letters shall be inserted, namely: -
+
+“For FY 2022-23, Part V consists of particulars of transactions for the previous
+financial year but paid in the FORM GSTR-3B of April, 2023 to October, 2023 filed
+upto 30th November, 2023.”;
+
+(B) in the Table, in second column, -
+
+(I) against serial numbers 10 & 11, the following shall be inserted at the end,
+namely: -
+
+“For FY 2022-23, details of additions or amendments to any of the supplies
+already declared in the returns of the previous financial year but such
+amendments were furnished in Table 9A, Table 9B and Table 9C of FORM
+GSTR-1 of April, 2023 to October, 2023 filed upto 30th November, 2023
+shall be declared here.”;
+
+(Il) against serial number 12, -
+
+https://www.taxtmi.com/notifications?id=140542 11/17
+
+29/10/2026, 2:22:25 pm
+
+(i) after the words, figures and brackets “upto 30th November, 2022 shall be
+declared here. Table 4(B) of FORM GSTR-3B may be used for filling up
+these details.”, the following shall be inserted, namely: -
+
+“For FY 2022-23, aggregate value of reversal of ITC which was
+availed in the previous financial year but reversed in returns filed for
+the months of April, 2023 to October, 2023 filed upto 30th November,
+2023 shall be declared here. Table 4(B) of FORM GSTR-3B may be
+used for filling up these details.”;
+
+(ii) for the figures and word “2020-21 and 2021-22”, the figures and word
+“2020-21, 2021- 22 and 2022-23” shall be substituted;
+
+(Ill) against serial number 13, -
+
+(i) after the words, letters and figures “reclaimed in FY 2022-23, the details
+of such ITC reclaimed shall be furnished in the annual return for FY 2022-
+23,”, the following shall be inserted, namely: -
+
+“For FY 2022-23, details of ITC for goods or services received in the
+previous financial year but ITC for the same was availed in returns
+filed for the months of April, 2023 to October, 2023 filed upto 30th
+November, 2023 shall be declared here. Table 4(A) of FORM GSTR-
+3B may be used for filling up these details. However, any ITC which
+was reversed in the FY 2022-23 as per second proviso to sub-
+section (2) of section 16 but was reclaimed in FY 2023-24, the details
+of such ITC reclaimed shall be furnished in the annual return for FY
+2023-24.”;
+
+(ii) for the figures and word “2020-21 and 2021-22”, the figures and word
+“2020-21, 2021-22 and 2022-23” shall be substituted;
+
+(d) in paragraph 8, in the Table, in second column, -
+(A) against serial numbers, -
+(I) 15A, 15B, 15C and 15D; and
+(II)15E, 15F and 15G,
+
+for the figures and word “2020-21 and 2021-22”, the letters, figures and word “2020-21,
+2021-22 and 2022-23” shall respectively be substituted.”;
+
+(B) against serial numbers 16A, 16B and 16C, for the figures and word “2020-21 and 2021-
+22”, the figures and word “2020-21, 2021-22 and 2022-23” shall respectively be substituted.”;
+
+(C) against serial number 17 & 18, for the word, letter and figures “For FY 2021-22”, the
+words, letter and figures “For FY 2021-22 and 2022-23” shall be substituted.”.
+
+26. In the said rules, in FORM GSTR-9C,-
+(i) in Part A, in the table -
+
+(a) in SI no. 9, after B and the entries relating thereto, the following shall be inserted,
+namely: -
+
+https://www.taxtmi.com/notifications?id=140542 12/17
+
+29/10/2026, 2:22:25 pm
+
+“B-1 | 6%
+
+(b) in SI no. 11, after description “5%”, the following shall be inserted, namely: -
+
+“6%
+
+(c) in Pt. V, after description “5%”, the following shall be inserted, namely: -
+
+“6%
+
+(ii) under the heading ‘Instructions’, -
+
+(a) in paragraph 4, in the Table, in second column, against serial no. 5B, for the figures and
+word “2020-21 and 2021-22”, the figures and word “2020-21, 2021-22 and 2022-23” shall
+be substituted;
+
+(b) in paragraph 6, in the Table, in second column, against serial number 14, for the figures
+and word “2020-21 and 2021-22”, the figures and word “2020-21, 2021-22 and 2022-23”
+shall be substituted.
+
+27. In the said rules, in FORM GST RFD-01, in Annexure-1, under Statement-7, for the Table, the following
+Table shall be substituted, namely:-
+
+SI. Document/Invoice Details Details of amount paid
+No.
+Type of | ARN | Date | Integrated Central State / UT | Cess | Interest | Any other
+document Tax Tax Tax
+No. (please
+specify)
+1 2 3 4 5 6 7 8 9 10
+
+Details of refund claimed
+
+Integrated Tax | Central Tax | State / | Cess | Interest | Any other
+
+UT (please specify)
+Tax
+11 12 13 14 15 16
+
+28. In the said rules, after FORM GST DRC-01B, the following forms shall be inserted, namely: -
+“FORM GST DRC-01C
+
+https://www.taxtmi.com/notifications?id=140542 13/17
+
+29/10/2026, 2:22:25 pm
+
+[See rule 88D]
+PART-A (System Generated)
+
+Intimation of difference in input tax credit available in auto-generated statement containing the
+details of input tax credit and that availed in return
+
+Ref No: Date:
+GSTIN:
+Legal Name:
+
+1. It is noticed that the input tax credit availed by you in the return furnished in FORM GSTR-3B exceeds
+the amount of input tax credit available to you in accordance with the auto-generated statement containing
+the details of input tax credit made available to you in FORM GSTR-2B for the period by an amount of Rs.
+cteteeetaeeees The details thereof are as follows:
+
+Form Type Input tax credit available / availed (in Rs.)
+
+IGST| CGST | SGST/UTGST | Cess | Total
+
+FORM GSTR-2B
+
+FORM GSTR-3B
+
+Excess input tax credit availed
+
+2. In accordance with sub-rule (1) of rule 88D, you are hereby requested to either pay an amount equal to
+the said excess input tax credit, along with interest payable under section 50, through FORM GST DRC-03
+and furnish the details thereof in Part-B of FORM GST DRC-01C, and/or furnish the reply in Part-B of
+FORM GST DRC-01C incorporating reasons in respect of that part of the excess input tax credit that has
+remained to be paid, within a period of seven days.
+
+3. It may be noted that where any amount of the excess input tax credit remains to be paid after
+completion of a period of seven days and where no explanation or reason for the same is furnished by you
+or where the explanation or reason furnished by you is not found to be acceptable by the proper officer, the
+said amount shall be liable to be demanded in accordance with the provisions of section 73 or section 74,
+as the case may be, of the Act.
+
+4. This is a system generated notice and does not require signature.
+PART-B
+Reply by Taxpayer in respect of the intimation of difference in input tax credit
+Reference No. of Intimation:
+Date:
+A. | have paid the amount equal to the excess input tax credit, as specified in Part A of FORM GST DRC-
+
+01C, fully or partially, along with interest payable under section 50, through FORM GST DRC-03, and the
+details thereof are as below:
+
+https://www.taxtmi.com/notifications?id=140542 14/17
+
+29/10/2026, 2:22:25 pm
+
+ARN of FORM GST Paid Under Tax IGST| CGST| SGST /| CESS | Interest
+DRC-03 Head Period UTGST
+1 2 3 4 5 6 7 8
+AND/OR
+B. The reasons in respect of that part of the excess input tax credit that has remained to be paid are as
+under:
+Ss. Brief Reasons for Difference Details
+No (Mandatory)
+
+1 Input tax credit not availed in earlier tax period(s) due to non-receipt of inward
+supplies of goods or services in the said tax period (including in case of receipt
+of goods in instalments).
+
+2 | Input tax credit not availed in earlier tax period(s) inadvertently or due to mistake
+or omission
+
+3 | ITC availed in respect of import of goods, which is not reflected in FORM GSTR-
+2B
+
+4 | ITC availed in respect of inward supplies from SEZ, which are not reflected in
+FORM GSTR-2B
+
+5 | Excess reversal of ITC in previous tax periods which is being reclaimed in the
+current tax period
+
+6 | Recredit of ITC on payment made to supplier, in respect of ITC reversed as per
+rule 37 in earlier tax period.
+
+7 | Recredit of ITC on filing of return by the supplier, in respect of ITC reversed as
+per rule 37A in earlier tax period.
+
+8 |FORM GSTR-3B filed with incorrect details and will be amended in next tax
+period (including typographical errors, wrong tax rates, etc.)
+
+9 | Any other reasons (Please specify)
+
+Verification
+
+https://www.taxtmi.com/notifications?id=140542 15/17
+
+29/10/2026, 2:22:25 pm
+
+| hereby solemnly affirm and declare that the information given
+
+hereinabove is true and correct to the best of my knowledge and belief and nothing has been concealed
+therefrom.
+
+Signature of Authorised Signatory
+
+Name:
+
+Designation/Status:
+
+Place:
+
+Date:
+
+FORM GST DRC -01D
+[See rule 142B]
+Intimation for amount recoverable under section 79
+
+Reference No. -
+
+Date-
+1 Details of intimation:
+(a) Financial year:
+(b) Tax period: From --- To --------
+
+2. Section(s) of the Act or rule (s) under which intimation is issued: < Drop down or check box for section
+75 (12) r/w 79 may be provided >
+
+3.Details of tax, interest or any amount payable:
+
+(Amount in Rs.)
+
+Tax Period | Act POS Tax |Interest | Penalty |Fee | Others | Total
+
+(Place of
+From | To
+Supply)
+1 2 3 4 5 6 7 8 9 10
+Total
+
+You are hereby directed to make the payment within seven days failing which proceedings shall be initiated
+against you to recover the outstanding dues as per the provisions of section 79 of the Act.
+
+https://www.taxtmi.com/notifications?id=140542 16/17
+
+29/10/2026, 2:22:25 pm
+
+Signature:
+Name:
+Designation:
+Jurisdiction:
+Address:
+To,
+GSTIN/ID
+Name
+Address
+Note —
+
+1. Only applicable fields may be filled up.”
+[F. No. CBIC-20006/20/2023-GST]
+ALOK KUMAR, Director
+
+Note: The principal rules were published in the Gazette of India, Extraordinary, Part Il, Section 3, Sub-
+section (i) vide notification No. 3/2017-Central Tax, dated the 19th June, 2017, published vide number
+G.S.R. 610(E), dated the 19th June, 2017 and were last amended vide notification No. 04/2023 - Central
+Tax, dated the 31st March, 2023 vide number G.S.R. 247(E), dated the 31st March, 2023.
+
+https://www.taxtmi.com/notifications?id= 140542 17/17
