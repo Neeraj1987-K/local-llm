@@ -1,0 +1,230 @@
+28/10/2026, 5:23:06 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+Clarification in respect of applicability of Dynamic Quick Response (QR) Code on B2C invoices and
+compliance of notification 14/2020- Central Tax dated 21st March, 2020
+
+Circular no. 156/12/2021-GST
+CBEC-20/16/38/2020 -GST
+Government of India
+Ministry of Finance
+Department of Revenue
+Central Board of Indirect Taxes and Customs
+GST Policy Wing
+New Delhi, dated the 21st June, 2021
+To
+
+The Principal Chief Commissioners / Chief Commissioners / Principal Commissioners / Commissioners of
+Central Tax (All)
+
+The Principal Director Generals / Director Generals (All)
+Madan/Sir,
+
+Subject: Clarification in respect of applicability of Dynamic Quick Response (QR) Code on B2C
+invoices and compliance of notification 14/2020- Central Tax dated 21st March, 2020 - Reg.
+
+Notification No. 14/2020-Central Tax, dated 21st March 2020 had been issued which requires Dynamic QR
+Code on B2C invoice issued by taxpayers having aggregate turnover more than 500 crore rupees, w.e.f.
+01.12.2020. Further, vide notification No. 06/2021-Central Tax, dated 30th March 2021, penalty has been
+waived for non-compliance of the provisions of notification No.14/2020 — Central Tax for the period from
+01st December, 2020 to 30th June, 2021, subject to the condition that the said person complies with the
+provisions of the said notification from 1st July, 2021. Further, various issues on Dynamic QR Code have
+been clarified vide Circular No. 146/2/2021-GST, dated 23.02.2021.
+
+2. Various references have been received from trade and industry seeking clarification on applicability of
+Dynamic Quick Response (QR) Code on B2C (Registered person to Customer) invoices and compliance
+of notification 14/2020-Central Tax, dated 21st March, 2020 as amended. The issues have been examined
+and in order to ensure uniformity in the implementation of the provisions of the law across the field
+formations, the Board, in exercise of its powers conferred under section 168(1) of the CGST Act, 2017,
+hereby clarifies the issues in the table below:
+
+Whether Dynamic QR Code is to be provided on an| Any person, who has obtained a Unique
+invoice, issued to a person, who has obtained a| Identity Number (UIN) as per the provisions
+
+1. Unique Identity Number as per the provisions of Sub- | of Sub-Section 9 of Section 25 of CGST Act
+Section 9 of Section 25 of CGST Act 2017? 2017, is not a “registered person” as per the
+definition of registered person provided in
+
+https://www.taxtmi.com/circulars?id=6486 1 1/4
+
+28/10/2026, 5:23:06 pm
+
+114.
+
+UPI ID is linked to the bank account of the payee/
+person collecting money. Whether bank account and
+IFSC details also need to be provided separately in
+the Dynamic QR Code along with UPI ID?
+
+In cases where the payment is collected by some
+person other than the supplier (ECO or any other
+person authorized by the supplier on his/ her behalf),
+whether in such cases, in place of UPI ID of the
+supplier, the UPI ID of such person, who is
+authorized to collect the payment on behalf of the
+supplier, may be provided?
+
+In cases, where receiver of services is located
+outside India, and payment is being received by the
+supplier of services, through RBI approved modes of
+payment, but as per provisions of the IGST Act 2017,
+the place of supply of such services is in India, then
+such supply of services is not considered as export of
+services as per the IGST Act 2017; whether in such
+cases, the Dynamic QR Code is required on the
+invoice issued, for such supply of services, to such
+recipient located outside India?
+
+In some instances of retail sales over the counter, the
+payment from the customer in received on the
+payment counter by displaying dynamic QR code on
+digital display, whereas the invoice, along with
+invoice number, is generated on the processing
+system being used by supplier/ merchant after
+receiving the payment. In such cases, it may not be
+possible for the merchant/ supplier to provide details
+of invoice number in the dynamic QR code displayed
+to the customer on payment counter. However, each
+transaction i.e. receipt of payment from a customer is
+having a unique Order ID/ sales reference number,
+which is linked with the invoice for the said
+transaction. Whether in such cases, the order ID/
+reference number of such transaction can be
+provided in the dynamic QR code displayed digitally,
+instead of invoice number.
+
+https://www.taxtmi.com/circulars?id=6486 1
+
+section 2(94) of the CGST Act 2017.
+Therefore, any invoice, issued to such
+person having a UIN, shall be considered
+as invoice issued for a B2C supply and shall
+be required to comply with the requirement
+of Dynamic QR Code.
+
+Given that UPI ID is linked to a specific
+bank account of the payee/ person
+collecting money, separate details of bank
+account and IFSC may not be provided in
+the Dynamic QR Code.
+
+Yes. In such cases where the payment is
+collected by some person, authorized by the
+supplier on his/ her behalf, the UPI ID of
+such person may be provided in the
+Dynamic QR Code, instead of UPI ID of the
+supplier.
+
+No. Wherever an invoice is issued to a
+recipient located outside India, for supply of
+services, for which the place of supply is in
+India, as per the provisions of IGST Act
+2017, and the payment is received by the
+supplier, in convertible foreign exchange or
+in Indian Rupees wherever permitted by the
+RBI, such invoice may be issued without
+having a Dynamic QR Code, as such
+dynamic QR code cannot be used by the
+recipient located outside India for making
+payment to the supplier.]
+
+In such cases, where the invoice number is
+not available at the time of digital display of
+dynamic QR code in case of over the
+counter sales and the invoice number and
+invoices are generated after receipt of
+payment, the unique order ID/ unique sales
+reference number, which is uniquely linked
+to the invoice issued for the said
+transaction, may be provided in the
+Dynamic QR Code for digital display, as
+long as the details of such unique order ID/
+sales reference number linkage with the
+invoice are available on the processing
+system of the merchant/ supplier and the
+cross reference of such payment along with
+unique order ID/ sales reference number
+are also provided on the invoice.
+
+2/4
+
+28/10/2026, 5:23:06 pm
+
+When part-payment has already been received by
+the merchant/ supplier, either in advance or by
+adjustment (e.g. using a voucher, discount coupon
+etc), before the dynamic QR Code is generated, what
+amount should be provided in the Dynamic QR Code
+for “invoice value”?
+
+The purpose of dynamic QR Code is to
+enable the recipient/ customer to scan and
+pay the amount to be paid to the merchant/
+supplier in respect of the said supply. When
+the part-payment for any supply has already
+been received from the customer/ recipient,
+in form of either advance or adjustment
+through voucher/ discount coupon etc., then
+the dynamic QR code may provide only the
+remaining amount payable by the customer/
+recipient against “invoice value”. The details
+of total invoice value, along with details/
+cross reference of the part-payment/
+advance/ adjustment done, and_ the
+remaining amount to be paid, should be
+provided on the invoice.
+
+3. Circular No. 146/2/2021-GST, dated 23.02.2021 stands modified to this extent.
+
+4. It is requested that suitable trade notices may be issued to publicize the contents of this circular.
+
+5. Difficulty, if any, in the implementation of the above instructions may please be brought to the notice of
+
+the Board. Hindi version would follow.
+
+oreeesrrercrT’
+
+NOTES:-
+
+(Sanjay Mangal)
+
+Commissioner
+
+Substituted vide Circular No. 165/21/2021-GST dated 17-11-2021 before it was read as,
+
+In cases, where receiver of services is located
+outside India, and payment is being received by
+the supplier of services in foreign exchange,
+through RBI approved modes of payment, but as
+per provisions of the IGST Act 2017, the place of
+supply of such services is in India, then such
+supply of services is not considered as export of
+services as per the IGST Act 2017; whether in
+such cases, the Dynamic QR Code is required
+on the invoice issued, for such supply of
+services, to such recipient located outside India?
+
+"4.
+
+https://www.taxtmi.com/circulars?id=6486 1
+
+No. Wherever an invoice is issued to a
+recipient located outside India, for supply of
+services, for which the place of supply is in
+India, as per the provisions of IGST Act
+2017, and the payment is received by the
+supplier in foreign currency, through RBI
+approved mediums, such invoice may be
+issued without having a Dynamic QR
+Code, as such dynamic QR code cannot
+be used by the recipient located outside
+India for making payment to the supplier."
+
+3/4
+
+28/10/2026, 5:23:06 pm
+
+https://www.taxtmi.com/circulars?id=64861
+
+4/4

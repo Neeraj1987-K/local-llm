@@ -1,0 +1,110 @@
+28/10/2026, 3:08:44 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+CBIC Clarifies the Requirement for Separate GST Registration for Importers Storing Goods in
+Warehouses in other States
+
+F. No. CBIC- 20016/75/2025-GST/1025
+Government of India
+Ministry of Finance
+Department of Revenue
+Central Board of Indirect Taxes & Customs,
+GST Policy Wing
+email:gst-cbec@gov.in
+Room No. 263-A, North Block,
+New Delhi, dated 25th September 2025
+To,
+The Principal Chief Commissioner,
+CGST and CX Zone, Delhi.
+Sir
+Subject: Clarification on Requirement of Separate GST Registration for importers storing goods in
+Warehouses in other States-reg.
+
+Kindly refer to the letter F. No. GCCO/I/22/OTH/126/2025 dated 27.06.2025, along with a representation
+from the Kirana Committee, Delhi, dated 28.02.2025, on the above subject.
+
+2. The matter has been examined in light of the provisions of the CGST Act, 2017 and the rules made
+thereunder. Upon detailed examination of the issue, the following observations have been made:
+
+i. Requirement of Registration in Haryana: The primary concern pertains to whether a business
+entity, whose principal place of business is in Delhi, is required to obtain GST registration in
+Haryana where goods are stored in cold storage facilities operated by third parties from where the
+goods are supplied to recipients. In this regard, it is reiterated that under Section 22 of the CGST
+Act, 2017, every person making taxable supplies from a State is liable to be registered in that
+State, provided the aggregate turnover exceeds the prescribed threshold. The term “place of
+business" as defined under Section 2(85) includes any location from where business is
+ordinarily carried out, including warehouses and storage facilities. Where goods are stored in
+Haryana and subsequently, dispatched to customers from such facilities, the warehouse effectively
+functions as a place of business for the purpose of making outward taxable supplies. The fact that
+the cold storage is operated by a third party does not alter the legal position if the supply originates
+from that location. Therefore, in such cases, the business entity is required to obtain GST
+registration in Haryana, and all provisions of the CGST Act shall apply mutatis mutandis to such
+supplies made from the State of Haryana.
+
+https://www.taxtmi.com/circulars?id=68848 1/3
+
+28/10/2026, 3:08:44 pm
+
+ii. GST Payment on Movement of Goods: In respect of goods transferred from the Delhi godown
+to cold storage facilities in Haryana, the movement must be accompanied by a valid tax invoice and
+e-way bill, and GST must be discharged appropriately. When goods are returned from Haryana to
+Delhi, the movement must again be documented and taxed as per applicable provisions.
+Furthermore, when goods are supplied from the Haryana warehouse to customers located within
+Haryana, the supply is treated as intra-State and attracts CGST and SGST of Haryana. For
+supplies involving movement of goods, the place of supply is determined under Section 10(1)(a) of
+the IGST Act, 2017, as the location where the movement of goods terminates for delivery.
+Accordingly, if the supply originates from Haryana and terminates within Haryana, it is an intra-
+State supply, and CGST + SGST of Haryana is applicable.
+
+ili. Distinct Person Status for Cold Storage: Under Section 25(4) of the CGST Act,
+establishments of a person in different States are treated as distinct persons for GST purposes.
+Where a business entity operates from warehouses or cold storage facilities in multiple States
+under the same PAN, each such establishment is considered a separate taxable person.
+Consequently, movement of goods between such establishments constitutes a supply, and is liable
+to GST. A tax invoice must be issued for such transfers, and the applicable tax-CGST and SGST of
+the recipient State-is to be paid. In the present context, if the business entity is registered in both
+Delhi and Haryana, and goods are moved from Delhi to Haryana, the transaction is treated as a
+supply between distinct persons, and GST is payable accordingly. The cold storage facility in
+Haryana, if used as a place of business for making taxable supplies, assumes the status of a
+distinct person under GST law. This entails separate compliance obligations, including filing of
+returns, maintenance of records, and discharge of tax liability in Haryana. The cold storage facility,
+therefore, functions as a separate taxable entity for GST purposes, and the business entity must
+ensure full compliance with the provisions applicable to such registration.
+
+iv. Determination of Place of Business and Place of Supply: The determination of place of
+supply is governed by Section 10(1)(a) of the IGST Act, 2017, which stipulates that for supplies
+involving movement of goods, the place of supply shall be the location where the movement
+terminates for delivery. If goods are dispatched from the warehouse in Haryana to customers within
+Haryana, the supply is intra-State and attracts CGST + SGST of Haryana. The warehouse in
+Haryana, in such cases, is not merely a storage point but a place of business from which taxable
+supplies are made. Accordingly, the business entity is liable to register in Haryana and comply with
+all GST provisions applicable to that State. In addition, as per Section 35 of the CGST Act, 2017
+and Rule 56 of the CGST Rules, 2017, every registered person is required to maintain proper
+records at each place of business. This includes stock registers, records of inward and outward
+supplies, and documentation of goods stored or moved.
+
+v. GST on Cold Storage Services and Related Supplies: Cold storage services are classified as
+services involving immovable property, and are taxable under GST. As per Section 12(3) of the
+IGST Act, the place of supply for services directly related to immovable property is the location of
+the property. In the present case, CGST + SGST in Haryana would apply. Furthermore, when
+goods are dispatched from the warehouse to customers in other States, the place of supply is
+again determined under Section 10(1) (a), and the applicable tax, i.e. IGST or CGST + SGST is
+levied based on the origin and destination of the supply. If the supply originates from Haryana and
+the supplier is registered there, it is treated as intra-State or inter-State supply depending on the
+destination, and tax must be discharged accordingly. The business entity must ensure that
+invoicing, documentation, and tax payment are aligned with the actual place of supply and
+registration status.
+
+3. This issues with the approval of the Member (GST).
+Yours faithfully,
+
+(Kangale Shrunkhala Motiram)
+
+https://www.taxtmi.com/circulars?id=68848 2/3
+
+28/10/2026, 3:08:44 pm
+
+Director, GST.
+
+https://www.taxtmi.com/circulars?id=68848 3/3

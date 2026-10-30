@@ -1,0 +1,94 @@
+28/10/2026, 6:09:12 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+Standard Operating Procedure (SOP) for implementation of the provision of extension of time limit
+to apply for revocation of cancellation of registration under section 30 of the CGST Act, 2017 and
+rule 23 of the CGST Rules, 2017
+
+Circular No. 148/04/2021-GST
+CBEC-20/06/04/2020-GST
+Government of India
+Ministry of Finance
+Department of Revenue
+Central Board of Indirect Taxes and Customs
+GST Policy Wing
+eran
+New Delhi, dated the 18th May, 2021
+To,
+The Principal Chief Commissioners / Chief Commissioners / Principal Commissioners /
+Commissioners of Central Tax (All)
+Madam/Sir,
+
+Subject: Standard Operating Procedure (SOP) for implementation of the provision of extension of
+time limit to apply for revocation of cancellation of registration under section 30 of the CGST Act,
+2017 and rule 23 of the CGST Rules, 2017 — reg.
+
+As you are aware vide Finance Act, 2020, section 30 of the Central Goods and Services Tax Act, 2017
+(hereinafter referred to as “CGST Act”) was amended and the same has been notified with effect from
+01.01.2021 vide notification No. 92/2020- Central Tax, dated 22.12.2020. The amended provision provides
+for extension of time limit for applying for revocation of cancellation of registration on sufficient cause being
+shown and for reasons to be recorded in writing, by:
+
+(a) the Additional or Joint Commissioner, as the case may be, for a period not exceeding thirty
+days;
+
+(b) the Commissioner, for a further period not exceeding thirty days, beyond the period specified in
+clause (a) above
+
+Consequently, changes have also been made in rule 23 and FORM GST REG-21 of the Central Goods
+and Services Tax Rules, 2017 (hereinafter referred to as the “CGST Rules”) vide notification No.15/2021-
+Central Tax, dated 18.05.2021.
+
+2. In order to ensure uniformity in the implementation of the provisions of above rule across the field
+formations, till the time an independent functionality for extension of time limit for applying in FORM GST
+
+https://www.taxtmi.com/circulars?id=648 15 1/2
+
+28/10/2026, 6:09:12 pm
+
+REG-21 is developed on the GSTN portal, the Board, in exercise of its powers conferred by section 168 (1)
+of the CGST Act, hereby provides the following guidelines for implementation of the provision for extension
+of time limit for applying for revocation of cancellation of registration under the said section and rule.
+
+3. As has been provided in section 30 of the CGST Act, any registered person whose registration is
+cancelled by the proper officer on his own motion, may apply to such officer in FORM GST REG-21, for
+revocation of cancellation of registration within 30 days from the date of service of the cancellation order. In
+case the registered person applies for revocation of cancellation beyond 30 days, but within 90 days from
+the date of service of the cancellation order, the following procedure is specified for handling such cases:
+
+4.1. Where a person applies for revocation of cancellation of registration beyond a period of 30 days from
+the date of service of the order of cancellation of registration but within 60 days of such date, the said
+person may request, through letter or e-mail, for extension of time limit to apply for revocation of
+cancellation of registration to the proper officer by providing the grounds on which such extension is
+sought. The proper officer shall forward the request to the jurisdictional Joint/Additional Commissioner for
+decision on the request for extension of time limit.
+
+4.2 The Joint/Additional Commissioner, on examination of the request filed for extension of time limit for
+revocation of cancellation of registration and on sufficient cause being shown and for reasons to be
+recorded in writing, may extend the time limit to apply for revocation of cancellation of registration. In case
+the request is accepted, the extension of the time limit shall be communicated to the proper officer.
+However, in case the concerned Joint/Additional Commissioner, is not satisfied with the grounds on which
+such extension is sought, an opportunity of personal hearing may be granted to the person before taking
+decision in the matter. In case of rejection of the request for the extension of time limit, the grounds for
+such rejection may be communicated to the person concerned, through the proper officer.
+
+4.3 On receipt of the decision of the Joint/Additional Commissioner on request for extension of time limit
+for applying for revocation of cancellation of registration, the proper officer shall process the application for
+revocation of cancellation of registration according to the law and procedure laid down in this regard.
+
+5. Procedure similar to that explained in paragraph 4.1 to 4.3 above, shall be followed mutatis-mutandis in
+case a person applies for revocation of cancellation of registration beyond a period of 60 days from the
+date of service of the order of cancellation of registration but within 90 days of such date.
+
+6. The circular shall cease to have effect once the independent functionality for extension of time limit for
+applying in FORM GST REG-21 is developed on the GSTN portal.
+
+7. Difficulties, if any, in implementation of these instructions may be informed to the Board (gst-
+cbec@gov.in). Hindi version follows.
+
+(Sanjay Mangal)
+
+Commissioner (GST)
+
+https://www.taxtmi.com/circulars?id=64815 2/2

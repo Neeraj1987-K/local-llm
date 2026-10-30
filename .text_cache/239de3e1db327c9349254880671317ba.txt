@@ -1,0 +1,68 @@
+28/10/2026, 4:56:55 pm
+
+TaxTMI
+
+https://www.taxtmi.com
+
+Form No. GST ITC - 2A - Declaration for transfer of ITC pursuant to registration under sub-section
+(2) of section 25
+
+1TFORM GST ITC-02A
+[See rule 41A]
+
+Declaration for transfer of ITC pursuant to registration under sub-section (2) of section 25
+
+1.| GSTIN of transferor
+
+2. | Legal name of transferor
+
+3. | Trade name of transferor, if any
+
+4.) GSTIN of transferee
+
+5. | Legal name of transferee
+
+6. | Trade name of transferee, if any
+
+7. Details of ITC to be transferred
+
+Tax Amount of matched ITC available | Amount of matched ITC to be transferred
+1 2 3
+Central Tax
+State Tax
+UT Tax
+Integrated Tax
+Cess
+
+https://www.taxtmi.com/forms?id=1439 1/2
+
+28/10/2026, 4:56:55 pm
+
+8. Verification
+
+| hereby solemnly affirm and declare that the
+information given hereinabove is true and correct to the best of my knowledge and belief and nothing has
+been concealed there from.
+
+Signature of authorised signatory
+
+Name
+
+Designation/Status
+
+Date---dd/mm/yyyy
+Instructions:
+
+1. Transferor refers to the registered person who has an existing registration in a State or Union
+territory.
+
+2. Transferee refers to the place of business for which a separate registration has been obtained
+under rule 11.]
+
+eeceresad
+
+Notes
+
+1. Inserted vide Notification No. 03/2019-Central Tax dated 29-01-2019 w.e.f. 01-02-2019
+
+https://www.taxtmi.com/forms?id=1439 2/2

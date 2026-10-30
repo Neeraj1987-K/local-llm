@@ -1,0 +1,609 @@
+28/10/2026, 4:59:14 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+Goods and Services Tax Settlement of Funds Rules, 2026 - F. No. S-31011/96/2025-ST-I-DoR- G.S.R.
+225(E) - Central GST (CGST)
+
+MINISTRY OF FINANCE
+(Department of Revenue)
+NOTIFICATION
+New Delhi, the 30th March, 2026
+
+G.S.R. 225(E).— In exercise of the powers conferred by section 164 read with sections 53 and 53A of the
+Central Goods and Services Tax Act, 2017 (12 of 2017) and sections 17, 17A, 18 and 22 of the Integrated
+Goods and Services Tax Act, 2017 (13 of 2017) and in supersession of the Goods and Services Tax
+Settlement of Funds Rules, 2017 except as respects things done or omitted to be done before such
+supersession, the Central Government on the recommendation of the GST Council hereby makes the
+following rules, namely:—
+
+1. Short title and commencement.— (1) These rules may be called the Goods and Services Tax
+Settlement of Funds Rules, 2026.
+
+(2) They shall be deemed to come into force with effect from 1st day of April, 2025.
+2. Definitions.— In these rules, unless the context otherwise requires, -
+
+(1) (a) “Authorities” means the Board, State Tax Nodal Authority, Principal Chief Controller of
+Accounts, Central Board of Indirect Taxes and Customs and State Accounting Authorities of the
+respective States;
+
+(b) “Board” means the Central Board of Indirect Taxes and Customs constituted under the Central
+Boards of Revenue Act, 1963 (54 of 1963);
+
+(c) “cross utilisation of credit” means utilisation of-
+
+(i) credit on account of Integrated Tax for payment of Central Tax or State Tax or Union
+Territory Tax; or
+
+(ii) credit on account of Central Tax or State Tax or Union Territory Tax for payment of
+Integrated Tax, in accordance with the provisions of sections 49 or 49A or 49B of the Central
+Goods and Services Tax Act, 2017 read with the provisions of sections 49 or 49A or 49B of the
+concerned State Goods and Services Tax Act, 2017 or section 9 or 9A or 9B of the Union
+Territory Goods and Services Tax Act, 2017 (14 of 2017) or section 18 of the Integrated Goods
+and Services Tax Act, 2017, as the case may be;
+
+(d) “Government” means the Central Government;
+(e) “input tax credit” means the credit of input tax;
+
+(f) “registered person” means a person who is registered under section 25 of the Central Goods and
+Services Tax Act, 2017, but does not include a person having a Unique Identity Number;
+
+https://www.taxtmi.com/notifications?id=145321 VIL
+
+28/10/2026, 4:59:14 pm
+
+(g) “reports” means any report specified or otherwise required to be furnished by or under these
+rules;
+
+(h) “State Accounting Authority” means Accounting Authority of any State notified as such by the
+concerned State Government;
+
+(i) “State Tax Nodal Authority” means the Taxation Authority of any State notified as such by the
+concerned State Government.
+
+(2) The words and expressions used and not defined in these rules, but defined in the Central Goods
+and Services Tax Act, 2017, the concerned State Goods and Services Tax Act, 2017, the Integrated
+Goods and Services Tax Act, 2017 and the Union Territories of Goods and Services Tax Act, 2017 or
+in the rules made under any of the said Acts or the aforesaid rules as the case may be.
+
+3. Electronic transmission of reports.— The common portal shall transmit reports electronically to the
+Authorities by the 25th of the month in which Goods and Services Tax returns are furnished:
+
+Provided that if 25th of the month is a holiday, then the reports shall be transmitted by the first working day
+after the holiday:
+
+Provided further that if the date of filing of return is extended, then the date of generation of settlement
+report shall stand extended accordingly.
+
+4. Report of cross-utilisation and apportionment of Integrated Tax between Centre (Integrated Tax)
+and State (State Tax) or Central (Integrated Tax) and Centre (Union Territory Tax).— The details
+relating to the transfer of funds between Centre (Integrated Tax) and State (State Tax) or Centre
+(Integrated Tax) and Centre (Union Territory Tax) to be made in a month shall be transmitted by the
+common portal to the Authorities, in FORMS GST STL - 1.01 to GST STL - 1.12, for each State and Union
+Territory, as follows, namely:—
+
+(a) a monthly consolidated statement for each State in FORM GST STL - 1.01 containing the details
+referred to in clause (b) relating to the total amount to be transferred—
+
+(i) from the Centre (Integrated Tax) to the State (State Tax) or the Centre (Union Territory Tax)
+or from the State (State Tax) or the Centre (Union Territory Tax) to the Centre (Integrated Tax)
+on account of cross-utilisation of credit as provided in section 53 of the Central Goods and
+Services Tax Act, 2017, section 53 of the Goods and Services Tax Act of the concerned State
+(hereinafter referred to as State Goods and Services Tax Act), section 10 of the Union Territory
+Goods and Services Tax Act, 2017 and section 18 of the Integrated Goods and Services Tax
+Act, 2017;
+
+(ii) from the Centre (Integrated Tax) to the State (State Tax) or the Centre (Union Territory Tax)
+on account of apportionment as provided for in section 17 of the Integrated Goods and
+Services Tax Act, 2017.
+
+(b) the monthly reports containing State-wise details pertaining to the information contained in
+FORM GST STL — 1.01 are as under, namely:—
+
+(i) list of registered persons of the State or Union Territory who have discharged liability of
+Integrated Tax by utilising the input tax credit of State Tax or Union Territory Tax or Central
+Tax, in accordance with section 53 of the Central Goods and Services Tax Act, 2017 or section
+53 of the State Goods and Services Tax Act, 2017 or section 10 of the Union Territory Goods
+and Services Tax Act, 2017 (including cross utilisation by Input Service Distributor), as the
+case may be, shall be in FORM GST STL — 1.02.
+
+https://www.taxtmi.com/notifications?id= 145321 2/11
+
+28/10/2026, 4:59:14 pm
+
+Note: The summary of Integrated Tax liability discharged by using the input tax credit of
+Central Tax and that discharged by using the input tax credit of State Tax or Union Territory
+Tax shall be reflected in column (3) of both FORM GST STL - 2.01 and FORM GST STL - 1.01
+respectively;
+
+(ii) list of registered persons of the State or Union Territory who have discharged liability of
+State Tax or Union Territory Tax, as the case may be, from the input tax credit of Integrated
+Tax, as provided under section 18 of the Integrated Goods and Services Tax Act, 2017 shall
+be in FORM GST STL — 1.03.
+
+Note: The summary of liability on account of State Tax/Union Territory Tax discharged from the
+input tax credit of the Integrated Tax shall be reflected in column (4) of FORM GST STL - 1.01.
+
+(iii) list of registered persons or unregistered persons who have paid Integrated Tax under the
+following circumstances and which is required to be apportioned as per the provisions of
+section 17 of the Integrated Goods and Services Tax Act, 2017 shall be as under:-
+
+(A) list of registered persons of a State or Union Territory-,
+
+(I) who have made outward inter-State supply, including distribution of credit by
+an Input Service Distributor, to unregistered persons or units of another State or
+Union Territory; or
+
+(Il) who have provided online information and database access and retrieval
+services to unregistered persons of another State or Union territory; or
+
+(Ill) who have made supplies to SEZ on payment of tax but the refund of the
+same has not been claimed within the relevant period specified in section 54 of
+the Central Goods and Services Tax Act, 2017 and the respective State Goods
+and Services Tax Act, 2017, or the claim of refund has been rejected, either fully
+or partially; or
+
+(IV) who have made the exports on payment of tax, but the claim of refund has
+been rejected, either fully or partially, shall be in FORM GST STL — 1.04.
+
+Explanation.- The list specified at clause III or clause IV shall be prepared after
+taking into consideration the integrated tax paid as may be ascertained on the
+basis of a Standard Operating Procedure formulated in this behalf.
+
+Note: The summary of Integrated Tax to be apportioned as State Tax or Union
+Territory Tax and Central Tax from this statement shall be reflected in column (5)
+of both FORM GST STL - 1.01 and FORM GST STL - 2.01, respectively;
+
+(B) list of registered persons of a State or Union Territory who have made outward inter-
+State supplies to,-
+
+(I) a person paying tax under section 10 of the Central Goods and Services Tax
+Act, 2017 or to Non-resident taxable persons; or
+
+(Il) persons registered under section 51 or section 52 of the Central Goods and
+Services Tax Act, 2017 of another State or Union Territory; or
+
+(Ill) such holders of Unique Identification Number who have not claimed refund of
+the input tax within the time allowed in this regard,
+
+shall be in FORM GST STL — 1.05.
+
+https://www.taxtmi.com/notifications?id= 145321 3/11
+
+28/10/2026, 4:59:14 pm
+
+Note: The summary of Integrated Tax to be apportioned as State Tax or Union Territory
+Tax and Central Tax from this statement shall be reflected in column (6) of both FORM
+GST STL - 1.01 and FORM GST STL - 2.01, respectively;
+
+(C) list of registered persons of a State or Union Territory who have received inter-State
+inward supplies or have effected imports in respect of which the input tax credit,-
+
+(I) has been declared as ineligible; or
+
+(Il) has lapsed due to opting into composition scheme or where the supply has
+become wholly exempt, as provided for in sub-section (4) of section 18 of the
+Central Goods and Services Tax Act, 2017 and sub-section (4) of section 18 of
+the respective State Goods and Services Tax Act read with section 21 of the
+Union Territory Goods and Services Tax Act, 2017; or
+
+(III) availed in respect of inputs (whether as such or contained in semi-finished or
+finished goods) or capital goods lying in stock on the day immediately preceding
+the date of cancellation of registration where the said tax has been paid along
+with the application for cancellation registration, in accordance with the provisions
+of sub-section (5) of section 29 of the Central Goods and Services Tax Act, 2017,
+sub-section (5) of section 29 of the respective State Goods and Services Tax Act,
+read with section 21 of the Union Territory Goods and Services Tax Act, 2017; or
+
+(IV) tax of the nature specified in sub-item (Ill.) above that has been paid along
+with the final return;
+
+(V) where input tax credit is not available, on account of limitation of time period
+as delineated in sub-section (4) of section 16 of the Central Goods and Services
+Tax Act, 2017,
+
+shall be reflected in FORM GST STL — 1.06:
+
+Provided that the said report in FORM GST STL -1.06 shall be prepared after taking
+into consideration amounts in respect of such reversals or utilisations of input tax credit
+as may be ascertained on the basis of a Standard Operating Procedure formulated in
+this behalf.
+
+Note: The summary of Integrated Tax to be apportioned as State Tax or Union Territory
+Tax and Central Tax from this statement shall be reflected in column (7) of both FORM
+GST STL - 1.01 and FORM GST STL - 2.01, respectively;
+
+(D) list of registered persons of a State or Union Territory who have received inter-State
+inward supplies or have effected imports in respect of which the input tax credit remains
+un-availed till the period specified in clause (c) or clause (f) of sub-section (1) of section
+17 of the Integrated Goods and Services Tax Act, 2017, shall, with effect from such date
+as may be notified in this behalf, shall be reflected in FORM GST STL — 1.07:
+
+Provided that the said report in FORM GST STL -1.07 shall be prepared after taking
+into consideration amounts in respect of such declarations of input tax credit as may be
+ascertained on the basis of a Standard Operating Procedure formulated in this behalf.
+
+Note: The summary of Integrated Tax to be apportioned as State Tax or Union Territory
+Tax and Central Tax from this statement shall be reflected in column (8) of both FORM
+GST STL - 1.01 and FORM GST STL - 2.01, respectively;
+
+https://www.taxtmi.com/notifications?id= 145321 4/11
+
+28/10/2026, 4:59:14 pm
+
+(E) list of unregistered persons who have made imports in the concerned State or Union
+Territory, in terms of clause (d) of sub-section (1) of section 17 of the Integrated Goods
+and Services Tax Act, 2017 shall be reflected in FORM GST STL — 1.08.
+
+Note: The summary of Integrated Tax to be apportioned to State Tax or Union Territory
+Tax and Central Tax from this statement shall be reflected in column (9) of both FORM
+GST STL - 1.01 and FORM GST STL - 2.01, respectively;
+
+(F) list of,-
+
+(I) composition taxpayers who have received supplies by way of imports on which
+Integrated Tax has been paid; or
+
+(Il) Unique Identification Number holders who have received supplies by way of
+imports on which Integrated Tax has been paid and who have not claimed refund
+within the time period specified in this regard; or
+
+(Ill) persons registered under section 51 or 52 of the Act in a State or Union
+Territory who have received supplies by way of imports on which Integrated Tax
+has been paid; or
+
+(IV) composition taxpayers or non-resident taxable persons who have received
+inward inter-State supplies that are liable to reverse charge,
+
+shall be reflected in FORM GST STL — 1.09.
+
+Note: The summary of Integrated Tax to be apportioned to State Tax or Union Territory
+Tax and Central Tax from this statement shall be reflected in column (10) of both FORM
+GST STL - 1.01 and FORM GST STL - 2.01, respectively;
+
+(G) list of registered persons in a State or Union Territory who have paid interest on
+Integrated Tax, and fee deposited for filing advance ruling application under Integrated
+Goods and Services Tax shall be reflected in FORM GST STL — 1.12.
+
+Note: The summary of Integrated Tax to be apportioned as State Tax or Union Territory
+Tax and Central Tax from this statement shall be reflected in column (11) of both FORM
+GST STL - 1.01 and FORM GST STL - 2.01, respectively.
+
+5. Report of cross-utilisation and apportionment of Integrated Tax between Centre (Integrated Tax)
+and Centre (Central Tax).— The details relating to the transfer of funds between Centre (Integrated Tax)
+and Centre (Central Tax) to be made in a month shall be transmitted by the common portal to the
+Authorities in FORMS GST STL - 2.01 to GST STL — 2.02, as follows, namely:—.
+
+(a) a monthly consolidated statement containing State-wise details in FORM GST STL — 2.01
+containing details relating to the total amount to be transferred,-
+
+(i) from the Centre (Integrated Tax) to the Centre (Central Tax), or from the Centre (Central
+Tax) to the Centre (Integrated Tax), as the case may be, on account of cross-utilisation of
+credit as provided for in section 53 of the Central Goods and Services Tax Act, 2017 and
+section 18 of the Integrated Goods and Services Tax Act, 2017; and
+
+(ii) from the Centre (Integrated Tax) to the Centre (Central Tax) on account of apportionment
+as provided for in section 17 of the Integrated Goods and Services Tax Act, 2017;
+
+(b) monthly reports containing State-wise details containing list of registered persons who have
+discharged liability of Central Tax by utilising the input tax credit of Integrated Tax, in accordance
+
+https://www.taxtmi.com/notifications?id= 145321 S/LL
+
+28/10/2026, 4:59:14 pm
+
+with the provisions of section 18 of the Integrated Goods and Services Tax Act, 2017 shall be in
+FORM GST STL — 2.02.
+
+Note: The summary of the liability of Central Tax discharged by utilising the credit of Integrated Tax
+shall be reflected in column (4) of FORM GST STL - 2.01 and the summary of Integrated Tax liability
+discharged by utilising credit of Central Tax shall be reflected in column (3) of FORM GST STL -
+2.01.
+
+6. Report relating to apportionment of Integrated Tax recovered against demand and admitted
+amount deposited at the time of filing appeal, between Centre (Central Tax) and State (State Tax) or
+Centre (Union Territory Tax).— The details relating to recoveries of Integrated Tax and interest and
+penalty thereon on the basis of a demand order, or admitted amount deposited at the time of filing appeal
+or the compounding amount to be made in month shall be transmitted by the common portal to the
+Authorities in FORMS GST STL - 3.01 to GST STL — 3.02, as follows, namely:—
+
+(a) a monthly State-wise consolidated statement showing a summary of amount recovered as
+Integrated Tax, and the interest and penalty thereon, or admitted amount deposited at the time of
+filing appeal or the compounding amount, to be apportioned to State (State Tax) or Centre (Union
+Territory Tax), and to Centre (Central Tax), shall be in FORM GST STL - 3.01;
+
+(b) list of registered persons in a State or Union Territory from whom recovery of Integrated Tax has
+been made with interest and penalty thereon, or admitted amount of Integrated Tax deposited at the
+time of filing appeal or the compounding amount, shall be in FORM GST STL - 3.02.
+
+Note 1: The admitted amount of Integrated Tax deposited at the time of filing an appeal shall be
+reflected in the report for the period during which the concerned appeal is filed.
+
+Note 2: The recoveries of Integrated Tax and the interest and penalty thereon on the basis of a
+demand order shall be reflected in the period during which the amount is recovered in full.
+
+7. Report relating to apportionment of Integrated Tax amount, where place of supply could not be
+determined or taxable person making such supply is not identifiable, between Centre (Central Tax)
+and State (State Tax) or Centre (Union Territory Tax).— The details relating to the apportionment of
+Integrated Tax to State (State Tax) or to Centre (Union Territory Tax), and to Centre (Central Tax), to be
+made in a month shall be transmitted by the common portal to the Authorities in FORMS GST STL - 4.01
+to GST STL — 4.03, for each State and Union Territory, as follows, namely:—
+
+(a) a monthly State-wise consolidated statement showing a summary of the apportionment of
+Integrated Tax to State (State Tax) or Centre (Union Territory Tax), and to Centre (Central Tax), in a
+particular month relating to Integrated Tax collected in respect of which place of supply could not be
+determined or the taxable person making such supplies is not identifiable, as provided under the
+proviso to sub-section (2) of section 17 of the Integrated Goods and Services Tax Act, 2017 shall be
+in FORM GST STL - 4.01;
+
+(b) list of registered persons from whom Integrated Tax has been collected in respect of which place
+of supply made by taxable person could not be determined, and is to be apportioned as provided
+under first proviso to sub-section (2) of section 17 of the Integrated Goods and Services Tax Act,
+2017 shall be in FORM GST STL - 4.02;
+
+Explanation:- The list of registered persons of a State or Union Territory who have made exports but
+the refund of the same has not been claimed within the relevant period prescribed in section 54 or
+the claim of the refund has been rejected, either fully or partially, on any ground other than the
+reason specified in rule 4(b)(iii)(A)(III) or 4(b)(iii)(A)(IV) above, shall be included in the report in
+FORM STL - 4.02.
+
+https://www.taxtmi.com/notifications?id= 145321 6/11
+
+28/10/2026, 4:59:14 pm
+
+(c) the details of Integrated Tax collected in respect of which the taxable person making the
+underlying supplies is not identifiable, and is to be apportioned as provided under second proviso to
+sub-section (2) of section 17 of the Integrated Goods and Services Tax Act, 2017 shall be in FORM
+GST STL - 4.03 and this shall be an annual report to be submitted in October each year.
+
+8. Report relating to reduction of amount to be apportioned to Centre (Central Tax) and State (State
+Tax) or Centre (Union Territory Tax) due to Integrated Tax apportioned earlier but subsequently
+refunded.— (1) The details relating to reduction of amount to be apportioned to Centre (Central Tax) and
+State (State Tax) or Centre (Union Territory Tax), to be made in a month shall be transmitted by the
+common portal to the Authorities, in FORMS GST STL - 5.01 to GST STL — 5.04, due to Integrated Tax
+apportioned earlier but-
+
+(a) subsequently refunded as provided for in sub-section (5) of section 17 of the Integrated Goods
+and Services Tax Act, 2017; or
+
+(b) ineligible credit on account of the said Integrated Tax apportioned earlier subsequently having
+become eligible in accordance with sub-section (1) of section 18 of the Central Goods and Services
+Tax Act, 2017 read with sub-section (1) of section 18 of the State Goods and Services Tax Act, 2017
+of the concerned State, section 20 of the Integrated Goods and Services Tax Act, 2017 and section
+21 of the Union Territory Goods and Services Tax Act, 2017
+
+shall be in FORMS GST STL - 5.01 to GST STL — 5.03 in the manner hereinafter provided.
+
+(2) (a) a monthly State-wise consolidated statement showing a summary wherein Integrated Tax paid by a
+taxpayer has already been apportioned but
+
+(i) subsequently refunded to the person due to the provisions of the Central Goods and Services Tax
+Act, 2017 or the State Goods and Services Tax Act, 2017 of the concerned State or, the Union
+Territory Goods and Services Tax Act, 2017 leading to a reduction in amount to be apportioned to
+Centre (Central Tax) or State (State Tax) or Centre (Union Territory Tax), in a particular month as
+provided for in sub-section (5) of section 17 of the Integrated Goods and Services Tax Act, 2017; or
+
+(ii) subsequently the ineligible credit in respect whereof having become eligible, as referred to in
+clause (b) of sub-rule (1) above, shall be in FORM GST STL - 5.01;
+
+(b) monthly reports containing State-wise details pertaining to the information contained in FORM GST
+STL —- 5.01 shall be further provided as under, namely:—
+
+(i) list of registered taxpayers the Integrated Tax paid by whom and was apportioned earlier due to
+the underlying inter-State inward supplies for which input tax credit was ineligible previously but has
+now become eligible in accordance with sub-section (1) of section 18 of the Central Goods and
+Services Tax Act, 2017 read with sub-section (1) of section 18 of the State Goods and Services Tax
+Act, 2017 of the concerned State, section 20 of the Integrated Goods and Services Tax Act, 2017
+and section 21 of the Union Territory Goods and Services Tax Act, 2017 leading to reduction of
+Integrated Tax shall be in FORM GST STL - 5.02.
+
+Note: The summary of reduction in amount to be credited to State Tax or Union Territory Tax and
+Central Tax shall be reflected at S.No.1 of FORM GST STL - 5.01;
+
+(ii) list of registered taxpayers where Integrated Tax recovered under section 79 of Central Goods
+and Services Tax Act, 2017 and State Goods and Services Tax Act, 2017 of the concerned State (or
+section 21 of Union Territory Goods and Services Tax Act, 2017) or paid consequent to a demand
+raised by the proper officer is apportioned, and the amount so recovered is subsequently refunded
+pursuant to an appeal order, as provided under sections 107, 112, 113, 117 and 118 of the Central
+Goods and Services Tax Act, 2017 and the State Goods and Services Tax Act, 2017 of the
+concerned State (or section 21 of the Union Territory Goods and Services Tax Act, 2017), or where
+
+https://www.taxtmi.com/notifications?id= 145321 WU
+
+28/10/2026, 4:59:14 pm
+
+the amount of Integrated Tax paid is subsequently refunded in terms of section 77 of the Central
+Goods and Services Tax Act, 2017 and the respective State Goods and Services Tax Act, 2017, as
+aforesaid, leading to reduction in Integrated Tax shall be in FORM GST STL - 5.03.
+
+Note: The summary of reduction in amount to be debited to State Tax or Union Territory Tax and
+Central Tax shall be reflected at S.No. 2 of FORM GST STL - 5.01;
+
+(iii) list of registered taxpayers where the liability of payment of Integrated Tax is reduced on account
+of any reason other than an amendment in the amount payable after the said payment has been
+made, on account of rectification of return as provided under sections 37, 38 and 39 of the Central
+Goods and Services Tax Act, 2017 and the State Goods and Services Tax Act, 2017 of the
+concerned State (or section 21 of the Union Territory Goods and Services Tax Act, 2017), where the
+excess Integrated Tax so paid has been apportioned, and the same is now required to be reduced
+from the Central Tax and State Tax or Union Territory Tax, shall be in FORM GST STL - 5.04.
+
+Note 1: The summary of reduction in amount to be credited to State Tax or Union Territory Tax and
+Central Tax shall be reflected at S.No. 3 of FORM GST STL- 5.01.
+
+Note 2: Reduction on account of amendment of tax payable necessitated by rectification of any
+return is settled by netting off values in the return and hence what will remain in FORM GST STL -
+5.04 is the reduction in tax paid on account of any other reason only.
+
+9. Report relating to recovery of various taxes from refunds and transfer of amount within cash
+ledger.— Report of settlement arising between Centre (Central Tax) and State (State Tax) or Centre
+(Union Territory Tax) or Centre (Cess) on account of, -
+
+(a) recovery of any tax, interest, penalty, fees or any other amount from refund, in terms of
+subsection (10) of section 54 of the Central Goods and Services Tax Act, 2017 and State Goods and
+Services Tax Act, 2017 of the concerned State read with section 21 of the Union Territory Goods and
+Services Tax Act, 2017; and
+
+(b) transfer of amounts from one head of the electronic cash ledger of a registered person to another
+head of the said registered person or to the electronic cash ledger of another distinct person as
+specified in sub-section (10) of section 49 and section 53A of the Central Goods and Services Tax
+Act, 2017 read with sub-section (10) of section 49 and section 53A of the State Goods and Services
+Tax Act, 2017 of the concerned State and section 17A of the Integrated Goods and Services Tax Act,
+2017,
+
+shall be transmitted by the common portal in FORMS GST STL - 6.01 to GST STL - 6.05, as follows,
+namely:—
+
+(i) summary of the amount recovered from the refund claimed by taxpayer and amount transferred
+from one head to another of the electronic cash ledger of the registered person or from one head to
+another of the electronic cash ledger of a distinct person shall be in FORM GST STL - 6.01 and
+details provided as under;
+
+(A) list of taxpayers from whose refund amount of any liability has been recovered shall be in
+FORM GST STL - 6.02 and major or minor head wise summary thereof shall be in FORM GST
+STL - 6.02A; and
+
+(B) list of taxpayers who have made inter head transfer of amount within cash ledger shall be
+in FORM GST STL - 6.03 and major or minor head wise summary thereof shall be in FORM
+GST STL - 6.03A and State-wise summary shall be in FORM GST STL - 6.05;
+
+(ii) summary of refunds of State Tax or Union Territory Tax disbursed by the Centre shall be
+transmitted to the Central Government in FORM GST STL -6.04 along with a taxpayer-wise list
+
+https://www.taxtmi.com/notifications?id= 145321 S/LL
+
+28/10/2026, 4:59:14 pm
+
+thereof in Form GST STL - 6.04A.
+
+Note: FORM GST STL - 6.04 is not part of the settlement process but the report is transmitted to the
+Department of Revenue.
+
+10. Consolidated Settlement Report for each State and Union Territory and for Centre.— (1) A
+monthly Consolidated Settlement Report for each State and Union Territory, in FORM GST STL - 7.01 shall
+be maintained providing information about transfer of funds to be made from State Tax or Union Territory
+Tax account to Integrated Tax account and from Integrated Tax account to State Tax or Union Territory Tax
+account based on the consolidated summary of settlement details contained in FORMs GST STL - 1.01,
+3.01, 4.01 and 5.01.
+
+(2) A monthly Consolidated Settlement Report for the Centre, in FORM GST STL - 7.02 shall be
+maintained providing information about transfer of funds to be made from Central Tax account to Integrated
+Tax account and from Integrated Tax account to Central Tax account based on the consolidated summary
+of settlement details contained in FORMs GST STL - 1.01, 2.01, 3.01, 4.01 and 5.01.
+
+11. Other provisions.— (1) The Principal Chief Controller of Accounts shall, on the receipt of above
+reports, calculate the net payment to be made from the Integrated Goods and Services Tax account to
+each State or vice versa and shall send to the Department of Revenue a State-wise summary of the same
+within three working days of receipt of the data from Goods and Services Tax Network and thereafter,
+based on receipt of this data, a provisional sanction order for the month shall be issued by the Department
+of Revenue as per the procedure specified in sub-rule (2).
+
+(2) The procedure for resolution of any discrepancy in the data provided by Goods and Services Tax
+Network shall be as follows, namely:—
+
+(a) on the basis of the above reports provided by Goods and Services Tax Network for every month,
+the Central and respective State Accounting Authorities, the Board and the State Tax nodal
+authorities shall reconcile the details of the payments received, Input Tax Credit cross-utilisation,
+reversal and declarations thereof, and apportionment details received from Goods and Services Tax
+Network, and shall revert to Goods and Services Tax Network and Principal Chief Controller of
+Accounts in case of any discrepancy by the 20th of the subsequent month;
+
+(b) if any discrepancy is pointed out by the Central or State Accounting Authority or Taxation
+Authority within this period, the Goods and Services Tax Network shall look into it and prepare a
+Revised Calculation, if required and send it again to both the Central as well as State Accounting,
+Taxation Authorities and Principal Chief Controller of Accounts by 25th of the said subsequent
+month;
+
+(c) based on the revised calculation received from Goods and Services Tax Network and after
+having reconciled the discrepancy referred to in clauses (a) and (b), in case any changes have been
+made with respect to any State, the Principal Chief Controller of Accounts shall calculate the net
+payment to be made from Integrated Goods and Services Tax account to each State or vice versa
+and shall send to Department of Revenue a final State-wise summary of the same within three days
+of receipt of the revised data from Goods and Services Tax Network and based on receipt of this
+data a final sanction order for the month shall be issued by the Department of Revenue as per the
+following procedure namely:—
+
+(i) the Principal Chief Controller of Account shall send to Department of Revenue, Ministry of
+Finance the details of the State-wise fund settlement with States;
+
+(ii) a designated officer in the Department of Revenue shall issue the sanction order of funds
+to be transferred from Integrated Goods and Services Tax account to each State or vice versa
+after obtaining necessary approvals of the competent authority;
+
+https://www.taxtmi.com/notifications?id= 145321 O/11
+
+28/10/2026, 4:59:14 pm
+
+(iii) the provisional sanction order for each month for each State shall be issued based on
+details issued by Principal Chief Controller of Accounts as per sub-rule (1);
+
+(iv) the final sanction order for each month for each State, in case needed, shall be issued
+based on details issued by Principal Chief Controller of Accounts as per clause (b);
+
+(v) the sanction orders shall be issued within three days of receipt of details of the State-wise
+fund settlement issued by Principal Chief Controller of Accounts;
+
+(vi) the electronic Sanction (digitally signed) addressed to Central Accounting Authority
+containing State-wise details shall then be sent to the Office of Principal Chief Controller of
+Accounts, Central Board of Indirect Taxes and Customs;
+
+(vii) the sanction letter shall also contain the details of settlement and it shall be available in
+records of State Government for future reconciliation and audit purposes;
+
+(viii) the State Governments shall be informed about the fund being transferred by Centre
+through the sanction;
+
+(ix) a copy of sanction shall also be endorsed to concerned State Accountant General;
+
+(x) the Central Accounting Authority shall generate an Inter Government Advice on the basis of
+sanction received from Department of Revenue and send it to the Reserve Bank of India
+[Central Accounts Section, Nagpur] electronically within three days of issue of sanction order;
+
+(xi) the Reserve Bank of India shall make the necessary fund settlement between the
+Consolidated Fund of India and the Consolidated Fund of States of the respective State, on
+the basis of electronic Inter Government Advice; generate the ‘Clearance Memo’ and transmit
+the same to Central Accounting Authority and State Accounting Authorities and Accountant
+General;
+
+(xii) the Central Accounting Authority shall make appropriate accounting entries at the time of
+issuance of inter Government Advice to Reserve Bank of India;
+
+(xiii) the respective State Accounting Authority and Accountant General shall make appropriate
+accounting entries at the time of receipt of clearance Memo from Reserve Bank of India.
+
+(d) The procedure for resolution of any discrepancy in respect of lists generated in accordance with
+the Standard operating Procedure, shall be as follows, namely:—
+
+(i) on receipt of the reports generated in accordance with the Standard Operating Procedure
+provided by Goods and Services Tax Network for every month, the State Tax nodal authorities
+shall reconcile the details of the payments received, Input Tax Credit cross-utilisation,
+reversals and declarations thereof and apportionment details as received from Goods and
+Services Tax Network, and where any discrepancy is noticed in respect of the said reports, the
+concerned nodal authority shall communicate the same to the Goods and Services Tax
+Network their findings with respect to the said discrepancy, attaching thereto a detailed
+explanation in support of their findings, along with the necessary evidence and documents, if
+any, connected to the said matter, as far as possible, within a period of three months from the
+end of the month in which the reports are received;
+
+(ii) the communication, findings, explanation and the evidence and documents referred to in
+sub-clause (i) above shall be examined in detail by Goods and Services Tax Network, as far
+as possible, within a period of three months from the end of the month in which the said
+communication is received, and where the explanation is borne out from the records and other
+evidence, if any, in connection with the matter under examination, any amount found eligible
+
+https://www.taxtmi.com/notifications?id= 145321 10/11
+
+28/10/2026, 4:59:14 pm
+
+for settlement shall be included in the reports of the period immediately succeeding the period
+in which the examination was concluded:
+
+(iii) Provided that where only a part of the amount excluded from the reports is borne out from
+the records and other evidence, if any, in connection with the matter under examination, only
+so much of the amount as is so borne out shall be included in the report of the succeeding
+period, as aforesaid.
+
+[F. No. S-31011/96/2025-ST-I-DoR]
+
+MUTHURAMAN C., Under Secy.
+
+https://www.taxtmi.com/notifications?id= 145321 1/1

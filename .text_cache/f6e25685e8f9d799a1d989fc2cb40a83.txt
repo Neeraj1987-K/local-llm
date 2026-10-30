@@ -1,0 +1,328 @@
+28/10/2026, 5:25:41 pm
+
+TaxTMI
+
+https://www.taxtmi.com
+
+Quarterly Return Monthly Payment Scheme
+
+Circular No. 143/13/2020- GST
+
+CBEC-20/01/08/2020 -GST
+
+Government of India
+
+Ministry of Finance
+
+Department of Revenue
+
+Central Board of Indirect Taxes and Customs
+
+To
+
+GST Policy Wing
+
+New Delhi, dated the 10th November, 2020
+
+The Principal Chief Commissioners / Chief Commissioners / Principal Commissioners /Commissioners of
+Central Tax (All) / The Principal Director Generals / Director Generals (All)
+
+Madam/Sir,
+
+Subject: Quarterly Return Monthly Payment Scheme - Reg.
+
+As a trade facilitation measure and in order to further ease the process of doing business, the GST Council in its
+42nd meeting held on 05.10.2020, had recommended that registered person having aggregate turnover up to
+five (5) crore rupees may be allowed to furnish return on quarterly basis along with monthly payment of tax, with
+effect from 01.01.2021. Government has issued following notifications to implement the Scheme of quarterly
+return filing along with monthly payment of taxes (hereinafter referred to as “QRMP Scheme/ Scheme”):
+
+Notification
+
+Notification No. 81/2020 -
+Central Tax, dated
+10.11.2020.
+
+Notification No. 82/2020 -
+Central Tax, dated
+10.11.2020.
+
+Notification No. 84/2020 -
+Central Tax, dated
+10.11.2020.
+
+Notification No. 85/2020 -
+Central Tax dated 10.11.2020.
+
+https://www.taxtmi.com/circulars?id=64531
+
+Notifies amendment carried out in sub-section (1), (2) and
+(7) of section 39 of the CGST Act vide Finance (No.2) Act,
+2019.
+
+Makes the Thirteenth amendment (2020) to the
+CGST Rules, 2017.
+
+Notifies class of persons under proviso to section 39(1) of
+the CGST Act.
+
+Notifies special procedure for making payment of tax
+liability in the first two months of a quarter
+
+1/6
+
+28/10/2026, 5:25:41 pm
+
+2. Various issues related to notifications issued to implement the QRMP Scheme have been examined. In order
+to explain the Scheme in simple terms and in order to ensure uniformity in implementation across field
+formations, the Board, in exercise of its powers conferred under section 168 (1) of the Central Goods and
+Services Act, 2017 (hereinafter referred to as the CGST Act), hereby clarifies various issues in succeeding
+paragraphs.
+
+3. Eligibility for the Scheme
+
+In terms of notification No. 84/2020- Central Tax, dated 10.11.2020, a registered person who is required to
+furnish a return in FORM GSTR-3B, and who has an aggregate turnover of up to 5 crore rupees in the
+preceding financial year, is eligible for the QRMP Scheme. It is clarified that the aggregate annual turnover for
+the preceding financial year shall be calculated in the common portal taking into account the details furnished in
+the returns by the taxpayer for the tax periods in the preceding financial year. This new Scheme will be effective
+from 01.01.2021. Further, in case the aggregate turnover exceeds 5 crore rupees during any quarter in the
+current financial year, the registered person shall not be eligible for the Scheme from the next quarter.
+
+4, Exercising option for QRMP Scheme
+
+4.1 Facility to avail the Scheme on the common portal would be available throughout the year. In terms of rule
+61A of the Central Goods and Services Tax Rules, 2017 (hereinafter referred as CGST Rules), a registered
+person can opt in for any quarter from first day of second month of preceding quarter to the last day of the first
+month of the quarter. In order to exercise this option, the registered person must have furnished the last return,
+as due on the date of exercising such option.
+
+For example: A registered person intending to avail of the Scheme for the quarter ‘July to September’ can
+exercise his option during 1st of May to 31st of July.
+
+If he is exercising his option on 27th July for the quarter (July to September), in such case, he must have
+furnished the return for the month of June which was due on 22/24th July.
+
+4.2 Registered persons are not required to exercise the option every quarter. Where such option has been
+exercised once, they shall continue to furnish the return as per the selected option for future tax periods, unless
+they revise the said option.
+
+4.3 For the first quarter of the Scheme i.e. for the quarter January, 2021 to March, 2021, in order to facilitate the
+taxpayers, it has been decided that all the registered persons, whose aggregate turnover for the FY 2019-20 is
+up to 5 crore rupees and who have furnished the return in FORM GSTR-3B for the month of October, 2020 by
+30th November, 2020, shall be migrated on the common portal as below. Therefore, taxpayers are advised to
+furnish the return of October, 2020 in time so as to be eligible for default migration. The taxpayers who have not
+filed their return for October, 2020 on or before 30th November, 2020 will not be migrated to the Scheme. They
+will be able to opt for the Scheme once the FORM GSTR-3B as due on the date of exercising option has been
+filed.
+
+Class of registered person Default
+Option
+
+Registered persons having aggregate turnover of up to 1.5 crore rupees who | Quarterly
+have furnished FORM GSTR-1 on quarterly basis in the current financial year return
+
+Registered persons having aggregate turnover of up to 1.5 crore rupees who | Monthly
+have furnished FORM GSTR-1 on monthly basis in the current financial year Return
+
+Registered persons having aggregate turnover more than 1.5 crore rupees and | Quarterly
+up to 5 crore rupees in the preceding financial year return
+
+https://www.taxtmi.com/circulars?id=64531 2/6
+
+28/10/2026, 5:25:41 pm
+
+Above default option has been provided for the convenience of registered persons based on their anticipated
+behaviour. However, such registered persons are free to change the option as above, if they so desire, from 5th
+of December, 2020 to 31st of January, 2021. It is re-iterated that any taxpayer whose aggregate turnover has
+exceeded 5 crore rupees in the financial year 2020-21, shall opt out of the Scheme.
+
+4.4 Similarly, the facility for opting out of the Scheme for a quarter will be available from first day of second
+month of preceding quarter to the last day of the first month of the quarter.
+
+4.5 All persons who have obtained registration during any quarter or the registered persons opting out from
+paying tax under Section 10 of the CGST Act during any quarter shall be able to opt for the Scheme for the
+quarter for which the opting facility is available on the date of exercising option as in para 4.1.
+
+4.6 It is also clarified that such registered person, whose aggregate turnover crosses 5 crore rupees during a
+quarter in current financial year, shall opt for furnishing of return on a monthly basis, electronically, on the
+common portal, from the succeeding quarter. In other words, in case the aggregate turnover exceeds 5 crore
+rupees during any quarter in the current financial year, the registered person shall not be eligible for the Scheme
+from the next quarter.
+
+4.7 It is further clarified that the option to avail the QRMP Scheme is GSTIN wise and therefore, distinct persons
+as defined in Section 25 of the CGST Act (different GSTINs on same PAN) have the option to avail the QRMP.
+Scheme for one or more GSTINs. In other words, some GSTINs for that PAN can opt for the QRMP Scheme
+and remaining GSTINs may not opt for the Scheme.
+
+5. Furnishing of details of outward supplies under section 37 of the CGST Act.
+
+5.1 The registered persons opting for the Scheme would be required to furnish the details of outward supply in
+FORM GSTR-1 quarterly as per the rule 59 of the CGST Rule.
+
+5.2 For each of the first and second months of a quarter, such a registered person will have the facility (Invoice
+Furnishing Facility- IFF) to furnish the details of such outward supplies to a registered person, as he may
+consider necessary, between the 1st day of the succeeding month till the 13th day of the succeeding month.
+The said details of outward supplies shall, however, not exceed the value of fifty lakh rupees in each month. It
+may be noted that after 13th of the month, this facility for furnishing IFF for previous month would not be
+available. As a facilitation measure, continuous upload of invoices would also be provided for the registered
+persons wherein they can save the invoices in IFF from the 1st day of the month till 13th day of the succeeding
+month. The facility of furnishing details of invoices in IFF has been provided so as to allow details of such
+supplies to be duly reflected in the FORM GSTR-2A and FORM GSTR-2B of the concerned recipient.
+
+For example, a registered person who has availed the Scheme wants to declare two invoices out of the total ten
+invoices issued in the first month of quarter since the recipient of supplies covered by those two invoices desires
+to avail ITC in that month itself. Details of these two invoices may be furnished using IFF. The details of the
+remaining 8 invoices shall be furnished in FORM GSTR-1 of the said quarter. The two invoices furnished in IFF
+shall be reflected in FORM GSTR-2B of the concerned recipient of the first month of the quarter and remaining
+eight invoices furnished in FORM GSTR-1 shall be reflected in FORM GSTR-2B of the concerned recipient ot
+the last month of the quarter. The said facility would however be available, say for the month of July, from 1st
+August till 13th August. Similarly, for the month of August, the said facility will be available from 1st September
+till 13th September.
+
+It is re-iterated that said facility is not mandatory and is only an optional facility made available to the
+registered persons under the QRMP Scheme.
+
+5.3 The details of invoices furnished using the said facility in the first two months are not required to be
+furnished again in FORM GSTR-1. Accordingly, the details of outward supplies made by such a registered
+person during a quarter shall consist of details of invoices furnished using IFF for each of the first two months
+and the details of invoices furnished in FORM GSTR-1 for the quarter. At his option, a registered person may
+choose to furnish the details of outward supplies made during a quarter in FORM GSTR-1 only, without using
+the IFF.
+
+6. Monthly Payment of Tax
+
+https://www.taxtmi.com/circulars?id=64531 3/6
+
+28/10/2026, 5:25:41 pm
+
+6.1 The registered person under the QRMP Scheme would be required to pay the tax due in each of the first two
+months of the quarter by depositing the due amount in FORM GST PMT-06, by the twenty fifth day of the month
+succeeding such month. While generating the challan, taxpayers should select “Monthly payment for quarterly
+taxpayer” as reason for generating the challan. The said person can use any of the following two options
+provided below for monthly payment of tax during the first two months -
+
+(a) Fixed Sum Method: A facility is being made available on the portal for generating a pre-filled challan
+in FORM GST PMT-06 for an amount equal to thirty five per cent. of the tax paid in cash in the preceding
+quarter where the return was furnished quarterly; or equal to the tax paid in cash in the last month of the
+immediately preceding quarter where the return was furnished monthly.
+
+For easy understanding, the same is explained by way of illustration in table below:
+
+i. In case the last return filed was on quarterly basis for Quarter Ending March, 2021:
+
+Tax paid in Cash in Quarter Tax required to be paid in each of the months
+
+(January - March, 2021) - April and May, 2021
+
+ii. In case the last return filed was monthly for tax period March, 2021:
+
+Tax paid in Cash in March, 2021 Tax required to be paid in each of the months -
+
+April and May, 2021
+
+Monthly tax payment through this method would not be available to those registered persons who have
+not furnished the return for a complete tax period preceding such month. A complete tax period means a
+tax period in which the person is registered from the first day of the tax period till the last day of the tax
+period.
+
+(b) Self-Assessment Method: The said persons, in any case, can pay the tax due by considering the
+tax liability on inward and outward supplies and the input tax credit available, in FORM GST PMT-06. In
+order to facilitate ascertainment of the ITC available for the month, an auto-drafted input tax credit
+statement has been made available in FORM GSTR-2B, for every month.
+
+https://www.taxtmi.com/circulars?id=64531 4/6
+
+28/10/2026, 5:25:41 pm
+
+6.2 The said registered person is free to avail either of the two tax payment method above in any of the two
+months of the quarter.
+
+6.3 It is clarified that in case the balance in the electronic cash ledger and/or electronic credit ledger is adequate
+for the tax due for the first month of the quarter or where there is nil tax liability, the registered person may not
+deposit any amount for the said month. Similarly, for the second month of the quarter, in case the balance in the
+electronic cash ledger and/or electronic credit ledger is adequate for the cumulative tax due for the first and the
+second month of the quarter or where there is nil tax liability, the registered person may not deposit any amount.
+
+6.4 Any claim of refund in respect of the amount deposited for the first two months of a quarter for payment of
+tax shall be permitted only after the return in FORM GSTR-3B for the said quarter has been furnished. Further,
+this deposit cannot be used by the taxpayer for any other purpose till the filing of return for the quarter.
+
+7. Quarterly filing of FORM GSTR-3B
+
+Such registered persons would be required to furnish FORM GSTR-3B, for each quarter, on or before 22nd or
+24th day of the month succeeding such quarter. In FORM GSTR-3B, they shall declare the supplies made
+during the quarter, ITC availed during the quarter and all other details required to be furnished therein. The
+amount deposited by the registered person in the first two months shall be debited solely for the purposes of
+offsetting the liability furnished in that quarter’s FORM GSTR-3B. However, any amount left after filing of that
+quarter's FORM GSTR-3B may either be claimed as refund or may be used for any other purpose in
+subsequent quarters. In case of cancellation of registration of such person during any of the first two months of
+the quarter, he is still required to furnish return in FORM GSTR-3B for the relevant tax period.
+
+8. Applicability of Interest
+8.1. For registered person making payment of tax by opting Fixed Sum Method
+
+i. No interest would be payable in case the tax due is paid in the first two months of the quarter by way of
+depositing auto-calculated fixed sum amount as detailed in para 6.1(a) above by the due date. In other words, if
+while furnishing return in FORM GSTR-3B, it is found that in any or both of the first two months of the quarter,
+the tax liability net of available credit on the supplies made /received was higher than the amount paid in
+challan, then, no interest would be charged provided they deposit system calculated amount for each of the first
+two months and discharge their entire liability for the quarter in the FORM GSTR-3B of the quarter by the due
+date.
+
+ii. In case such payment of tax by depositing the system calculated amount in FORM GST PMT-06 is not done
+by due date, interest would be payable at the applicable rate, from the due date of furnishing FORM GST PMT-
+06 till the date of making such payment.
+
+iii, Further, in case FORM GSTR-3B for the quarter is furnished beyond the due date, interest would be payable
+as per the provisions of Section 50 of the CGST Act for the tax liability net of ITC.
+
+Illustration 1 —
+
+A registered person, who has opted for the Scheme, had paid a total amount of € 100/- in cash as tax liability in
+the previous quarter of October to December. He opts to pay tax under fixed sum method. He therefore pays =
+35/- each on 25th February and 25th March for discharging tax liability for the first two months of quarter viz.
+January and February. In his return for the quarter, it is found that liability, based on the outward and inward
+supplies, for January was = 40/- and for February it was = 42/-. No interest would be payable for the lesser
+amount of tax (i.e. = 5 and & 7 respectively) discharged in these two months provided that he discharges his
+entire liability for the quarter in the FORM GSTR-3B of the quarter by the due date.
+
+Illustration 2 -
+
+A registered person, who has opted for the Scheme, had paid a total amount of € 100/- in cash as tax liability in
+the previous quarter of October to December. He opts to pay tax under fixed sum method. He therefore pays @
+35/- each on 25th February and 25th March for discharging tax liability for the first two months of quarter viz.
+January and February. In his return for the quarter, it is found that total liability for the quarter net of available
+
+https://www.taxtmi.com/circulars?id=64531 5/6
+
+28/10/2026, 5:25:41 pm
+
+credit was € 125 but he files the return on 30th April. Interest would be payable at applicable rate on = 55 [= 125
+— % 70 (deposit made in cash ledger in M1 and M2)] for the period between due date of quarterly GSTR 3B and
+30th April
+
+8.2 For registered person making payment of tax by opting Self-Assessment Method Interest amount
+would be payable as per the provision of Section 50 of the CGST Act for tax or any part thereof (net of ITC)
+which remains unpaid / paid beyond the due date for the first two months of the quarter.
+
+8.3 Interest payable, if any, shall be paid through FORM GSTR-3B.
+
+9. Applicability of Late Fee - Late fee is applicable for delay in furnishing of return / details of outward supply
+as per the provision of Section 47 of the CGST Act. As per the Scheme, the requirement to furnish the return
+under the proviso to sub-section (1) of Section 39 of the CGST Act is quarterly. Accordingly, late fee would be
+the applicable for delay in furnishing of the said quarterly return / details of outward supply. It is clarified that no
+late fee is applicable for delay in payment of tax in first two months of the quarter.
+
+10. It is requested that suitable trade notices may be issued to publicize the contents of this Circular. Hindi
+version will follow.
+
+11. Difficulty, if any, in the implementation of the above instructions may please be brought to the notice of the
+Board.
+
+(Yogendra Garg)
+Principal Commissioner
+
+y-garg@nic.in
+
+https://www.taxtmi.com/circulars?id=64531 6/6

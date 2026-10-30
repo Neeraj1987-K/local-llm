@@ -1,0 +1,206 @@
+28/10/2026, 4:46:45 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+Clarification regarding taxability of services provided by an office of an organisation in one State to
+the office of that organisation in another State, both being distinct persons.
+
+Circular No. 199/11/2023-GST
+F. No. CBIC-20001/5/2023-GST
+
+Government of India
+
+Ministry of Finance
+
+Department of Revenue
+Central Board of Indirect Taxes and Customs
+GST Policy Wing
+porary
+New Delhi, Dated the 17th July, 2023
+To,
+
+The Principal Chief Commissioners/ Chief Commissioners/ Principal Commissioners/Commissioners of
+Central Tax (All)
+
+The Principal Directors General/ Directors General (All)
+Madam/Sir,
+
+Subject: Clarification regarding taxability of services provided by an office of an organisation in
+one State to the office of that organisation in another State, both being distinct persons.
+
+Various representations have been received seeking clarification on the taxability of activities performed by
+an office of an organisation in one State to the office of that organisation in another State, which are
+regarded as distinct persons under section 25 of Central Goods and Services Tax Act, 2017 (hereinafter
+referred to as ‘the CGST Act’). The issues raised in the said representations have been examined and to
+ensure uniformity in the implementation of the law across the field formations, the Board, in exercise of its
+powers conferred under section 168(1) of the CGST Act hereby clarifies the issue in succeeding paras.
+
+2. Let us consider a business entity which has Head Office (HO) located in State-1 and a branch offices
+(BOs) located in other States. The HO procures some input services e.g. security service for the entire
+organisation from a security agency (third party). HO also provides some other services on their own to
+branch offices (internally generated services).
+
+3. The issues that may arise with regard to taxability of supply of services between distinct persons in
+terms of sub-section (4) of section 25 of the CGST Act are being clarified in the Table below: -
+
+S.No Issues Clarification
+
+https://www.taxtmi.com/circulars?id=66626 1/3
+
+28/10/2026, 4:46:45 pm
+
+Whether HO can avail the input tax credit
+(hereinafter referred to as ‘ITC’) in respect of
+common input services procured from a third
+party but attributable to both HO and BOs or
+exclusively to one or more BOs, issue tax
+invoices under section 31 to the said BOs for
+the said input services and the BOs can then
+avail the ITC for the same or whether is it
+mandatory for the HO to follow the Input
+Service Distributor (hereinafter referred to as
+‘ISD’) mechanism for distribution of ITC in
+respect of common input services procured by
+them from a third party but attributable to both
+HO and Bos or exclusively to one or more BOs?
+
+In respect of internally generated services,
+there may be cases where HO is providing
+certain services to the BOs for which full input
+tax credit is available to the concerned BOs.
+However, HO may not be issuing tax invoice to
+the concerned BOs with respect to such
+services, or the HO may not be including the
+cost of a particular component such as salary
+cost of employees involved in providing said
+services while issuing tax invoice to BOs for the
+
+https://www.taxtmi.com/circulars?id=66626
+
+It is clarified that in respect of common input
+services procured by the HO from a third party
+but attributable to both HO and BOs or
+exclusively to one or more BOs, HO has an
+option to distribute ITC in respect of such
+common input services by following ISD
+mechanism laid down in Section 20 of CGST
+Act read with rule 39 of the Central Goods and
+Services Tax Rules, 2017 (hereinafter referred
+to as ‘the CGST Rules’). However, as per the
+present provisions of the CGST Act and CGST
+Rules, it is not mandatory for the HO to
+distribute such input tax credit by ISD
+mechanism. HO can also issue tax invoices
+under section 31 of CGST Act to the concerned
+BOs in respect of common input services
+procured from a third party by HO _ but
+attributable to the said BOs and the BOs can
+then avail ITC on the same subject to the
+provisions of section 16 and 17 of CGST Act.
+
+In case, the HO distributes or wishes to
+distribute ITC to BOs in respect of such
+common input services through the ISD
+
+mechanism as per the provisions of section 20
+of CGST Act read with rule 39 of the CGST
+Rules, HO is required to get itself registered
+mandatorily as an ISD in accordance with
+Section 24 (viii) of the CGST Act.
+
+Further, such distribution of the ITC in respect a
+common input services procured from a third
+party can be made by the HO to a BO through
+ISD mechanism only if the said input services
+are attributable to the said BO or have actually
+been provided to the said BO. Similarly, the HO
+can issue tax invoices under section 31 of
+CGST Act to the concerned BOs, in respect of
+any input services, procured by HO from a third
+party for on or behalf of a BO, only if the said
+services have actually been provided to the
+concerned BOs.
+
+The value of supply of services made by a
+registered person to a distinct person needs to
+be determined as per rule 28 of CGST Rules,
+read with sub-section (4) of section 15 of CGST
+Act. As per clause (a) of rule 28, the value of
+supply of goods or services or both between
+distinct persons shall be the open market value
+of such supply. The second proviso to rule 28
+of CGST Rules provides that where the
+recipient is eligible for full input tax credit, the
+
+2/3
+
+28/10/2026, 4:46:45 pm
+
+services provided by HO to BOs. Whether the
+HO is mandatorily required to issue invoice to
+BOs under section 31 of CGST Act for such
+internally generated services, and/ or whether
+the cost of all components including salary cost
+of HO employees involved in providing the said
+services has to be included in the computation
+of value of services provided by HO to BOs
+when full input tax credit is available to the
+concerned BOs.
+
+In respect of internally generated services
+provided by the HO to BOs, in cases where full
+input tax credit is not available to the
+concerned BOs, whether the cost of salary of
+employees of the HO involved in providing said
+services to the BOs, is mandatorily required to
+be included while computing the taxable value
+of the said supply of services provided by HO to
+BOs.
+
+value declared in the invoice shall be deemed
+to be the open market value of the goods or
+services. Accordingly, in respect of supply of
+services by HO to BOs, the value of the said
+supply of services declared in the invoice by HO
+shall be deemed to be open market value of
+such services, if the recipient BO is eligible
+for full input tax credit.
+
+Accordingly, in cases where full input tax
+credit is available to a BO, the value declared
+on the invoice by HO to the said BO in respect
+of a supply of services shall be deemed to be
+the open market value of such services,
+irrespective of the fact whether cost of any
+particular component of such services, like
+employee cost etc., has been included or not in
+the value of the services in the invoice.
+
+Further, in such cases where full input tax
+credit is available to the recipient, if HO has
+not issued a tax invoice to the BO in respect of
+any particular services being rendered by HO to
+the said BO, the value of such services may be
+deemed to be declared as Nil by HO to BO, and
+may be deemed as open market value in terms
+of second proviso to rule 28 of CGST Rules.
+
+In respect of internally generated services
+provided by the HO to BOs, the cost of salary of
+employees of the HO, involved in providing the
+said services to the BOs, is not mandatorily
+required to be included while computing the
+taxable value of the supply of such services,
+even in cases where full input tax credit is
+not available to the concerned BO.
+
+4. It is requested that suitable trade notices may be issued to publicize the contents of this circular.
+
+5. Difficulty if any, in the implementation of this circular may be brought to the notice of the Board. Hindi
+version would follow.
+
+(Sanjay Mangal)
+
+Principal Commissioner (GST)
+
+https://www.taxtmi.com/circulars?id=66626 3/3

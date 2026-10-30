@@ -1,0 +1,69 @@
+28/10/2026, 4:54:08 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+Changes in IEC with the introduction of GST-regd.
+
+No.01/93/180/04/AM-18/PC-2(B)
+Government of India
+Ministry of Commerce & Industry
+Directorate General of Foreign Trade
+Udyog Bhawan, New Delhi
+Dated 12.06.2017
+Trade Notice No. 09
+To
+1. All IEC holders/applicants
+2. All EPCs / All Chambers of Trade and Industries
+3. FIEO/ASSOCHAMICII
+4. All RA's of DGFT
+5. All field formations of Customs
+Sub: Changes in IEC with the introduction of GST-regd.
+
+The Foreign Trade (Development & Regulation) Act, 1992 provides that no person shall make any import
+or export except under an Importer Exporter Code (IEC) number, granted by the Director General of
+Foreign Trade or the officer authorized by the Director General in this behalf. Further, Para 2.05 of the FTP,
+2015-20 lays down that IEC, a 10 digit number, is mandatory for undertaking any import export activities,
+while Para 2.08 of the HBP (2015-20) lays down the procedure to be followed for obtaining an IEC, which
+is PAN based. As on date PAN has one to one correlation with IEC.
+
+2. With the implementation of the GST w.e.f. (the notified date), GSTIN would be used for purposes of (i)
+credit flow of IGST on import of goods, and (ii) refund or rebate of IGST related to export of goods.
+Registration No. under GST, called GSTIN, is a 15-digit alpha numeric code with PAN prefixed by State
+Code and suffixed by 3 digit details of business verticals of the PAN holder. As GSTIN will be used for the
+purposes mentioned above, it thereby assumes importance as identifier at the transaction level. In view of
+this, it has been decided that importer/exporter would need to declare only GSTIN (wherever registered
+with GSTN) at the time of import and export of goods. The PAN level aggregation of data would
+automatically happen in the system.
+
+3. Since obtaining GSTIN is not compulsory for all importers / exporters below a threshold limit of
+turnover, all exporters / importers may not register with GSTIN [barring compulsory registration in certain
+cases as provided in section 24 of the Central Goods and Services Tax Act, 2017 (12 of 2017) or in cases
+where either credit is claimed of IGST], therefore, GSTIN cannot become universal, as IEC is for
+import/export business. Further, DGFT recognizes only the corporate entity (single identity) and not
+individual transactions.
+
+https://www.taxtmi.com/circulars?id=55882 1/2
+
+28/10/2026, 4:54:08 pm
+
+4. As a measure of ease of doing business, it has been decided to keep the identity of an entity uniform
+across the Ministries/Departments. Henceforth (with the implementation of GST), PAN of an entity will be
+used for the purpose of IEC, i.e., IEC will be issued by DGFT with the difference that it will be alpha
+numeric (instead of 10 digit numeric at present) and will be same as PAN of an entity. For new applicants,
+w.e.f. the notified date, application for IEC will be made to DGFT and applicant's PAN will be authorized as
+IEC. For residuary categories under Para 2.07 of HBP 2015-20, the IEC will be either UIN issued by GSTN
+and authorized by DGFT or any common number to be notified by DGFT.
+
+5. Further, for the existing IEC holders, necessary changes in the system are being carried out by DGFT
+so that their PAN becomes their IEC. DGFT system will undertake this migration and the existing IEC
+holders are not required to undertake any additional exercise in this regard. IEC holders are required to
+quote their PAN (in place of existing IEC) in all their future documentation, w.e.f. the notified date. The
+legacy data which is based on IEC would be converted into PAN based in due course of time.
+
+(S.P. Roy)
+Joint Director General of Foreign Trade
+Telefax: 23062240
+
+E-mail: shyama.roy@nic.in
+
+https://www.taxtmi.com/circulars?id=55882 2/2
