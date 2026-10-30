@@ -1,0 +1,896 @@
+28/10/2026, 6:40:50 pm
+
+TaxTMI https://www.taxtmi.com
+
+Central Goods and Services Tax (Fifth Amendment) Rules, 2022 - 26/2022 - Central GST (CGST)
+
+MINISTRY OF FINANCE
+(Department Of Revenue)
+(CENTRAL BOARD OF INDIRECT TAXES AND CUSTOMS)
+NOTIFICATION No. 26/2022 — Central Tax
+New Delhi, the 26th December, 2022
+
+G.S.R. 902(E).-In exercise of the powers conferred by section 164 of the Central Goods and Services Tax Act, 2017 (12 of
+2017), the Central Government, on the recommendations of the Council, hereby makes the following rules further to amend the
+Central Goods and Services Tax Rules, 2017, namely: -
+
+1. Short title and commencement.-
+(1) These rules may be called the Central Goods and Services Tax (Fifth Amendment) Rules, 2022.
+
+(2) Save as otherwise provided in these rules, they shall come into force on the date of their publication in the Official
+Gazette.
+
+2. In the Central Goods and Services Tax Rules, 2017 (hereinafter referred to as the said rules), in rule 8,-
+(i) in sub-rule (1), the words and letters, “mobile number, e-mail address,” shall be omitted;
+
+(ii) in sub-rule (2), in clause (a), after the words “Direct Taxes”, the words “and shall also be verified through separate
+one-time passwords sent to the mobile number and e-mail address linked to the Permanent Account Number” shall be
+inserted;
+
+(iii) in sub-rule (2), clauses (b) and (c) shall be omitted;
+(iv) for sub-rule (4A), the following sub-rule shall be substituted, namely:-
+
+“(4A) Every application made under sub-rule (4) by a person, other than a person notified under sub-section (6D) of
+section 25, who has opted for authentication of Aadhaar number and is identified on the common portal, based on
+data analysis and risk parameters, shall be followed by biometric-based Aadhaar authentication and taking
+photograph of the applicant where the applicant is an individual or of such individuals in relation to the applicant as
+notified under sub-section (6C) of section 25 where the applicant is not an individual, along with the verification of
+the original copy of the documents uploaded with the application in FORM GST REG-01 at one of the Facilitation
+Centres notified by the Commissioner for the purpose of this sub-rule and the application shall be deemed to be
+complete only after completion of the process laid down under this sub-rule.”;
+
+(v) after sub-rule (4A), the following sub-rule shall be inserted, namely:-
+
+“(4B) The Central Government may, on the recommendations of the Council, by notification specify the States or
+Union territories wherein the provisions of sub-rule (4A) shall not apply.”;
+
+(vi) in sub-rule (5), after the words, brackets and figure “sub-rule (4)”, the words, brackets, figure and letter “or sub-rule
+(4A)’, shall be inserted.
+
+3. In the said rules, in rule 9, -
+(i) in sub-rule (1), in the proviso, after clause (a), the following clause shall be inserted, namely: -
+
+“(aa) a person, who has undergone authentication of Aadhaar number as specified in sub-rule (4A) of rule 8, is
+identified on the common portal, based on data analysis and risk parameters, for carrying out physical verification
+of places of business; or”;
+
+(ii) in sub-rule (2), in the proviso, after clause (a), the following clause shall be inserted, namely: -
+“(aa) a person, who has undergone authentication of Aadhaar number as specified in sub-rule (4A) of rule 8, is
+
+identified on the common portal, based on data analysis and risk parameters, for carrying out physical verification
+
+https://www.taxtmi.com/notifications?id=139585 W/15
+
+28/10/2026, 6:40:50 pm
+
+of places of business; or”.
+
+4. In the said rules, in rule 12, in sub-rule (3), after the word, “Where,”, the words, brackets and figure, “on a request made in
+writing by a person to whom a registration has been granted under sub-rule (2) or”, shall be inserted.
+
+5. In the said rules, in rule 37, in sub-rule (1), with effect from 1st day of October, 2022, -
+(i) after the words, “value of such supply”, the words, “, whether wholly or partly,” shall be inserted;
+(ii) after the words, “shall pay”, the words, “or reverse” shall be inserted;
+
+(iii) after the words, “in respect of such supply”, the letters and words, “, proportionate to the amount not paid to the
+supplier,” shall be inserted.
+
+6. In the said rules, after rule 37, the following rule shall be inserted, namely: -
+
+“37A. Reversal of input tax credit in the case of non-payment of tax by the supplier and re-availment thereof.-
+Where input tax credit has been availed by a registered person in the return in FORM GSTR-3B for a tax period in
+respect of such invoice or debit note, the details of which have been furnished by the supplier in the statement of
+outward supplies in FORM GSTR-1 or using the invoice furnishing facility, but the return in FORM GSTR-3B for the tax
+period corresponding to the said statement of outward supplies has not been furnished by such supplier till the 30th day
+of September following the end of financial year in which the input tax credit in respect of such invoice or debit note has
+been availed, the said amount of input tax credit shall be reversed by the said registered person, while furnishing a
+return in FORM GSTR-3B on or before the 30th day of November following the end of such financial year:
+
+Provided that where the said amount of input tax credit is not reversed by the registered person in a return in FORM
+GSTR-3B on or before the 30th day of November following the end of such financial year during which such input tax
+credit has been availed, such amount shall be payable by the said person along with interest thereon under section 50.
+
+Provided further that where the said supplier subsequently furnishes the return in FORM GSTR-3B for the said tax
+period, the said registered person may re-avail the amount of such credit in the return in FORM GSTR-3B for a tax
+period thereafter.”.
+
+7. In the said rules, in rule 46, in clause (f), the following proviso shall be inserted, namely:-
+
+“Provided that where any taxable service is supplied by or through an electronic commerce operator or by a supplier of
+online information and database access or retrieval services to a recipient who is un-registered, irrespective of the value
+of such supply, a tax invoice issued by the registered person shall contain the name and address of the recipient along
+with its PIN code and the name of the State and the said address shall be deemed to be the address on record of the
+recipient.”.
+
+8. In the said rules, in rule 46A, the following proviso shall be inserted, namely, -
+
+“Provided that the said single “invoice-cum-bill of supply” shall contain the particulars as specified under rule 46 or rule
+54, as the case may be, and rule 49.”;
+
+9. In the said rules, in rule 59, in sub-rule (6), after clause (c), the following clause shall be inserted, namely:-
+
+“(d) a registered person, to whom an intimation has been issued on the common portal under the provisions of sub-rule
+(1) of rule 88C in respect of a tax period, shall not be allowed to furnish the details of outward supplies of goods or
+services or both under section 37 in FORM GSTR-1 or using the invoice furnishing facility for a subsequent tax period,
+unless he has either deposited the amount specified in the said intimation or has furnished a reply explaining the
+reasons for any amount remaining unpaid, as required under the provisions of sub-rule (2) of rule 88C.”.
+
+10. In the said rules, in rule 87, in sub-rule (8), the following proviso shall be inserted, namely:-
+
+“Provided that where the bank fails to communicate details of Challan Identification Number to the Common Portal, the
+Electronic Cash Ledger may be updated on the basis of e-Scroll of the Reserve Bank of India in cases where the details
+of the said e-Scroll are in conformity with the details in challan generated in FORM GST PMT-06 on the Common
+Portal.”.
+
+11. In the said rules, after rule 88B, the following rule shall be inserted, namely:-
+
+“88C. Manner of dealing with difference in liability reported in statement of outward supplies and that reported
+in return.- (1) Where the tax payable by a registered person, in accordance with the statement of outward supplies
+furnished by him in FORM GSTR-1 or using the Invoice Furnishing Facility in respect of a tax period, exceeds the
+amount of tax payable by such person in accordance with the return for that period furnished by him in FORM GSTR-3B,
+by such amount and such percentage, as may be recommended by the Council, the said registered person shall be
+
+https://www.taxtmi.com/notifications?id=139585 2/15
+
+28/10/2026, 6:40:50 pm
+
+412. In
+
+13. In
+
+14. In
+
+https:/
+
+intimated of such difference in Part A of FORM GST DRC-01B, electronically on the common portal, and a copy of such
+intimation shall also be sent to his e-mail address provided at the time of registration or as amended from time to time,
+highlighting the said difference and directing him to-
+
+(a) pay the differential tax liability, along with interest under section 50, through FORM GST DRC-03; or
+(b) explain the aforesaid difference in tax payable on the common portal,
+within a period of seven days.
+(2) The registered person referred to sub-rule (1) shall, upon receipt of the intimation referred to in that sub-rule, either,-
+
+(a) pay the amount of the differential tax liability, as specified in Part A of FORM GST DRC-01B, fully or partially,
+along with interest under section 50, through FORM GST DRC-03 and furnish the details thereof in Part B of FORM
+GST DRC-01B electronically on the common portal; or
+
+(b) furnish a reply electronically on the common portal, incorporating reasons in respect of that part of the
+differential tax liability that has remained unpaid, if any, in Part B of FORM GST DRC-01B,
+
+within the period specified in the said sub-rule.
+
+(3) Where any amount specified in the intimation referred to in sub-rule (1) remains unpaid within the period specified in
+that sub-rule and where no explanation or reason is furnished by the registered person in default or where the
+explanation or reason furnished by such person is not found to be acceptable by the proper officer, the said amount shall
+be recoverable in accordance with the provisions of section 79.”.
+
+the said rules, in rule 89, in sub-rule (2),-
+(i) after clause (k), the following clauses shall be inserted, namely:-
+
+“(ka) a statement containing the details of invoices viz. number, date, value, tax paid and details of payment, in
+respect of which refund is being claimed along with copy of such invoices, proof of making such payment to the
+supplier, the copy of agreement or registered agreement or contract, as applicable, entered with the supplier for
+supply of service, the letter issued by the supplier for cancellation or termination of agreement or contract for supply
+of service, details of payment received from the supplier against cancellation or termination of such agreement
+along with proof thereof, in a case where the refund is claimed by an unregistered person where the agreement or
+contract for supply of service has been cancelled or terminated;
+
+(kb) a certificate issued by the supplier to the effect that he has paid tax in respect of the invoices on which refund
+is being claimed by the applicant; that he has not adjusted the tax amount involved in these invoices against his tax
+liability by issuing credit note; and also, that he has not claimed and will not claim refund of the amount of tax
+involved in respect of these invoices, in a case where the refund is claimed by an unregistered person where the
+agreement or contract for supply of service has been cancelled or terminated;”;
+
+(ii) in clause (m), after the proviso, the following proviso shall be inserted, namely:-
+
+“Provided further that a certificate is not required to be furnished in cases where refund is claimed by an
+unregistered person who has borne the incidence of tax.”.
+
+the said rules, in rule 108, for sub-rule (3), the following sub-rule shall be substituted, namely: -
+
+“(3) Where the decision or order appealed against is uploaded on the common portal, a final acknowledgment, indicating
+appeal number, shall be issued in FORM GST APL-02 by the Appellate Authority or an officer authorised by him in this
+behalf and the date of issue of the provisional acknowledgment shall be considered as the date of filing of appeal:
+
+Provided that where the decision or order appealed against is not uploaded on the common portal, the appellant shall
+submit a self-certified copy of the said decision or order within a period of seven days from the date of filing of FORM
+GST APL-01 and a final acknowledgment, indicating appeal number, shall be issued in FORM GST APL-02 by the
+Appellate Authority or an officer authorised by him in this behalf, and the date of issue of the provisional acknowledgment
+shall be considered as the date of filing of appeal:
+
+Provided further that where the said self-certified copy of the decision or order is not submitted within a period of seven
+days from the date of filing of FORM GST APL-01, the date of submission of such copy shall be considered as the date of
+filing of appeal.”.
+
+the said rules, for rule 109, the following rule shall be substituted, namely: -
+
+“4109. Application to the Appellate Authority.- (1) An application to the Appellate Authority under sub-section (2) of
+section 107 shall be filed in FORM GST APL-03, along with the relevant documents, either electronically or otherwise as
+
+‘www.taxtmi.com/notifications?id=139585 3/15
+
+28/10/2026, 6:40:50 pm
+
+may be notified by the Commissioner and a provisional acknowledgment shall be issued to the appellant immediately.
+
+(2) Where the decision or order appealed against is uploaded on the common portal, a final acknowledgment, indicating
+appeal number, shall be issued in FORM GST APL-02 by the Appellate Authority or an officer authorised by him in this
+behalf and the date of issue of the provisional acknowledgment shall be considered as the date of filing of appeal under
+sub-rule (1):
+
+Provided that where the decision or order appealed against is not uploaded on the common portal, the appellant shall
+submit a self-certified copy of the said decision or order within a period of seven days from the date of filing of FORM
+GST APL-03 and a final acknowledgment, indicating appeal number, shall be issued in FORM GST APL-02 by the
+Appellate Authority or an officer authorised by him in this behalf, and the date of issue of the provisional acknowledgment
+shall be considered as the date of filing of appeal:
+
+Provided further that where the said self-certified copy of the decision or order is not submitted within a period of seven
+days from the date of filing of FORM GST APL-03, the date of submission of such copy shall be considered as the date of
+filing of appeal.”.
+
+15. In the said rules, after rule 109B, the following rule shall be inserted, namely:-
+
+“409C. Withdrawal of Appeal. - The appellant may, at any time before issuance of show cause notice under sub-section
+(11) of section 107 or before issuance of the order under the said sub-section, whichever is earlier, in respect of any
+appeal filed in FORM GST APL-01 or FORM GST APL-03, file an application for withdrawal of the said appeal by filing an
+application in FORM GST APL-01/03W:
+
+Provided that where the final acknowledgment in FORM GST APL-02 has been issued, the withdrawal of the said appeal
+would be subject to the approval of the appellate authority and such application for withdrawal of the appeal shall be
+decided by the appellate authority within seven days of filing of such application:
+
+Provided further that any fresh appeal filed by the appellant pursuant to such withdrawal shall be filed within the time limit
+specified in sub-section (1) or sub-section (2) of section 107, as the case may be.”;
+
+16. In the said rules, in rule 138, in sub-rule (14), in the Annexure, in column (2) of the table, against S.No. 5, after the brackets,
+word and figures “(Chapter 71)”, the words, brackets and figures “excepting Imitation Jewellery (7117)” shall be inserted.
+
+17. In the said rules, in rule 161, for the word, “order”, the words, “intimation or notice” shall be substituted.
+18. In the said rules, in FORM GST REG-01, -
+
+(i) in PART A, in the note, for the words, “Authorised signatory filing the application shall provide his mobile number and
+email address”, the words, “E-mail Id and Mobile Number shall be auto-populated from Income Tax database as linked
+with the Permanent Account Number of the applicant” shall be substituted;
+
+(ii) in the instructions for submission of Application for Registration, paragraph 2 shall be omitted.
+19. In the said rules, in FORM GST REG-17, after the words “on merits”, the following shall be inserted, namely: -
+
+__ Kindly refer to the supportive document(s) attached for case specific details.”.
+
+20. In the said rules, for FORM GST REG-19, the following form shall be substituted, namely: -
+
+“FORM GST REG-19
+[See rule 22 (3)]
+Reference Number
+Date
+To
+Name
+Address
+GSTIN / UIN
+Application Reference Number (ARN)
+
+Date
+
+https://www.taxtmi.com/notifications?id=139585 A/S
+
+28/10/2026, 6:40:50 pm
+
+Order for Cancellation of Registration
+This has reference to show cause notice issued dated -----
+__Whereas no reply to the show cause notice has been submitted;
+
+and whereas, the undersigned based on record available with this office is of the opinion that your registration is liable
+to be cancelled for following reason(s): or
+
+__Whereas reply to the show cause notice has been submitted vide < ARN Number > dated. ;
+
+and whereas, the undersigned on examination of your reply to show cause notice and based on record available
+with this office is of the opinion that your registration is liable to be cancelled for following reason(s): or
+
+__ Whereas no reply to the show cause notice has been submitted and on day fixed for personal hearing, you did not appear
+in person or through an authorised representative;
+
+and whereas, the undersigned based on record available with this office is of the opinion that your registration is liable
+to be cancelled for following reason(s): or
+
+__Whereas no reply to the show cause notice has been submitted, but you/ your authorised representative attended
+the personal hearing and made a written or verbal submission;
+
+and whereas, the undersigned on examination of your written or verbal submission made during personal hearing and
+based on record available with this office is of the opinion that your registration is liable to be cancelled for following
+reason(s): or
+
+__Whereas reply to the show cause notice has been submitted vide < ARN Number > dated. . But, you or
+your authorised representative did not attend the personal hearing on scheduled or extended date;
+
+and whereas, the undersigned on examination of your reply to show cause notice and based on record available with this
+Office is of the opinion that your registration is liable to be cancelled for following reason(s): or
+
+__Whereas reply to the show cause notice has been submitted vide < ARN Number > dated and you/
+your authorised representative attended the personal hearing, made a written/oral submission during personal hearing;
+
+and whereas, the undersigned has examined your reply to show cause notice as well as submissions made at the time of
+personal hearing and is of the opinion that your registration is liable to be cancelled for following reason(s):
+
+i.
+
+ii.
+
+The effective date of cancellation of your registration is << DD/MM/YYYY >>.
+2. Kindly refer to the supportive document(s) attached for case specific details.
+
+3. It may be noted that a registered person furnishing return under sub-section (1) of section 39 of the CGST Act, 2017 is
+required to furnish a final return in FORM GSTR-10 within three months of the date of this order.
+
+4. You are required to furnish all your pending returns.
+5. It may be noted that the cancellation of registration shall not affect the liability to pay tax and other dues under this Act or to
+discharge any obligation under this Act or the rules made thereunder for any period prior to the date of cancellation whether or
+not such tax and other dues are determined before or after the date of cancellation.
+Place:
+Date:
+Signature
+< Name of the officer >
+
+Designation
+
+Jurisdiction’.
+
+21. In the said rules, in FORM GSTR-1, -
+
+https://www.taxtmi.com/notifications?id=139585 S/S
+
+28/10/2026, 6:40:50 pm
+
+(a) in the box,-
+
+(i) for the word, “Year”, the words, “Financial Year” shall be substituted;
+
+(ii) for the word, “Month”, the words, “Tax period” shall be substituted;
+
+(b) for Table 3, the following table shall be substituted, namely:-
+
+“3./(a)| ARN
+
+(b) | Date of ARN
+
+(c) in Table 4A, for the brackets, letters and words, “(i) attracting reverse charge and (ii) supplies made through e-
+commerce operator’, the words, brackets and letters, “attracting reverse charge (including supplies made through e-
+commerce operator attracting TCS)” shall be substituted;
+
+(d) Table 4C and entries relating thereto shall be omitted;
+
+(e) In Table 5A, for the figure, letters, words and brackets, “5A. Outward supplies (other than supplies made through e-
+commerce operator, rate wise)”, the words, brackets, letters, “Outward supplies (including supplies made through e-
+commerce operator, rate wise)” shall be substituted;
+
+(f) Table 5B and entries relating thereto shall be omitted;
+
+(g) for the Table 7, the following table shall be substituted, namely:-
+
+Rate of tax Total Taxable value Amount
+Integrated Central State Tax/UT Tax Cess
+1 2 3 4 5 6
+7A. Intra-State supplies
+Consolidated rate wise outward supplies [including supplies made through e-commerce operator attracting TCS]
+
+7B. Inter-State Supplies where invoice valu
+[including supplies made through e-commerce
+
+operator attracting TCS]
+
+ie is upto Rs 2.5 Lakh [Rate wise] Consolidated rate wise outward supplies
+
+Place of Supply (Name of State)
+
+(h) in Table 9, -
+
+(i) in the heading, for the words and letters “debit notes, credit notes, refund vouchers”, the words, “debit and credit
+notes” shall be substituted;
+
+(ii) for the words and letter, “Revised details of document or details of original Debit or Credit Notes or refund
+vouchers”, the words and letter, “Revised details of document or details of original Debit or Credit Notes” shall be
+substituted;
+
+(iii) in the sub-heading, in column no. 2 and 3, the word, “Inv.” shall be omitted;
+
+(iv) in the sub-heading, in column no. 5 and 6, for the word, “Invoice”, the word “Document” shall be substituted;
+
+https://www.taxtmi.com/notifications?id=139585
+
+6/15
+
+28/10/2026, 6:40:50 pm
+(i) in Table 9A, for the words, “If the invoice/Shipping bill details furnished earlier were incorrect”, the words, “Amendment
+of invoice/Shipping bill details furnished earlier” shall be substituted;
+(j) in Table 9B, the words, “/Refund voucher” shall be omitted;
+
+(k) In Table 9C, for the words and brackets, “Debit Notes/Credit Notes/Refund voucher [amendments thereof]”, the words
+and brackets, “Debit Notes/Credit Notes [Amended]" shall be substituted;
+
+(I) in Table 10, for the word, “Month”, the words, “Month/Quarter” shall be substituted;
+(m) Table 10A (1) and entries relating thereto shall be omitted;
+(n) Table 10B (1) and entries relating thereto shall be omitted;
+
+(0) in Table 11, in the heading, after the words, “earlier tax period”, the brackets and words, “(Net of refund vouchers, if
+any)” shall be inserted;
+
+(p) in Table 12, in the sub-heading, in column no. 3, the brackets and words, “(Optional if HSN is provided)” shall be
+omitted;
+
+(q) After Table 13 and before Verification, the following tables shall be inserted, namely:-
+
+“14. Details of the supplies made through e-commerce operators on which e-commerce operators are liable
+to collect tax under section 52 of the Act or liable to pay tax u/s 9(5) [Supplier to report]
+
+Nature of supply GSTIN of Net value Integrated Tax amount
+tax
+e- of
+Commerce | supplies Central | State | Cess
+/
+operator tax
+UT
+tax
+1 2 3 4 5 6 7
+
+(a) Supplies on which ecommerce
+operator is liable to collect tax u/s
+52
+
+(b) Supplies on which ecommerce
+operator is liable to pay tax u/s
+9(5)
+
+14A. Amendment to details of the supplies made through e-commerce operators on which e-commerce
+operators are liable to collect tax under section 52 of the Act or liable to pay tax u/s 9(5) [Supplier to report]
+
+Nature of supply Original Revised Net Tax amount
+details details value
+Integ- | Central} State / | Cess
+of
+Month / | GSTIN GSTIN rated | tax UT tax
+supplies
+Quarter | of of tax
+e-commerce | e-commerce
+operator operator
+1 2 3 4 5 6 7 8 9
+(a) Supplies on which
+
+https://www.taxtmi.com/notifications?id=139585 TAS
+
+28/10/2026, 6:40:50 pm
+
+e-commerce
+operator is liable to
+
+collect tax u/s 52
+
+(b) Supplies on which
+e-commerce
+operator is liable to
+
+pay tax u/s 9(5)
+
+15. Details of the supplies made through e-commerce operators on which e-commerce operator is liable to pay
+tax u/s 9(5) [e-commerce operator to report]
+
+Type of Type of GstIN | GsTIN | Document| Document | Rate | Value Tax amount Place
+of
+supplier recipient of of no. date of
+Integ-| Central | State | Cess | SUPPIY
+supplier | recipient supplies | rated
+tax | /
+made tax
+UT
+tax
+1 2 3 4 5 6 7 8 9 wo fn | | a
+
+Registered | Registered
+
+Unregistered
+
+Unregistered | Registered
+
+Unregistered
+
+15A (I). Amendment to details of the supplies made through e-commerce operators on which e-commerce
+operator is liable to pay tax u/s 9(5) [e-commerce operator to report, for registered recipients]
+
+Type of Original details Revised details Value Tax amount Place
+supplier Rate | of of
+GsTIN | GSTIN | Doc.| Doc.} GSTIN | GSTIN | Doc. | Doc.
+of of of supp- supply
+supplier | recipient] no, | date} of | recipient| no. | date lies
+supplier de | Inte- | Central | state ess
+made | grated
+tax | J
+tax UT
+tax
+1 2 3 a |s 6 7 8 |o jw | in 2 | 13 a | 4s 16
+
+https://www.taxtmi.com/notifications?id=139585 8/15
+
+28/10/2026, 6:40:50 pm
+
+Registered
+
+Unregistered
+
+15A (Il). Amendment to details of the supplies made through e-commerce operators on which e-
+
+commerce operator is liable to pay tax u/s 9(5) [e-commerce operator to report, for unregistered recipients]
+
+Type Original details | Revised | Rate | Value of Tax amount Place
+of supplier Details supplies of
+made supply
+GSTIN | Tax GSTIN Integrated | Central | State] Cess
+of /UT
+of period Tax Tax | tax
+supplier
+supplier
+1 2 3 4 5 6 7 8 9 10 1
+Registered
+Unregistered
+
+(r) For the instructions, the following shall be substituted, namely:-
+
+“A. General Instructions
+
+1. Terms used:
+
+a. GSTIN: Goods and Services Tax Identification Number
+
+b. UIN: Unique Identity Number
+
+c. UQC: Unit Quantity Code
+
+d. HSN: Harmonized System of Nomenclature
+
+e. POS: Place of Supply (Respective State)
+
+f. TCS: Tax collection at source by e-commerce operator
+
+g. SEZ: Special Economic Zone
+
+h. ECO: E-commerce operator
+
+i. DTA: Domestic Tariff Area
+
+j. B to B: Supplies from one registered person to another registered person
+
+k. B to C: Supplies from registered person to unregistered person
+
+2. Quarterly taxpayers filing invoice details through GSTR-1 or IFF for the first two month(s) of the quarter shall not repeat such
+details while filing GSTR-1 of the quarter.
+
+B.Table specific instructions-
+
+https://www.taxtmi.com/notifications?id=139585
+
+Sr.| Table Instructions
+No. No.
+1 2 3
+
+9S
+
+28/10/2026, 6:40:50 pm
+
+1 4A i. Supplies made to registered persons including supplies made through e-
+commerce operator attracting TCS u/s 52, but excluding supplies attracting tax
+on reverse charge basis, shall be reported.
+
+ii. Supplies made u/s 9(5) for which e-commerce operator is liable to pay tax
+shall not be reported in this table.
+
+iii. The supplies made by SEZ on cover of a bill of entry shall not be reported by
+SEZ unit /developer.
+
+2. 4B Supplies made to registered persons, attracting tax on reverse charge basis,
+shall be reported. Supplies made u/s 9(5) for which e-commerce operator is
+liable to pay tax shall not be reported in this table.
+
+3. 5 Inter-State supplies made to unregistered persons having invoice value more
+than Rs. 2.50 lakh shall be reported.
+
+4. 6A Exports with or without IGST shall be reported. Shipping bill details, if applicable,
+can be provided later through table 9 if such details are not available at the time
+of filing the statement.
+
+5. 6B Supplies made to SEZ units or SEZ developers, with or without IGST, shall be
+reported.
+
+6. 6C Deemed export supplies shall be reported.
+
+7. 7 Supplies made to unregistered persons other than those reported in table 5 shall
+be reported. Values shall be net of credit and debit notes.
+
+8. 8 Supplies having no tax liability (Nil rated, exempted and non-GST supplies) shall
+be reported. Supplies made through E-commerce Operator under section 9(5)
+shall not be included under exempted supplies of supplier.
+
+9. 9A Amendment of values reported in table 4A, 4B, 5, 6A, 6B and 6C shall be
+reported.
+
+10. 9B Credit and debit notes issued during the period shall be reported.
+
+11. 9C Amendment of credit and debit notes reported in table 9B shall be reported.
+
+12. 10 Amendment of unregistered supplies reported in table 7 shall be reported.
+
+13. | 11(I)A Advances received shall be reported. The values shall be net of refund
+vouchers, if any.
+
+14. | 11(I)B Advances adjusted during the period shall be reported.
+
+15. | 11(II) Amendment to advances received or adjusted shall be reported.
+
+16. 12 HSN details as per notifications issued by Government from time to time shall be
+reported.
+
+17. 13 Details of the documents issued during the period shall be reported.
+
+https://www.taxtmi.com/notifications?id=139585
+
+10/15
+
+28/10/2026, 6:40:50 pm
+
+18. | 14(a) Details of the supplies reported in any table from 4 to 10, made through e-
+commerce operator on which ECO is liable to collect tax at source (TCS) under
+section 52, shall be reported by the supplier.
+
+19. | 14(b) Details of supplies made through ECO, on which ECO is liable to pay tax u/s
+9(5), shall be reported by the supplier. Tax on such supplies shall be paid by the
+ECO and not by the supplier.
+
+20. | 14A(a) | Amendment to supplies reported in table 14(a) in earlier tax period shall be
+reported.
+
+21. | 14A(b) | Amendment to supplies reported in table 14(b) in earlier tax period shall be
+reported.
+
+22. 15 (i) ECO shall report details of the supplies made through him/her on which
+he/she is liable to pay tax u/s 9(5).
+
+(ii) GSTIN of supplier and recipient, if registered, shall be reported.
+(iii) Details of the documents issued by ECO shall be reported, if recipient is
+registered.
+
+23. | 15A(I) Amendment to the details reported in table 15 in earlier tax periods in respect of
+registered recipients shall be reported.
+
+24. | 15A(II) | Amendment to the details reported in table 15 in earlier tax periods in respect of
+
+22. In the said rules, in FORM GST RFD-01, in Annexure 1, after Statement-7, the following statement shall be inserted,
+namely: -
+“Statement-8 [rule 89(2)(ka)]
+Refund Type: Refund for unregistered persons
+SI. | GSTIN Document! Tax Paid Details of Details of Refund
+of payment of payment
+No. | supplier Invoice Details invoice value received | amount
+to the supplier against
+cancellation/
+termination | Clalmed
+(+
+Type of | No.| Date | Taxable | Integr | Central | State] Cess| Date | Amount| Date| Amount | .,
+document Value ated
+Tax
+Tax (C) | UT se
+Tax
+0 c
+s) ess)
+1 2 3 4|5 6 7 8 9 10 | 411 12 13 14 15
+
+23. In the said rules, in FORM GST APL-02, in the heading, after the word, figures and brackets “rule 108(3)”, the word, figures
+and brackets “and 109 (2)”, shall be inserted.
+
+24. In the said rules, after FORM GST APL-03, the following form shall be inserted, namely: -
+
+https://www.taxtmi.com/notifications?id=139585
+
+11/15
+
+28/10/2026, 6:40:50 pm
+
+“FORM GST APL-01/03 W
+[See rule 109C]
+Application for Withdrawal of Appeal Application
+
+1. GSTIN:
+2. Name of Business (Legal) (in case appeal is filed under sub-section (1) of section 107)
+3. Name and designation of the appellant (in case appeal is filed under sub-section (2) of section 107):
+4. Order No.& Date:
+5. ARN of the Appeal & Date:
+6. Reasons for Withdrawal:
+
+i. Acceptance of order of the adjudicating authority.
+
+ii. Acceptance of order of a Higher Appellate Authority/ Court on similar subject matter
+
+iii. Need to file appeal again after rectification of mistakes/omission in the filed appeal
+
+iv. Amount involved in appeal is less than the monetary limit fixed for Appeal by the Board/Commissioner
+
+v. Any other reason
+7. Declaration (applicable in case appeal is filed under sub-section (1) of section 107):
+
+\We < Taxpayer Name > hereby solemnly affirm and declare that the information given herein is true and correct to the best of
+my/ our knowledge and belief and nothing has been concealed therefrom.
+
+Place:
+Signature
+Date:
+Name of Applicant /Applicant Officer
+Designation/ Status.”.
+25. In the said rules, after FORM GST DRC-01A, the following form shall be inserted, namely: -
+“FORM GST DRC-01B
+[See rule 88C]
+PART-A (System Generated)
+Intimation of difference in liability reported in statement of outward supplies and that reported in return
+Ref No:
+Date:
+GSTIN:
+Legal Name:
+
+1. It is noticed that the tax payable by you, in accordance with the statement of outward supplies furnished by you in FORM
+GSTR-1 or using the invoice furnishing facility, exceeds the amount of tax paid by you in accordance with the return furnished in
+FORM GSTR-3B for the period< from >< to > by an amount of RS. ..........00688 The details thereof are as follows:
+
+Form Type Liability declared/ paid (in Rs.)
+
+IGST CGST SGST/UTGST Cess Total
+
+https://www.taxtmi.com/notifications?id=139585 12/15
+
+28/10/2026, 6:40:50 pm
+
+FORM GSTR-1 / IFF
+
+FORM GSTR-3B
+
+Difference in liability
+
+2. In accordance with sub-rule (1) of rule 88C, you are hereby requested to either pay the said differential tax liability, along with
+interest under section 50, through FORM GST DRC-03 and furnish the details thereof in Part-B of FORM GST DRC-01B, and/or
+furnish the reply in Part-B of FORM GST DRC-01B incorporating reasons in respect of that part of the differential tax liability that
+has remained unpaid, within a period of seven days.
+
+3. It may be noted that where any amount remains unpaid within a period of seven days and where no explanation or reason is
+furnished by you or where the explanation or reason furnished by you is not found to be acceptable by the proper officer, the
+said amount shall be recoverable in accordance with the provisions of section 79 of the Act.
+
+4. This is a system generated notice and does not require signature.
+
+PART-B
+
+Reply by Taxpayer in respect of the intimation of difference in liability
+
+Reference No. of Intimation:
+
+Date:
+
+A. | have paid the amount of the differential tax liability, as specified in Part A of FORM GST DRC-01B, fully or partially,
+along with interest under section 50, through FORM GST DRC-03, and the details thereof are as below:
+
+B. Th
+
+Verification
+
+ARN of FORM GST DRC-| Paid Under Tax IGST| CGST| SGST/UTGST | CESS
+3 Head Period
+AND/OR
+e reasons in respect of that part of the differential tax liability that has remained unpaid, are as under:
+S.No. Brief Reasons for Difference Details
+(Mandatory)
+1 Excess Liability paid in earlier tax periods in FORM GSTR-3B.
+2 Some transactions of earlier tax period which could not be declared in the
+FORM GSTR-1/IFF of the said tax period but in respect of which tax has
+already been paid in FORM GSTR-3B of the said tax period and which
+have now been declared in FORM GSTR-1/IFF of the tax period under
+consideration
+3 | FORM GSTR-1/IFF filed with incorrect details and will be amended in next
+tax period (including typographical errors, wrong tax rates, etc.)
+4 Mistake in reporting of advances received and adjusted against invoices
+5 Any other reasons
+
+https://www.taxtmi.com/notifications?id=139585
+
+13/15
+
+28/10/2026, 6:40:50 pm
+
+| hereby solemnly affirm and declare that the information given hereinabove is true and
+correct to the best of my knowledge and belief and nothing has been concealed therefrom.
+
+Signature of Authorised Signatory
+Name:
+Designation/Status:
+26. Inthe said rules, for FORM GST DRC-03, the following form shall be substituted, namely:-
+“FORM GST DRC- 03
+[See rules 142(2) & 142 (3)]
+
+Intimation of payment made voluntarily or made against the show cause notice (SCN) or statement [or intimation of tax
+ascertained through FORM GST DRC-01A
+
+1. GSTIN
+2. Name < Auto >
+3. Cause of payment << drop down >>
+
+3A | Shipping bill details of erroneous IGST} (i) Shipping Bill/ Bill of Export No. & Date:
+
+refund (to be enabled only if the] .
+specified category is chosen in drop (ii) Amount of IGST paid on export of goods:
+
+down menu) (iii) Notification No. used for procuring inputs at
+
+concessional rate or exemption:
+
+(iv) Date of notification:
+
+(v) Amount of refund received:
+
+(vi) Amount of erroneous refund to be deposited:
+
+(vii) Date of credit of refund in Bank Account:
+
+4, Section under which voluntary] << drop down >>
+payment is made
+
+5. Details of show cause notice, if] Reference No./ARN Date of issue/filing
+payment is made within 30 days of its
+issue, scrutiny, intimation of tax
+ascertained through Form GST DRC-
+01A, audit, inspection or investigation,
+GST RFD-01, others (specify)
+
+6. Financial Year
+7. Details of payment made including interest and penalty, if applicable
+(Amount in Rs.)
+Sr. Tax | Act} Place} Tax/ | Interest] Penalty, if | Fee | Others | Total} Ledger
+No. of Date
+Period Cess applicable utilised | Debit of
+supply
+(Cash /| entry debit
+(POS)
+Credit) | no. entry
+
+https://www.taxtmi.com/notifications?id=139585 14/15
+
+28/10/2026, 6:40:50 pm
+
+8. Reasons, if any - << Text box >>
+9. Verification
+
+| hereby solemnly affirm and declare that the information given hereinabove is true and correct to the best of my knowledge and
+belief and nothing has been concealed therefrom.
+
+Signature of Authorized Signatory
+
+Name Designation /Status
+
+1.Payment to be made only in cash for deposit of erroneous refund of unutilised Input Tax Credit (ITC) and for deposit of
+erroneous refund of Integrated Goods and Services Tax (IGST), obtained in contravention of sub-rule (10) of rule 96.
+
+2. ARN of FORM GST RFD-01 to be mentioned mandatorily if cause of payment is selected as — ‘deposit of erroneous refund of
+unutilised ITC’.
+
+3. Details of shipping bills to be entered in the same pattern in which the details have been entered in the returns.”.
+27. In the said rules, in FORM GST DRC-25, —
+
+(i) after the words, “Revisional authority/”, the words and letter, “Adjudicating authority or Appellate authority under
+Insolvency & Bankruptcy Code/” shall be inserted;
+
+(ii) for the words, “before disposal of appeal or revision”, the words, “before disposal of appeal or revision or any other
+proceedings” shall be substituted;
+
+(iii) after the words, “giving effect of appeal/ revision”, the letters and words, “or any other proceedings” shall be inserted.
+[F. No. CBIC-20001/2/2022-GST]
+ALOK KUMAR, Director
+
+Note: The principal rules were published in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i), vide
+notification No. 3/2017-Central Tax, dated the 19th June, 2017, published, vide number G.S.R. 610(E), dated the 19thJune,
+
+2017 and were last amended, vide notification No. 24/2022 -Central Tax, dated the 234 Nov 2022, vide number G.S.R. 843 (E),
+dated the 23rd Nov, 2022.
+
+https://www.taxtmi.com/notifications?id=139585 15/15

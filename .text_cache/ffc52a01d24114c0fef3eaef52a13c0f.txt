@@ -1,0 +1,172 @@
+28/10/2026, 6:58:55 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+Standard Operating Procedure (SOP) for verification of taxpayers granted deemed registration
+
+Instruction No. 4/3/2020-GST
+CBEC-20/13/06/2020-GST
+Government of India
+Ministry of Finance
+Department of Revenue
+Central Board of Indirect Taxes and Customs
+GST Policy Wing
+New Delhi, Dated the, 27th November, 2020
+To,
+The Principal Chief Commissioners/Chief Commissioners/Principal Commissioners/
+Commissioners of Central Tax (All)
+The Pr. Director General, DG (Systems)
+Madam/Sir,
+
+Sub: Standard Operating Procedure (SOP) for verification of taxpayers granted deemed registration
+- regarding
+
+With effect from 21.08.2020, rule 9 of the Central Goods and Services Tax Rules, 2017 (hereinafter
+referred to as the CGST Rules) provide that in cases where Aadhaar authentication has either not been
+opted for by the applicant or where such authentication has failed, the proper officer has to mandatorily
+initiate physical verification of the premises, or in cases where the physical verification is difficult, certain
+additional documents may be called for by the proper officer (upon approval of an officer not below the
+rank of Joint Commissioner) for verification before deciding upon grant of registration. Further, the present
+provisions allow for deemed registration upon completion of 21 days of application in such cases if the
+proper officer has not issued any notice within the said 21 days.
+
+2. Data suggests that during the period from 21st August, 2020 to 16th November, 2020 deemed
+registration has been granted in many cases where Aadhaar authentication has not been opted for or has
+failed. These registrations granted on deemed basis require verifications to ascertain that they have
+genuine business or intends to carry out so. In order to complete the verification of such registrants,
+following instructions are issued for immediate compliance:
+
+3.1 The list of registrations granted on deemed approval basis, zone wise, during the period from 21st
+August, 2020 to 16th November, 2020 have been circulated to the field formations by the DG, Systems.
+
+3.2 Rule 25 of the CGST Rules provide for physical verification of business premises in certain cases and
+
+include such verification after grant of registration. All such deemed registrations would be subjected to
+compulsory post registration verification. On completion of verification, if the proper officer has reasons to
+
+https://www.taxtmi.com/circulars?id=64561 1/4
+
+28/10/2026, 6:58:55 pm
+
+believe that the registration is liable for cancellation, he shall initiate the proceedings under rule 22 of the
+CGST Rules.
+
+3.3 Pending physical verification, notice in FORM REG-17 may be issued in specific cases based on
+following risk parameters seeking explanation from the registered person regarding the differences and
+anomalies noticed:
+
+i. Where FORM GSTR-1 is filed and FORM GSTR-3B is not filed either for August or September,
+2020 tax period;
+
+ii. The difference in tax amount, as reported in FORM GSTR-1 and FORM GSTR-3B is more than =
+1 lakh (R1>R3B)
+
+On receipt of the reply to the notice, the proper officer would complete the proceedings under rule 22 of the
+CGST Rules.
+
+3.4 All the verifications must be completed in a time bound manner, within 3 weeks of these instructions.
+Zonal Chief commissioners already have the freedom to divert the staff from one formation to another
+within the Zone to complete the task. A weekly status report to be submitted to the Board in the format
+enclosed to this instruction.
+
+4.1 The Standard Operating Procedure (SOP) to be followed by the proper officer for carrying out the
+physical verification of the persons who have been granted a deemed GST registration is outlined below.
+
+4.2 The proper officer shall conduct physical verification of the principal place of business and wherever
+possible, additional place of business, indicated in GST registration FORM REG-01 of the concerned
+registrant. During the physical verification, the officer, among other things, would also verify the following
+details:
+
+a. In case the applicant intends to carry out manufacturing activity, whether capital goods, if
+required for the said manufacturing activity, have been installed.
+
+b. Electricity connection, bills paid in the relevant period.
+
+c. Size of the premises — whether it is commensurate with the activity to be carried out by the
+applicant.
+
+d. Whether premises is self-owned or is rented and documents relating ownership/ registered lease
+of the said property. In case of doubt, enquiry may also be made from the landlord/ owner of the
+property in case of rented / leased premises.
+
+e. No of employees already employed and record of their employment
+
+f. Aadhaar and PAN of the applicant and its proprietor, partners, Karta, Directors as the case may
+be and the authorised signatories.
+
+g. Bank’s letter for up to date KYC.
+
+4.3 In addition to the physical verification conducted, the proper officer, in the interest of revenue, would
+carry out the preliminary financial verification of the registrants by seeking the following documents and
+carrying out its scrutiny:
+
+a. ITRs of the company / LLP from the date of incorporation or for last three financial years,
+whichever is less. ITRs of proprietor, partners, Karta, etc. may be taken in other cases.
+
+b. The status of activity from the date of registration of all the bank account(s) linked to registration;
+the same may be taken through a letter / undertaking from the applicant. Phone number declared /
+
+https://www.taxtmi.com/circulars?id=64561 2/4
+
+28/10/2026, 6:58:55 pm
+
+linked to each of the bank accounts may also be obtained.
+c. Quantum of capital employed/proposed to be employed.
+d. Out of the amount mentioned at (c) above:
+
+(i) Own Funds:
+
+(ii) Loan Funds: (indicate the names, complete address, PAN and amount borrowed from
+each such lender separately):
+
+e. In case of own funds, also check the audited balance sheet for previous financial year, where
+available, in addition to the Income Tax Returns mentioned in (a) above.
+
+f. In case of loan funds check the proposal submitted to the Bank/FI for approval of the loan and
+the maximum permissible bank finance as per such proposal, where the amount is proposed to be
+borrowed from a Bank and/or FI.
+
+5. Field formations are advised that in cases where the applicant has not opted for Aadhaar authentication
+or where such authentication has failed, there should not be any case where registration is granted on
+deemed approval basis. Suitable instructions may kindly be issued to the field formations under your
+charge.
+
+6. Difficulties, if any, in implementation of these instructions may be informed to the board (gst-
+cbec@gov.in).
+
+7. This issues with the approval of the Chairman, CBIC.
+-Sd-
+(Amaresh Kumar)
+Additional Commissioner
+
+amaresh.kumar79@gov.in
+
+Instruction No. 4/3/2020-GST
+
+Weekly status report
+
+Report on verification of taxpayers granted deemed registration
+
+No. of Deemed Process of | Verifications | Out of (5), cases Report on verification as reported in (4)
+Registrations Verification | not initiated where FORM
+Granted between | initiated out out of (3) REG-17 issued
+
+21,08.2020- of (3) based on risk
+16.11.2020 parameters
+
+a] (2 (3) (4) (5) (6) Verification Discrepancy Verification
+completed; No noticed and initiated but
+
+https://www.taxtmi.com/circulars?id=64561 3/4
+
+28/10/2026, 6:58:55 pm
+
+(3)-(4)] discrepancy process of pending for
+noticed; cancellation decision with
+initiated proper officer
+(7)
+(8) (9)
+
+((4)-(7)-(8)]
+
+https://www.taxtmi.com/circulars?id=64561 44

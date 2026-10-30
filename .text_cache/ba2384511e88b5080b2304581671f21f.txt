@@ -1,0 +1,222 @@
+28/10/2026, 6:20:46 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+GST on service supplied by restaurants through e-commerce operators
+
+Circular No. 167/23/2021-GST
+CBIC-190354/207/2021-TRU Section-CBEC
+Government of India
+Ministry of Finance
+Department of Revenue
+North Block, New Delhi,
+Dated the 17th December, 2021
+To,
+
+The Principal Chief Commissioners/ Chief Commissioners/ Principal Commissioners/ Commissioner of
+Central Tax (All) /
+
+The Principal Director Generals/ Director Generals (All)
+Madam/Sir,
+Sub: GST on service supplied by restaurants through e-commerce operators —reg.
+
+The GST Council in its 45th meeting held on 17th September, 2021 recommended to notify ‘Restaurant
+Service’ under section 9(5) of the CGST Act, 2017. Accordingly, the tax on supplies of restaurant service
+supplied through e- commerce operators shall be paid by the e-commerce operator. In this regard
+notification No. 17/2021 dated 18.11.2021 has been issued.
+
+2. Certain representations have been received requesting for clarification regarding modalities of
+compliance to the GST laws in respect of supply of restaurant service through e-commerce operators
+(ECO). Clarifications are as follows:
+
+Clarification
+
+1. | Would ECOs have to still] As ‘restaurant service’ has been notified under section 9(5) of the
+collect TCS in compliance | CGST Act, 2017, the ECO shall be liable to pay GST on restaurant
+with section 52 of the CGST | services provided, with effect from the 1St January, 2022, through
+Act, 2017? ECO. Accordingly, the ECOs will no longer be required to collect
+
+TCS and file GSTR 8 in respect of restaurant services on which it
+pays tax in terms of section 9(5).
+
+On other goods or services supplied through ECO, which are not
+notified u/s 9(5), ECOs will continue to pay TCS in terms of section
+52 of CGST Act, 2017 in the same manner at present.
+
+https://www.taxtmi.com/circulars?id=65301 1/4
+
+28/10/2026, 6:20:46 pm
+
+Would ECOs_ have to
+mandatorily take a separate
+registration w.r.t supply of
+restaurant service [notified
+under 9(5)] through them
+even though they are
+registered to pay GST on
+services on their own
+account?
+
+Would the ECOs be liable to
+pay tax on supply of
+restaurant service made by
+unregistered business
+entities?
+
+What would be the
+aggregate turnover of
+person supplying ‘restaurant
+service’ through ECOs?
+
+Can the supplies of
+restaurant service made
+through ECOs be recorded
+as inward supply of ECOs
+(liable to reverse charge) in
+GSTR 3B?
+
+Would ECOs be liable to
+reverse proportional input
+tax credit on his input goods
+and services for the reason
+that input tax credit is not
+admissible on ‘restaurant
+service’?
+
+Can ECO utilize its Input
+Tax Credit to pay tax w.rt
+
+https://www.taxtmi.com/circulars?id=65301
+
+As ECOs are already registered in accordance with rule 8(in Form
+GST-REG 01) of the CGST Rules, 2017 (as a supplier of their own
+goods or services), there would be no mandatory requirement of
+taking separate registration by ECOs for payment of tax on
+restaurant service under section 9(5) of the CGST Act, 2017.
+
+Yes. ECOs will be liable to pay GST on any restaurant service
+supplied through them including by an unregistered person.
+
+It is clarified that the aggregate turnover of person supplying
+restaurant service through ECOs shall be computed as defined in
+section 2(6) of the CGST Act, 2017 and shall include the aggregate
+value of supplies made by the restaurant through ECOs.
+Accordingly, for threshold consideration or any other purpose in the
+Act, the person providing restaurant service through ECO shall
+account such services in his aggregate turnover.
+
+No. ECOs are not the recipient of restaurant service supplied
+through them. Since these are not input services to ECO, these are
+not to be reported as inward supply (liable to reverse charge).
+
+ECOs provide their own services as an electronic platform and an
+intermediary for which it would acquire inputs/input service on which
+ECOs avail input tax credit (ITC). The ECO charges commission/fee
+etc. for the services it provides. The ITC is utilised by ECO for
+payment of GST on services provided by ECO on its own account
+(say, to a restaurant). The situation in this regard remains
+unchanged even after ECO is made liable to pay tax on restaurant
+service. ECO would be eligible to ITC as before. Accordingly, it is
+clarified that ECO shall not be required to reverse ITC on account of
+restaurant services on which it pays GST in terms of section 9(5) of
+the Act.
+
+It may also be noted that on restaurant service, ECO shall pay
+the entire GST liability in cash (No ITC could be utilised for
+payment of GST on restaurant service supplied through ECO)
+
+No. As stated above, the liability of payment of tax by ECO as per
+section 9(5) shall be discharged in cash.
+
+2/4
+
+28/10/2026, 6:20:46 pm
+
+‘restaurant service’ supplied
+through the ECO?
+
+Would supply of goods or
+services other than
+‘restaurant service’ through
+ECOs be taxed at 5%
+without ITC?
+
+Would ‘restaurant service’
+and goods or services other
+than restaurant service sold
+by a restaurant to a
+customer under the same
+order be billed differently?
+Who shall be liable for
+raising invoices in such
+cases?
+
+Who will issue invoice in
+respect of restaurant service
+supplied through ECO -
+whether by the restaurant or
+by the ECO?
+
+Clarification may be issued
+as regard reporting of
+restaurant services, value
+and tax liability etc in the
+GST return.
+
+https://www.taxtmi.com/circulars?id=65301
+
+ECO is required to pay GST on services notified under section 9(5),
+besides the services/other supplies made on his own account.
+
+On any supply that is not notified under section 9(5), that is supplied
+by a person through ECO, the liability to pay GST continues on such
+supplier and ECO shall continue to pay TCS on such supplies.
+
+Thus, present dispensation continues for ECO, on supplies other
+than restaurant services. On such supplies (other than restaurant
+services made through ECO) GST will continue to be billed,
+collected and deposited in the same manner as is being done at
+present. ECO will deposit TCS on such supplies.
+
+Considering that liability to pay GST on supplies other than
+‘restaurant service’ through the ECO, and other compliances under
+the Act, including issuance of invoice to customer, continues to lie
+with the respective suppliers (and ECOs being liable only to collect
+tax at source (TCS) on such supplies), it is advisable that ECO
+raises separate bill on restaurant service in such cases where ECO
+provides other supplies to a customer under the same order.
+
+The invoice in respect of restaurant service supplied through ECO
+under section 9(5) will be issued by ECO.
+
+Anumber of other services are already notified under section 9(5). In
+respect of such services, ECO operators are presently paying GST
+by furnishing details in GSTR 3B.
+
+The ECO may, on services notified under section 9 (5) of the CGST
+Act,2017, including on restaurant service provided through ECO,
+may continue to pay GST by furnishing the details in GSTR 3B,
+reporting them as outward taxable supplies for the time being.
+
+Besides, ECO may also, for the time being, furnish the details of
+such supplies of restaurant services under section 9(5) in Table
+7A(1) or Table 4A of GSTR-1, as the case maybe, for accounting
+purpose.
+
+Registered persons supplying restaurant services through
+ECOs under section 9(5) will report such supplies of restaurant
+services made through ECOs in Table 8 of GSTR-1 and Table
+3.1 (c) of GSTR-3B, for the time being.
+
+3/4
+
+28/10/2026, 6:20:46 pm
+
+3. Difficulty, if any, in the implementation of this circular may be brought to the notice of the Board.
+Yours faithfully,
+Anna Sosa Thomas
+Technical Officer (TRU)
+
+Email: anna.thomas@gov.in
+
+https://www.taxtmi.com/circulars?id=65301 44

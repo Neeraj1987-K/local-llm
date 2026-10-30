@@ -1,0 +1,212 @@
+28/10/2026, 6:58:34 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+Guidelines for processing of applications for registration
+
+Instruction No. 03/2023-GST
+F. No. CBIC- 20006/15/2023-GST
+Government of India
+Ministry of Finance
+Department of Revenue
+Central Board Indirect Taxes & Customs,
+GST Policy Wing
+New Delhi, dated 14th June, 2023
+To,
+
+All the Principal Chief Commissioners / Chief Commissioners / Principal Commissioners /Commissioners
+of Central Tax
+
+All the Principal Directors General/ Directors General of Central Tax
+Madam/Sir,
+Subject: Guidelines for processing of applications for registration — regarding.
+
+Instances have come to notice regarding unscrupulous elements obtaining fake/ bogus registration under
+GST and defrauding the Government exchequer. Such fake/ non-genuine registrations are being used to
+fraudulently pass on input tax credit to unscrupulous recipients by issuing invoices without any underlying
+supply of goods or services or both. This menace of fake registrations and issuance of bogus invoices for
+passing of fake ITC has become a serious problem, wherein fraudulent people engage in dubious and
+complex transactions, causing revenue loss to the government.
+
+2. Various modus operandi of obtaining such fake registrations have been detected by Central and State
+Tax administrations. In some cases, identities of other persons like PAN, Aadhaar, etc. have been misused
+without their knowledge to obtain GST registration. Forged documents, such as forged electricity bills,
+property tax receipts, rent agreements, etc. are also being used as proof of principal place of business to
+obtain GST registration. In some cases, forged identities have been created by using same photo of a
+person on different Aadhaar cards under different names. In one of the cases detected recently, it has
+been found that a few fraudsters have obtained fake GST registrations on the basis of PAN and Aadhaar
+number of persons from economically weaker sections by fraudulently modifying the phone number on the
+Aadhaar cards of these persons by taking these persons to the Aadhaar Seva Kendra by giving a nominal
+cash amount under guise of a government scheme and getting their Aadhaar Cards linked to dummy
+mobile numbers by using their thumb impression.
+
+3. To address this problem of fake registration and fake input tax credit, Instruction No. 01/2023-GST dated
+
+04.05.2023 has been issued for concerted and coordinated action on a mission mode by Central and State
+tax authorities in the form of a Special All-India Drive against fake registrations.
+
+https://www.taxtmi.com/circulars?id=66421 1/4
+
+28/10/2026, 6:58:34 pm
+
+4. In this context, it is further felt that verification of applications for registration by the proper officers is one
+of the most crucial steps in the direction of preventing the menace of fake or bogus registrations. While
+numerous initiatives have been/are being undertaken on the policy and systems level, it is pertinent to
+strengthen the process of scrutiny and verification of such applications for registration at the end of tax
+officers.
+
+5. Accordingly, the following guidelines are issued for strengthening the process of verification of
+applications for registration at the end of tax officers in a uniform manner:
+
+5.1 Immediately on receipt of the application for the registration in the Task List of the concerned officer on
+ACES-GST application, the officer shall initiate the process of scrutiny and verification of the details filled
+by the applicant in the application for registration in FORM GST REG-01 and the documents uploaded by
+the applicant along with the said application.
+
+5.2 FORM GST REG-01 prescribes a list of documents to be uploaded by the applicant in respect of
+photograph, constitution of business, principal place of business, bank account, etc. The proper officer
+shall carefully scrutinize the said documents to ensure that the documents are legible, complete and
+relevant. Further, the details or information furnished by the applicant in the application should also be
+carefully examined by the proper officer to check completeness of the same, to correlate and cross-verify
+the same with the uploaded documents and to check the authenticity of the applicant. The details of the
+address of principal and additional places of business and the corresponding documents uploaded with the
+application as proof of address may be closely scrutinised to verify completeness and correctness of
+address of such places of business. Further, to the extent possible, the authenticity of the documents
+furnished as proof of address may be cross-verified from the publicly available sources, such as websites
+of the concerned authorities such as land registry, electricity distribution companies, municipalities, and
+local bodies, etc.
+
+5.3 In order to facilitate targeted approach in verification and processing of registration applications, the
+Directorate General of Analytics and Risk Management (DGARM), in coordination with GSTN, is
+conducting risk rating of the applications for registration in form of High, Medium and Low risk rating for
+each application for registration (ARN), based on data analytics and risk parameters, and making the same
+available to the CGST field formations in the form of Report Series 400 on DDM portal on regular basis.
+Accordingly, the proper officer shall check the said risk rating made available by the DGARM in respect of
+the concerned ARN and take the same into consideration while verifying and processing the said
+application. Special attention needs to be paid to the cases where “High” risk rating has been assigned to
+an ARN.
+
+5.4 The proper officer may also check as to whether the registration(s) has been obtained on the same
+PAN earlier, either within the same State or other State(s). In such cases, the status of the said PAN as
+well as the compliance record of the said GSTINs may also be checked from the portal. The proper officer
+may also give due consideration and special attention to the cases involving inter alia the following
+circumstances:
+
+(i) where any registration obtained on the PAN of the applicant has been cancelled previously;
+
+(ii) where any registration obtained on the PAN of the applicant is suspended at the time of
+verification of a new application of registration;
+
+(iii) whether any application for registration on the PAN of the applicant has been rejected
+previously;
+
+(iv) whether the place of business of the applicant appears to be risky based on local risk
+parameters;
+
+(v) whether the proof of address of place(s) of business prima facie appear to be suspicious/
+doubtful on the basis of scrutiny of the application and the documents.
+
+https://www.taxtmi.com/circulars?id=66421 2/4
+
+28/10/2026, 6:58:34 pm
+
+5.5 Where the application is found to be deficient, either in terms of any information or any requisite
+document or where the proper officer requires any clarification with regard to any information provided in
+the application or documents furnished therewith or in respect of any other fact, he shall issue a notice to
+the applicant electronically in FORM GST REG-03 within the prescribed time limit.
+
+5.6 Without prejudice to the facts of the case, the proper officer may seek clarification or information or
+document(s) inter alia in the following cases:
+
+(i) where any document is incomplete or not legible, the proper officer may seek complete or legible
+copy of the same.
+
+(ii) where the address of place of business does not match with the document uploaded by the
+applicant, or where such uploaded document does not appear to be a valid proof of the address of
+the said place of business, the proper officer may seek additional documents to confirm the
+address details.
+
+(iii) where the address of place of business is incomplete or vague, the proper officer may seek
+complete and unambiguous details of the address along with the corresponding documentary
+proof.
+
+(iv) where any GSTIN linked to the PAN of the applicant is found cancelled or suspended, the
+proper officer may seek clarification or reasons for the same from the applicant, if required.
+
+5.7 The proper officer shall carefully examine the clarification, information or documents furnished by the
+applicant in FORM GST REG-04 in response to the notice issued in FORM GST REG-03. Where the
+proper officer is satisfied with the reply furnished by the applicant in FORM GST REG-04, he may approve
+the grant of registration to the applicant within the prescribed time period. However, where the proper
+officer is not satisfied with the clarification, information or documents furnished, he may, for reasons to be
+recorded in writing, reject such application and inform the applicant electronically in FORM GST REG-05
+within the prescribed time period. Besides, where no reply is furnished by the applicant in response to the
+notice issued under in FORM GST REG-03, within the prescribed time period, the proper officer may, for
+reasons to be recorded in writing, reject such application and inform the applicant electronically in FORM
+GST REG-05.
+
+5.8 The proper officer must ensure that the said notice in FORM GST REG-03, wherever required, is
+issued electronically within a period of seven working days from the date of submission of the application
+in cases where the applicant has undergone authentication of Aadhaar number and within a period of thirty
+days in cases specified in proviso to sub-rule (1) of rule 9 of CGST Rules, 2017.
+
+5.9 Where the applicant has either failed to undergo authentication of Aadhaar number or has not opted for
+authentication of Aadhaar number, the proper officer shall immediately initiate the process for physical
+verification of the place of business in accordance with provisions of rule 9 of CGST Rules read with rule
+25 thereof.
+
+5.10 In this regard, the concerned officer must also ensure that the physical verification report along with
+the other documents, including photographs, is uploaded on the system in FORM GST REG-30 sufficiently
+in advance of the prescribed time limit.
+
+5.11 Further, even in cases where the applicant has undergone authentication of Aadhaar number, if the
+proper officer, based on the scrutiny of the application for registration and the uploaded documents, is of
+the opinion that physical verification of the place of business is essential to check the authenticity of the
+applicant, the proper officer may get such physical verification conducted in a time bound manner. Till the
+time a functionality for marking an application of registration for physical verification in Aadhaar
+authenticated cases is made available on the portal/ ACES-GST application, the concerned Centralized
+Processing Centre (CPC) officer may, where ever considered essential, get physical verification of the
+place of business conducted through the jurisdictional officers of the concerned Division/
+
+https://www.taxtmi.com/circulars?id=66421 3/4
+
+28/10/2026, 6:58:34 pm
+
+Commissionerate. For this purpose, till the time a functionality is available on the portal/ ACES-GST
+application, the concerned zones may devise a suitable mechanism at the local level so as to ensure that
+physical verification is conducted in a timely manner in respect of such essential cases and the concerned
+applications for registration are disposed of within the time limit prescribed in rule 9 of CGST Rules, 2017.
+
+6. While processing the applications for registration, including in those cases where physical verification is
+to be conducted, it will be ensured by the proper officer that the application is either rejected or accepted or
+relevant query is raised within the prescribed time limit and no application for grant of registration is
+approved on deemed basis for want of timely action on the part of tax officers. Strict view may be taken
+where any gross negligence is observed on part of the concerned officer(s).
+
+7. Further, where ever the registration is granted on deemed approval basis or where registration is
+granted by the proper officer in cases covered under the parameters referred in para 5.4 as well in cases
+where “High” risk rating has been assigned to an application for registration (ARN) in DGARM Report
+Series 400, and where physical verification of the place of business was not conducted before grant of
+such registration, the CPC officer shall communicate the details of such cases to the concerned
+jurisdictional Commissionerate immediately after registration and physical verification of the place of
+business shall be got conducted by the concerned Commissionerate within 15 days of such registration, in
+the manner prescribed in rule 25 of CGST Rules, 2017. Besides, the concerned Commissionerate may get
+such physical verification of the place of business got conducted in other cases also, where ever required,
+based inter alia on various risk parameters and risk ratings as per tools available in ADVAIT/ BIFA or as per
+reports provided by DGARM, so as to verify authenticity of such registrations. Wherever the registered
+person is found to be non-existent or fictitious, subsequent remedial action(s) may be taken without any
+delay.
+
+8. The Principal Chief Commissioner/ Chief Commissioner of the CGST Zones may closely supervise the
+status of processing of the applications of registration, including physical verifications, within their zones.
+Wherever it is noticed that the application for registration has been granted deemed approval, the reasons
+for the same may be got examined by the Principal Chief Commissioner/ Chief Commissioner for taking
+subsequent remedial action, if any, in a time bound manner.
+
+9. Difficulties, if any, in implementation of these instructions may be informed to the Board (gst-
+cbec@gov.in).
+
+Sanjay Mangal
+
+Principal Commissioner (GST)
+
+https://www.taxtmi.com/circulars?id=66421 44
