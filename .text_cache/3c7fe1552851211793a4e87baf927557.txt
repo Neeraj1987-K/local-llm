@@ -1,0 +1,131 @@
+29/10/2026, 3:35:49 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+Form No. GST CMP - 8 - Statement for payment of self-assessed tax
+
+[Form GST CMP - 08
+[See rule 62]
+
+Statement for payment of self-assessed tax
+
+Financial Year
+
+Quarter
+
+1.| GSTIN
+
+2.| (a) | Legalname § <Auto >
+
+(b) | Trade name | < Auto >
+
+(c) | ARN < Auto > (After filing)
+
+(d) | Date of filing | < Auto > (After filing)
+
+3. Summary of self-assessed liability
+
+(net of advances, credit and debit notes and any other adjustment due to amendments etc.)
+
+2[(Amount in Zin all tables)
+
+SI. Description Value | Integrated | Central | State/UT | Cess
+No. Tax Tax Tax
+
+1 | Outward supplies of Goods (including exempt
+supplies)
+
+(a) | Outward supplies of Services (including exempt
+supplies) but (excluding supplies of Services
+made through an ECO, where the ECO is liable
+to pay tax under section 9(5)
+
+https://www.taxtmi.com/forms?id=1589 1/3
+
+29/10/2026, 3:35:49 pm
+
+(b) | Outward supplies of Services made through an
+ECO, where the ECO is liable to pay tax under
+section 9(5).
+
+2 |Inward supplies attracting reverse charge
+including import of services
+
+3 | Tax payable (1+1(a)+2)
+4 | Interest payable, if any
+5 | Tax and interest paid ]
+
+4. Verification
+
+| hereby solemnly affirm and declare that the information given herein above is true and correct to
+the best of my knowledge and belief and nothing has been concealed therefrom.
+
+Signature
+Place :
+Date:
+Name of Authorised Signatory
+Designation/Status
+Instructions:
+
+1. The taxpayer paying tax under the provisions of section 10 of the Central Goods and Services Tax Act,
+2017 or by availing the benefit of notification No. 02/2019-— Central Tax (Rate), dated the 7th March, 2019
+[G.S.R. 189(E) dated the 7th March,2019] shall make payment of tax on quarterly basis by the due date.
+
+2. Adjustment on account of advances, credit/debit notes or rectifications shall be reported against the
+liability.
+3. Negative value may be reported as such if such value comes after adjustment.
+
+313A. The taxpayer shall report outward supplies for the supply of goods (including exempt supplies) in the
+designated column (1).
+
+3B. Outward supply of services, including exempt supply of services but excluding supplies of services
+made through an ECO, where ECO is liable to pay tax under section 9(5), shall be reported separately.in
+Table 1(a).
+
+3C. Outward supplies of services where the electronic commerce operator (ECO) is liable to pay tax under
+section 9(5), shall be reported separately in Table 1(b). Composition taxpayers are not required to
+discharge tax liability on such supplies; however, these supplies shall be included in the calculation of their
+annual aggregate turnover for compliance and reporting purposes.]
+
+4. If the total tax payable becomes negative, then the same shall be carried forward to the next tax period
+for utilising the same in that tax period.
+
+https://www.taxtmi.com/forms?id=1589 2/3
+
+29/10/2026, 3:35:49 pm
+
+5. Interest shall be leviable if payment is made after the due date.
+
+6. ‘Nil’ Statement shall be filed if there is no tax liability due during the quarter.]
+
+Peececertrera’
+
+NOTES:-
+
+1. | Inserted vide Notification No. 20/2019 — Central Tax dated 23-04-2019
+
+2. | Substituted vide Notification No. 05/2026-Central Tax dated 26-10-2026 w.e.f. 01-11-2026 before it
+
+was read as,
+“(Amount in @ in all tables)
+Sr. Description Value | Integrated | Central | State/ UT | Cess
+No. tax tax tax
+1 2 3 4 5 6 7
+
+Outward supplies (including exempt
+supplies)
+
+Inward supplies attracting reverse charge
+including import of services
+
+Tax payable (1+2)
+
+Interest payable, if any
+
+Tax and interest paid
+
+3. | Inserted vide Notification No. 05/2026-Central Tax dated 26-10-2026 w.e.f. 01-11-2026
+
+https://www.taxtmi.com/forms?id=1589
+
+3/3

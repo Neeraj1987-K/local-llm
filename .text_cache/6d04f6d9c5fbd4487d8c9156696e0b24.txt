@@ -1,0 +1,155 @@
+29/10/2026, 2:36:05 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+Prescribing manner of filing an application for refund by unregistered persons
+
+Circular No. 188/20/2022-GST
+F. No. CBIC-20001/2/2022 - GST
+Government of India
+Ministry of Finance
+Department of Revenue
+Central Board of Indirect Taxes and Customs
+GST Policy Wing
+New Delhi, Dated the 27th December, 2022
+To,
+
+The Principal Chief Commissioners / Chief Commissioners / Principal Commissioners / Commissioners of
+Central Tax (All)
+
+The Principal Directors General / Directors General (All)
+Madan/Sir,
+Subject: Prescribing manner of filing an application for refund by unregistered persons -reg.
+
+Instances have been brought to the notice where the unregistered buyers, who had entered into an
+agreement/ contract with a builder for supply of services of construction of flats/ building, etc. and had paid
+the amount towards consideration for such service, either fully or partially, along with applicable tax, had to
+get the said contract/ agreement cancelled subsequently due to non-completion or delay in construction
+activity in time or any other reasons. In a number of such cases, the period for issuance of credit note on
+account of such cancellation of service under the provisions of section 34 of the Central Goods and
+Service Tax Act, 2017 (hereinafter referred to as ‘CGST Act’) may already have got expired by that time. In
+such cases, the supplier may refund the amount to the buyer, after deducting the amount of tax collected
+by him from the buyer.
+
+1.2 Similar situation may arise in cases of long-term insurance policies where premium for the entire period
+of term of policy is paid upfront along with applicable GST and the policy is subsequently required to be
+terminated prematurely due to some reasons. In some cases, the time period for issuing credit note under
+the provisions of section 34 of the CGST Act may have already expired and therefore, the insurance
+companies may refund only the proportionate premium net off GST.
+
+1.3 Representations have been received requesting for providing a facility to such unregistered buyers/
+recipients for claiming refund of amount of tax borne by them in the event of cancellation of the
+contract/agreement for supply of services of construction of flat/ building or on termination of long-term
+insurance policy.
+
+2. It would be pertinent to mention that sub-section (1) of section 54 of the CGST Act already provides that
+any person can claim refund of any tax and interest, if any, paid on such tax or any other amount paid by
+
+https://www.taxtmi.com/circulars?id=66116 1/3
+
+29/10/2026, 2:36:05 pm
+
+him, by making an application before the expiry of two years from the relevant date in such form and
+manner as may be prescribed. Further, in terms of clause (e) of sub-section (8) of section 54 of the CGST
+Act, in cases where the unregistered person has borne the incidence of tax and not passed on the same to
+any other person, the said refund shall be paid to him instead of being credited to Consumer Welfare Fund
+(CWF).
+
+2.1 In order to enable such unregistered person to file application for refund under sub-section (1) of
+section 54, in cases where the contract/agreement for supply of services of construction of flat/ building
+has been cancelled or where long-term insurance policy has been terminated, a new functionality has
+been made available on the common portal which allows unregistered persons to take a temporary
+registration and apply for refund under the category ‘Refund for Unregistered person’. Further, sub-rule
+(2) of rule 89 of Central Goods and Service Tax Rules, 2017 (hereinafter referred to as ‘CGST Rules’) has
+been amended and statement 8 has been inserted in FORM GST RFD-01 vide Notification No. 26/2022-
+Central Tax dated 26.12.2022 to provide for the documents required to be furnished along with the
+application of refund by the unregistered persons and the statement to be uploaded along with the said
+refund application.
+
+3. In order to ensure uniformity in the implementation of the above provisions of the law across field
+formations, the Board, in exercise of its powers conferred by section 168(1) of the CGST Act, hereby
+clarifies the following:
+
+4. Filing of refund application
+
+4.1 The unregistered person, who wants to file an application for refund under sub-section (1) of section 54
+of CGST Act, in cases where the contract/agreement for supply of services of construction of flat/ building
+has been cancelled or where long-term insurance policy has been terminated, shall obtain a temporary
+registration on the common portal using his Permanent Account Number (PAN). While doing so, the
+unregistered person shall select the same state/UT where his/her supplier, in respect of whose invoice
+refund is to be claimed, is registered. Thereafter, the unregistered person would be required to undergo
+Aadhaar authentication in terms of provisions of rule 10B of the CGST Rules. Further, the unregistered
+person would be required to enter his bank account details in which he seeks to obtain the refund of the
+amount claimed. The applicant shall provide the details of the bank account which is in his name and has
+been obtained on his PAN.
+
+4.2 The application for refund shall be filed in FORM GST RFD-01 on the common portal under the
+category ‘Refund for unregistered person’. The applicant shall upload statement 8 (in pdf format) and all
+the requisite documents as per the provisions of sub-rule (2) of rule 89 of the CGST Rules. The refund
+amount claimed shall not exceed the total amount of tax declared on the invoices in respect of which
+refund is being claimed. Further, the applicant shall also upload the certificate issued by the supplier in
+terms of clause (kb) of sub-rule (2) of rule 89 of the CGST Rules along with the refund application. The
+applicant shall also upload any other document(s) to support his claim that he has paid and borne the
+incidence of tax and that the said amount is refundable to him.
+
+4.3 Separate applications for refund have to be filed in respect of invoices issued by different suppliers.
+Further, where the suppliers, in respect of whose invoices refund is to be claimed, are registered in
+different States/UTs, the applicant shall obtain temporary registration in the each of the concerned
+States/UTs where the said supplier are registered.
+
+4.4 Where the time period for issuance of credit note under section 34 of the CGST Act has not expired at
+the time of cancellation/termination of agreement/contract for supply of services, the concerned suppliers
+can issue credit note to the unregistered person. In such cases, the supplier would be in a position to also
+pay back the amount of tax collected by him from the unregistered person and therefore, there will be no
+need for filing refund claim by the unregistered persons in these cases. Accordingly, the refund claim can
+be filed by the unregistered persons only in those cases where at the time of cancellation/termination of
+
+https://www.taxtmi.com/circulars?id=66116 2/3
+
+29/10/2026, 2:36:05 pm
+
+agreement/contract for supply of services, the time period for issuance of credit note under section 34 of
+the CGST Act has already expired.
+
+5. Relevant date for filing of refund:
+
+As per sub-section (1) of section 54 of the CGST Act, time period of two years from the relevant date has
+been specified for filing an application of refund. Further, the relevant date in respect of cases of refund by
+a person other than supplier is the date of receipt of goods or services or both by such person in terms of
+provisions of clause (g) in Explanation (2) under section 54 of the CGST Act. However, in respect of cases
+where the supplier and the unregistered person (recipient) have entered into a long-term contract/
+agreement for the supply, with the provision of making payment in advance or in instalments, for example-
+construction of flats or long-term insurance policies, if the contract is cancelled/ terminated before
+completion of service for any reason, there may be no date of receipt of service, to the extent supply has
+not been made/ rendered. Therefore, in such type of cases, it has been decided that for the purpose of
+determining relevant date in terms of clause (g) of Explanation (2) under section 54 of the CGST Act, date
+of issuance of letter of cancellation of the contract/ agreement for supply by the supplier will be
+considered as the date of receipt of the services by the applicant.
+
+6. Minimum refund amount
+
+Sub-section (14) of section 54 of the CGST Act provides that no refund under sub-section (5) or sub-
+section (6) shall be paid to an applicant, if amount is less than one thousand rupees. Therefore, no refund
+shall be claimed if the amount is less than one thousand rupees.
+
+7. The proper officer shall process the refund claim filed by the unregistered person in a manner similar to
+other RFD-01 claims. The proper officer shall scrutinize the application with respect to completeness and
+eligibility of the refund claim to his satisfaction and issue the refund sanction order in FORM GST RFD-06
+accordingly. The proper officer shall also upload a detailed speaking order along with the refund sanction
+order in FORM GST RFD-06.
+
+7.1 In cases where the amount paid back by the supplier to the unregistered person on
+cancellation/termination of agreement/contract for supply of services is less than amount paid by such
+unregistered person to the supplier, only the proportionate amount of tax involved in such amount paid
+back shall be refunded to the unregistered person.
+
+8. It is requested that suitable trade notices may be issued to publicize the contents of this Circular.
+
+9. Difficulty, if any, in the implementation of this Circular may be brought to the notice of the Board. Hindi
+version will follow.
+
+(Sanjay Mangal)
+
+Principal Commissioner (GST)
+
+https://www.taxtmi.com/circulars?id=66116 3/3

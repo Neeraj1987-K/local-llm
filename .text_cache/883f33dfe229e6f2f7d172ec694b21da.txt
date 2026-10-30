@@ -1,0 +1,421 @@
+29/10/2026, 3:19:54 pm
+
+TaxTMI https://www.taxtmi.com
+
+To,
+
+Processing of refund applications for UIN entities
+Circular No. 36/10/2018-GST
+
+F. No. 349/48/2017-GST
+Government of India
+Ministry of Finance
+
+Department of Revenue
+
+Central Board of Excise and Customs
+GST Policy Wing
+
+New Delhi, Dated the 13th March, 2018
+
+The Principal Chief Commissioners/Chief Commissioners/Principal Commissioners/ Commissioners of Central Tax
+
+(All)
+
+The Principal Director Generals / Director Generals (All)
+
+The Principal Chief Controller of Accounts, CBEC.
+
+Madam / sir,
+
+Subject: Processing of refund applications for UIN entities
+
+The GST Council, in its 23rd meeting held at Guwahati on 10th November 2017, has decided that the entities having
+Unique Identity Number (UIN) may be given centralized registration at the option of such entities. Further, it was also
+decided that the Central Government will be responsible for all administrative compliances in respect of such entities.
+
+2. In order to clarify some of the issues and to ensure uniformity of implementation across field formations, the Board,
+in exercise of its powers conferred under section 168 (1) of the Central Goods and Services Tax Act, 2017 (hereinafter
+referred to as “CGST Act”) hereby clarifies the following issues:
+
+3. Status of registration for UINs:
+
+i. Entities having UINs are given a special status under the CGST Act as these are not covered under the
+definition of registered person. These entities have been granted UINs to enable them to claim refund of GST
+paid on inward supply of goods or services or both received by them. Therefore, if any such entity is making
+supply of goods or services or both in the course or furtherance of business then such entity will need to apply
+for GSTIN as per the provisions contained in the CGST Act read with the rules made thereunder.
+
+ii. The process for applying for UIN has been outlined under Rule 17 of the Central Goods and Services Tax
+Rules, 2017 (hereinafter referred to as “CGST Rules”). As stated in the said rule, any person covered under
+clause (a) of sub-section (9) of section 25 of the CGST Act may submit an application electronically in FORM
+GST REG-13 on the common portal. Therefore, Specialised agency of the United Nations Organisation or any
+Multilateral Financial Institution and Organisation notified under the United Nations (Privileges and Immunities)
+Act, 1947, Consulate or Embassy of foreign countries shall apply for grant of UIN electronically by filling FORM
+GST REG-13.
+
+iii. Due to delays in making available FORM GST REG-13 on the common portal, an alternative mechanism has
+been developed. Entities covered under clause (a) of sub-section (9) of Section 25 of the CGST Act may
+approach the Protocol Division, Ministry of External Affairs in this regard, who will facilitate grant of UINs in
+coordination with the Central Board of Excise and Customs (CBEC) and GSTN.
+
+https://www.taxtmi.com/circulars?id=56822 V7
+
+29/10/2026, 3:19:54 pm
+
+iv. It is clarified that the facility of single UIN is optional and an entity may seek more than one UIN.
+4. Filing of return by UIN agencies:
+
+i. The procedure for filing returns by UIN entities is specified under sub-rule (1) of Rule 82 of the CGST Rules.
+The UIN entity is required to file details of inward supplies in FORM GSTR-11.
+
+ii. It may be noted that return in FORM GSTR-11 is required to be filed only for those tax periods for which
+refund is being claimed. In other words, if an UIN entity is not claiming refund for a particular period, it need not
+file return in FORM GSTR-11 for that period.
+
+5. Applying for refund by UIN agencies:
+
+i. All the entities who have been issued UINs and are notified under Section 55 of the CGST Act will be eligible
+for refund of inward supply of goods or services in terms of notification No. 16/2017-Central Tax (Rate) dated
+28th June 2017 as amended.
+
+ii. It may be noted that the conditions specified under the said notification need to be complied with while
+applying for refund claims. Further, field officers are hereby instructed to ensure that all the certificates /
+undertaking etc. as stipulated in the said notification be duly checked while processing the refund claims.
+
+iii. The procedure for filing a refund application has been outlined under Rule 95 of the CGST Rules which
+provides for filing of refund on quarterly basis in FORM RFD-10 along with a statement of inward invoices in
+FORM GSTR-11. It is hereby clarified that FORM GSTR-11 along with FORM GST RFD-10 has to be filed
+separately for each of those quarters for which refund claim is being filed.
+
+iv. Agencies which have been allotted UINs may visit User Manual / FAQ section on the common portal
+(www.gst.gov.in) for step by step instructions on how to file FORM GSTR-11 and FORM RFD-10.
+
+v. It is hereby clarified that all the entities claiming refund shall submit the duly filled in print out of FORM RFD-10
+to the jurisdictional Central Tax Commissionerate. All refund claims shall be processed and sanctioned by
+respective Central Tax offices. In order to facilitate processing of refund claims of UIN entities, a nodal officer
+has been designated in each State details of whom are given in Annexure A. Application for refund claim may
+be submitted before the designated Central Tax nodal officers in the State in which the UIN has been obtained.
+
+vi. There may be cases where multiple UINs existed for the same entity but were later merged into one single
+UIN. In such cases, field formations are requested to process refund claims for earlier unmerged UINs also.
+Hence, the refund application will be made with the single UIN only but invoices of old UINs may be declared in
+the refund claim, which may be accepted and taken into account while processing the refund claim.
+
+6. Passing of refund order and settlement of funds:
+
+i. The facility of centralized UIN ensures that irrespective of the type of tax (CGST, SGST, IGST or Cess) and the
+State where such inward supply of goods or services have been procured, all refunds would be processed by
+Central authorities only. Therefore, field formations are advised that all refunds are to be processed on merits
+irrespective of where and which type of tax is paid on inward supply of goods or services or both by such
+entities.
+
+ii. A monthly report as prescribed in Annexure B is required to be furnished to the Director General of Goods
+and Services Tax by the 30th of the succeeding month.
+
+iii. Field officers shall send a copy of the order passed for such refunds to their State counterparts for information
+purposes only.
+
+7. It is requested that suitable trade notices may be issued to publicize the contents of this circular.
+
+8. Difficulty, if any, in implementation of the above instructions may please be brought to the notice of the Board. Hindi
+version would follow.
+
+-sd-
+
+(Upender Gupta)
+
+https://www.taxtmi.com/circulars?id=56822 2/7
+
+29/10/2026, 3:19:54 pm
+
+Commissioner (GST)
+
+Commissionerate
+
+Annexure A
+S.No. State/UT Nodal Contact Address | Nodal Officer Phone number and E-mail id
+Commissionerate of the of Nodal Officer
+
+Bhawan Civil
+Lines, Raipur
+
+Agrawal,
+Assistant
+Commissioner
+
+1 Andhra Guntur CGST GST Bhavan,| Mr. K. Mahipal 0863-2234713,
+Pradesh Kannavarithota, Chandra, mahipal.chandra@gov.in
+Guntur- 522004 Assistant
+Commissioner
+2 |Andaman & Haldia Assistant Mr. T Inigo, Inigo.timothy@gov.in
+Nicobar Commissioner of Assistant
+Islands Central Tax. A& N| Commissioner,
+Division, Andaman &
+Kandahar Marg Nicobar
+(VIP Road), Port
+Blair — 744103
+3 Arunachal Itanagar CGST &CX Mr. N.K.Nandi, 0360-2351213,
+Pradesh Commissionerate, Assistant nknandi2014@gmail.com
+Itanagar-791110 Commissioner
+4 Assam Dibrugarh CGST & CX Mr. B.B.Baruah, 0373-2314082 ,
+Commissionerate, Assistant
+Dibrugarh-786003 | Commissioner Bbhusan.baruah@gov.in
+5 Assam Guwahati CGST & CX Mr. Sanjeet 0361-2465197 ,
+Commissionerate, | Kumar, Assistant | sanjeet.kumar@icegate.gov.in
+Guwahati-781005 | Commissioner
+6 Bihar Patna-ll 4th Floor, Mr. Suhrit 0612-2504814,
+C.R.Building Mukherjee,
+(Annexe), Bir Assistant suhrit9933@gmail.com
+Chand Patel Path, | Commissioner
+Patna-800001
+7 Chandigarh Chandigarh Plot No. 19 Sector} Ms.Mamta Saini, 0172-2704196,
+17-C, C.R Deputy mamtasaini.india@gmail.com
+Building Commissioner
+Chandigarh
+8 Chhattisgarh Raipur Division-Il], CGST | Mr. Sumit Kumar 0771-2425636
+
+sumitk.agrawal@gov.in
+
+https://www.taxtmi.com/circulars?id=56822
+
+3/7
+
+29/10/2026, 3:19:54 pm
+
+https://www.taxtmi.com/circulars?id=56822
+
+9 Dadra and Daman 2nd Floor, Hani's Mr. B.P. Singh, 0260-2460502,
+Nagar Haveli Landmark, Vapi- Additional binay.singh@icegate.gov.in
+Daman Road, Commissioner,
+Chala , Vapi, Daman
+Gujarat
+10 Daman and Daman 2nd Floor, Hani's Mr. B.P. Singh, 0260-2460502,
+Diu Landmark, Vapi- Additional binay.singh@icegate.gov.in
+Daman Road, Commissioner,
+Chala , Vapi, Daman
+Gujarat
+1 Goa Goa GST Bhavan, EDC Mr. S. K. Sinha, 0832-2437190,
+Complex, Patto, Additional sanjay1.sinha@icegate.gov.in
+Panaji-403001 Commissioner
+12 Gujarat Gandhinagar O/o the Dr. Amit Singal, 079-27540424,
+Commissioner, Joint singalamit@rediffmail.com
+CGST, Commissioner
+Gandhinagar
+Custom
+House, Near All
+India Radio,
+Navrangpura,
+Ahmedabad-
+380009.
+13 Haryana Gurugram Plot No. 36-37, Mr. Raj Karan 0124-2380269,
+Sector-32, Aggarwal,
+Gurugram Assistant Aggarwalrajkaran@gmail.com
+Comissioner
+14 Himachal Shimla Camp at Plot No. | Mr.Nikhil Kumar 0172-2704196,
+Pradesh 19 Sector 17-C, Singh, Assistant nikhil.singh@icegate.gov.in
+C.R Building Commissioner
+Chandigarh
+15 Jammu and Jammu OB-32, Rail Head Mr.Prakash 0191-2475320,
+Kashmir Complex, Jammu Choudhary, prakash.online1984@gmail.com
+Assistant
+Commissioner
+16 Jharkhand Ranchi Sth Floor, Mr. Debabrata 0651-2330218,
+C.R.Building, 5-A, Chatterjee, debabrata.chaterjee@gmail.com
+Main Road, Assistant
+Ranchi-834001 Commissioner
+17 Karnataka | Bengaluru (South) | Bengaluru South Mrs. Gayathri 080-25522370
+Commissionerate, | Chandra Menon,
+C.R. Building, Assistant sd07.gst@gov.in
+Queen's Road, Commissioner
+Bengaluru-560001
+
+AIT
+
+29/10/2026, 3:19:54 pm
+
+18 Kerala Kochi Central Revenue | Mr. Ashwin John 0484-2533169
+Building, 1.S. George, Assistant | ashwinjohngeorge@gmail.com
+Press Road, Commissioner
+Kochi-682018
+19 | Lakshadweep Kochi Central Revenue | Mr. Ashwin John 0484-2533169
+Building, 1.S. George, Assistant | ashwinjohngeorge@gmail.com
+Press Road, Commissioner
+Kochi-682018
+20 Madhya Bhopal Division - I Mr. Piyush 0755-2761620,
+Pradesh Bhopal, Jail Road | Thorat, Assistant piyushthorat19@gmail.com
+Paryawas Commissioner
+Bhawan, Bhopal
+21 Maharashtra | Mumbai Central ath Floor, GST Ms. Manpreet 022-26210384,
+Bhavan, 115, Arya, Additional manpreetarya@yahoo.co.in
+M.K.Road, Opp Commissioner
+Churchgate
+Station, Mumbai-
+400020
+22 Manipur Imphal CGST & CX Mr. 0385-2460735,
+Commissionerate, | R.K.Shurchandra
+Imphal- 795001 | Singh,Assistant shurchandra.rk@gov.in
+Commissioner
+23 Meghalaya Shillong CGST &CX Mr, Om Prakash 0364-2506758,
+Commissionerate, | Tiwary, Assistant
+Shillong-793001 Commissioner tiwary.op@gov.in
+24 Mizoram Aizawl CGST & CX Mr. L.Ralte, 0389-2346515 ,
+Commissionerate, Deputy lal.ralte@icegate.gov.in
+Aizawl-796001 Commissioner
+25 Nagaland Dimapur CGST &CX Mr. Gopeswar 0386-2351772,
+Commissionerate, Chandra Paul, paul.gopeswar3@gmail.com
+Dimapur-797 112 Assistant
+Commissioner
+26 ~~ NCT of Delhi Delhi (South) 2nd & 3rd Floor, | Mr. Shikhar Pant, 011-40785842
+EIL Annexe Assistant
+Building, Bhikaji_ | Commissioner shikhar.pant@gov.in
+Cama Place, New
+Delhi, Delhi
+110066
+
+https://www.taxtmi.com/circulars?id=56822
+
+SIT
+
+29/10/2026, 3:19:54 pm
+
+Assistant
+Commissioner,
+Sikkim (Gangtok)
+
+Division, Indira
+Byepass Road,
+Sichey Near
+District Court,
+Gangtok — 737101
+
+27 Odisha Bhubaneshwar C.R. Building, Mr. Sateesh 0674-2589694
+(GST Chandar, Joint
+Bhawan),Rajaswa | Commissioner sateesh.chandar@nic.in
+Vihar,
+Bhubaneshwar-
+751007
+28 Puducherry Puducherry I, Goubert Avenue Joint 0413-2224062, 0413-2331244,
+(Beach Road), Commissioner pondycex.gst@gov.in
+Puducherry
+-605001.
+29 Punjab Ludhiana Central Excise Mr.Neeraj Soi, 0161-2679452,
+House, F-Block, | Deputy
+Rishi Nagar, Commissioner soineeraj@gmail.com
+Ludhiana.
+30 Rajasthan Jaipur N.C.R. Building, Mrs. Ruchita Vij, 0141-2385342
+Statue Circle, Additional
+Jaipur Commissioner Tuchitavij@gmail.com
+31 Sikkim Siliguri Gangtok CGST Mr. Puran Lama, 03592-284182,
+
+Gtk_div@rediffmail.com
+
+32 Tamil Nadu Chennai (North)
+
+GST Bhawan, Additional
+26/1, Mahatma Commissioner
+Gandhi Road,
+
+Nungambakkam,
+
+Chennai — 600034
+
+044-28331177, 044-28331188,
+
+commr-cexchn1@nic.in
+
+33 Telangana Hyderabad O/o the Principal Mr. P. Anand 040-23240725,
+Commissioner of Kumar,
+Central Tax, Additional ak.pulapaka@gov.in
+Hyderabad GST Commissioner
+Commissionerate,
+GST Bhawan, LB
+Stadium Road,
+Basheerbagh,
+Hyderabad -
+500004.
+34 Tripura Agartala CGST &CX Mr. 0381-2304099 ,
+Commissionerate, | S.K.Mazumdar, sanjoymaz85@gmail.com
+Agartala-799001 Assistant
+Commissioner
+35 | Uttar Pradesh Lucknow 7-A, Ashok Mr. Avijit Pegu, 0522-2233001,
+Marg,Lucknow- Assistant avijit.pegu@icegate.gov.in
+226001 Commissioner
+
+https://www.taxtmi.com/circulars?id=56822
+
+6/7
+
+29/10/2026, 3:19:54 pm
+
+36 | Uttarakhand Dehradun
+
+Mr. Sanjay Kumar
+Shukla
+
+Office of the
+Commissioner,
+Central Goods &
+Services Tax, E-
+Block, Nehru
+Colony, Dehradun
+
+0135-2668668,
+sanjay2.shukla@icegate.gov.in
+
+37 =| West Bengal Kolkata (North)
+
+Mr. Shobhit
+Sinha, Assistant
+Commissioner
+
+180, Shanti Pally,
+Rajganda Main
+Road, Kolkata
+
+033-24416813,
+
+Shobhitsinha.jsr@gov.in
+
+Annexure B
+
+Office of the Commissionet
+
+Report for the month of
+
+Name of | Details of the Entity
+
+Time Period Name of) Central
+
+the State
+
+the State) Tax
+
+lO
+lo
+ln
+ln
+
+Integrated
+tax
+
+State
+Tax / UT
+
+for which
+refund has
+been
+
+sanctioned
+
+Tax
+
+Name UIN
+
+From
+
+To
+
+https://www.taxtmi.com/circulars?id=56822
+
+WT

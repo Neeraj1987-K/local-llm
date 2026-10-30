@@ -1,0 +1,1296 @@
+GIN Infosys"
+
+{6000S £\2 SERVICES TAX =7WO=K
+
+GST System Project: FAQs: Registration
+
+Goods and Services Tax Network
+
+4/13/2017
+Version No. 2.00
+Authorized by Snigdha Tayal
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 1 of 34
+
+GIN Infosys’
+
+{6000S £\2 SERVICES TAX =7WO=K
+
+Confidentiality Agreement
+
+“This document contains proprietary information exclusively vests with GSTN. This document may
+not, in whole or in part, be copied, photocopied, stored, saved, reproduced, replicated,
+disseminated, translated, transmitted or reduced to in any medium (whether electronic, mechanical,
+machine-readable and/or any other tangible or intangible form of any nature), by the intended
+recipient/s or user/s without the express consent, in writing, from the Authorized Representative of
+GSTN Management.”
+
+All the Intellectual Property Rights (i.e. copyrights) as may be available under the applicable laws,
+pertaining to GSTN’s confidential information, shall exclusively vest with GSTN only, and any
+breach thereof shall be subject to indemnification
+
+Revision History
+
+Version Date Auth Reviewer Approver Comments
+
+0.01 14/09/2016 Tanmay Sahay Initial Draft
+
+0.02 06/03/2017 | Tanmay Sahay | Swati Luthra Snigdha Tayal | Domain Review
+implementation
+
+1.00 13/03/2017 | Tanmay Sahay | Swati Luthra Snigdha Tayal | Submitted to GSTN
+
+2.0 23/05/2017 Tanmay Sahay | GSTN— Snigdha Tayal | Fixed comments and
+Praveen Kumar submitted to GSTN
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 2 of 34
+
+Table of Contents
+
+DV. IMtrOMUCHION 0... eee ecec cece ceeseeeecseseeeeecssseseeasassesusecsssesecsssesasecssissecasecsesasesssieesetineeeeeatins 8
+1.1 Scope of the COCUMENL.............ececesesseeseeetseecseessesenenenecseessesssesesseseasssssseeuseatenasesetee® 8
+1.2 Purpose of the COCUMENE..........cccecceeeseeseteeseteeseeeeeeeseeeceeeeeeseeeeeseeaeeeeeeeeeeseeeeeeeeaeeeeee 8
+1.3 Intended Audience for this COCUMENK...............sccececececeseeseteeeeseeesseeseseeecensseseeseeenaeeee 8
+
+2. New GST Registration: What, Who, When, Where, HOW............:cceseeeeseeeeeeeeteeeees 9
+2.1 What is a GST Registration? ......
+
+2.2 Why should | obtain a GST Registration? .
+
+2.3. Dol need to register under the GST Act? ...........cccccccesessseseeeeeesessesscseeecensseseeseneneeeee 9
+
+24 When do | need to register under the GST Act? 00.0... ececeeeeeeeeeeeceecreeseeeeeeeeeeteeeees 9
+
+2.5 Where and How can | apply for registration under the GST Act? ........
+
+2.6 My internet connection is poor/unstable and | get disconnected often. Can | apply for
+the GST Registration offline? If yes, NOW? uo... eccescte teenies
+
+2.7 Where are the prerequisites for registration on the GST Portal? .............:cceeeee 10
+
+2.8
+
+2.9 Is the new registration application available in any ‘language other than English?....
+
+2.10 Will need to upload my Photograph? ceseeseaeeaeuesseeassesseasseeeenessacaesassecssiaeateaseesseeesieees 11
+
+2.11
+
+2.12 If the entire registration process is paperless, how will | sign my application?........... 11
+
+2.13 | don’t have a DSC or an Aadhaar card, can | print the registration application and
+submit the duly signed hard copies via speed post or in persONn?........... eee 11
+
+2.14 — Is there any prescribed format for documents/photographs that need to be uploaded
+when applying for a new registration on the GST Portal?........:cccssssseseereeseseeeeees 1
+
+2.15 My document/photograph is not in the prescribed format. What should | do? .......... 11
+
+2.16 My document/photograph exceeds the permitted file size. What should | do?
+
+2.17 Is there any verification while filing the new registration application?
+
+2.18 Canlsave my new registration application? ..........0.0.00.. :
+
+2.19 For how long can | access a previously saved new registration application? ........... 11
+
+3. New Registration Application: PART A (Landing Page)...........::ccessseieeeeeeneeees 13
+
+3.1 | am on the landing page of the New Registration Application and there are two radio
+buttons — New Registration and Temporary Reference Number (TRN). Which one do |
+need to Select? «0... cece
+
+3.2 | am applying for a new registration. Which state should | select? ..........
+
+3.3 My principal place of business is in State X but | am applying for a new registration for
+State Y. Which state should | Select? ............cceceeeseeeseeeseeteeeeeeeeeeseeee
+
+3.4 In the field for PAN, do | need to put my own PAN or the PAN of the business?...... 13
+
+3.5. Whose e-mail ID and mobile number should | give? ..............:.cccscceceeeseeeseeseeeeteeeteeee 13
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 3 of 34
+
+GIN Infosys"
+
+{6000S £2 SERVICES TAX =TW%4
+
+3.6 What is Captcha Code? Why do | need to fill it? «20... eee eee eee ereeeeeeneeeeeeeees 13
+
+3.7 The Captcha Code provided is not legible. What should | do?............
+
+3.8 | clicked the SUBMIT button and now the system is asking me for a mobile OTP and
+an e-mail OTP but | haven't received either. What do | do? ....
+
+3.9 How long are the OTPs valid? OR Are the OTPs valid for a limited period of time? OR
+What is the validity of the OTP?.............0
+
+3.10 | have received my mobile OTP but not my e-mail OTP or vice versa..........::cceeee 13
+
+3.11 | have entered both OTPs correctly but the system is saying the OTPs are not valid.14
+
+3.12 How long should | wait for the OTPs before clicking on the resend OTP button?
+
+3.13 When I click the resend OTP button, do the previous OTPs become invalid?
+
+3.14 Whatis a TRN? ue
+
+3.15 Now that | have generated my TRN, how do | begin filling PART B of my new
+registration application? .
+
+3.16 | did not write my TRN or | have forgotten my TRN? .
+
+3.17 | did not write my TRN and | also deleted the SMS and the e-mail that were sent to me.
+What do | do now?...........000 ce
+
+3.18 It has been more than 15 days since | generated a TRN. Can | still access my new
+registration application? «0.0.0...
+
+3.19 Does the TRN expire 15 days after | generate it or 15 days after my last login? ...... 14
+
+3.20 | have logged into my new registration application successfully using my TRN, Mobile
+OTP, and E-mail OTP. What NOW? ........cccccccsccsecssscsecsescsecseeeeeseesceesessaeenessatssesentenee 15
+
+4. New Registration Application: PART B: Business Details ....0....0.. cee eeeeeeeeee 16
+
+41 | am unable to change my State. Why? 0.00.0... ccececeeesceeneeeeeeeeeeeeeseeeeeneeteeeteeeeneteeee 16
+
+4.2 | don’t know my Ward/Circle/Sector No
+
+4.3 | don’t know my Center Jurisdiction. .
+
+44 | want to/don’t want to Opt for COMPpoSition 0.0... eeeeeseeeeeeeeeeeeeseneeteeeeeeneneeeees 16
+
+45 What is my Date of Commencement of Business? .......
+
+46 What document do | need to provide as Proof of Constitution of Business?............. 16
+
+5. New Registration Application: PART B: Promoters/Partners .........:::cceseseeeeeeees 17
+
+5.1 How many Promoters/Partners/Directors can | add in the application? .............. 17
+
+5.2 One (or more) of the Promoters/Partners/Directors is not an Indian National and does
+not have a PAN Card which, as indicated by the red dot, is a mandatory field. How do |
+add his/her details 17
+
+5.3 One (or more) of the Promoters/Partners/Directors does not have a residential address
+in India but an Indian residential address is mandatory. What do | do?......... 17
+
+5.4 Can more than one Promoters/Partners/Director be an Authorised Signatory?........17
+
+5.5 Do | need to upload passport photographs of ALL the Promoters/Partners/Directors?17
+
+6. New Registration Application: PART B: Authorised Signatory ...
+
+-18
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 4 of 34
+
+GIN Infosys"
+
+{6000S £2 SERVICES TAX =TW%4
+
+6.1 Is it mandatory to select a Primary Authorised Signatory? .............:ccccccceeseeeeeeeees 18
+6.2. | How many Authorised Signatories can | add in the form? ...........00
+6.3 Details of the Authorised Signatory are already prefilled based on entries made in the
+previous section (Promoters/Partners) however | want to add more Authorised
+SiQMatOrieS......... eee cceseeeseseeeeeeseseseeseeeeecseassenesescesssssisssesescesssssiseeieaeasasseaseeeteae 18
+6.4 Can more than one Promoters/Partners/Director become the Primary Authorised
+SigMa@tOrieS? 2... eeceeccceeceeeseeeeeeeeeeeeeeeeeeceeeeeeeceeeeeseceeeeeseeeeeeseeeeeneeaeeeeaees
+6.5 Can add company employees other than promoter/director/partner/proprietor as
+Authorised Signatories? ...........:ceceeeseeteeseeseeeeeeeeeeeeees
+6.6 Do | need to upload photographs of ALL the authorised signatories? .....
+6.7 Do | need to upload Proof of Appointment of ALL the authorised signatories?......... 18
+7. New Registration Application: PART B: Authorised Representative 0.00.00... eee 19
+7.1 | don’t need/want an Authorised Representative. ..........:c:cccceeceseeeeeeseteeteeeeeeseeeeeeee 19
+7.2 My Authorised Representative does not have a GST enrolment ID and | am unable to
+enter their details in the form. .....
+7.3 | have an Authorised Representative however | don’t know their enrolment ID. ....... 19
+74 How is an Authorised Representative different from a GST Practitioner or Authorised
+Signatory? ............
+8. New Registration Application: PART B: Principal Place of Business «0.0.0.0... 20
+8.1 My head office/corporate office, which | assume should be my Principal Place of
+Business, is in a different state but | am unable to change the state when filling in the
+8.2. There are fields for Latitude and Longitude in the form. What are they for? ............. 20
+8.3 | don’t have an office e-mail address yet, can | give an alternate e-mail address now
+and update it later once it has been created? ......... eee ee eceeeeeeeeeeeesereeseeeeeeeeeeteees 20
+8.4 My principal place of business is a co-working space. What should | select as Nature
+of Possession of Premises?...........
+8.5 | am performing multiple business activities at my principal place of business. Can |
+select more than one nature of business activity? ..............cccccceceeeeeeeeeseeseteeeeeeene 20
+8.6 My Principal Place of Business was leased by my father/mother many years ago
+through pagdi system and he/she has since passed away so | don’t have a lease deed
+my name or in the name of my business. The landlord is also unwilling to register a
+fresh lease in my name. What should | dO? «0.0.0... eeeeeeee
+9. New Registration Application: PART B: Additional Places of Business ............... 21
+9.1 How many additional places of business can | add in the form? ..........:eceeeeeereeee 21
+9.2 | am unable to add additional places of business because the ADD NEW button is
+disabled
+9.3 Do | need to attach documentary proof of Nature of Possession of Premises for ALL
+
+the additional places Of DUSINESS? ..........ececceeeeeeeeeeseeeceeeeeeeaeeeeeeeeeeeeneeeeeeneeaeeeeetee 21
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 5 of 34
+
+10.New Registration Application: PART B: Goods and Services .
+
+11.
+
+12.
+
+13.
+
+9.4
+
+| am performing multiple business activities at one of my additional places of business.
+Can | select more than one nature of business activity for the same’ 21
+
+10.1 Is it mandatory to provide HSN/SAC Codes?. 22
+
+10.2 | supply multiple goods and/or services but the form is only asking me to specify the
+top 5 goods and top 5 services. Does this mean | can only supply 5 goods and 5
+SEPVICES? .....eseeeesesessereseseeeeneees
+
+10.3 Dol need to take an additional registration if | want to supply more than 5 goods
+and/or services?
+
+10.4 | don’t know the HSN Code for any of the products | supply. What do | do’
+
+10.5 How do | search for SAC Codes? .........csccsssssesseeeseeseeneees
+
+10.6 |am entering the name of the goods/service but the system is unable to find it. ...... 22
+
+New Registration Application: PART B: Bank Accounts ...........::eceeseseeeeeseeeeeeeteeees 23
+
+11.1 Is it mandatory to add a bank ACCOUN? ..........ccccccescceceteeseeceeseseteseteteneeseesseseeneneeseaes 23
+
+11.2 How many bank accounts Can | Add? «.......cscsesseeesesesesteeeseseeeseeeesssseesensssssseeenesseeees 23
+
+11.3. My business bank account is not open yet. Can | add an alternate bank account? ..23
+
+11.4 What document can | upload as a supporting document for proof of bank account? 23
+
+11.5 don’t know my branch’s IFSC Code. Where can I find it? 0.2... ee eeeeeeeeeeeeeteeee 23
+
+11.6 | cannot see my bank’s branch in the online utility provided. Is there any other way to
+find the IFSC Code? ...........c.cccececeseeseeceeeeeeeseesseeneeeneeseess
+
+New Registration Application: PART B: State Specific Information ..............ceeeee 24
+
+12.1 Is it mandatory to enter State Specific Information? «0.0.2... eceseseeeseeeeeteeeeeteeeeeeeees 24
+
+12.2 If | have one or more of the requested registrations, is it then mandatory to fill in the
+State Specific Information? 24
+
+New Registration Application: PART B: Verification and Submission
+
+13.1 am applying for registration in State X but my physical location is State Y. Which
+location should | mention in Place in the Verification section of the new registration
+application form?
+
+13.2 Buttons other than SUBMIT WITH DSC are disabled?
+
+13.3. My business is not a Company or an LLP. Can | still submit my new registration
+application with a DSC?.
+
+13.4 The options to SUBMIT WITH DSC and SUBMIT WITH E-SIGN are both disabled
+even though | have selected the Authorised Signatory and Place?.....
+
+13.5 | have opted to SUBMIT with E-SIGN but | am not getting the OTP despite multiple
+attempts. What should | do? ...
+
+13.6 | have submitted my registration application successfully and | have received an
+Acknowledge Reference Number (ARN). NOW what? .........ccsssssesesssssesessersseseeeeees 25
+
+13.7 Can the assessing officer reject my application? ..............ccccccseccceeseeeseeeeteteeeeeesees 25
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 6 of 34
+
+Gin
+
+{6000S £\2 SERVICES TAX =7WO=K
+
+14.New Registration Application: Track Application Status....
+14.1. How do | track the status of my registration application?
+
+15.New Registration Application: Application for Filing Clarification ..
+16.Collaborations and Dependencies
+16.1. Collaborations
+16.2 Dependencies
+17.Assumptions and constraints
+17.1. Assumptions
+17.2 Constraints.
+
+18.Glossary.
+
+19.Appendices
+19.1 Open items.
+19.2 Comments Matri
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 7 of 34
+
+GIN Infosys’
+
+{6000S £2 SERVICES TAX =TW%4
+
+1. Introduction
+
+1.1. Scope of the document
+
+This document covers the FAQs and User Manual for functionalities available to a taxpayer from
+the GST System Portal.
+
+1.2 Purpose of the document
+
+This document will be hosted on the Help section of the GST System Portal, in HTML format. The
+document will help the users of the GST System Portal to understand and easily use the GST
+System Portal.
+
+1.3 Intended Audience for this document
+
+This document is intended for use by the GST Services team for validation of content and for Infosys
+Training team to design HTML based user manual.
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 8 of 34
+
+2. New GST Registration: What, Who, When, Where, How
+2.1 What is a GST Registration?
+
+GST Registration of a business with the tax authorities implies obtaining a unique, 15-digit Goods
+and Service Tax Identification Number (GSTIN) from the GST authorities so that all the
+operations of and the data relating to the business can be collected and correlated. In any tax
+system this is the most fundamental requirement for identification of the business for tax purposes
+or for having any compliance verification program.
+
+2.2 Why should I obtain a GST Registration?
+
+Registration under Goods and Services Tax (GST) regime will confer the following advantages to
+a business:
+
+— Legally recognised as supplier of goods or services.
+
+— Proper accounting of taxes paid on the input goods or services which can be utilised for
+payment of GST due on supply of goods and/or services by the business.
+
+— Pass on the credit of the taxes paid on the goods and/or services supplied to purchasers
+or recipients.
+
+— Authorization to a taxpayer to collect tax on behalf of the Government.
+
+2.3 Dol need to register under the GST Act?
+
+Registration under the GST Act is mandatory if your aggregate annual PAN-based turnover
+exceeds INR 20,00,000 (Rupees Twenty Lakhs) however the threshold for registration is INR
+10,00,000 (Rupees Ten Lakhs) if you have a place of business in Arunachal Pradesh, Assam,
+Himachal Pradesh, Jammu & Kashmir, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, Tripura,
+or Uttarakhand.
+
+Regardless of your turnover, registration is mandatory if
+
+- You make Inter-State Supplies
+
+- You supply goods through an E-commerce portal
+- You are a/an
+
+Service Provider
+
+Agent for Registered Principal
+
+Liable to Pay Reverse Charge
+Non-resident Taxable Person
+
+Casual Taxable Person
+
+Input Service Distributor
+
+TDS/TCS Deductor
+
+E-commerce Operator
+
+o Anonline data access and retrieval service provider
+
+2.4 When do | need to register under the GST Act?
+
+Within 30 days from the date when your liability arose. In case of a Casual Taxpayer or Non-resident
+taxable person, 5 days prior to the commencement of the business
+
+eoo0000000
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 9 of 34
+
+2.5 Where and How can | apply for registration under the GST Act?
+
+You can apply online for a GST Registration using the GST web portal. No physical application is
+required.
+
+(provide direct link to the New Registration landing page)
+Alternatively, you may use the offline utility provided on the GST Website available at
+(provide link to download Registration Offline Utility)
+
+It is important to note, even though you are using the Offline Utility for Registration, the process is
+still paperless and online since you are uploading the application online.
+
+2.6 My internet connection is poor/unstable and | get disconnected often. Can | apply for the
+GST Registration offline? If yes, how?
+Yes, you can apply using the Registration Offline Utility provided by GSTN from the following
+link: (provide link to download Registration Offline Utility)
+
+The form can be filled offline but it must be uploaded online. All requirements and form-filling
+instructions are available in the utility.
+
+2.7. Where are the prerequisites for registration on the GST Portal?
+To apply for a new registration, you must have
+
+- PAN card/details of your business
+
+- Valid and accessible e-mail ID and Mobile Number
+
+- Documentary proof of constitution of your business
+
+- Documentary proof of promoters/partners
+
+- Documentary proof of principal place of business
+
+- Details of additional places of business, if applicable
+
+- Details of Authorised Signatories including photographs and proof of appointment
+
+- Details of Primary Authorised Signatory
+
+- Business bank account details along with bank statement or first page of bank passbook
+
+- Valid Class II or Class IIl DSC of authorised signatory in case of companies and LLPs;
+valid Class II or Class IIl DSC or Aadhaar (for E-Sign option) in case of other entities.
+Note: Your mobile number should be updated with the Aadhaar authorities otherwise
+you cannot use E-Sign option because OTP will be sent to the number in the Aadhaar
+database.
+
+2.8 | don’t have a Permanent Account Number (PAN). What should | do?
+
+Before you apply for a GST Registration as a normal taxpayer, it is mandatory to obtain a PAN
+except for TDS registration which is possible through TAN. Click here to apply for PAN.
+
+2.9 Is the new registration application available in any language other than English?
+
+Yes, the new registration application is available in 18 Indian languages. The default language is
+English however you can click on English and a dropdown will appear from where you can select
+your preferred language.
+
+Please note that while all the fields and descriptions will appear in your preferred language, form-
+filling can only be done in English.
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 10 of 34
+
+2.10 Will | need to upload my photograph?
+
+Yes, you are required to upload your photograph, and the photographs of all
+promoters/partners/kartas/directors/authorised signatories. The photographs must be in JPEG
+format and the file size should not exceed 100 KB.
+
+2.11 Dol need to submit hard copies of any documents?
+
+No, you do not as the new registration is paperless.
+
+2.12 If the entire registration process is paperless, how will | sign my application?
+
+You will sign your application using a Digital Signature Certificate (DSC) or the Aadhaar-based E-
+Sign facility. Please note DSC is mandatory for (i) Public Limited Company, (ii) Private Limited
+Company, (iii) Unlimited Company; (iv) Foreign Company; (v) LLP; (vi) Foreign LLP; (vii) Public
+Sector Undertaking.
+
+2.13 | don’t have a DSC or an Aadhaar card, can | print the registration application and submit
+the duly signed hard copies via speed post or in person?
+
+No paper-based application will be accepted under the GST regime. It is mandatory for you to use
+obtain a DSC or an Aadhaar card for E-Sign. Refer to 2.12 for more information.
+
+2.14 Is there any prescribed format for documents/photographs that need to be uploaded when
+applying for a new registration on the GST Portal?
+
+Yes, all documents must be in either PDF or JPEG format and the file size should NOT exceed 1
+MB (500 KB in case of bank statements/first page of passbook)
+
+All photographs must be in JPEG format and the file size should not exceed 100 KB.
+
+2.15 My document/photograph is not in the prescribed format. What should | do?
+
+You can use online tools available on the internet to convert the document/photograph into the
+prescribed format.
+
+2.16 My document/photograph exceeds the permitted file size. What should | do?
+
+You can use online tools available on the internet to reduce the file size for a
+document/photograph.
+
+2.17 Is there any verification while filing the new registration application?
+
+Yes, you will be sent One Time Passwords (OTP) on your mobile number as well as your e-mail
+ID that you give in PART A of the New Registration Application (refer to 3.5 for more details).
+Please ensure you have access to both when you apply online.
+
+2.18 Can | save my new registration application?
+
+Yes, new registration applications can be saved in the system for 15 days from the moment the
+Transaction Reference Number (TRN) is generated. Sections of the applications will only be
+saved once you fill in all the mandatory details within a section and click SAVE & CONTINUE.
+
+2.19 For how long can | access a previously saved new registration application?
+
+You can access a previously saved new registration application for a period of 15 days from
+the day your Transaction Reference Number (TRN) is generated. The date of expiry of the
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 11 of 34
+
+GIN Infosys"
+
+{6000S £2 SERVICES TAX =TW%4
+
+application is also clearly mentioned in the yellow band on your screen at all times when filling the
+application.
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 12 of 34
+
+GIN Infosys’
+
+{6000S £2 SERVICES TAX =TW%4
+
+3. New Registration Application: PART A (Landing Page)
+
+3.1. | amon the landing page of the New Registration Application and there are two radio
+buttons — New Registration and Temporary Reference Number (TRN). Which one do | need
+to select?
+
+Select New Registration Application.
+If you have a valid TRN, select Temporary Reference Number.
+3.2 | am applying for a new registration. Which state should | select?
+
+Select the state in which you are applying for the registration. (State once selected in Part A
+cannot be changed at later stage)
+
+3.3 My principal place of business is in State X but | am applying for a new registration for State
+Y. Which state should | select?
+
+Select the state in which you are applying for the registration (registration is state-specific).
+
+3.4 In the field for PAN, do | need to put my own PAN or the PAN of the business?
+
+Please enter the PAN of your business. In case of proprietor, please provide your personal PAN.
+3.5 Whose e-mail ID and mobile number should | give?
+
+Please give details of the Primary Authorised Signatory.
+
+3.6 What is Captcha Code? Why do | need to fill it?
+
+Captcha Code is a numeric code that must be filled every time a taxpayer login to the GST Portal.
+It has been added as an additional security measure.
+
+3.7 The Captcha Code provided is not legible. What should | do?
+You can click the refresh icon next to the code and the system will generate a new code for you.
+
+3.8 | clicked the SUBMIT button and now the system is asking me for a mobile OTP and an e-
+mail OTP but | haven't received either. What do | do?
+
+Please wait for some time.
+
+In case you have still not received the OTP/s, make sure you are checking the correct mobile
+phone and e-mail inbox. For e-mail OTP, you must also check the spam folder of your e-mail
+account.
+
+In case you have still not received one or both the OTPs, please click on Click to Resend OTP
+option available on the screen.
+
+Please note, when you generate fresh OTPs, both previous OTPs (mobile as well as e-mail)
+become invalid.
+
+3.9 How long are the OTPs valid? OR Are the OTPs valid for a limited period of time? OR What
+is the validity of the OTP?
+
+The validity period of each OTP is clearly mentioned in the SMS and e-mail. They are valid for at
+least 10 minutes.
+
+3.10 | have received my mobile OTP but not my e-mail OTP or vice versa.
+Refer to 3.8.
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 13 of 34
+
+3.11 | have entered both OTPs correctly but the system is saying the OTPs are not valid.
+Refer to 3.8
+
+3.12 How long should | wait for the OTPs before clicking on the resend OTP button?
+Refer to 3.8
+
+3.13 When | click the resend OTP button, do the previous OTPs become invalid?
+
+Yes. For more details, refer to 3.8
+3.14 What is a TRN?
+
+TRN or Temporary Reference Number is a unique 15-digit reference number that allows you to
+access your new registration application on the GST Portal in the pre-login mode (without valid
+login credentials).
+
+TRN is generated when you successfully submit all the fields of PART A (first page) of the new
+registration application and successfully validate your mobile number and e-mail ID by correctly
+entering the respective OTPs.
+
+Your TRN is sent to you via SMS and e-mail.
+
+3.15 Now that | have generated my TRN, how do | begin filling PART B of my new registration
+application?
+
+Please go to the New Registration page and select the radio button Temporary Reference
+Number. Now enter your TRN and click PROCEED. A new page will open where you will have to
+enter the Mobile OTP and e-mail OTP which will be sent to you when you click PROCEED. Enter
+the respective OTPs and you will be directed to the landing page of PART B of the New
+Registration Application (Business Details section).
+
+3.16 | did not write my TRN or | have forgotten my TRN?
+
+Your TRN is also sent to you via SMS and e-mail.
+
+3.17 | did not write my TRN and | also deleted the SMS and the e-mail that were sent to me.
+What do | do now?
+
+In such a case, you will have to fill in all the details in PART A again. Upon completing the
+Process, a message will be displayed ‘You already have a TRN generated <TRN number> with
+this combination’.
+
+Be sure to save the TRN this time!
+
+3.18 It has been more than 15 days since | generated a TRN. Can | still access my new
+registration application?
+
+In such a case, you will have to fill in all the details in PART A again. Upon completing the
+process, a message will be displayed “You already have a TRN generated <TRN number> with
+this combination’.
+
+3.19 Does the TRN expire 15 days after | generate it or 15 days after my last login?
+The TRN expires 15 days after it is generated regardless of any number of logins by you.
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 14 of 34
+
+3.20 | have logged into my new registration application successfully using my TRN, Mobile OTP,
+and E-mail OTP. What now?
+
+Please click on the blue box with the pencil icon inside it to continue filling your application.
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 15 of 34
+
+GIN Infosys’
+
+{6000S £2 SERVICES TAX =TW%4
+
+4. New Registration Application: PART B: Business Details
+
+4.1 lam unable to change my State. Why?
+
+GST Registration is state-wise and since you have selected the state in PART A of the form (refer
+to 3.2 and 3.3), you cannot change it.
+
+4.2 | don’t know my Ward/Circle/Sector No.
+
+Please refer your state website, a GST Practitioner, or your jurisdictional officer.
+4.3 | don’t know my Center Jurisdiction.
+
+Please refer to https:/Awww.aces.gov.in/STASE/ui/jsp/common/statelocation.do
+
+4.4 | want to/don’t want to Opt for Composition
+
+There is a YES/NO button to choose whether you wish to Opt for Composition or not. Please
+make the appropriate choice.
+
+4.5 What is my Date of Commencement of Business?
+
+The date of commencement of business is the day you started supplying/receiving goods and/or
+services.
+
+4.6 What document do | need to provide as Proof of Constitution of Business?
+
+Documents for Proof of Constitution of Business are different for different types of entities. Please
+refer to the user manual for a detailed list of documents for each type of entity.
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 16 of 34
+
+GIN Infosys’
+
+{6000S £2 SERVICES TAX =TW%4
+
+5. New Registration Application: PART B: Promoters/Partners
+
+5.1. How many Promoters/Partners/Directors can | add in the application?
+A maximum of 10 Promoters/Partners/Directors can be added in the form (Proprietor will always
+be only 1).
+
+5.2 One (or more) of the Promoters/Partners/Directors is not an Indian National and does not
+have a PAN Card which, as indicated by the red dot, is a mandatory field. How do | add
+his/her details?
+
+For foreigners, passport details are mandatory and PAN details are optional. To facilitate the
+same, there is a YES/NO check-box that asks
+
+Are you a citizen of India?
+
+If you select NO, passport details will become mandatory and PAN details will become optional.
+
+5.3. One (or more) of the Promoters/Partners/Directors does not have a residential address in
+India but an Indian residential address is mandatory. What do | do?
+
+Residential address does not need to be in India.
+
+5.4 Can more than one Promoters/Partners/Director be an Authorised Signatory?
+
+Yes, you can add up to 10 authorised signatories.
+
+5.5 Dol need to upload passport photographs of ALL the Promoters/Partners/Directors?
+
+Yes, you need to upload passport photographs of all the Promoters/Partners/Directors whose
+details you are adding in the application form. Further, each passport photograph must be in
+JPEG format and not more than 100 KB in size.
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 17 of 34
+
+6. New Registration Application: PART B: Authorised Signatory
+
+6.1 Is it mandatory to select a Primary Authorised Signatory?
+
+Yes, you cannot submit your New Registration Application without selecting a Primary Authorised
+Signatory.
+
+6.2 How many Authorised Signatories can | add in the form?
+
+A maximum of 10 authorised signatories can be added.
+
+6.3 Details of the Authorised Signatory are already prefilled based on entries made in the
+previous section (Promoters/Partners) however | want to add more Authorised Signatories.
+
+If you selected one or more Promoters/Partners/Directors as authorised signatories, their details
+will be auto populated in the Authorised Signatory section to avoid duplication of work by you. If
+you wish to add more authorised signatories, you can simply select the ADD NEW option
+available at the end of the page. You can also view the list of authorised signatories by clicking on
+SHOW LIST. Don’t forget, you can only add a maximum of 10 authorised signatories.
+
+6.4. Can more than one Promoters/Partners/Director become the Primary Authorised
+Signatories?
+
+No, you can have one and only one Primary Authorised Signatory.
+
+6.5 Can | add company employees other than promoter/director/partner/proprietor as Authorised
+Signatories?
+
+Yes, you can.
+
+6.6 Dol need to upload photographs of ALL the authorised signatories?
+
+Yes.
+
+6.7 Dol need to upload Proof of Appointment of ALL the authorised signatories?
+Yes.
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 18 of 34
+
+GIN Infosys’
+
+{6000S £2 SERVICES TAX =TW%4
+
+7. New Registration Application: PART B: Authorised Representative
+
+7.1. | don’t need/want an Authorised Representative.
+
+Authorised representatives are not mandatory. If you do not wish to add, you can simply click on
+SAVE & CONTINUE and move on to the next section
+
+7.2 My Authorised Representative does not have a GST enrolment ID and | am unable to enter
+their details in the form.
+
+All authorised representatives must register with the GST Portal and obtain an enrolment ID
+
+without which their details cannot be auto populated in the registration application. Furthermore,
+
+any unregistered persons will not be given any access to your account, therefore, please ask your
+
+authorised representative to register with the GST Portal immediately or select one who is already
+
+registered and has an enrolment ID.
+
+7.3 | have an Authorised Representative however | don’t know their enrolment ID.
+
+You can contact your authorised representative and ask them to give you their GST enrolment ID.
+
+If you are unable to reach them, you may skip this section and add the details later.
+
+7.4 Howis an Authorised Representative different from a GST Practitioner or Authorised
+Signatory?
+
+Authorised Representative can be any person. He cannot sign an application however he can
+represent the taxpayer in office. Tax Representatives and GST Practitioners can both be
+authorised signatories.
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 19 of 34
+
+8. New Registration Application: PART B: Principal Place of Business
+
+8.1. My head office/corporate office, which | assume should be my Principal Place of Business,
+is in a different state but | am unable to change the state when filling in the form.
+
+Principal place of business needs to be located within the state where you are applying for the
+
+new GST registration. Please enter the details of the first/existing place of business within the
+
+state where registration is sought.
+
+A Principal Place of Business is usually the head office/corporate office and is the location where
+all the books and other financial records of an entity are kept.
+
+Note: Principal place of business can be amended at a later date after seeking due approval from
+the tax authorities.
+
+8.2 There are fields for Latitude and Longitude in the form. What are they for?
+
+This is an optional field and is there for the purpose of providing as a feature to add additional
+
+details of your place of business (principal or additional).
+
+8.3 | don’t have an office e-mail address yet, can | give an alternate e-mail address now and
+update it later once it has been created?
+
+Yes, you can.
+
+8.4 My principal place of business is a co-working space. What should | select as Nature of
+Possession of Premises?
+
+If your principal place of business is a co-working space, please select Shared as Nature of
+Possession of Premises unless you have a valid (registered) sub-let agreement with the provider
+of the co-working space.
+
+8.5 |am performing multiple business activities at my principal place of business. Can | select
+more than one nature of business activity?
+
+Yes, you can select any number of options from the given list as long as you select a minimum of
+one.
+
+8.6 My Principal Place of Business was leased by my father/mother many years ago through
+pagdi system and he/she has since passed away so | don’t have a lease deed my name or
+in the name of my business. The landlord is also unwilling to register a fresh lease in my
+name. What should | do?
+
+For rented/leased premises where the Rent/lease agreement is not available, an affidavit to that
+effect along with any document in support of the possession of the premises like copy of
+Electricity Bill can be filed.
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 20 of 34
+
+GIN Infosys’
+
+{6000S £2 SERVICES TAX =TW%4
+
+9. New Registration Application: PART B: Additional Places of Business
+
+9.1 How many additional places of business can | add in the form?
+
+You can add all Additional Places of Business without any limit.
+
+9.2 1am unable to add additional places of business because the ADD NEW button is disabled.
+
+Please press the BACK button and go back to the previous section (principal place of business).
+At the bottom of the page there is an option — Have Additional Places of Business with a
+YES/NO check-box. Select YES and click on SAVE & CONTINUE. Now you will be able to add
+the additional places of business.
+
+9.3 Dol need to attach documentary proof of Nature of Possession of Premises for ALL the
+additional places of business?
+
+No.
+
+9.4 1am performing multiple business activities at one of my additional places of business. Can |
+select more than one nature of business activity for the same?
+
+Yes, you can select any number of options from the given list as long as you select a minimum of
+one.
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 21 of 34
+
+10. New Registration Application: PART B: Goods and Services
+
+10.1 Is it mandatory to provide HSN/SAC Codes?
+You are required to provide a minimum of just one goods or service (one HSN or SAC code).
+
+10.2 | supply multiple goods and/or services but the form is only asking me to specify the top 5
+goods and top 5 services. Does this mean | can only supply 5 goods and 5 services?
+
+No, there is no limit to the number of goods you can supply or the number of services you can
+
+provide under a single registration.
+
+Since it will be mandatory to enter HSN/SAC details in the line items in invoices under the GST
+
+regime, the HSN/SAC information will be readily available to the relevant stakeholders.
+
+10.3 Do | need to take an additional registration if | want to supply more than 5 goods and/or
+services?
+
+No, you need not take an additional registration if you want to supply more than 5 goods and/or
+services.
+
+10.4 | don’t know the HSN Code for any of the products | supply. What do | do?
+
+The Goods and Services section of the new registration application form has a built-in online utility
+that will help you select the HSN Code. For the Goods section, simply start typing the type of
+product under Search HSN Chapter by Name or Code and there will be a dropdown from
+which you can select the relevant chapter. Once you have selected the chapter, start typing in the
+Search HSN Code field and select the type of product. The HSN Code of the goods will be auto
+populated in the application. You can repeat the same if you want to enter details for more than
+one goods.
+
+10.5 How do | search for SAC Codes?
+
+The Goods and Services section of the new registration application form has a built-in online utility
+that will help you select the SAC code. For the Services section, simply start typing the type of
+service and there will be a dropdown from which you can select the relevant service. Once you
+have selected the service, the SAC Code of the service will be auto populated in the application.
+You can repeat the same if you want to enter details for more than one service.
+
+10.6 | am entering the name of the goods/service but the system is unable to find it.
+
+Please make sure you type slowly. If the online utility can’t find the goods/service, simply move on
+to the next section if you have added at least one goods/service since there are more than 17000
+codes and it may be difficult for you to find the exact code on your own. If you supply only one
+goods, please contact a tax professional or your jurisdictional officer.
+
+If you provide a single service, you can refer to the CBEC website here (add link) to choose the
+appropriate SAC since there are only 127.
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 22 of 34
+
+GIN Infosys’
+
+{6000S £2 SERVICES TAX =TW%4
+
+11. New Registration Application: PART B: Bank Accounts
+
+11.1 Is it mandatory to add a bank account?
+
+Yes, you need to add at least one bank account.
+
+11.2 How many bank accounts can | add?
+
+You can add a maximum of 10 bank accounts.
+
+11.3 My business bank account is not open yet. Can | add an alternate bank account?
+
+Yes, you can add your personal bank account and update it once your business bank account is
+open.
+
+11.4 What document can | upload as a supporting document for proof of bank account?
+You can provide your monthly bank statement or the first page of your passbook.
+11.5 | don’t know my branch’s IFSC Code. Where can | find it?
+
+There is an online utility provided in the application in the Bank Accounts section to help you find
+your branch’s IFSC Code. Look for ‘Click here to find your bank’ and click on ‘here’.
+
+11.6 | cannot see my bank’s branch in the online utility provided. Is there any other way to find
+the IFSC Code?
+
+Your branch IFSC code is also mentioned in the account's cheque book on every cheque.
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 23 of 34
+
+GIN Infosys"
+
+{6000S £2 SERVICES TAX =TW%4
+
+12. New Registration Application: PART B: State Specific Information
+12.1 Is it mandatory to enter State Specific Information?
+No, it is not mandatory if you do not have any of the requested registrations.
+
+12.2 If | have one or more of the requested registrations, is it then mandatory to fill in the State
+Specific Information?
+
+While the system will permit you to move to the next section since it is an optional field, you are
+strongly advised to fill any such details to ensure you can comply with the self-verification before
+submitting your application.
+
+(enter text for self-verification)
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 24 of 34
+
+13. New Registration Application: PART B: Verification and Submission
+
+13.1 | am applying for registration in State X but my physical location is State Y. Which location
+should | mention in Place in the Verification section of the new registration application form?
+
+You need to mention your physical location (City/Town/Village and State)
+13.2 Buttons other than SUBMIT WITH DSC are disabled?
+
+Please note DSC is mandatory for (i) Public Limited Company, (ii) Private Limited Company, (iii)
+Unlimited Company; (iv) Foreign Company; (v) LLP; (vi) Foreign LLP; (vii) Public Sector
+Undertaking. In such cases, all other modes of submission will be disabled by the system.
+
+13.3 My business is not a Company or an LLP. Can | still submit my new registration application
+with a DSC?
+
+Yes, anyone can submit their registration application using a DSC provided it is an un-expired and
+
+unrevoked, PAN-based Class II or Class III DSC.
+
+13.4 The options to SUBMIT WITH DSC and SUBMIT WITH E-SIGN are both disabled even
+though | have selected the Authorised Signatory and Place?
+
+Have you checked the check-box under Verification? If not, please do.
+
+13.5 | have opted to SUBMIT with E-SIGN but | am not getting the OTP despite multiple attempts.
+What should | do?
+
+This happens in case your current mobile number is different from the number registered with
+
+Aadhaar authority (UIDAI). Since E-Sign uses UIDAI data for authentication, the OTP will only go
+
+to the mobile number registered with UIDAI.
+
+In such a case, you will have to update your mobile number with UIDAI or use the SUBMIT WITH
+
+DSC option.
+
+13.6 | have submitted my registration application successfully and | have received an
+Acknowledge Reference Number (ARN). Now what?
+
+You will receive a response from the tax authorities within 3 common working days on the status
+
+of your application. It will either be approved or the assessing officer will raise a Notice Seeking
+
+Clarification in case they have any queries w.r.t. the application and/or documents provided.
+
+Either way, it will be communicated to you via e-mail.
+
+13.7 Can the assessing officer reject my application?
+
+Your application cannot be rejected after the first assessment as principle of natural justice
+mandates that the you get an opportunity to be heard, hence, the assessing officer may only raise
+a Notice Seeking Clarification to provide you with the said opportunity. If your response is
+satisfactory, your application will be approved. If you provide an unsatisfactory response or fail to
+respond, your application will be rejected. You have seven (7) working days within which to
+respond to the Notice Seeking Clarification.
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 25 of 34
+
+14. New Registration Application: Track Application Status
+
+14.1 How do | track the status of my registration application?
+
+This is a pre-login option available to users who have applied for registration and want to know
+the status of their registration application.
+
+1. On the GST website, go to Services > Registration > Track Application Status
+
+2. Click on Track Application Status
+
+3. The landing page will have a single field in which you need to enter your ARN
+
+4. When you enter the ARN, an additional field will appear where you need to enter the given
+Captcha Code
+
+5. Click SEARCH
+
+6. The system will display the status your registration application
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 26 of 34
+
+15. New Registration Application: Application for Filing Clarification
+
+FAQs for this section will be added once the use case is available in UAT.
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 27 of 34
+
+Gin
+
+{6000S £2 SERVICES TAX =TW%4
+
+16. Collaborations and Dependencies
+
+16.1 Collaborations
+
+Sr. | Collaboration required with
+
+1. Domain Team
+
+2. | Services Team
+
+16.2 Dependencies
+
+Sr. | Modules
+
+Reference/ Functionalities
+
+1 | SRS
+
+2 | SIT environment readiness
+for verification of content
+with application
+
+3 UAT completion
+
+Ver.Rev.2.00
+
+“GSTN Internal & Confidential”
+
+Page 28 of 34
+
+Gin
+
+{6000S £2 SERVICES TAX =TW%4
+
+17. Assumptions and constraints
+
+17.1 Assumptions
+Sr. | Assumption
+1 Post UAT completion , the training content will be verified with the UAT
+environment
+17.2 Constraints
+Sr. | Constraint
+1 |Content cannot be finalized before the UAT completion
+Ver.Rev.2.00 “GSTN Internal & Confidential”
+
+Page 29 of 34
+
+Gin
+
+{6000S £2 SERVICES TAX =TW%4
+
+18. Glossary
+SI. Term /
+No Acronym
+Fr API
+2 ARN
+3 B2B
+4 B2C
+5 BO
+6 BRN
+7 CBDT
+8 CBEC
+9 cc
+10 CIN
+"1 CPIN
+42 CPIN
+13 BC
+14 DSC
+15 e-FPB
+16 EOD
+1g ‘FO
+20 GSP
+21 GSTIN
+22 GSTN
+23 HSN
+26 MCA
+27 OTP
+28 PAN
+29 POS
+30 SAC
+31 UIDAI
+
+Ver.Rev.2.00
+
+Description
+
+Application Program Interface
+Application Reference Number
+Business to Business
+
+Business to Consumer
+
+Back Office
+
+Branch Receipt Number
+
+Central Board of Direct Taxes
+
+Central Board of Excise & Customs
+Credit Card
+
+Challan Identification Number
+Common Portal Identification Number
+Common Portal Identification Number
+Debit Card
+
+Digital Signature Certificate
+Electronic Focal Point Branch
+
+End of the Day
+
+Front Office
+
+GST Suvidha Providers
+
+Goods and Services Taxpayer Identification Number
+GST Network
+
+Harmonized System of Nomenclature for goods
+Ministry of Corporate Affairs
+
+One Time Password
+
+Permanent Account Number
+
+Place of Supply of Goods or Services — State code to be
+mentioned
+
+Service Accounting Code
+
+Unique Identification Authority of India
+
+“GSTN Internal & Confidential” Page 30 of 34
+
+Gin
+
+{6000S £\2 SERVICES TAX =7WO=K
+
+SI. Term / Description
+No Acronym
+32 ITC Input Tax Credit
+33 TDS Tax Deducted at Source
+34 TCS Tax Collected at Source
+Ver.Rev.2.00
+
+“GSTN Internal & Confidential”
+
+Page 31 of 34
+
+GIN Infosys"
+
+{6000S £\2 SERVICES TAX =7WO=K
+
+19. Appendices
+19.1 Open items
+
+The following table lists all the open items in this document:
+
+ID Item Responsibility Status
+1
+
+ON OAR wOND
+
+Table 1. Open Items
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 32 of 34
+
+GIN Infosys’
+
+{6000S £\2 SERVICES TAX =7WO=K
+
+19.2 Comments Matrix
+
+Since there is no formal tool finalized currently for logging comments on various document
+deliverables, Comments Matrix is being put here to ensure comments are being tracked and
+resolved. Once a formal tool is identified, this process might change for future deliverables.
+
+S.No. GSTN Review Date Raised Infosys Remarks
+Comments
+
+1
+
+2
+
+Table 2. |. Comments Matrix
+
+Ver.Rev.2.00, “GSTN Internal & Confidential” Page 33 of 34
+
+THIS PAGE IS INTENTIONALLY LEFT BLANK
+
+Ver.Rev.2.00 “GSTN Internal & Confidential” Page 34 of 34

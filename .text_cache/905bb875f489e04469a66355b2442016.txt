@@ -1,0 +1,726 @@
+29/10/2026, 3:38:54 pm
+
+TaxTMI
+
+https://www.taxtmi.com
+
+Form No. GSTR - 1 - Details of outward supplies of goods or services
+
+Form GSTR-1
+
+[See Rule (59(1)]
+
+Details of outward supplies of goods or services
+
+5[Financial Year]
+| ®ITax period]
+
+1. GSTIN
+(a) | Legal name of the registered person
+(b) | Trade name, if any
+
+713. | (a)| ARN
+(b) | Date of ARN
+
+4. Taxable outward supplies made to registered persons (including UIN-holders) other than supplies covered by Table 6
+
+(Amount in Rs. For all Tables)
+
+GSTIN/UIN Invoice details Rate | Taxable | Amount Place of Supply (Name of
+No. | Date | Value Integrated | Central | State / UT | Cess | State/UT)
+Tax Tax Tax
+1 2 3 4 5 6 7 8 9 10 1
+
+4A. Supplies other than those 8fattracting reverse charge (including supplies made through e-commerce operator attracting
+TCS)]
+
+4B. Supplies attracting tax on reverse charge basis
+
+op
+GSTIN of e-commerce
+operator
+
+5. Taxable outward inter-State supplies to un-registered persons where the invoice value is more than 27IRs. 1 lakh]
+
+Place of Supply (State/UT) | Invoice details Rate | Taxable Value | Amount
+No. | Date | Value Integrated Tax | Cess |
+1 2 |3 4 5 6 7 8
+
+10fOutward supplies (including supplies made through e-commerce operator, rate wise)]
+
+Tipsy
+
+GSTIN of e-commerce operator
+
+2I6. Zero rated supplies and Deemed Exports
+
+https://www.taxtmi.com/forms?id=1198 1/12
+
+29/10/2026, 3:38:54 pm
+
+GSTIN _ of | Invoice details Shipping _ bill/ | Integrated Tax Central Tax State / UT Tax Cess
+recipient | : Bill of export : : :
+No. | Date | Value | No. | Date Rate | Taxable Amt. | Rate | Taxable | Amt| Rate Taxable § Amt
+value value value
+1 2 3 4 5 6 7 8 9 10 1 12 | 13 14 15 | 16
+
+6A. Exports
+
+6B. Supplies made to SEZ unit or SEZ Developer
+
+6C. Deemed exports
+
+7. Taxable supplies (Net of debit notes and credit notes) to unregistered persons other than the supplies covered in
+Table 5
+
+12IRate of tax Total Taxable value Amount
+
+Integrated Central State Tax/UT Tax Cess
+
+7A. Intra-State supplies
+
+Consolidated rate wise outward supplies [including supplies made through e-commerce operator attracting TCS]
+
+7B. Inter-State Supplies where invoice value is upto 28IRs. 1 lakh] [Rate wise] Consolidated rate wise outward supplies
+[including supplies made through e-commerce operator attracting TCS]
+
+Place of Supply (Name of State)
+
+8. Nil rated, exempted and non GST outward supplies
+
+Description Nil Rated | Exempted (Other than Nil rated/non-GST | Non-GST
+Supplies Supply Supplies
+1 2 3 4
+
+8A. Inter-State supplies to registered
+persons
+
+8B. Intra- State supplies to registered
+person
+
+8C. Inter-State supplies to unregistered
+persons
+
+8D. Intra-State supplies to unregistered
+persons
+
+9. Amendments to taxable outward supply details furnished in returns for earlier tax periods in Table 4, 5 and 6
+including 3idebit and credit notes] issued during current period and amendments thereof]
+
+https://www.taxtmi.com/forms?id=1198 2/12
+
+29/10/2026, 3:38:54 pm
+
+Details of original 14[Revised details of document or details | Rate | Taxable | Amount Place
+document of original Debit or Credit Notes] _ Value _ | of
+GSTIN | 15pe+#4 | 15p-**] | GSTIN | 16[Document] | Shipping | Value Integrated | Central | State | Cess | Supply
+No. Date bill Tax Tax / UT
+No. | Date | No. | Date Tax
+1 2 3 4 5 6 7 |8 9 10 (11 12 13 14 15 16
+
+9A. 17[Amendment of invoice/Shipping bill details furnished earlier]
+
+9BA. Debit Notes/Credit Notes *8[****] [original]
+
+9c. [Debit Notes/Credit Notes [Amended]
+
+10. Amendments to taxable outward supplies to unregistered persons furnished in returns for earlier tax periods in
+
+Table 7
+Rate of tax Total Taxable value Amount
+| Integrated | Central | State/UT Tax | Cess
+1 2 3 4 5 6
+Tax period for which the details are being revised <20/Month/Quarter]>
+
+10A. Intra-State Suppli
+
+ies [including supplies made through e-commerce operator attracting TCS] [Rate wise]
+
+21peeery
+
+10B. Inter-State Suppli
+
+| Place of Supply (Name of State)
+
+ies [including supplies made through e-commerce operator attracting TCS] [Rate wise]
+
+| 22fuxnny
+
+11. Consolidated Statement of Advance Received/Advance adjusted in the current tax period/Amendments of
+information furnished in earlier tax period 231(Net of refund vouchers, if any)]
+
+Rate | Gross
+
+Advance | Place of supply Amount
+
+Received/adjusted Integrated
+
+Central
+
+State/UT Cess
+
+1 2
+
+3 4
+
+5
+
+6 7
+
+| information for the current tax period
+
+liability)
+
+11A. Advance amount received in the tax period for which invoice has not been issued (tax
+
+amount to be added to output tax
+
+11A (1). Intra-State supplies (Rate Wise)
+
+11A (2). Inter-State Supplies (Rate Wise)
+
+11B (1). Intra-State Supplies (Rate Wise)
+
+11 (2). Inter-State Supplies (Rate Wise)
+
+Il Amendment of information furnished in Table No. 11[1] in GSTR-1 statement for earlier tax periods
+
+Furnish revised
+
+information]
+Month Amendment relating to information furnished in S. | 11A(1) | 11A(2) | 11B(1) | 11B(2)
+No. (Select)
+
+12. HSN-wise summary of outward supplies
+
+Sr. |HSN ] Description ] UQC | Total ] 3[Rate of| Total Taxable | Amount
+
+No. 2Afurany Quantity | Tax] Value Integrated Central | State/UT | Cess
+
+Tax Tax Tax
+
+https://www.taxtmi.com/forms?id=1198 3/12
+
+29/10/2026, 3:38:54 pm
+
+1 2 3 4 5 6 7 8 9 10 1
+13. Documents issued during the tax period
+Sr. Nature of document Sr.No. _| Total Cancelled | Net
+No. From | To | Number issued
+1 2 3 45 6 7
+
+Invoices for outward supply
+
+Revised Invoice
+
+Invoices for inward supply from unregistered person
+
+Debit Note
+
+Receipt Voucher
+Payment Voucher
+
+Refund voucher
+
+1
+2
+3
+4
+5 _| Credit Notes
+6
+7
+8
+9
+
+Delivery Challan for job work
+
+no. 9 to 11)
+
+10 | Delivery Challan for supply on approval
+11 | Delivery Challan in case of liquid gas
+12 | Delivery Challan in cases other than by way of supply (excluding at S
+
+2514 4. Details of the supplies made through e-commerce operators on which e-commerce operators are liable to collect
+tax under section 52 of the Act or liable to pay tax u/s 9(5) [Supplier to report]
+
+Nature of supply GSTIN of Net value Integrated Tax amount
+tax
+e of
+Commerce | supplies Central | State/ | Cess
+operator tax UT
+tax
+1 2 3 4 5 6 7
+
+collect tax u/s 52
+
+(a) Supplies on which ecommerce operator is liable to
+
+tax u/s 9(5)
+
+(b) Supplies on which ecommerce operator is liable to pay
+
+14A. Amendment to details of the supplies made through e-commerce operators on which e-commerce operators are
+liable to collect tax under section 52 of the Act or liable to pay tax u/s 9(5) [Supplier to report]
+
+Nature of supply Original Revised
+details details
+Month / | GSTIN GSTIN
+Quarter | of of
+e-commerce | e-commerce
+operator operator
+1 3 4
+
+Net
+value
+Integ-
+of
+rated
+supplies
+tax
+5 6
+
+Tax amount
+Central | State /
+tax UT tax
+7 8
+
+Cess
+
+https://www.taxtmi.com/forms?id=1198
+
+4/12
+
+29/10/2026, 3:38:54 pm
+
+(a) Supplies on which
+e-commerce
+operator is liable to
+
+collect tax u/s 52
+
+(b) Supplies on which
+e-commerce
+operator is liable to
+
+pay tax u/s 9(5)
+
+15. Details of the supplies made through e-commerce operators on which e-commerce operator i:
+9(5) [e-commerce operator to report]
+
+liable to pay tax u/s
+
+Type of Type of GSTIN | GSTIN | Document | Document | Rate | Value Tax amount Place of
+supplier recipient of of no. date of supply
+Integ-rated | Central | State | Cess
+supplier | recipient supplies
+tax tax !
+made
+uT
+tax
+1 2 3 4 5 6 7 8 9 10 a | 42 rr
+
+Registered | Registered
+
+Unregistered
+
+Unregistered | Registered
+
+Unregistered
+
+15A (I). Amendment to details of the supplies made through e-commerce operators on which e-commerce operator is
+liable to pay tax u/s 9(5) [e-commerce operator to report, for registered recipients]
+
+Type of Original details Revised details Value Tax amount Place
+supplier ] Rate | of of
+GSTIN | GSTIN of | Doc. | Doc.| GSTIN | GSTIN of | Doc. | Doc.
+of recipient recipient supp- supply
+supplier no. | date| of no. | date lies
+supplier ae mte- | Gentral | State | Cess
+made | grated
+tax | J
+tax UT
+tax
+1 2 3 ais 6 7 es }o |) 4 2 | 13 “| 45 16
+
+https://www.taxtmi.com/forms?id=1198 5/12
+
+29/10/2026, 3:38:54 pm
+
+Registered
+
+Unregistered
+
+15A (Il). Amendment to details of the supplies made through e-commerce operators on which e-commerce operator is
+liable to pay tax u/s 9(5) [e-commerce operator to report, for unregistered recipients]
+
+Type Original details | Revised | Rate | Value of Tax amount Place
+of supplier Details supplies of
+made supply
+GSTIN | Tax GSTIN of Integrated Central | State /UT tax) Cess
+of period supplier Tax Tax
+supplier
+1 2 3 4 5 6 7 8 9 10 1
+Registered
+Unregistered ]
+
+Verification
+
+| hereby solemnly affirm and declare that the information given herein above is true and correct to the best of my knowledge and
+belief and nothing has been concealed there from and in case of any reduction in output tax liability the benefit thereof has
+been/will be passed on to the recipient of supply.
+
+Place NameSignature
+of Authorised Signatory.....
+
+Date
+Designation /Status....
+
+261A. General Instructions
+1. Terms used:
+a. GSTIN: Goods and Services Tax Identification Number
+b. UIN: Unique Identity Number
+c. UQC: Unit Quantity Code
+d. HSN: Harmonized System of Nomenclature
+e. POS: Place of Supply (Respective State)
+f. TCS: Tax collection at source by e-commerce operator
+g. SEZ: Special Economic Zone
+h. ECO: E-commerce operator
+
+i. DTA: Domestic Tariff Area
+
+https://www.taxtmi.com/forms?id=1198 6/12
+
+29/10/2026, 3:38:54 pm
+
+j. B to B: Supplies from one registered person to another registered person
+
+k. B to C: Supplies from registered person to unregistered person
+
+2. Quarterly taxpayers filing invoice details through GSTR-1 or IFF for the first two month(s) of the quarter shall not repeat such
+details while filing GSTR-1 of the quarter.
+
+B.Table specific instructions-
+
+Sr.| Table Instructions
+
+No. No.
+
+1 2 3
+
+1. 4A i. Supplies made to registered persons including supplies made through e-commerce operator attracting
+TCS u/s 52, but excluding supplies attracting tax on reverse charge basis, shall be reported.
+ii, Supplies made u/s 9(5) for which e-commerce operator is liable to pay tax shall not be reported in this
+table.
+iii. The supplies made by SEZ on cover of a bill of entry shall not be reported by SEZ unit /developer.
+
+2. 4B Supplies made to registered persons, attracting tax on reverse charge basis, shall be reported. Supplies
+made u/s 9(5) for which e-commerce operator is liable to pay tax shall not be reported in this table.
+
+3. 5 Inter-State supplies made to unregistered persons having invoice value more than 29IRs. 1 lakh] shall be
+reported.
+
+4. 6A Exports with or without IGST shall be reported. Shipping bill details, if applicable, can be provided later
+through table 9 if such details are not available at the time of filing the statement.
+
+5. 6B Supplies made to SEZ units or SEZ developers, with or without IGST, shall be reported.
+
+6. 6C Deemed export supplies shall be reported.
+
+7. 7 Supplies made to unregistered persons other than those reported in table 5 shall be reported. Values shall
+be net of credit and debit notes.
+
+8. 8 Supplies having no tax liability (Nil rated, exempted and non-GST supplies) shall be reported. Supplies made
+through E-commerce Operator under section 9(5) shall not be included under exempted supplies of supplier.
+
+9. 9A Amendment of values reported in table 4A, 4B, 5, 6A, 6B and 6C shall be reported.
+
+10. 9B Credit and debit notes issued during the period shall be reported.
+
+11. 9C Amendment of credit and debit notes reported in table 9B shall be reported.
+
+12. 10 Amendment of unregistered supplies reported in table 7 shall be reported.
+
+13. A1(IA Advances received shall be reported. The values shall be net of refund vouchers, if any.
+
+14. | 11(I)B Advances adjusted during the period shall be reported.
+
+15. 11(II) Amendment to advances received or adjusted shall be reported.
+
+https://www.taxtmi.com/forms?id=1198 TAZ
+
+29/10/2026, 3:38:54 pm
+
+16. 12 HSN details as per notifications issued by Government from time to time shall be reported.
+
+17. 13 Details of the documents issued during the period shall be reported.
+
+18. 14(a) Details of the supplies reported in any table from 4 to 10, made through e-commerce operator on which ECO
+is liable to collect tax at source (TCS) under section 52, shall be reported by the supplier.
+
+19. 14(b) Details of supplies made through ECO, on which ECO is liable to pay tax u/s 9(5), shall be reported by the
+supplier. Tax on such supplies shall be paid by the ECO and not by the supplier.
+
+20. | 14A(a) Amendment to supplies reported in table 14(a) in earlier tax period shall be reported.
+
+21. | 14A(b) | Amendment to supplies reported in table 14(b) in earlier tax period shall be reported.
+
+22. 15 (i) ECO shall report details of the supplies made through him/her on which he/she is liable to pay tax u/s
+9(5).
+(ii) GSTIN of supplier and recipient, if registered, shall be reported.
+(iii) Details of the documents issued by ECO shall be reported, if recipient is registered.
+
+23. | 15A(I) Amendment to the details reported in table 15 in earlier tax periods in respect of registered recipients shall
+be reported.
+
+24. | 15A(Il) | Amendment to the details reported in table 15 in earlier tax periods in respect of]
+
+Notes:-
+
+1. [ Table 6 of GSTR-1 form to be Substituted - See Notification No. 45/2017 dated 13-10-2017
+2. | Substituted vide Notification No. 70/2017 Dated 21-12-2017, before it was read as, "6. Zero rated supplies and Deemed
+Exports
+
+4 213 |4 15 6 7 |8 9
+
+GSTIN of recipient | Invoice details _| Shipping bill/ Bill of export | Amount |
+No. | Date | Value | No. Date Rate | Taxable value | Amt. |
+
+6A. Exports
+
+‘6B. Supplies made to ‘SEZ unit or SEZ Developer
+
+| 6C. Deemed exports
+
+3. Substituted vide NOTIFICATION NO, 79/2020 — Central Tax dated 15-10-2020 before it was read as "Total value"
+4. Inserted vide NOTIFICATION NO. 82/2020-Central Tax dated 10-11-2020
+
+5. Substituted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as, "Year"
+
+6. Substituted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as, "Month"
+
+7. Substituted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as,
+
+https://www.taxtmi.com/forms?id=1198 8/12
+
+29/10/2026, 3:38:54 pm
+
+"3. (a) | Aggregate Turnover in the preceding Financial Year
+(b) | Aggregate Turnover — April to June, 2017"
+
+8. Substituted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as,
+"(i) attracting reverse charge and (ii) supplies made through e-commerce operator”
+
+9. Omitted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as,
+"4C. Supplies made through e-commerce operator attracting TCS (operator wise, rate wise)"
+
+10. Substituted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as,
+"5A. Outward supplies (other than supplies made through e-commerce operator, rate wise)"
+
+11. Omitted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as,
+"5B. Supplies made through e-commerce operator attracting TCS (operator wise, rate wise)"
+
+12. Substituted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as,
+
+"Rate of tax Total Taxable value Amount
+Integrated Central State Tax/UT Tax Cess
+1 2 3 4 5 6
+
+TA. Intra-State supplies
+7A (1). Consolidated rate wise outward supplies [including supplies made through e-commerce operator attracting TCS]
+
+7A (2). Out of supplies mentioned at 7A(1), value of supplies made through e-commerce Operators attracting TCS (operator
+wise, rate wise)
+GSTIN of a e-commerce operator
+
+7B. Inter-State Supplies where invoice value is upto = 2.5 Lakh [Rate wise]
+7B (1). Place of Supply (Name of State)
+
+7B (2). Out of the supplies mentioned in 7B (1), the supplies made through e-Commerce Operators (operator wise, rate wise)
+GSTIN of e-commerce operator
+
+13. Substituted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as, “debit notes, credit
+notes, refund vouchers"
+
+14. Substituted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as,
+"Revised details of document or details of original Debit/Credit Notes or refund vouchers"
+
+15. Omitted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as, "Inv."
+
+16. Substituted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as, "Invoice"
+
+17. Substituted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as, "If the invoice/Shipping
+bill details furnished earlier were incorrect"
+
+18. Omitted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as, "/Refund voucher"
+19. Substituted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as,
+
+“Debit Notes/Credit Notes/Refund voucher [amendments thereof]"
+
+20. Substituted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as, "Month"
+
+21. Omitted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as,
+
+"10A (1). Out of supplies mentioned at 10A, value of supplies made through e-Commerce Operator attracting TCS (operator
+wise, rate wise)
+GSTIN of -commerce operator l "
+
+22. Omitted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as,
+
+https://www.taxtmi.com/forms?id=1198 9/2
+
+29/10/2026, 3:38:54 pm
+
+"10B (1). Out of supplies mentioned at 10B, value of supplies made through e-Commerce Operator attracting TCS (operator
+wise, rate wise)
+| GSTIN of e-commerce operator [ | [ ["
+
+23. Inserted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022
+
+24. Omitted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as, “(Optional if HSN is
+provided)"
+
+25. Inserted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022
+26. Substituted vide NOTIFICATION No. 26/2022 — Central Tax dated 26-12-2022 before it was read as,
+"Instructions -
+
+1. Terms used:
+
+a. GSTIN: Goods and Services Tax Identification Number
+
+b. UIN: Unique Identity Number
+
+c. UQC: Unit Quantity Code
+
+d. HSN: Harmonized System of Nomenclature
+
+e. POS: Place of Supply (Respective State)
+
+f.B to B: From one registered person to another registered person
+g. Bto C: From one registered person to unregistered person
+
+2. The details in GSTR-1 should be furnished by 10th of the month succeeding relevant tax period.
+
+3. Aggregate turnover of the taxpayer for the immediate preceding financial year and first quarter of the current financial year
+shall be reported in the preliminary information in Table 3. This information would be required to be submitted by the taxpayers
+only in the first year. Quarterly turnover information shall not be captured in subsequent returns. Aggregate turnover shall be
+auto-populated in subsequent years.
+
+4. invoice-level information pertaining to the tax period should be reported for all supplies as under:
+
+(i) For all B to B supplies (whether inter-State or intra-State), invoice level details, rate-wise, should be uploaded in Table 4,
+including supplies attracting reverse charge and those effected through e-commerce operator.
+
+Outwards supply information in these categories are to be furnished separately in the Table.
+
+(ii) For all inter-State B to C supplies, where invoice value in more than % 2,50,000/- (B to C Large) invoice level details, rate-wise,
+should be uploaded in Table 5; and
+
+(iii) For all B to C supplies (whether inter-State or intra-State) where invoice value is up to = 2,50,000/- State-wise summary of
+supplies, rate-wise, should be uploaded in Table 7.
+
+5. Table 4 capturing information relating to B to B supplies should:
+(i) be captured in:
+a. Table 4A for supplies relating to other than reverse charge/ made through e-commerce operator, rate-wise;
+b. Table 4B for supplies attracting reverse charge, rate-wise; and
+
+c. Table 4C relating to supplies effected through e-commerce operator attracting collection of tax at source under
+section 52 of the Act, operator wise and rate-wise.
+
+(ii) Capture Place of Supply (PoS) only if the same is different from the location of the recipient.
+
+6. Table 5 to capture information of B to C Large invoices and other information shall be similar to Table 4. The Place of Supply
+(PoS) column is mandatory in this table.
+
+7. Table 6 to capture information related to:
+(i) Exports out of India
+
+(ii) Supplies to SEZ unit/ and SEZ developer
+
+https://www.taxtmi.com/forms?id=1198 10/12
+
+29/10/2026, 3:38:54 pm
+
+(iii) Deemed Exports
+
+8. Table 6 needs to capture information about shipping bill and its date. However, if the shipping bill details are not available,
+Table 6 will still accept the information. The same can be updated through submission of information in relation to amendment
+Table 9 in the tax period in which the details are available but before claiming any refund / rebate related to the said invoice.
+
+The detail of Shipping Bill shall be furnished in 13 digits capturing port code (six digits) followed by number of shipping bill.
+9. Any supply made by SEZ to DTA, without the cover of a bill of entry is required to be reported by SEZ unit in GSTR-
+
+1. The supplies made by SEZ on cover of a bill of entry shall be reported by DTA unit in its GSTR-2 as imports in GSTR-2. The
+liability for payment of IGST in respect of supply of services would, be created from this Table..
+
+10. In case of export transactions, GSTIN of recipient will not be there. Hence it will remain blank.
+
+11. Export transactions effected without payment of IGST (under Bond/ Letter of Undertaking (LUT) needs to be reported under
+"0" tax amount heading in Table 6A and 6B.
+
+12. Table 7 to capture information in respect of taxable supply of:
+(i) B to C supplies (whether inter-State or intra-State) with invoice value upto = 2,50,000;
+
+(ii) Taxable value net of debit/ credit note raised in a particular tax period and information pertaining to previous tax period
+which was not reported earlier, shall be reported in Table 10. Negative value can be mentioned in this table, if required;
+
+(iii) Transactions effected through e-commerce operator attracting collection of tax at source under section 52 of the Act to
+be provided operator wise and rate wise;
+
+(iv) Table 7A (1) to capture gross intra-State supplies, rate-wise, including supplies made through e-commerce operator
+attracting collection of tax at source and Table 7A (2) to capture supplies made through e-commerce operator attracting
+collection of tax at source out of gross supplies reported in Table 7A (1);
+
+(v) Table 7B (1) to caputre gross inter-State supplies including supplies made through e-commerce operator attracting
+collection of tax at source and Table 7B (2) to caputre supplies made through e-commerce operator attracting collection of
+tax at source out of gross supplies reported in Table 7B (1); and
+
+(vi) Table 7B to capture information of:
+13. Table 9 to capture information of:
+
+(i) Amendments of B to B supplies reported in Table 4, B to C Large supplies reported in Table 5 and Supplies involving
+exports/ SEZ unit or SEZ developer/ deemed exports reported in Table 6;
+
+(ii) Information to be captured rate-wise;
+
+(iii) It also captures original information of debit / credit note issued and amendment to it reported in earlier tax periods;
+While furnishing information the original debit note/credit note, the details of invoice shall be mentioned in the first three
+columns, While furnishing revision of a debit note/credit note, the details of original debit note/credit note shall be
+mentioned in the first three columns of this Table,
+
+(iv) Place of Supply (PoS) only if the same is different from the location of the recipient;
+
+(v) Any debit/ credit note pertaining to invoices issued before the appointed day under existing law also to be reported in
+this table; and
+
+(vi) Shipping bill to be provided only in case of exports transactions amendment.
+14. Table 10 is similar to Table 9 but captures amendment information related to B to C supplies and reported in Table 7.
+
+15. Table 11A captures information related to advances received, rate-wise, in the tax period and tax to be paid thereon along
+with the respective PoS. It also includes information in Table 11B for adjustment of tax paid on advance received and reported in
+earlier tax periods against invoices issued in the current tax period. The details of information relating to advances would be
+submitted only if the invoices has not been issued in the same tax period in which the advance was received.
+
+16. Summary of supplies effected against a particular HSN code to be reported only in summary table. It will be optional for
+taxpayers having annual turnover upto = 1.50 Cr but they need to provide information about description of goods.
+
+17. It will be mandatory to report HSN code at two digits level for taxpayers having annual turnover in the preceding year above =
+1.50 Cr but upto = 5.00 Cr and at four digits level for taxpayers having annual turnover above & 5.00 Cr.
+
+https://www.taxtmi.com/forms?id=1198 11/12
+
+29/10/2026, 3:38:54 pm
+
+4i18. It will be mandatory to specify the number of digits of HSN code for goods or services that a class of registered persons
+shall be required to mention as may be specified in the notification issued from time to time under proviso to rule 46 of the said
+rules.]"
+
+27. Substituted vide NOTIFICATION NO. 12/2024 — Central Tax dated 10-07-2024 w.e.f. 01-08-2024 before it was read as, "& 2.5
+lakh"
+
+28. Substituted vide NOTIFICATION NO. 12/2024 — Central Tax dated 10-07-2024 w.e.f. 01-08-2024 before it was read as, "Rs
+2.5 Lakh"
+
+29. Substituted vide NOTIFICATION NO. 12/2024 — Central Tax dated 10-07-2024 w.e.f. 01-08-2024 before it was read as, "Rs.
+2.50 lakh"
+
+https://www.taxtmi.com/forms?id=1198 12/12

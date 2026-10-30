@@ -1,0 +1,66 @@
+29/10/2026, 3:11:30 pm
+
+TaxTMI
+
+https://www.taxtmi.com
+
+Form No. GST REG - 11 - Application for extension of registration period by casual / non-resident
+taxable person
+
+Form GST REG-11
+
+[See rule 15(1) ]
+
+Application for extension of registration period by casual / non-resident taxable person
+
+1. | GSTIN
+
+2. | Name (Legal)
+
+3. Trade Name, if any
+
+4. | Address
+
+5. Period of Validity (original) From To
+DD/MMIYYYY DD/MM/YYYY
+
+6. Period for which extension is requested. From To
+DD/MMIYYYY DD/MM/YYYY
+
+7. | Turnover Details for the extended period
+
+Estimated Tax Liability (Net) for the extended period
+
+(Rs.) (Rs.)
+Inter- State Intra-State Central Tax | State | UT Tax | Integrated | Cess
+Tax Tax
+8. Payment details
+Date CIN BRN Amount
+
+https://www.taxtmi.com/forms?id=1173
+
+1/2
+
+29/10/2026, 3:11:30 pm
+
+9. | Declaration -
+| hereby solemnly affirm and declare that the information given herein above is true and correct
+to the best of my knowledge and belief and nothing has been concealed therefrom.
+Signature
+
+Name of Authorised
+Signatory:
+
+Designation / Status:
+Place:
+
+Date:
+
+Instructions for submission of application for extension of validity
+1. The application can be filed online before the expiry of the period of validity.
+2. The application can only be filed when advance payment is made.
+
+3. After successful filing, Application Reference Number will be generated which can be used to track the
+status of the application.
+
+https://www.taxtmi.com/forms?id=1173 2/2

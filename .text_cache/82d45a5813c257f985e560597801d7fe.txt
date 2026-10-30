@@ -1,0 +1,2113 @@
+29/10/2026, 2:37:07 pm
+
+TaxTMI
+
+https://www.taxtmi.com
+
+Application for Refund
+
+Form No. GST RFD - 1 - Application for Refund
+
+?S[FORM- GST-RFD-01.
+
+[See rules 89(1), 89 (1A) and 89 (1B)]
+
+(Applicable for casual or non-resident taxable person, tax deductor, tax collector, un-registered person and other registered taxable person)
+
+1. | GSTIN / Temporary
+1D
+
+2. | Legal Name
+
+3. | Trade Name, if any
+
+4. |Current registration
+status, as on date
+of filing
+
+5. | Address
+
+6. Tax period (if | From < Year > < Month > To < Year > < Month >
+
+applicable)
+7. | Amount of Refund | Act Tax Interest Penalty | Fees Others | Total
+Claimed (Rs.)
+Central tax
+State / UT
+tax
+Integrated
+tax
+Cess
+Total
+8 | Ground of refund | (a) Excess balance — in
+claim (select from Electronic Cash Ledger
+drop down)
+(b) Exports of  services-with
+payment of tax
+©) Exports of goods/services-without payment of tax (accumulated ITC)
+Whether refund of ITC availed on capital goods being claimed? Y/N
+() On account of order
+Sr. No. Type of order Order no. | Order Issuing Payment reference
+Authority no., if any
+ii, Assessment
+ii, Finalization of Provisional
+assessment
+iv. Appeal
+v. Any other order (specify)
+https://www.taxtmi.com/forms?id=1227 1/33
+
+29/10/2026,
+
+9. | Details
+account
+
+10.
+
+2:37:07 pm
+
+(e)
+
+()
+
+ITC accumulated due to inverted tax structure except refund filed under category mentioned in (f). [clause (ji) of first
+proviso to section 54(3)]
+
+CWhether refund of ITC availed on capital goods being claimed? Y/N
+ITC accumulated due to inverted tax structure where ITC accumulated involves supply made on account of notification
+
+No. 40/2017-CT(R) dated 23.10.2017 or notification No. 41/2017-IT(R) dated 23.10.2017. [clause (i) of first proviso to
+section 54(3)] C Whether refund of ITC availed on capital goods being claimed? Y/N
+
+(9)
+
+(h)
+
+On account of supplies made to SEZ unit / SEZ developer (with payment of tax)
+
+On account of supplies made to SEZ unit / SEZ developer (without payment of tax)
+
+(Whether refund of ITC availed on capital goods being claimed? Y/N
+
+(i)
+
+Recipient of deemed export supplies/ Supplier of deemed export supplies
+
+(ky
+
+0)
+
+(m)
+
+Tax paid on an intra-State supply which is subsequently held to be inter-state supply and vice versa (change of POS)
+Excess payment of tax, if any
+Refund to unregistered person
+
+Export of electricity without payment of tax (accumulated ITC) C) Whether refund of ITC availed on capital goods being
+claimed? YIN
+
+(n)
+
+(0)
+
+of Bank | Name
+bank
+
+ificate, under rule 89(2)(m), i
+
+Additional integrated tax paid on upward revision in price of goods subsequent to export
+
+Any other (specify)
+
+of | Address of branch IFSC Type of account ‘Account No
+
+UDIN No.
+
+Date:
+
+Firm registration No.
+ICAI enrolment No.:
+CA name:
+
+(This Certificate is not required to be furnished by applicants, who are claiming refund
+under clause
+
+(a) or clause (b) or clause (c) or clause (d) or clause (f) of sub-section (8) of section 54.)
+
+Attachment of CA certificate (Annexure 2)
+
+Nature of Business activity/Brief profile of business activity[optional]:
+
+{in not more than 1000 words):
+
+DECLARATION: A [First proviso to section 54(3), rule 89(4) and 89(5)]
+
+In case of refund claimed under clause (i) of first proviso to section 54(3)
+
+We hereby declare that the refund of input tax credit claimed in the application does not include (1) ITC availed on capital goods and (2) ITC not available
+under 17(5). In case of refund claimed under clause (i) of first proviso to section 54(3)
+
+We hereby declare that the refund of input tax credit claimed in the application does not include (1) ITC availed on capital goods, (2) ITC not available under
+17(5), (3) ITC availed on goods or services used for making ‘nil’ rated or fully exempt supplies. and (4) ITC availed on input services.
+
+DECLARATION - B [rule 89(2)(f)]
+
+We hereby declare that tax has not been collected from the Special Economic Zone unit /the Special Economic Zone developer in respect of supply of goods
+or services or both covered under this refund claim.
+
+https://www.taxtmi.com/forms?id=1227 2/33
+
+29/10/2026, 2:37:07 pm
+
+DECLARATION - C [Second proviso to rule 89(1)]
+(For recipient/supplier of deemed export) In case refund claimed by recipient
+
+We hereby declare that the refund has been claimed only for those invoices which have been detailed in statement 5B for the tax period for which refund is
+being claimed and the amount does not exceed the amount of input tax credit availed in the valid return filed for the said tax period. I/We also declare that the
+‘supplier has not claimed refund with respect to the said supplies. In case refund claimed by supplier
+
+We hereby declare that the refund has been claimed only for those invoices which have been detailed in statement SBfor the tax period for which refund is
+being claimed. !/We also declare that the recipient shall not claim any refund with respect of the said supplies and also, the recipient has not availed any input
+tax credit on such supplies.
+
+DECLARATION - D (section 54(4) &rule 89(2)(1)]
+
+We hereby declare that in respect of the refund amounting to Rs .-- / with respect to the tax, interest, or any other amount claimed in the refund application,
+the incidence of such tax and interest has not been passed on to any other person.
+
+(This Declaration is not required to be furnished by applicants, who are claiming refund under clause (a) or clause (b) or clause (c) or clause (d) or clause (f) of
+sub-section (8) of section 54)
+
+DECLARATION - E [Rule 91(1)]
+
+We hereby declare that I/We have not been prosecuted for any offence under the Act or under an existing law where the amount of tax evaded exceeds five
+hundred lakh rupees, during any period of five years immediately preceding the tax period to which the claim for refund relates.
+
+UNDERTAKING - A
+
+We hereby undertake to deposit to the Government the amount of refund sanctioned along with interest in case of non-receipt of foreign exchange
+remittances as per section 16 of the IGST Act, 2017 read with rule 96B of the CGST Rules, 2017.
+
+UNDERTAKING - B
+
+We hereby undertake to pay back to the Government the amount of refund sanctioned along with interest in case it is found subsequently that the
+requirements of sub-section (2) of section 16 of the CGST/SGST Act have not been complied with in respect of the amount refunded.
+
+11. Verification
+
+We < Taxpayer Name > hereby solemnly affirm and declare that the information given herein above is true and correct to the best of my/our knowledge and
+belief and nothing has been concealed therefrom.
+
+\We declare that no refund on this account has been received by me/us earlier.
+
+Place
+Date
+
+Signature of Authorised Signatory
+
+(Name)
+
+Designation/Status
+
+Annexure-4
+
+Statement 1A [rule 89(2)(h)]
+Refund Type: ITC accumulated due to inverted tax structure [clause (ii) of first proviso to section 54(3)]
+
+(Amount in Rs.)
+
+Details of documents of inward supplies received Tax paid on inward supplies | Whether | Eligible for
+ITC not ITC
+available.
+under
+section
+17(5)
+
+https://www.taxtmi.com/forms?id=1227 3/33
+
+29/10/2026, 2:37:07 pm
+
+Sl.| Type GSTIN | Name | Typeof |No. Port Date HSN/) Tax | Category Taxable | Integrated | Central | State/UT Total
+No| of of of | Document | B/E | Code SAC |Rate of inward Value | tax tax | Tax | tax
+Inward | Supplier! | Supplier supplies paid
+Supply Self
+GSTIN
+1) 2 3 3A 4 5| 6 > 7 7A 7B) 7C 8 9 10 1 1A) 1B 1c
+(YIN) | YIN/partially
+Details of documents of outward supplies issued Tax paid on outward supplies
+Type of outward supply | Type of document | No. | Date | HSN/ SAC Taxable Value | Tax Rate | Integrated Tax | Central Tax | State UT Tax
+12 13 14/15 | 145A 16 16A 7 18 19
+Statement-1 [rule 89(5)]
+Refund Type: ITC accumulated due to inverted tax structure [clause (ii) of first proviso to section 54(3)]
+(Amount in Rs.)
+Turnover of Tax payable on such | Adjusted total turnover (3=3a+3b+3c) Net ITC oninputs | Maximum refund
+inverted rated _ inverted rated supply input tax and input amount to be
+supply of goods of goods and credit | services | claimed [(1x4+3)-2]
+and services services
+TaxiCess Non  zero-rated | Zero-rated | Zero-rated
+supply of goods | supply of supply of
+and services _| goods services
+1A 1 2 3a 3b 3c 4 4A 5
+Integrated
+Tax
+Central
+Tax
+State / UT
+Tax
+Cess
+TOTAL
+
+Statement 1B (rule 89(2) (ha))
+
+Refund Type: ITC accumulated due to inverted tax structure in cases where supply of goods has been made under notification No. 40/2017-CT(R)
+dated 23.10.2017 and notification No. 41/2017-IT(R) dated 23.10.2017 (clause (ii) of first proviso to section 54(3))
+
+(Amount in Rs.)
+
+S. | Outward supply Tax paid on outward GSTINof | IEC | Shipping Bill/ Bill ofexport | EGM Whether goods
+No. | Invoice Details supplies recipient | recipient | details of filed by recipient | details | exported within 90
+days of issuance of
+invoice
+No. | Date | Taxable | Integrated | Central | State/ No. | Date} Port | FOB | Ref. | Date
+Value Tax Tax | UT Tax Code | value | No.
+1/2) 3 4 5 6 7 8 9 10 14 12 130014 :| 15 16
+
+https://www.taxtmi.com/forms?id=1227
+
+4/33
+
+29/10/2026, 2:37:07 pm
+
+Sr.No
+
+Type of
+Document
+
+Sr. No.
+
+Type of Document | No.
+
+Statement 2[rule 89(2)(c)]
+
+Refund Type: Export of services with payment of tax
+
+Document Details Integrated Tax, BRC/FIRC
+Date | Value | Taxable Value No. | Date | Value
+3) 4 | 5 | 6 7 8 9 | 10
+
+GSTR 1 period
+
+"1
+
+Document Details
+
+No. | Date | Value
+
+Statement 3 [rule 89(2)(b) and rule 89(2)(c)]
+
+Refund Type: Export without payment of tax (accumulated ITC)
+
+(Amount in Rs.)
+
+(Amount in Rs.)
+
+Goods/ Services HSN/ Shipping bill/Bill of export | EGM Details | BRC/FIRC
+(Gis) SAC
+Port No. FOB Ref. Date No. | Date | Value
+Code | Date | Value No.
+5 6 6A 7 89 10 mM | 12/13) 14) 15
+
+Statement-3A [rule 89(4)]
+
+Refund Type: Export without payment of tax (accumulated ITC)
+
+(Amount in Rs.)
+
+Turnover of zero-rated supply of | Net input tax | Adjusted total tumover (3=3a+3b+3c) Refund amount
+goods and services credit (1x2#3)
+TaxiCess Non zero-rated supply of Zero-rated supply | Zero-rated supply of
+goods and services of goods services
+1A 1 2 3a 3b 3c 4
+Integrated
+Tax
+Central Tax
+State | UT
+Tax
+Cess
+TOTAL
+Statement-3B [rule 89 (2) (ba)]
+Refund Type: Export of electricity without payment of tax (accumulated ITC)
+(Amount in Rs.)
+si. Invoice Details REA Det Tariff per Unit in | Units exported | —_Value of
+No. Rs. (As per (Lower of cl. electricity
+agreement) No Sand 10) | exported in Rs.
+Type of |No. Date Energy | Generating | Period | Ref. Date Scheduled 9 J z mt x12)
+Document exported Station No. Energy
+(Units) Exported
+(Units)
+https://www.taxtmi.com/forms?id=1227 5/33
+
+29/10/2026, 2:37:07 pm
+
+Statement 4 [rule 89(2)(d) and rule 89(2)(e)]
+
+Refund Type: On account of supplies made to SEZ unit or SEZ Developer (on payment of tax)
+
+(Amount in Rs.)
+GSTIN Document Details Goods/ Shipping bill/ | Taxable | Integrated Cess Payment details
+of Services Bill of export (in| Value | Tax
+recipient (GIS) case of supply
+of goods)/
+Endorsed
+invoice by SEZ
+(in case of
+supply of
+services)
+Type of No. Date Value HSN/ Port | No. | Date Transaction | Date | Amount | Bank | IFSC
+Document SAC Code ID No. account Code
+no.
+1 2 3/4 > 5 SA 5B | 5c) 6) 7 8 9 10 " 12) 13 | 140) 15
+
+Statement 5 [rule 89(2)(d) and rule 89(2)(e)]
+Refund Type: On account of supplies made to SEZ unit or SEZ Developer (without payment of tax)
+
+(Amount in Rs.)
+
+Sr. Document Details Goods/ | Shipping bill/ Bill of export (in case of | _ Details of payments made by supplier to the
+No. Service _ supply of goods)/ Endorsed invoice by recipient
+(Gis) SEZ (in case of supply of services)
+Type of No, | Date | Value | HSN/ Port Code No. Date | Transaction | Date Amount) Bank | IFSC
+Document SAC ID No. account | Code
+no.
+4 2 3| 4) 5 | 5A 6 6A 7 8 9 1) 11 12 13
+
+Statement-5A [rule 89(4)]
+
+Refund Type: On account of supplies made to SEZ unit / SEZ developer without payment of tax (accumulated ITC)
+
+(Amount in Rs.)
+Turover of zero-rated supply of | Net input tax Adjusted total tumover (3=3a+3b+3c) Refund amount
+goods and services credit (1x23)
+TaxiCess Non zero-rated supply of | Zero-rated supply | Zero-rated supply of
+goods and services of goods services
+1A 1 2 3a 3b 3e 4
+Integrated -
+Tax
+Central Tax
+State / UT
+Tax
+Cess
+
+https://www.taxtmi.com/forms?id=1227 6/33
+
+29/10/2026, 2:37:07 pm
+
+TOTAL
+
+Statement 5B [rule 89(2)(g)]
+
+Refund Type: On account of deemed exports claimed by supplier
+
+(Amount in Rs.)
+
+‘SI. No. | Document details of inward supplies in case refund is claimed by Supplier
+
+Tax paid
+
+1 1A 2 3) 4 5 6 7
+
+Statement 5B [rule 89(2)(g)]
+
+Refund Type: On account of deemed exports claimed by recipient
+
+SI. No. | Document details of inward supplies in case refund is claimed by recipient
+
+GSTIN of Supplier | Type of Document | No. | Date | Taxable Value | Integrated Tax | Central Tax
+
+GSTIN of Recipient | Type of Document | No. | Date | Taxable Value | Integrated Tax Central Tax | State/Union Territory Tax | Ces
+
+Tax paid
+
+State/Union Territory Tax | Cess
+
+(Amount in Rs.)
+
+10
+
+Statement 6 [rule 89(2)(j)]
+
+Refund Type: On account of change in POS (inter-state to intra-state and vice versa)
+
+(Amount in Rs.)
+
+Document type Recipient | Name (in Document Details Details of documents covering transaction considered as intra-
+B2C/Registered | GSTIN/UIN(in | case of State inter-State transaction earlier
+case of B2B) | B2C)
+Type of |No. Date Value | Taxable | Inter/intra | Integrated | Central | State/UT | Cess | PoS
+Document Value Tax tax
+1 2 3 4 5|/ 6) 7 8 9 10 13 | 14
+
+Transactions which were held inter State / intra-State supply subsequently
+
+Inter/Intra | Integrated Tax | Central tax | State/UT Tax | Cess | PoS
+
+15 16 7 18 19 | 20
+
+Statement-7
+
+[rule 89(2)(K)]
+
+Refund Type: Excess payment of tax, if any, in case of last return filed.
+
+SI. | Document/Invoice Details Details of amount paid Details of refund claimed
+
+No.
+
+https://www.taxtmi.com/forms?id=1227
+
+(Amount in Rs.)
+
+7/33,
+
+29/10/2026, 2:37:07 pm
+Type of | ARN | Date| Integrated | Central | State/UT |Cess| Interest] Any other | Integrated | Central | State/ Cess Interest) Any other
+document | No. Tax Tax Tax (please Tax Tax | UT Tax (please
+specify) specify)
+1 2 3) 4 5 6 7 8 | 9 10 " 12 130 1418 16
+Statement-8
+{rule 89(2)(ka)]
+Refund Type: Refund for unregistered persons
+(Amount in Rs.)
+SI. |GSTIN | Document/Invoice Details Tax Paid Details of Details of payment Refund Amount
+No. | of payment of | received against | Claimed
+supplier invoice value to |cancellation/termination _| (I+C+S+Cess)
+the supplier
+Type of | No. | Date | Taxable | Integrated | Central | State/UT Cess|Date | Amount Date Amount
+Document Value | Tax (I) | Tax (C) | Tax (S)
+(1) | (2) (3) (4) |) | 6) (7) (8) (9) (10) | (11) | (12) (13) (14) (15)
+Statement 9A
+{rule 89(2)(bb)]
+Refund Type: Additional integrated tax paid on upward revision in price of goods subsequent to export
+(Amount in Rs.)
+Export Invoice Shipping Bill Export remittance details Refund details
+‘No. | Date | Total value of Invoice | Port of export Code | No. | Date | BRC/FIRC No. | Date | Remittance amount | Amount | Date of sanction
+() | (2) (3) (4) () | (6) (7) (8) (9) (10) mm
+
+Post export price increase
+
+Supplementary invoices/ debit note & IGST payment details
+
+Additional export remittance details
+
+No, | Date Total value of Paid in FORM GSTR-3B | Total additional Interest paid on | BRC/FIRC | Date | Additional remittance
+supplementary invoice return period IGST paid IGST amount No. amount
+(12) (13) (14) (15) (16) (17) (18) (19) (20)
+Statement 9B
+
+[Rule 89(2)(be)]
+
+Refund Type: Details of debit/credit notes/supplementary invoice issued for export of goods
+
+https://www.taxtmi.com/forms?id=1227
+
+(Amount in Rs.)
+
+8/33
+
+29/10/2026, 2:37:07 pm
+
+S. | Type of document| Debit Note/ | Date of | Document | Tax liability | BRC/of | Dateof | Whether | Details of | Date of | Port of
+No.| — (Debit Note/ Credit Note/ | document | Declared in| paid/ITC foreign BRC/ refund | forsuch | such | export
+Credit Note/ | supplementary GSTR-1 for | claimed in inward foreign | claimed | shipping | shipping | code
+supplementary invoice the month | respect remittance | inward | shipping | Bill No. | bill
+invoice) document certificate | remittance | bill under
+declared in No. certificate | rule 96
+GSTR-3B for (YIN)
+the month
+7) (1a) (2) (3) (4) (5) (6) (7) (8) (9) (10) (11)
+
+Statement 10 [rules 89(4) and 89(5)]
+
+Refund type: Zero rated supplies without payment of tax (accumulated ITC) or ITC accumulated due to inverted tax structure Refund of eligible input tax credit
+availed on capital goods
+
+S. | Supplier's Invoice Details of capital goods GSTR-2B | Tax on inward supply of | ITC reversed Net ITC of capital
+No | GSTIN period capital goods relevant period | goods for the relevant
+period
+for the
+Type of Document No Date Value [HSN IGST CGST| SGST | IGST CGST  SGST
+1 2 3 4/5 67 8 9 10 4 12) 13) 14 15
+Invoice/CN/DNIBill_ of
+Entry
+Annexure-2
+
+Certificate [rule 89(2)(m)]
+
+This is to certify that in respect of the refund amounting to Rs. << >> (in words) claimed by M/s.— -- (Applicant 's Name) GSTIN/ Temporary ID -—--- for
+the tax period <—- >, the incidence of tax and interest, has not been passed on to any other person. This certificate is based on the examination of the books of
+account and other relevant records and returns particulars maintained/ furnished by the applicant.
+
+Signature of the Chartered Accountant/ Cost Accountant:
+
+Name:
+
+UDIN No -:
+
+Firm registration No .:
+
+ICAI enrolment No.
+Place:
+Date:
+
+Note - This Certificate is not required to be furnished by the applicant, claiming refund under clause (a) or clause (b) or clause (c) or clause (d) or clause (f) of
+sub-section (8) of section 54 of the Act.
+
+Annexure-3
+Annexure - 3 (rule 89 (2)(n))
+Statement of inward supplies to be submitted with application for refund of unutilized ITC
+Sr. Particulars Total Central Total State Tax/ Union Territory | Total Integrated | Total
+No. Tax Tax Tax Cess
+(1) | Total ITC as per Invoices mentioned in Utility
+(2) Reversal as per Rules 38,42 & 43 of CGST Rules and
+Section 17(5)
+9/33
+
+https://www.taxtmi.com/forms?id=1227
+
+29/10/2026, 2:37:07 pm
+
+(3) __| Reversals - Others
+
+Net Input Tax Credit after Reversals (1)-(2)-(3)
+
+Sr. Type  Typeof | GSTIN Document Details Category | HSN/ Total Tax Paid
+No of Document of the of | SAC
+Inward supplier inward ;
+Supply Name of Document | Port Date Taxable | siiopties Central| State | Integrated | Cess | Total Tax Paid
+the | NoJ/ Bill |Code Value Tax | Tax Tax (12413414415)
+Supplier | of Entry Union
+No. Territory
+Tax
+1, 2 3 4 5 6 78 9 10 “| 12 13 14 15 16
+
+Annexure-4
+
+Statement of Scheduled Energy for exported electricity by Generation Plants (Using Fuel except nuclear, gas, domestic linkage coal,_mix fuel) for
+claiming Input Tax Credit
+
+8. Month in which electricity was exported : (mmiyyyy)
+9. Name of Generating Station and Location : (insert name of Generating station, District, State)
+
+10. Name of Company : (insert name of Company)
+
+11. GSTIN of Company : (insert GSTIN of Company)
+
+12. Installed capacity of Generating Station : (insert Installed capacity in MW)
+
+13. Connection point, State and region : (specify "STU/ISTS" - insert name of sub-station), state, region
+
+14, Details of the Scheduled Energy during the month:
+
+Domestic
+
+Name of Domestic Entity ‘Scheduled Energy in (MU)
+
+Subtotal Domestic Sale (A)
+
+Cross Border
+
+Subtotal Export (B)
+
+Total Scheduled Energy of Generating Station (C=A+B) | (insert sum of subtotal-A and subtotal-B)
+
+Note: As per Complementary Commercial Mechanism under Section 6.1 (d) of CERC (Indian Electricity Grid Code) Regulations, 2010; beneficiaries shall pay
+energy charges for the scheduled dispatch, in accordance with the relevant contracts! orders of CERC.
+
+INSTRUCTIONS,
+
+1. List of all statements/declarations/undertakings/certificates and other supporting documents to be provided along with the refund application may be found in
+the Annexure appended to these instructions.
+
+2. In cases where the credit has accumulated both on account of rate of tax on inputs being higher than the rate of tax on output supplies, and output supplies
+being made under a concessional notification due to which the rate of tax on output supplies is less than the rate of tax on inputs, separate refund applications
+shall be filed, distinctly identifying the accumulation under each category. In such cases, it shall be ensured that the details of outward supplies pertaining to the
+relevant category are furnished exclusively in the respective statement, namely Statement 1A or Statement 18. Further, outward supply details do not have to
+correspond exactly to the inward-supply details in the same row.
+
+3. Item-wise details of supplies are required to be filled in Annexure-3 in case of refund of unutilised input tax credit.
+4, Debit entry shall be made in electronic credit or cash ledger at the time of fling the application.
+5. Acknowledgement in FORM GST RFD-02 will be issued if the application is found complete in all respects.
+
+6. Claim of refund on export of goods with payment of IGST shall not be processed through this application.
+
+https://www.taxtmi.com/forms?id=1227 10/33
+
+29/10/2026, 2:37:07 pm
+
+7. Bank account details should be as per registration data. Any change in bank details shall first be amended in registration particulars before quoting in the
+application.
+
+8A. In case of refund claim of accumulated input tax credit on account of inverted duty structure, net input tax credit means input tax credit availed on inputs and
+input services (in respect of which input tax credit has been availed on or after 1st November 2026).
+
+8B. In case of refund claim of accumulated input tax credit on account of zero-rated supplies, net input tax credit means input tax credit availed on inputs and
+input services.
+
+9. Adjusted total turnover shall have the same meaning as defined in rule 89(4)(E).
+10. For the purpose of Statement-1A, refund claim will be based on supplies reported in GSTR-1 as amended by GSTR-1A, if any.
+
+11, BRC or FIRC details will be mandatory where refund is claimed against export of services, while details of shipping bill and EGM will be mandatory to be
+provided in case of exporting goods.
+
+12. Where the invoice details are amended (including export), refund shall be allowed as per the calculation based on amended value.
+13, Details of export made without payment of tax shall be reported in Statement-3.
+
+14. Availability of refund to be claimed in case of supplies made to SEZ unit or SEZ developer without payment of tax shall be worked out in accordance with the
+formula prescribed in rule 89(4).
+
+15. Turnover of zero-rated supply of goods and services shall have the same meaning as defined in rule 89(4)..
+
+Annexure
+s. Type of Refund Statement/Declaration/Undertaking/ Certificates/ Supporting documents
+No.
+1. | Exports of services-with payment of tax a. Statement 2 (Statement of Outward supplies): to be based on supplies reported in
+
+Table 6A of FORM GSTR-1.
+
+b, Declaration E (Declaration of non-prosecution) and Undertaking B.
+
+2. | Exports of goods/ services- without payment of tax | a. Statement 3 (Statement of outward supplies): to be based on supplies reported in
+(accumulated ITC) Table 6A of FORM GSTR-1.
+
+b. Statement 3A (Calculation of refund amount):
+
+= Column 1 to be based on supplies reported in Table 6A of FORM GSTR 1.
+
++ Column 2 to not exceed the value of Net ITC available as reported in Table 4C of |
+FORM GSTR-3B.
+
++ Column 3 to be based on supplies reported in Table 3.1 of FORM GSTR-3B.
+
+c. Annexure 3 (Statement of inward supplies): to be based on details of invoices on the
+basis of which input tax credit has been availed during the relevant period for which the
+refund is being claimed.
+
+d. Declaration A (declaration regarding eligibility of input tax credit), Declaration E
+(Declaration of non- prosecution) and Undertaking A and B.
+
+Other Supporting documents: in case of export of goods made through non-ED! ports,
+copy of Shipping bill
+
+3. | Refund of ITC unutilized on account of accumulation due to | a. Statement 1A (Statement of inward and outward supplies):
+inverted tax structure
+a. to be based on details of invoices on the basis of which input tax credit has
+been availed during the relevant period for which the refund is being claimed.
+
+b. to be based on supplies reported in Table 6A of FORM GSTR-1.
+
+b. Statement 1 (Calculation of refund amount): Column 3 to be based on supplies
+reported in Table 3.1 of FORM GSTR-3B. c. Annexure 3 (Statement of inward supplies):
+to be based on details
+
+of invoices on the basis of which input tax credit has been availed during the relevant
+period for which the refund is being claimed.
+
+d. Declaration A (declaration regarding eligibility of input tax credit), Declaration E
+(Declaration of non- prosecution) and Undertaking B.
+
+4, | On account of supplies made to SEZ units/ SEZ developer | b. Statement 5 (Statement of outward supplies): to be based on supplies reported in
+(without payment of tax) Table 6B of FORM GSTR-1.
+
+c. Statement 5A (Calculation of refund amount):
+
++ Column 1 to be filled as reported in Table 6B of FORM GSTR-1.
+
++ Column 2 to not exceed the value of Net ITC available as reported in Table 4C of
+FORM GSTR-38.
+
++ Column 3 to be filled as reported in table 3.1 of FORM GSTR-3B.
+
+https://www.taxtmi.com/forms?id=1227 11/33
+
+29/10/2026, 2:37:07 pm
+
+On account of supplies made to SEZ units/ SEZ developer
+(with payment of tax)
+
+d. Annexure 3 (Statement of inward supplies): to be based on details of invoices on the
+basis of which input tax credit has been availed during the relevant period for which the
+refund is being claimed,
+
+d. Declaration A (declaration regarding eligibility of input tax credit), Declaration B
+(declaration regarding collection of tax from the Special Economic Zone unit or
+developer), Declaration & (Declaration of non- prosecution) and Undertaking A.
+
+e. Proof of payment (in case of supply of services)
+a. Statement 4 (Statement of outward supplies): to be based on supplies reported in
+Table 6B of FORM GSTR-1.
+
+b. Declaration B (declaration regarding collection of tax from the Special Economic
+Zone unit or developer), Declaration E (Declaration of non-prosecution) and
+Undertaking B.
+
+c. Proof of payment (in case of supply of services)
+
+ITC accumulated due to inverted tax structure where ITC
+accumulated involves supply made on account of
+concessional rate notifications [clause (ii) of first proviso to
+section 54(3)]
+
+Export of electricity without payment of tax (accumulated ITC)
+
+Refund to supplier of tax paid on deemed export supplies
+
+a. Statement 1B (Statement of outward supplies):
+
+a. to be based on supplies at concessional rate reported in Table 4 of FORM
+GSTR-1.
+
+b. details of shipping billbill of export and EGM in respect of said outward
+supplies filed by the recipient to be filled.
+
+b. Statement 1 (Calculation of refund): Column 3 to be based on supplies reported in
+Table 3.1 of FORM GSTR-3B.
+
+c. Annexure 3 (Statement of inward supplies): to be based on details of invoices on the
+basis of which input tax credit has been availed during the relevant period for which the
+refund is being claimed.
+
+d. Declaration A (declaration regarding eligibility of input tax credit) and Undertaking B.
+a. Statement 3 (Statement of outward supplies): to be based on supplies reported in
+Table 6A of FORM GSTR-1.
+
+b. Statement 3A (Calculation of refund amount):
+
+= Column 1 to be based on supplies reported in Table 6A of FORM GSTR 1.
+
++ Column 2 to not exceed the value of Net ITC available as reported in Table 4C of
+FORM GSTR-3B.
+
++ Column 3 to be based on supplies reported in Table 3.1 of FORM GSTR-3B.
+
+c. Statement 3B (Statement of invoices for export of electricity)
+
+d. Annexure 3 (Statement of inward supplies): to be based on details of invoices on the
+basis of which input tax credit has been availed during the relevant period for which the
+refund is being claimed.
+
+e. Undertaking A and Undertaking B
+
+f. Statement of scheduled energy for electricity exported by the Generation Plants (in
+format attached as Annexure 4).
+
+a. Statement 5B (Statement of inward supplies): to be based on details of invoices on
+the basis of which input tax credit has been availed during the relevant period for which
+the refund is being claimed.
+
+b. Declaration C (Declaration in respect of exports deemed by supplier) and
+Undertaking B.
+
+c. Declaration D (declaration regarding passing of incidence of tax to another person), if
+amount claimed does not exceed two lakh rupees Or CA certificate details if amount
+claimed exceeds two lakh rupees (Annexure 2).
+
+d. Documents required under notification No. 49/2017-Central Tax dated 18.10.2017.
+
+https://www.taxtmi.com/forms?id=1227
+
+12/33
+
+29/10/2026, 2:37:07 pm
+
+9. | Refund to recipient of tax paid on deemed export supplies
+
+10. | Refund of tax paid on intra-state supply which is subsequently
+held to be an inter-state supply and vice versa
+
+a. Statement 5B (Statement of inward supplies): to be based on details of invoices on
+the basis of which input tax credit has been availed during the relevant period for which
+the refund is being claimed.
+
+b. Declaration C (Declaration in respect of deemed exports by recipient) and
+Undertaking B.
+
+c. Declaration D (declaration regarding passing of incidence of tax to another person), if
+amount claimed does not exceed two lakh rupees Or CA certificate details if amount
+claimed exceeds two lakh rupees (Annexure 2).
+
+d. Documents required under circular No. 14/14/2017-GST dated 06.11.2017.
+a Statement 6 (Statement of details of transactions considered as intra-State/inter-State
+earlier and subsequently)
+
+b. Undertaking B
+
+11. | Refund of excess payment of tax
+
+a. Statement 7 (Statement of invoices where excess payment of tax is made)
+b. Undertaking B
+
+c. Declaration D (declaration regarding passing of incidence of tax to another person), if
+amount claimed does not exceed two lakh rupees Or CA certificate details if amount
+claimed exceeds two lakh rupees(Annexure 2)
+
+c. Documents required under circular No. 14/14/2017-GST dated 06.11.2017
+
+42. | Refund on account of assessment/assessment/appeal any
+other order
+
+a. Undertaking B
+
+b. Declaration D (declaration regarding passing of incidence of tax to another person), if
+amount claimed does not exceed two lakh rupees Or CA certificate details if amount
+claimed exceeds two lakh rupees(Annexure 2)
+
+c. Reference number of the order
+d. copy of the Assessment/Provisional Assessment/Appeal/Any Other Order
+
+e. Reference number/proof of payment of pre-deposit made earlier for which refund is
+being claimed
+
+13, | Refund on account of any other ground or reason
+
+14, | Refund to unregistered person
+
+15. | Refund of additional Integrated Tax (IGST) paid on account of
+upward revision in price of the goods subsequent to exports
+
+https://www.taxtmi.com/forms?id=1227
+
+a, Undertaking B , Declaration D (declaration regarding passing of incidence of tax to
+another person), if amount claimed does not
+
+b. exceed two lakh rupees Or CA certificate details if amount claimed exceeds two lakh
+rupees (Annexure 2)
+
+c. Documents in support of the claim
+
+a. Statement 8 (Statement of invoices in respect of which refund is being claimed)
+b, Undertaking B
+
+c. Declaration D (declaration regarding passing of incidence of tax to another person), it
+amount claimed does not exceed two lakh rupees Or CA certificate details if amount
+claimed exceeds two lakh rupees(Annexure 2)
+
+c. Certificate issued by supplier as per rule 89(2)(kb)..
+
+a. Statement 9A (Statement of export invoices)
+
+b, Statement 98 (Details of debit/credit notes/supplementary invoice issued for export of
+goods)
+
+c. Copy of shipping bill or bill of exports;
+d. Copy of original invoices;
+
+e. Copy of contract/ other document(s), as applicable, indicating requirement for the
+revision in price of such goods subsequent to exports;
+
+f. Copy of the original invoices as well as relevant debit note(s)/ supplementary
+invoices;
+
+9. Proof of payment of additional IGST and applicable interest and details of the
+relevant FORM GSTR-1/ FORM GSTR-3B furnished by the applicant in which the said
+debit note(s)/ supplementary invoice(s) were declared and tax and interest thereon had
+been paid by the applicant;
+
+h. Proof of receipt of remittance of additional foreign exchange (FIRC) issued by
+Authorised Dealer-I banks;
+
+13/33
+
+29/10/2026, 2:37:07 pm
+
+i. A certificate of a practising chartered accountant or a cost accountant certifying
+therein that the said additional foreign exchange remittance is on account of such
+upward revision in price of the goods subsequent to export,]
+
+NOTES:-
+
+1. | Substituted vide not. no. 47/2017 - Dated 18-10-2017, before it was read as,
+Statement- 2 [rule 89(2)(c)]
+Refund Type: Exports of services with payment of tax
+
+(Amount in Rs.)
+
+Sr. Invoice details Integrated tax BRC/ FIRC | Integrated tax involved in debit | Integrated tax involved in credit, Net Integrated tax
+No. | | note, if any note, if any (6+9- 10)
+No.| Date Value | Taxable Amt. No. Date
+value
+1 2 3 4 5 6 7 8 9 10 1
+
+2. | Substituted vide not, no. 47/2017 - Dated 18-10-2017, before it was read as,
+Statement-4 [rule 89(2)(d) and 89(2)(e)]
+Refund Type:On account of supplies made to SEZ unit or SEZ Developer (on payment of tax)
+
+(Amount in Rs.)
+
+GSTIN of | Invoice details Shipping bill/ Bill_of export/| Integrated Tax | Integrated tax involved | Integrated tax involved | Net Integrated tax
+
+recipient Endorsed invoice by SEZ in debit note, ifany | in credit note, ifany | (8+ 9-10)
+No. | Date | Value | No. Date Taxable | Amt.
+Value
+1 2|/3 4 |5 6 7 8 |9 10 1"
+
+3. | Substituted vide Notification No. 70/2017 - Dated 21-12-2017, before it was read as, "Recipient of deemed export”
+
+4. | Inserted vide Notification No. 70/2017 - Dated 21-12-2017,
+
+5. | Substituted vide Notification No. 70/2017 - Dated 21-12-2017, before it was read as,
+
+"DECLARATION [rule 89(2)(9)]
+
+(For recipients of deemed export)
+
+hereby declare that the refund has been claimed only for those invoices which have been reported in statement of inward supplies
+filed in Form GSTR-2 for the tax period for which refund is being claimed and the amount does not exceed the amount of input
+
+tax credit availed in the valid retum filed for the said tax period.
+
+Signature
+
+Name —
+
+Designation / Status
+
+https://www.taxtmi.com/forms?id=1227 14/33
+
+29/10/2026, 2:37:07 pm
+
+7. Substituted vide Notification No. 74/2018 — Central Tax dated 31-12-2018 before it was read as
+
+(Applicable for casual or non-resident taxable person, tax deductor, tax collector, unregistered person and other registered taxable person)
+
+UNDERTAKING
+
+respect of the amount refunded.
+Signature
+Name —
+
+Designation / Status’
+
+| hereby undertake to pay back to the Government the amount of refund sanctioned along with interest in case it is found subsequently that the
+requirements of clause (c) of sub-section (2) of section 16 read with sub-section (2) of section 42 of the CGST/SGST Act have not been complied with in
+
+Signature
+Name —
+
+Designation / Status"
+
+"DECLARATION [second proviso to section 54(3)]
+
+Substituted vide Notification No.12/2018 - Dated 07-03-2018, before it was read as,
+
+Ihereby declare that the goods exported are not subject to any export duty. | also declare that | have not availed any drawback on goods or services or
+both and that | have not claimed refund of the integrated tax paid on supplies in respect of which refund is claimed.
+
+“FORM-GST-RFD-01
+[See rule 89(1)]
+
+Application for Refund
+
+1.
+
+GSTIN | Temporary ID
+
+2. | Legal Name
+3. | Trade Name, if any
+4. | Address
+5. | Tax period From To
+(if applicable)
+6. | Amount of Act Tax Interest Penalty Fees Others | Total
+Refund Claimed
+Central tax
+(Rs.)
+State / UT
+tax
+Integrated
+tax
+Cess
+
+https://www.taxtmi.com/forms?id=1227
+
+15/33
+
+29/10/2026, 2:37:07 pm
+
+Total
+7. | Grounds of refund claim (select | (a)
+from drop down)
+(b)
+(c)
+
+()
+
+Excess balance in Electronic Cash Ledger
+
+Exports of services- with payment of tax
+
+Exports of goods / services- without payment of tax (accumulated ITC)
+
+On account of order
+
+Sr.
+
+No.
+
+ii)
+
+(ii)
+
+(iv)
+
+Type of order
+
+Assessment
+
+Provisional assessment
+
+Appeal
+
+Any other
+
+order (specify)
+
+Order no.
+
+Order date Order
+Issuing
+
+Authority
+
+Payment reference
+
+no., ifany
+
+(e)
+
+()
+
+(9)
+
+(h)
+
+(i)
+
+0)
+
+(k)
+
+0)
+
+8. | Details of Bank account Name
+bank
+
+of
+
+ITC accumulated due to inverted tax structure [clause (ii) of first proviso to section 54(3)]
+
+On account of supplies made to SEZ unit/ SEZ developer (with payment of tax)
+
+On account of supplies made to SEZ unit/ SEZ developer (without payment of tax)
+
+3iRecipient of deemed export supplies/Supplier of deemed export supplies]
+
+Tax paid on a supply which is not provided, either wholly or partially, and for which invoice has not been
+
+issued (tax paid on advance payment)
+
+Tax paid on an intra-State supply which is subsequently held to be inter-State supply and vice
+versa(change of POS)
+
+Excess payment of tax, if any
+
+Any other (specify)
+
+Address
+
+of branch
+
+IFSC
+
+Type of
+
+account
+
+Account No.
+
+9, | Whether Self-Declaration filed by Applicant u/s 54(4), if applicable
+
+Yes
+
+No
+
+S[DECLARATION [second proviso to section 54(3)]
+
+I hereby declare that the goods exported are not subject to any export duty. | also declare that I have not availed any drawback of central excise duty/service
+tax/central tax on goods or services or both and that | have not claimed refund of the integrated tax paid on supplies in respect of which refund is claimed.
+
+Signature
+Name —
+
+Designation / Status)
+
+https://www.taxtmi.com/forms?id=1227
+
+16/33
+
+29/10/2026, 2:37:07 pm
+
+DECLARATION ion ii
+
+| hereby declare that the refund of input tax credit claimed in the application does not include ITC availed on goods or services used for making ‘nil’
+rated or fully exempt supplies.
+
+Signature
+Name —
+
+Designation / Status
+
+DECLARATION (rule 89(2)(f]
+
+Thereby declare that the Special Economic Zone unit /the Special Economic Zone developer has not availed of the input tax credit of the tax paid by the
+applicant, covered under this refund claim.
+
+Signature
+Name —
+
+Designation / Status
+
+S[DECLARATION [rule 89(2)(9)]
+(For recipient/supplier of deemed export)
+In case refund claimed by recipient __
+
+hereby declare that the refund has been claimed only for those invoices which have been detailed in statement 5B for the tax period for which refund is being
+claimed and the amount does not exceed the amount of input tax credit availed in the valid return filed for the said tax period. | also declare that the supplier
+has not claimed refund with respect to the said supplies.
+
+In case refund claimed by supplier __
+
+Thereby declare that the refund has been claimed only for those invoices which have been detailed in statement 5B for the tax period for which refund is being
+claimed. | also declare that the recipient shall not claim any refund with respect of the said supplies and also, the recipient has not availed any input tax credit
+on such supplies.
+
+Signature
+
+Name —
+
+Designation / Status
+
+UNDERTAKING
+
+I hereby undertake to pay back to the Government the amount of refund sanctioned along with interest in case it is found subsequently that the requirements
+of clause (c) of sub-section (2) of section 16 read with sub-section (2) of section 42 of the CGST/SGST Act have not been complied with in respect of the
+amount refunded.
+
+Signature
+
+Name —
+
+Designation / Status]
+
+SELF- DECLARATION [rule 89(2)(I)]
+
+1 (Applicant) having GSTIN/ temporary Id ——-, solemnly affirm and certify that in respect of the refund amounting to Rs. -~/ with
+respect to the tax, interest, or any other amount for the period from-—to----, claimed in the refund application, the incidence of such tax and interest has not
+been passed on to any other person.
+
+Signature
+
+https://www.taxtmi.com/forms?id=1227 17/33
+
+29/10/2026, 2:37:07 pm
+
+Name —
+
+Designation / Status
+
+(This Declaration is not required to be furnished by applicants, who are claiming refund under clause (a) or clause (b) or clause (c) or clause (d) or clause (f) of
+sub-section (8) of section 54.)
+
+10. Verification
+
+We <Taxpayer Name> hereby solemnly affirm and declare that the information given herein above is true and correct to the best of my/our knowledge
+and belief and nothing has been concealed therefrom.
+
+We declare that no refund on this account has been received by me/us earlier.
+
+Place
+Signature of Authorised Signatory
+Date
+
+(Name)
+
+Designation’ Status
+
+Annexure-1
+
+Statement -1 [rule 89(5)]
+
+Refund Type: ITC accumulated due to inverted tax structure [clause (ii) of first proviso to section 54(3)}
+
+(Amount in Rs.)
+
+Turnover of inverted rated supply | Tax payable on such inverted
+
+rated | Adjusted total | Net input tax Maximum refund amount to be claimed
+of goods supply of goods turnover credit (1%4+3)-2]
+1 2 3 4 5
+
+4[Statement 1A [rule 89(2)(h)]
+
+Refund type: ITC accumulated due to inverted tax structure [clause (i) of first proviso to section 54(3)]
+
+Sl. | Details of invoices of inward | Tax paid on inward supplies Details of invoices of outward | Tax paid on outward supplies
+No. | supplies received supplies issued
+No. |Date Taxable Value Integrated Central State/Un ion |No. Date | Taxable Value Integrated Central_| State/Union
+Tax Tax territory Tax Tax Tax territory Tax
+1 2 |3 4 5 6 7 8 9 10 " 12 13
+]
+
+‘[Statement- 2 [rule 89(2)(c)]
+
+Refund Type: Exports of services with payment of tax
+
+(Amount in Rs.)
+
+Sr. | Invoice details _| Integrated tax | Cess | BRC/ Integrated tax and cess involved | Integrated tax and cess involved | Net
+No.
+
+Integrated tax and
+FIRC in debit note, if any
+
+in credit note, if any cess (6+7+10 - 11)
+
+https://www.taxtmi.com/forms?id=1227 18/33
+
+29/10/2026, 2:37:07 pm
+
+No. | Date Value Taxable | Amt. No. | Date
+Value
+1 2 |/3 \4 5 6 |7 |8 9 (10 "1 12
+
+Statement- 3 [rule 89(2)(b) and 89(2)(c)]
+Refund Type:Export without payment of tax (accumulated ITC)
+
+(Amount in Rs.)
+
+Sr. No. Invoice details Goods/ | Shipping bill/ Bill of export EGM Details | BRC/ FIRC
+Services
+No. Date Value | (gjg) Portcode No. | Date Ref No. | Date No. Date
+1 2 13 4 5 6 7 8 9 10 611 «(12
+
+Statement- 3A [rule 89(4)]
+Refund Type: Export without payment of tax (accumulated ITC) — calculation of refund amount
+
+(Amount in Rs.)
+
+Turnover of zero rated supply of goods and services | Net input tax credit | Adjusted total turnover Refund amount (1*2+3)
+
+2statement-4 [rule 89(2)(d) and 89(2)(e)]
+Refund Type: On account of supplies made to SEZ unit or SEZ Developer (on payment of tax)
+
+(Amount in Rs.)
+
+GSTIN of Invoice details | Shipping bill’ Bill of| Integrated | Cess | Integrated tax and cess Integrated tax and cess Net Integrated tax
+recipient export/ Endorsed invoice | Tax involved in debit note, if involved in credit note, if and cess (8+9+10—
+by SEZ any any 11)
+No. | Date | Value | No. Date Taxable | Amt.
+Value
+1 2/3 4 15 6 7 8 |9/10 " 12
+]
+
+Statement-5 [rule 89(2)(d) and 89(2)(e)]
+Refund Type:On account of supplies made to SEZ unit or SEZ Developer (without payment of tax)
+
+(Amount in Rs.)
+Sr. No. | Invoice details Goods! Services (G/S) | Shipping bill/ Bill of export/ Endorsed invoice no.
+
+No. | Date | Value No. Date
+
+https://www.taxtmi.com/forms?id=1227 19/33
+
+29/10/2026, 2:37:07 pm
+
+Statement-5A [rule 89(4)]
+
+Refund Type:On account of supplies made to SEZ unit / SEZ developer without payment of tax (accumulated ITC) — calculation of refund amount
+
+(Amount in Rs.)
+
+Turover of zero rated supply of goods and services | Net input tax credit | Adjusted total turnover | Refund amount (1x2+3)
+
+[Statement 5B [rule 89(2)(g)]
+Refund Type: On account of deemed exports
+(Amount in Rs)
+
+SI. | Details of invoices of outward supplies in case refund is claimed by supplier/ Details of invoices of Tax paid
+No, | inward supplies in case refund is claimed by recipient
+
+No. Date Taxable Value Integrated | Central | State _/Union | Cess
+Tax Tax Territory Tax
+1/2 3 4 5 6 7 8
+
+Statement-6 [rule 89(2)(j)]
+
+Refund Type: On account of change in POS of the supplies (Inter-State to intra-State and vice versa)
+
+Order Details (issued in pursuance of sections 77 (1) and (2), if any: Order No: Order Date:
+(Amount in Rs.)
+
+GSTIN/ _UIN| Details of invoices covering transaction considered as intra —State / inter-State | Transaction which were held inter State / intra-State
+Name (in case transaction earlier supply subsequently
+B2C)
+Invoice details Integrated | Central| State’ | Cess Place of Integrated | Central State/| Cess Place of
+tax tax UT tax Supply tax tax UT tax Supply
+No.| Date} Value| Taxable
+Value
+1 213 14 5 6 7 8 9 10 1" 12 13 1415
+
+Statement-7 [rule 89(2)(k)]
+
+Refund Type: Excess payment of tax, if any in case of last retum filed.
+
+(Amount in Rs.)
+
+Tax period | ARN of return | Date of fling return Tax Payable
+
+Integrated tax | Central tax | State/ UT tax Cess
+
+Annexure-2
+
+https://www.taxtmi.com/forms?id=1227 20/33
+
+29/10/2026, 2:37:07 pm
+
+Certificate [rule 89(2)(m)]
+
+This is to certify that in respect of the refund amounting to Rs.<<>> —-----—- (in words) claimed by M/s (Applicant's Name) GSTIN/ Temporary ID-
+~---~ for the tax period < —>, the incidence of tax and interest, has not been passed on to any other person. This certificate is based on the examination of the
+books of account and other relevant records and returns particulars maintained/ furnished by the applicant.
+
+Signature of the Chartered Accountant/ Cost Accountant:
+Name:
+
+Membership Number:
+
+Place:
+
+Date:
+
+Note - This Certificate is not required to be furnished by the applicant, claiming refund under clause (a) or clause (b) or clause (c) or clause (d) or clause (f) of
+sub-section (8) of section 54 of the Act.
+
+Instructions —
+
+1. Terms used:
+
+(a) B to C: From registered person to unregistered person
+(b) EGM: Export General Manifest
+
+(c) GSTIN: Goods and Services Tax Identification Number
+(d) GST: Integrated goods and services tax
+
+(e) ITC: Input tax credit
+
+() POS: Place of Supply (Respective State)
+
+(g) SEZ: Special Economic Zone
+
+(h) Temporary |D: Temporary Identification Number
+(i) UIN: Unique Identity Number
+2. Refund of excess amount available in electronic cash ledger can also be claimed through return or by filing application.
+3. Debit entry shall be made in electronic credit or cash ledger at the time of filing the application.
+4, Acknowledgement in FORM GST RFD-02 will be issued if the application is found complete in all respects.
+5. Claim of refund on export of goods with payment of IGST shall not be processed through this application,
+
+6. Bank account details should be as per registration data. Any change in bank details shall first be amended in registration particulars before quoting in the
+application.
+
+7. Declaration shall be filed in cases wherever required.
+
+8. ‘Net input tax credit’ means input tax credit availed on inputs during the relevant period for the purpose of Statement-1 and will include ITC on input services
+also for the purpose of Statement-3A and 5A.
+
+9. ‘Adjusted total turnover’ means the turnover in a State or a Union territory, as defined under clause (112) of section 2 excluding the value of exempt supplies
+other than zero-rated supplies, during the relevant period.
+
+10. For the purpose of Statement-1, refund claim will be based on supplies reported in GSTR1 and GSTR-2.
+
+11. BRC or FIRC details will be mandatory where refund is claimed against export of services details of shipping bill and EGM will be mandatory to be provided
+in case of export of goods.
+
+12. Where the invoice details are amended (including export), refund shall be allowed as per the calculation based on amended value.
+13. Details of export made without payment of tax shalll be reported in Statement-3.
+
+14, Availabilty of refund to be claimed in case of supplies made to SEZ unit or SEZ developer without payment of tax shall be worked out in accordance with
+the formula prescribed in rule 89(4)..
+
+15. ‘Turnover of zero rated supply of goods and services’ shall have the same meaning as defined in rule 89(4).”
+
+8. Substituted vide Notification No. 03/2019-Central Tax dated 29-01-2019 w.e-f. 01-02-2019 before it was read as
+
+“DECLARATION [rule 89(2)(f)]
+
+I hereby declare that the Special Economic Zone unit /the Special Economic Zone developer has not availed of the input tax credit of the tax paid by the
+applicant, covered under this refund claim.
+
+Signature
+Name —
+
+Designation / Status”
+
+https://www.taxtmi.com/forms?id=1227 21/33
+
+29/10/2026, 2:37:07 pm
+
+9. Substituted vide Notification No, 33/2019 — Central Tax dated 18-07-2019 before it was read as
+“Statement 5B [rule 89(2)(g)]
+Refund Type: On account of deemed exports
+
+(Amount in Rs)
+
+Sl. _| Details of invoices of outward supplies in case refund is claimed Tax paid
+No.
+
+by supplier/Details of invoices of inward supplies in case refund is claimed by
+
+recipient
+GSTIN of the supplier No. Date Taxable Value Integrated Central State Tax /Union Territory | Cess
+Tax Tax Tax
+4 2 3 4 5 6 7 8 9
+
+10. Substituted vide Notification No. 56/2019 — Central Tax dated 14-11-2019 before it was read as
+“Statement 1A [rule 89(2)(h)]
+Refund Type: ITC accumulated due to inverted tax structure [clause (ii) of first proviso to section 54(3)}
+
+SI. | Details of invoices of _ inward | Tax paid on inward supplies of inputs | Details of invoices of outward] Tax paid on outward supplies
+No. | supplies of inputs received supplies issued
+
+GST IN of No. | Date | Taxable | Integrated Central | State Tax /Uni|No | Date | Taxable Invoice type Integrated Central _ State Tax /Uni
+
+the supplier Value | Tax Tax on territory |. Value | (B2B/B2C) Tax Tax on __ territory
+. Tax Tax
+1 |2 3/4 |5 6 7 8 9 10/11 12 13 14 15
+
+* In case of imports or supplies received under reverse charge mechanism [sub-section (3) of section 9 of the CGST Act/SGST Act or sub-section (3) of section
+5 of IGST Act], the GSTIN of supplier will mean GSTIN of applicant (recipient).”
+
+11. Substituted vide Notification No. 56/2019 ~ Central Tax dated 14-11-2019 before it was read as.
+“Statement- 2 [rule 89(2)(c)]
+Refund Type: Exports of services with payment of tax
+
+(Amount in Rs.)
+
+Sr. _| Invoice details Integrated tax | Cess | BRC/FIRC | Integrated tax and cess| Integrated tax and cess Net Integrated tax and
+No. involved in debit note, if any | involved in credit note, if any _ cess (6+7+10 - 11)
+No. | Date| Value | Taxable | Amt. No. | Date
+value
+1 2 3 4 5 6 |7 |8 |9 10 " 12
+
+12. Substituted vide Notification No. 56/2019 — Central Tax dated 14-11-2019 before it was read as
+“Statement- 3 [rule 89(2)(b) and 89(2)(c)]
+Refund Type: Export without payment of tax (accumulated ITC)
+
+(Amount in Rs.)
+
+Sr. No. | Invoice details Goods/ Services (G/S) | Shipping bill/ Bill of export | EGM Details | BRC/ FIRC
+
+No. | Date | Value Port code | No. | Date | RefNo. Date No. | Date
+
+https://www.taxtmi.com/forms?id=1227 22/33
+
+29/10/2026, 2:37:07 pm
+
+13, Substituted vide Notification No. 56/2019 — Central Tax dated 14-11-2019 before it was read as
+“Statement-4 [rule 89(2)(d) and 89(2)(e)]
+Refund Type: On account of supplies made to SEZ unit or SEZ Developer (on payment of tax)
+
+(Amount in Rs.)
+
+GSTIN of] Invoice details Shipping. bill/ Bill _ of Integrated Tax | Cess | Integrated tax and cess Integrated tax and cess Net Integrated tax
+
+recipient export! Endorsed involved in debit note, if involved in credit note, if and cess (8+9+10 —
+invoice by SEZ any any 11)
+No | Date | Value No. Date Taxable —§ Amt.
+Value
+1 2\3 4 5 6 7 8 |9 10 1 12
+
+14. Inserted vide Notification No. 56/2019 — Central Tax dated 14-11-2019
+
+15, Substituted vide Notification No. 56/2019 — Central Tax dated 14-11-2019 before it was read as
+“Statement-5 [rule 89(2)(d) and 89(2)(e)]
+
+Refund Type: On account of supplies made to SEZ unit or SEZ Developer (without payment of tax)
+
+(Amount in Rs.)
+
+Sr. No. Invoice details | Goods/ Services (G/S) | Shipping bill/ Bill of export/ Endorsed invoice no.
+No. | Date | Value No. Date
+1 2 |3 4 5 6 7
+
+16. Substituted vide Notification No. 56/2019 — Central Tax dated 14-11-2019 before it was read as
+"8[Statement 5B [rule 89(2)(g)]
+Refund Type: On account of deemed exports
+
+(Amount in Rs)
+
+si. Tax paid
+No, | Details of invoicesicredit notes/debit notes of outward supplies in case refund is claimed by supplier/Details
+of invoices of inward supplies in case refund is claimed by recipient
+
+GSTIN of the supplier No. | Date Taxable Value Integrated Central | State | Cess
+Tax Tax
+Tax
+Type
+; JUnion
+(Invoice/ Credit
+territor
+Note/ "
+; Tax
+Debit
+Note)
+1 2 3 4 5 6 7 8 9 | 10
+
+r
+17. Substituted vide Notification No. 56/2019 — Central Tax dated 14-11-2019 before it was read as
+
+“Statement-6 [rule 89(2)(j)]
+
+https://www.taxtmi.com/forms?id=1227 23/33
+
+29/10/2026, 2:37:07 pm
+
+Refund Type: On account of change in POS (inter-State to intra-State and vice versa) Order Details (issued in pursuance of sections 77 (1) and (2), if any: Order
+
+No: Order Date:
+
+(Amount in Rs.)
+
+Recipient's Invoice details Details of tax paid on transaction considered as intra | Taxes re-assessed on transaction which were held
+GSTIN/ UIN State / inter-State transaction earlier inter State / intra-State supply subsequently
+Name (in case
+B2C)
+
+No |Date Value Taxable | Integrated Central State/ Ces Place of | Integrated Central | Stat |Cess Place of
+Value tax tax UT tax Supply | tax tax Supply
+ef UT
+tax
+1 2/3 4 |5 6 7 8 9 | 10 "1 12 13° 14 «| 15
+
+18. Inserted vide Notification No. 16/2020 — Central Tax dated 23-03-2020
+19. Omitted vide NOTIFICATION NO. 79/2020 ~ Central Tax dated 15-10-2020 before it was read as "(accumulated ITC)"
+
+20. Inserted vide NOTIFICATION NO. 14/2022-Central Tax dated 05-07-2022
+
+21. Inserted vide NOTIFICATION NO. 14/2022-Central Tax dated 05-07-2022
+
+22. Inserted vide NOTIFICATION No, 26/2022 — Central Tax dated 26-12-2022
+
+23. Substituted vide NOTIFICATION NO. 38/2023- Central Tax dated 04-08-2023 before it was read as,
+
+"Tax period | ARN of return | Date of fling return | Tax Payable
+Integrated tax | Central tax | State/ UT tax Cess
+1 2 3 4 5 6 7
+
+24. Substituted vide Notification No. 12/2024 — Central Tax dated 10-07-2024 w.e. 10-07-2024 before it was read as, "GSTR-1 and GSTR-2"
+
+25. Inserted vide Notification No. 12/2024 — Central Tax dated 10-07-2024 wef, 10-07-2024
+
+26. Substituted vide Notification No. 05/2026-Central Tax dated 26-10-2026 w.e.f. 01-12-2026 before it was read as,
+
+"T[FORM-GST-RFD-01
+[See rule 89(1)]
+Application for Refund
+(Applicable for casual or non-resident taxable person, tax deductor, tax collector, un-registered person and other registered taxable person)
+1. GSTIN/ Temporary ID
+2. Legal Name
+3. Trade Name, if any
+4, Address
+5. | Tax period (if applicable) From To
+6. Amount of Refund Claimed | Act Tax Interest Penalty | Fees | Others Total
+(Rs.)
+Central tax
+State / UT
+tax
+Integrated
+tax
+https://www.taxtmi.com/forms?id=1227 24/33
+
+29/10/2026, 2:37:07 pm
+
+Cess
+Total
+7. | Grounds of refund claim (select | (a)
+from drop down)
+(b)
+(c)
+
+(a)
+
+Excess balance in Electronic Cash Ledger
+
+Exports of services- with payment of tax
+
+Exports of goods / services- without payment of tax (accumulated ITC)
+
+On account of order
+
+Sr. No. Order Order | Order Issuing Payment reference
+no. date | Authority no., if any
+Type of order
+( Assessment
+(ii) Finalization of Provisional
+assessment
+(ii) Appeal
+(iv) Any other order (specify)
+
+(e)
+
+o)
+
+ITC accumulated due to inverted tax structure [clause (ii) of first proviso to section 54(3)}
+
+On account of supplies made to SEZ unit/ SEZ developer (with payment of tax)
+
+(9) On account of supplies made to SEZ unit/ SEZ developer (without payment of tax)
+(h) Recipient of deemed export supplies/ Supplier of deemed export supplies
+(i) Tax paid on a supply which is not provided, either wholly or partially, and for which invoice has not been
+issued (tax paid on advance payment)
+() Tax paid on an intra-State supply which is subsequently held to be inter-State supply and vice
+versa(change of POS)
+(k) Excess payment of tax, if any
+() Any other (specify)
+8. Details of Bank account Name of | Address of branch IFSC Type of account Account No.
+bank
+9. | Whether Self-Declaration filed by Applicant u/s 54(4), if applicable __Yes _No
+
+[DECLARATION [second proviso to section 54(3)]
+
+I hereby declare that the goods exported are not subject to any export duty. | also declare that I have not availed any drawback of central excise duty/service
+tax/central tax on goods or services or both and that | have not claimed refund of the integrated tax paid on supplies in respect of which refund is claimed.
+
+Signature
+Name —
+
+Designation / Status")
+
+https://www.taxtmi.com/forms?id=1227
+
+25/33
+
+29/10/2026, 2:37:07 pm
+
+DECLARATION [section 54(3)(ii)]
+
+| hereby declare that the refund of input tax credit claimed in the application does not include ITC availed on goods or services used for making ‘nil’ rated or
+fully exempt supplies.
+
+Signature
+Name —
+
+Designation / Status
+
+S[DECLARATION [rule 89(2)(f)]
+
+I hereby declare that tax has not been collected from the Special Economic Zone unit /the Special Economic Zone developer in respect of supply of goods or
+services or both covered under this refund claim.
+
+Signature Name —
+
+Designation / Status]
+
+DECLARATION [rule 89(2)(g)]
+(For recipient/supplier of deemed export)
+In case refund claimed by recipient__
+
+hereby declare that the refund has been claimed only for those invoices which have been detailed in statement 5B for the tax period for which refund is being
+claimed and the amount does not exceed the amount of input tax credit availed in the valid return filed for the said tax period. | also declare that the supplier
+has not claimed refund with respect to the said supplies.
+
+In case refund claimed by supplier__
+
+| hereby declare that the refund has been claimed only for those invoices which have been detailed in statement 5B for the tax period for which refund is being
+claimed. | also declare that the recipient shall not claim any refund with respect of the said supplies and also, the recipient has not availed any input tax credit
+‘on such supplies.
+
+Signature
+Name —
+
+Designation / Status
+
+*8[UNDERTAKING
+
+I hereby undertake to deposit to the Government the amount of refund sanctioned along with interest in case of non-receipt of foreign exchange
+remittances as per the proviso to section 16 of the IGST Act, 2017 read with rule 96B of the CGST Rules 2017.
+
+Signature-
+Name —
+
+Designation / Status]
+
+UNDERTAKING
+
+I hereby undertake to pay back to the Government the amount of refund sanctioned along with interest in case it is found subsequently that the requirements
+of clause (c) of sub-section (2) of section 16 read with sub-section (2) of section 42 of the CGST/SGST Act have not been complied with in respect of the
+amount refunded.
+
+Signature
+Name —
+
+Designation / Status
+
+SELF- DECLARATION [rule 89(2)(1)]
+
+1 (Applicant) having GSTIN/ temporary Id —-—-, solemnly affirm and certify that in respect of the refund amounting to Rs. -~/ with
+respect to the tax, interest, or any other amount for the period from-—to----, claimed in the refund application, the incidence of such tax and interest has not
+been passed on to any other person.
+
+Signature
+
+https://www.taxtmi.com/forms?id=1227 26/33
+
+29/10/2026, 2:37:07 pm
+
+Name —
+
+Designation / Status
+
+(This Declaration is not required to be furnished by applicants, who are claiming refund under clause (a) or clause (b) or clause (c) or clause (d) or clause (f) of
+‘sub-section (8) of section 54.)
+
+10. Verification
+
+We hereby solemnly affirm and declare that the information given herein above is true and correct to the best of my/our knowledge and belief and
+nothing has been concealed therefrom.
+
+We declare that no refund on this account has been received by me/us earlier.
+Place
+
+Date
+
+Signature of Authorised Signatory
+
+(Name)
+
+Designation/ Status
+
+Annexure-1
+Statement -1 [rule 89(5)]
+
+Refund Type: ITC accumulated due to inverted tax structure [clause (ii) of first proviso to section 54(3)}
+
+(Amount in Rs.)
+
+Turnover of inverted rated supply of | Tax payable on such inverted rated supply Adjusted total Net input tax Maximum refund amount to be
+goods and services of goods and services turnover credit claimed [(1%4+3)-2]
+
+10Statement 1A [rule 89(2)(h)]
+
+Refund Type: ITC accumulated due to inverted tax structure [clause (ii) of first proviso to section 54(3)]
+
+Sl. | Details of documents of inward supplies received of inputs received Tax paid on Inward supplies
+No.
+Type of Inward GSTIN of Supplier/Self GSTIN | Type of |No/B/E|Port | Date | Taxable | Integrated | Central Tax’ State/
+supply Document Code Value Tax UT Tax
+1 2 3 4 5 6 7 8 9 10 1"
+Details of documents of outward supplies issued Tax paid on outward supplies
+
+https://www.taxtmi.com/forms?id=1227 27/33
+
+29/10/2026, 2:37:07 pm
+
+12 13 14 15 16 17 18 19
+
+‘Type of Outward Supply | Type of Document | No. Date | Taxable Value | Integrated Tax | Central Tax | State/ UT Tax
+
+12 13 1415 16 17 18 19
+
+B2B/B2C 1
+
+“Tstatement 2 [rule 89(2)(c)]
+
+Refund Type: Export of services with payment of tax 19[***]
+
+Sr. No. Document Details Integrated Tax |Cess|  BRC/ FIRC
+‘Type of Document | No. | Date | Value | Taxable value No. | Date | Value
+1 2 3545 7 8 9 10) 11 | 12
+
+12[Statement 3 [rule 89(2)(b) and rule 89(2)(c)]
+
+Refund Type: Export without pa yment of tax (accumulated ITC)
+
+Sr. No. Document Details Goods / Services (G/S)
+
+Type of Document | No. | Date | Value
+
+1 2 3/4) 5 6
+Shipping bill’ Bill of export EGM Details BRC/ FIRC
+201FOB value
+
+Port code | No | Date Ref No Date | No. | Date | Value
+
+7 8) 9 9A] 10 4 | 12) 13) 14
+
+Statement- 3A [rule 89(4)]
+Refund Type: Export without payment of tax (accumulated ITC) — calculation of refund amount
+
+(Amount in Rs.)
+
+Turnover of zero rated supply of goods and services Net input tax credit | Adjusted total turnover Refund amount (1x2+3)
+
+https://www.taxtmi.com/forms?id=1227 28/33
+
+29/10/2026, 2:37:07 pm
+
+24TStatement-3B [rule 89 (2) (ba)]
+
+Refund Type: Export of electricity without payment of tax (accumulated ITC)
+
+‘Si. Invoice/Document Details REA Details Tariff per Units Value of electricity
+No. exported
+Unit in Rs. exported
+(Lower ins.
+(As per
+Type of No. | Date | Energy exported |Gene-ating Period Ref | Date Scheduled x
+Document (Units) Station No. Energy agreement) ofel (4x22)
+Exported Nos
+(Units)
+and 10)
+1/2 3 4 [5 6 7 8 2 10 " 2 13]
+‘3[statement 4 [rule 89(2)(d) and rule 89(2)(e))
+Refund Type: On account of supplies made to SEZ unit or SEZ Developer (on payment of tax)
+GSTIN of recipient Document Details Shipping bill Bill of export/ Endorsed invoice by SEZ | Taxable Value | Integrated Tax | Cess
+Type of Document | No. Date | Value No. Date
+4 2 3/4 | 5 6 7 8 9 10
+]
+‘4istatement 4A
+Refund by SEZ on account of supplies received from DTA — With payment of tax
+GSTIN of Supplier Document Details Shipping bill/ Bill of export/ Endorsed invoice | Taxable Value | Integrated Tax | Cess
+by SEZ
+Type of Document | No. Date | Value No. Date
+1 2 3/4] 5 6 7 8 9 10
+1
+15[Statement 5 [rule 89(2)(d) and rule 89(2)(e)]
+Refund Type: On account of supplies made to SEZ unit or SEZ Developer (without payment of tax)
+Sr. No. Document Details Goods/ Services (G/S) | Shipping bill/ Bill of export! Endorsed invoice no.
+Type of Document | No./Date | Value No. Date
+1 2 3/4) 5 6 7 8
+
+https://www.taxtmi.com/forms?id=1227 29/33
+
+29/10/2026, 2:37:07 pm
+
+Statement-5A [rule 89(4)]
+
+Refund Type: On account of supplies made to SEZ unit / SEZ developer without payment of tax (accumulated ITC) — calculation of refund amount
+
+(Amount in Rs.)
+
+Tumover of zero rated supply of Net input tax credit | Adjusted total turnover | Refund amount (1*2+3)
+
+goods and services
+
+18[Statement 5B [rule 89(2)(g)]
+
+Refund Type: On account of deemed exports claimed by supplier
+
+SI. | Document details of inward supplies in case refund is claimed by Supplier Tax paid
+No.
+Type of Document | No. Date Taxable Value _ Integrated Tax Central Tax | State/Union | Cess
+Territory Tax
+1 2 3 4 5 6 7 8 9
+Statement 5B [rule 89(2)(g)]
+Refund Type: On account of deemed exports claimed by recipient
+si. Document details of inward supplies in case refund is claimed by recipient Tax paid
+No
+GSTIN of | Type of Document No | Date Taxable Value _| Integrated Tax | Central Tax  State/Union Cess
+Supplier . Territory Tax
+1 2 3 4 5 6 7 8 9 40
+1
+
+‘7[Statement 6 [rule 89(2)(j)]
+
+Refund Type: On account of change in POS (inter-state to intra-state and vice versa)
+
+Document Type | Recipeint | Name Document Details
+
+B2C/Registered | GSTIN/UIN | (in case of B2C)
+Type of Document | No. | Date | Value | Taxable Value
+
+https://www.taxtmi.com/forms?id=1227
+
+30/33
+
+29/10/2026, 2:37:07 pm
+
+Details of documents covering transaction considered as intra —State / inter-State transaction earlier
+
+Inter/Intra Integrated Tax
+
+Central tax
+
+State/UT Tax Cess | PoS
+
+Inter/Intra
+
+10
+
+Integrated Tax
+
+"
+
+Transaction which were held inter State / intra-State supply subsequently
+
+Central tax
+
+State/UT Tax | Cess | PoS
+
+12 13 14
+
+15
+
+16
+
+17
+
+18 1920
+
+Statement-7 [rule 89(2)(k)]
+
+Refund Type: Excess payment of tax, if any in case of last return filed.
+
+(Amount in Rs.)
+
+23[s1, | Document/Invoice Details Details of amount paid
+No.
+Type of document | ARN Date | Integrated Tax | Central Tax | State / UT Tax | Cess | Interest Any other
+No. (please specify)
+1 2 34 5 6 7 8 9 10
+Details of refund claimed
+Integrated Tax | Central Tax | State / | Cess Interest | Any other
+UT (please specify)
+Tax
+aa 12 13 14 15 16)
+221Statement-8 [rule 89(2)(ka)]
+Refund Type: Refund for unregistered persons
+SI. |GSTIN of Document! Tax Paid Details of payment of invoice | Details of payment received | Refund
+‘supplier value to the suppli against cancellation/ termination
+No. Invoice Details Amount
+Claimed
+Type of No.| Date Taxable Integr Central | State) | Cess | Date Amount Date Amount (e
+document Value | ated Tax
+Tax (C) | UT ce
+w Tax
+s+
+s)
+Cess)
+https://www.taxtmi.com/forms?id=1227 31/33
+
+29/10/2026, 2:37:07 pm
+
+10
+
+25[Statement 9A [rule 89(2)(bb)]
+
+12
+
+4 15
+
+Refund Type: Additional integrated tax paid on upward revision in price of goods subsequent to export
+
+Export Invoice Shipping Export remittance details | Refund
+Bill details
+No . | Date | Total Port No. Date | BRC | Date | Remittance Amount | Date of sanction
+value _| of export ! amount
+of Invoice | Code FIRC
+No.
+(1) (2) |) (4) (5) (6) (7) |) | (9) (10) | (11)
+
+Post export price increase
+supplementary invoices/ debit note & IGST payment details Additional export
+remittance details
+No . | Date | Total value of supplementary | Paid in Total additional Interest paid on IGST amount | BRC/ FIRC No. | Date | Additional remittance
+invoice FORM IGST paid amount
+GSTR-3B
+return period
+(42) | (13) | (14) (15) (16) (17) (18) (19) | (20)
+Statement 9B [rule 89(2)(bo)]
+Refund Type: Details of debit/ credit notes/ supplementary invoice issued for export of goods
+S. | Type of document Debit Note/ Credit Date of | Document Tax liability paid/
+N_ | (Debit Note/ Note/ supplementary document | Declared in ITC claimed in respect of document
+0. | Credit Note/ supplementary invoice) | invoice GSTR-+1 for the month | declared in
+GSTR-3B for the month
+(1) (2) (3) (4) (5)
+BRC/ Date of Whether refund claimed for shipping | Details of such shipping| Date of | Port of
+bill under Bill No. such
+foreign inward remittance BRC/ export
+certificate No. Rule 96 shipping | code
+foreign inward remittance bill
+certificate (YIN)
+https://www.taxtmi.com/forms?id=1227 32/33
+
+29/10/2026, 2:37:07 pm
+
+(6) @% (8) | (9) (10) (11)
+| | }
+Annexure-2
+Cer te [rule 89(2)(m)]
+This is to certify that in respect of the refund amounting to Rs.< < > > (in words) claimed by M/s~ (Applicant's Name) GSTIN/ Temporary
+ID------- for the tax period < —->, the incidence of tax and interest, has not been passed on to any other person. This certificate is based on the examination of
+
+the books of account and other relevant records and returns particulars maintained/ furnished by the applicant.
+Signature of the Chartered Accountant/ Cost Accountant:
+
+Name:
+
+Membership Number:
+
+Place:
+
+Date:
+
+Note - This Certificate is not required to be furnished by the applicant, claiming refund under clause (a) or clause (b) or clause (c) or clause (d) or
+clause (f) of sub-section (8) of section 54 of the Act.
+
+Instructions —
+1. Terms used:
+a. B to C: From registered person to unregistered person
+b. EGM: Export General Manifest
+c. GSTIN: Goods and Services Tax Identification Number
+d. IGST: Integrated goods and services tax
+e. ITC: Input tax credit
+£, POS: Place of Supply (Respective State)
+g. SEZ: Special Economic Zone
+h. Temporary ID: Temporary Identification Number
+i. UIN: Unique Identity Number
+2. Refund of excess amount available in electronic cash ledger can also be claimed through return or by filing application,
+3. Debit entry shall be made in electronic credit or cash ledger at the time of filing the application.
+4. Acknowledgement in FORM GST RFD-02 will be issued if the application is found complete in all respects.
+5. Claim of refund on export of goods with payment of IGST shall not be processed through this application.
+
+6, Bank account details should be as per registration data, Any change in bank details shall first be amended in registration particulars before quoting in
+the application.
+
+7. Declaration shall be filed in cases wherever required.
+
+8. ‘Net input tax credit’ means input tax credit availed on inputs during the relevant period for the purpose of Statement-1 and will include ITC on input
+services also for the purpose of Statement-3A and 5A.
+
+9. ‘Adjusted total turnover’ means the turnover in a State or a Union territory, as defined under clause (112) of section 2 excluding the value of exempt
+supplies other than zero-rated supplies, during the relevant period.
+
+10. For the purpose of Statement-1, refund claim will be based on supplies reported in 4[GSTR-1 as amended by GSTR-1A, if any].
+
+11. BRC or FIRC details will be mandatory where refund is claimed against export of services details of shipping bill and EGM will be mandatory to be
+provided in case of export of goods.
+
+12, Where the invoice details are amended (including export), refund shall be allowed as per the calculation based on amended value.
+13. Details of export made without payment of tax shall be reported in Statement-3.
+
+14. Availabilty of refund to be claimed in case of supplies made to SEZ unit or SEZ developer without payment of tax shall be worked out in accordance
+with the formula prescribed in rule 89(4)..
+
+15. ‘Turnover of zero rated supply of goods and services’ shall have the same meaning as defined in rule 89(4),]"
+
+https://www.taxtmi.com/forms?id=1227 33/33

@@ -1,0 +1,469 @@
+29/10/2026, 3:39:25 pm
+
+TaxTMI https://www.taxtmi.com
+
+Form No. GSTR - 1A - Amendment of outward supplies of goods or services for current tax period
+
+1TFORM GSTR-1A
+[See proviso to rule 59(1)]
+
+Amendment of outward supplies of goods or services for current tax period
+
+[Financial Year]
+
+[Tax period]
+
+1. GSTIN
+
+2. (a) Legal name of the registered person
+
+(b) Trade name, if any
+
+3.| (a) ARN
+
+(b) | Date of ARN
+
+4. Taxable outward supplies made to registered persons (including UIN-holders) other than supplies covered by Table 6
+
+(Amount in Rs. for all Tables)
+
+GSTIN/ | Invoice details Rate | Taxable value | Amount Place of Supply (Name of
+UIN State/UT)
+No. Date Value Integrated Tax Central | State/ Cess
+Tax UT Tax
+1 2 3 4 5 6 7 8 9 10 a
+
+4A. Supplies other than those [attracting reverse charge (including supplies made through e-commerce operator attracting TCS)]
+
+4B. Supplies attracting tax on reverse charge basis
+
+5. Taxable outward inter-State supplies to un-registered persons where the invoice value is more than Rs 1 lakh
+
+https://www.taxtmi.com/forms?id=2258 1/8
+
+29/10/2026, 3:39:25 pm
+
+Place of Invoice details Rate Taxable | Amount
+Supply (State/UT) Value
+
+No. | Date | Value Integrated Tax Cess
+1 2 3 4 5 6 7 8
+
+5. Outward supplies (including supplies made through e-commerce operator, rate wise)
+
+6. Zero rated supplies and Deemed Exports
+
+GSTIN of | Invoice details Shipping bill/ Bill | Integrated Tax Central Tax State / UT Tax Cess
+recipient of
+export
+No Date | Value No Date Rate | Taxable Amt | Rate | Taxable | Amt | Rate | Taxable Amt
+value value
+value
+1 2 3 4 5 6 7 8 9 10 |11 12/13 | 14 15 | 16
+6A. Exports
+
+6B. Supplies made to SEZ unit or SEZ Developer
+
+6C. Deemed exports
+
+7. Taxable supplies (Net of debit notes and credit notes) to unregistered persons other than the supplies covered in Table 5
+
+Rate of tax Total Taxable value Amount
+Integrated Central State Tax/UT Tax Cess
+1 2 3 4 5 6
+
+7A. Intra-State supplies
+
+Consolidated rate wise outward supplies [including supplies made through e-commerce operator attracting TCS]
+
+7B. Inter-State Supplies where invoice value is upto Rs 1 Lakh [Rate wise]-Consolidated rate wise outward supplies [including supplies
+made through e-commerce operator attracting TCS]
+
+https://www.taxtmi.com/forms?id=2258 2/8
+
+29/10/2026, 3:39:25 pm
+
+Place of Supply (Name of State)
+
+8. Nil rated, exempted and non-GST outward supplies
+
+Description
+
+Nil Rated Supplies Exempted
+
+(Other than Nil rated/non- GST supply)
+
+Non-GST supplies
+
+8A. Inter-State supplies to registered persons
+
+8B. Intra- State supplies to registered persons
+
+8C. Inter-State supplies to unregistered persons
+
+8D. Intra-State supplies to unregistered persons
+
+9. Amendments to taxable outward supply details furnished in FORM- GSTR-1 for the current tax periods in Table 4, 5 and 6
+[including debit and credit notes issued during current period and amendments thereof]
+
+Details of original | Revised details of document or details of original Rate Taxable Amount
+
+document Debit or Credit Notes
+
+G_ | Doc. Doc. |GS | Document
+
+ST | No. Date TI
+
+No Date
+
+Value
+Shipping bill Value Integrated
+Tax
+No. Date
+7 8 9 10 611 12
+
+Tax
+
+Central State/ | Cess
+UT
+Tax
+14 15
+
+13
+
+Place
+of
+
+supply
+
+16
+
+9A. Amendment of invoice/Shipping bill details furnished
+
+9B. Debit Notes/Credit Notes [original]
+
+9C. Debit Notes/Credit Notes [Amended]
+
+10. Amendments to taxable outward supplies to unregistered persons furnished in FORM GSTR-1 for current tax periods in
+
+Table 7
+
+Rate of tax Total Taxable value Amount
+
+https://www.taxtmi.com/forms?id=2258
+
+Integrated Central Tax State/UT
+
+Tax Tax
+
+UT Tax
+
+Cess
+
+3/8
+
+29/10/2026, 3:39:25 pm
+
+Tax period for which the details are being revised —_current tax period should be auto populated here)
+
+10A. Intra-State Supplies[including supplies made through e-commerce operator attracting TCS] [Rate wise]
+
+10B. Inter-State Supplies[including supplies made through e-commerce operator attracting TCS] [Rate wise]
+
+Place of Supply (Name of State)
+
+11. Consolidated Statement of Advances Received/Advance adjusted in the current tax period/ Amendments of information
+furnished in current tax period [(Net of refund vouchers, if any)]
+
+Rate Gross Advance Place of supply Amount
+Received/ (Name of State / UT)
+Integrated Tax Central State/ Cess
+adjusted
+Tax UT Tax
+UT Tax
+1 2 3 4 5 6 7
+
+| Information for the current tax period
+
+11A. Advance amount received in the tax period for which invoice has not been issued (tax amount to be added to output tax liability)
+
+11A (1). Intra-State supplies(Rate Wise)
+
+11A (2). Inter-State Supplies(Rate Wise)
+
+11B. Advance amount received in earlier tax period and adjusted against the supplies being shown in this tax period in Table Nos. 4, 5,
+6 and7
+
+11B (1). Intra-State Supplies (Rate Wise)
+
+11B (2). Inter-State Supplies(Rate Wise)
+
+Il Amendment of information furnished in Table No. 11[1] in GSTR-1 statement for current tax period [Furnish revised
+information]
+
+Month Amendment relating to information furnished in S. No.(select) MA (1A (11B | 11B
+
+https://www.taxtmi.com/forms?id=2258 48
+
+29/10/2026, 3:39:25 pm
+
+@) (2) |) |)
+12. HSN-wise summary of outward supplies
+Sr. No. | HSN | Description UQC | Total Rate of Tax | Total Amount
+Quantity Taxable
+Integrated Central | State/UT | Cess
+Value
+Tax Tax Tax
+1 2 3 4 5 6 7 8 10 a
+13. Documents issued during the tax period
+Sr. | Nature of document Total Cancelled | Net
+number issued
+No.
+1/2 5 6 7
+1 | Invoices for outward supply
+2 Invoices for inward supply from unregistered person
+3 | Revised Invoice
+4 | Debit Note
+5 | Credit Note
+6 Receipt voucher
+7 Payment Voucher
+8 | Refund voucher
+9 Delivery Challan for job work
+10 | Delivery Challan for supply on approval
+11 Delivery Challan in case of liquid gas
+12 | Delivery Challan in cases other than by way of supply (excluding at S no. 9 to
+11)
+
+14. Details of the supplies made through e-commerce operators on which e-commerce operators are liable to collect tax under section 52
+of the Act or liable to pay tax u/s 9(5) [Supplier to report]
+
+https://www.taxtmi.com/forms?id=2258
+
+5/8
+
+29/10/2026, 3:39:25 pm
+
+Nature of supply
+
+(a) Supplies on which ecommerce operator is liable to collect tax
+
+u/s 52
+
+GSTIN of Net value | Tax amount
+
+of
+e
+commerce | supplies _| Integrated Central
+tax tax
+operator
+2 3 4 5
+
+State Cess
+/
+
+UT
+
+tax
+
+6 7
+
+(b) Supplies on which ecommerce operator is liable to pay tax u/s
+
+9(5)
+
+14A. Amendment to details of the supplies made through e-commerce operators on which e-commerce operators are liable to collect tax
+under section 52 of the Act or liable to pay tax u/s 9(5) [Supplier to report]
+
+Nature of supply
+
+Original details
+
+Month
+
+/
+
+Quarter
+
+Revised Net value
+details of
+supplies
+GSTIN of | GSTIN of
+e e-commerce
+commerce
+operator
+operator
+3 4 5
+
+Tax amount
+
+Integrated Central
+
+tax
+
+tax
+
+State Cess
+/
+
+UT
+
+tax
+
+8 9
+
+(a) Supplies on which ecommerce operator
+
+is Liable to collect tax u/s 52
+
+(b) Supplies on which ecommerce operator
+
+is liable to pay tax u/s 9(5)
+
+15. Details of the supplies made through e-commerce operators on which e-commerce operator is liable to pay tax u/s 9(5) [e-commerce
+
+operator to report]
+
+Type of Type of GSTIN |GSTIN | Document Document Rate Value of Tax amount Place of
+of of supply
+supplier recipient no. date supplies
+supplier | recipient Integrated | Central State |Cess
+made /
+tax tax
+UT
+tax
+1 2 3 4 5 6 7 8 9 10 11 12 13
+Registered | Registered
+Unregistered
+Unregistered | Registered
+Unregistered
+6/8
+
+https://www.taxtmi.com/forms?id=2258
+
+29/10/2026, 3:39:25 pm
+
+15A (1). Amendment to details of the supplies made through e-commerce operators on which e-commerce operator is liable to pay tax u/s
+9(5) [e-commerce operator to report, for registered recipients]
+
+Type of | Original details Revised details Rate Valu Tax amount Place
+supplier e of of
+suppl supply
+GSTIN |GSTIN Doc, Doc. GSTIN GSTIN | Doc. Doc, ies Integrated | Central State | Cess
+of of no. of of no. made ‘8% tax /
+supplier | recipient Date supplier | recipient Date
+UT
+tax
+1 2 3 4 5 6 7 8 9 10 a 12 13 14 15 16
+
+Registered
+
+Unregistered
+
+15A (Il). Amendment to details of the supplies made through e-commerce operators on which e-commerce operator is liable to pay tax
+u/s 9(5) [e-commerce operator to report, for unregistered recipients]
+
+Type Original details Revised Rate) | Value of | Tax amount Place of
+of details supplies made supply
+supplier
+GSTIN of | Tax GSTIN of Integrated | Central | State Cess
+supplier period | supplier tax tax
+/
+UT
+tax
+1 2 3 4 5 6 7 8 9 10 11
+Registered
+Unregistered
+
+instructions for filing of GSTR-1A:
+
+1. itis an additional facility provided to add any particulars of current tax period missed out in reporting in FORM GSTR-1 of current tax
+period or amend any particulars already declared FORM GSTR-1 of current tax period (including those declared in iFF, for the first and
+second months of a quarter, if any,for quarterly taxpayers)The form is an optional form without levy of late fees.
+
+2. The FORM will be available on the portal after due date of filing of FORM GSTR -1 or the actual date of filing of FORM GSTR
+-1,whichever is later, till filing of corresponding FORM GSTR-3B of the same tax period. Similarly, for quarterly taxpayers, the FORM
+GSTR-1A shall be opened quarterly after filing of the FORM GSTR-1 (Quarterly) or the due date of filing of FORM GSTR -1 (
+Quaterly),whichever is later, till filing of FORM GSTR-3B of the same tax period.
+
+3. The particulars declared in FORM GSTR-1A along with particulars declared in FORM GSTR-1 shall be made available in FORM
+GSTR-3B. in case of taxpayers opting for filing of quarterly returns the same shall be made available in FORM GSTR-3B (Quarterly)
+along with particular furnished in FORM GSTR-1 and iFF of Month M1 and N2 (if filed).
+
+4. Amendment of a document which is related to change of Recipient's GSTIN shall not be allowed in GSTR-1A.
+
+5. in addition to the GSTR-2B already generated, GSTR-2B shall also consist of all the supplies declared by the respective suppliers in
+GSTR-1A. However, supplies declared or amended in FORM GSTR-1A shall be made available in the next open FORM GSTR-2B. For
+example,
+
+(i) a supplier issues two invoices INV1 and iNV2 in the month of January 2023. Then he furnished the details of the invoice INV1 on
+8th Feb 2023 in FORM GSTR-1. However, he misses one invoice INV2 and furnishes the details of the same in FORM GSTR-1A
+on 15th Feb 2023. in this case, INV1 will go to the FORM GSTR-2B of the recipient for the month of January made available on
+14th Feb 2023. Further, INV2 will be made available in FORM GSTR-2B of the recipient for the month of February made available
+on 14th March 2023.
+
+https://www.taxtmi.com/forms?id=2258 78
+
+29/10/2026, 3:39:25 pm
+
+(ii) a supplier issues two invoices INV3 and INV4 in the month of January 2023. Then he furnished the details of the invoice INV3
+on 15th Feb 2023 in FORM GSTR-1. However, he declared INV 4 in FORM GSTR-1A on 16th Feb 2023. In this case, both INV3
+and INV4 will be made available in FORM GSTR-2B of the recipient for the month of February made available on 14th March 2023.
+
+6. Instructions for specific tables:-
+
+Table No.
+
+4A, 4B, 5, 6, 9B (for
+registered recipients)
+
+Instructions
+
+Taxpayers may declare additional details of invoices / documents for the current tax period other than
+those already declared in FORM GSTR-1.
+
+Taxpayers may declare additional details of invoices/ documents for the current tax period other than
+those already declared in FORM GSTR-1.
+
+In case a POS with any combination of rate has already been declared in FORM GSTR-1, then a new
+rate cannot be added through Table 7 and the taxpayer will have to use amendment facility in Table 10
+for the same.
+
+9A and 9C
+
+Taxpayers may declare additional details of Nil rated, Exempted and Non-GST supplies for the current
+tax period other than those already declared in FORM GSTR-1.
+
+Amendment of values reported in table 4A, 4B, 5, 6A, 6B 6C and 9B in IFF, for the first and second
+months of a quarter, if any, and FORM GSTR-1 of the current tax period.
+
+11A(1) & 11A(2),
+11B(1) &
+
+11B(2)
+
+HSN details as per additional/amendments details reported in FORM GSTR 1A shall be declared here.
+In case of any downward amendment, entry can be made with the minus sign for the differential part.
+
+Taxpayers may declare details of advances received or adjusted for the current tax period other than
+those already declared in FORM GSTR-1.
+
+In case a POS with any combination of rate has already been declared in FORM GSTR-1, then a new
+rate cannot be added through these tables and the taxpayer will have to use amendment Table 11(II) as
+the case may be.
+
+Taxpayers may declare additional details of supplies made through e-commerce operator for the current
+tax period
+
+ECO Taxpayers may declare additional details of supplies for unregistered recipients (rate wise) for the
+current tax period other than those already declared in FORM GSTR-1.
+
+10, 11(II), 144, 15A(I),
+15A\(Il)
+
+NOTES:-
+
+Taxpayers may amend details already declared in FORM GSTR- 1 of the current period.]
+
+1. Inserted vide Notification No. 12/2024 — Central Tax dated 10-07-2024 w.e.f. 10-07-2024
+
+https://www.taxtmi.com/forms?id=2258 8/8

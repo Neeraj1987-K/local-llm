@@ -1,0 +1,201 @@
+29/10/2026, 3:26:30 pm
+
+TaxTMI
+
+https://www.taxtmi.com
+
+Form No. GST REG - 14 - Application for Amendment in Registration Particulars/ Enrolment as GST
+Practitioner Particulars (For all types of registered persons)
+
+[FORM GST REG-14
+
+[See rule 19(1)]
+
+Application for Amendment in Registration Particulars/ Enrolment as GST Practitioner Particulars
+
+(For all types of registered persons)
+
+1. GSTIN/UIN/GSTP ID
+
+2. Name of Business/ Name of the GST Practitioner
+
+3. Type of registration
+
+(i) Primary Authorised Signatory (auto)
+
+(ii) Promoter/Partner (auto)
+
+4. Verification of Mobile and e-mail address (please refer instruction no. 3,4,5 and 6)
+
+5. Amendment summary
+
+Sr. No
+
+Field Name
+
+Reasons(s)
+
+List of documents uploaded
+
+(a)
+
+(b)
+
+(c)
+
+7. Declaration
+
+https://www.taxtmi.com/forms?id=1176
+
+1/4
+
+29/10/2026, 3:26:30 pm
+
+| hereby solemnly affirm and declare that the detail furnished in registration form are required to be
+changed which does not warrant cancellation of registration and the documents relating to such change
+are uploaded on the common portal and that | shall be bound by the acts of such change. Further, |
+hereby solemnly affirm and declare that the information given herein above is true and correct to the best
+of my knowledge and belief and nothing has been concealed therefrom.
+
+Signature
+
+Place:
+Date:
+Name of Authorised Signatory
+
+Designation / Status:
+
+Instructions for submission of application for amendment
+1. Application for amendment shall be submitted online.
+2. Permanent Account Number shall be verified with Income Tax database.
+
+3. Online verification of mobile number and e-mail address of Primary Authorised Signatory and
+one selected Promoter or Partner or Director or Karta or Member or Trustee etc. will be mandatory
+for amendment application.
+
+4. For any change, in any of the particulars furnished in the application for registration in, FORM
+GST REG- 07 or FORM GST REG-09 or FORM GST REG-10 or FORM GST-REG-13, online
+verification of mobile number and e-mail address of Authorised Signatory is mandatory.
+
+5. In case of any change, in any of the particulars furnished in the application for registration in
+FORM GST PCT- 01, online verification of mobile number and Email address of GST practitioner is
+mandatory.
+
+6. For online verification of mobile number and e-mail address/ OTP authentication (as per
+Sr.No.3,4 and 5), 3 days will be provided from the date of submission of application. If
+authentication is not completed/not done successfully, ARN will not be generated.
+
+7. Changes related to details of principal place of business or professional address shall require
+approval of the proper officer.
+
+8. Where a change results in change of the Permanent Account Number of a registered person, the
+said person shall be required to apply for fresh registration.
+
+9. Any change in the mobile number or the e-mail address of authorised signatory as amended
+from time to time, shall be carried out only after online verification through the common portal.
+
+10. All information related to Permanent Account Number, Director Identification Number, Corporate
+Identification Number shall be validated online by the system and Application Reference Number
+(ARN) will be generated after successful validation of necessary field.
+
+11. Status of the application can be tracked on the common portal.
+
+12. No fee is payable for submitting application for amendment.
+
+https://www.taxtmi.com/forms?id=1176 2/4
+
+29/10/2026, 3:26:30 pm
+
+13. Authorised signatory shall not be a minor.
+
+14. The documents required to be uploaded in an amendment application in respect of any
+particulars furnished in the application form for registration shall be same as those required while
+filing application form for registration in respect of said particulars.
+
+15. Change relating to principal place of business details shall not be allowed during suspension or
+
+cancellation of registration."
+
+(ii) in the instructions to the said form, in Sr. no. 7, the following shall be substituted from 1
+st day of December, 2026, namely-
+
+"7. Changes related to details of Principal Place of Business, except for in respect of
+taxpayer who has obtained registrations under rule 14A and who has not opted to
+withdraw under sub-rule (5) of rule 14A, or professional address shall require
+approval of the proper officer."]
+
+Penererereteresd
+
+NOTES:-
+
+1. | Substituted vide Notification No. 05/2026-Central Tax dated 26-10-2026 w.e.f. 01-11-2026 before it
+
+was read as,
+"Form GST REG-14
+[See rule 19(1) ]
+Application for Amendment in Registration Particulars
+(For all types of registered persons)
+1. GSTIN/UIN
+
+2. Name of Business
+
+3. Type of registration
+
+4. Amendment summary
+
+Sr. No Field Name
+
+Effective Date
+
+(DD/IMMIYYYY)
+
+Reasons(s)
+
+https://www.taxtmi.com/forms?id=1176
+
+3/4
+
+29/10/2026, 3:26:30 pm
+
+5. List of documents uploaded
+
+6. Declaration
+
+| hereby solemnly affirm and declare that the information given herein above is true and correct to
+the best of my knowledge and belief and nothing has been concealed therefrom
+
+Signature
+Name of Authorised Signatory
+Designation / Status:
+
+Place:
+
+Date:
+
+Instructions for submission of application for amendment
+1. Application for amendment shall be submitted online.
+
+2. Changes relating to - Name of Business, Principal Place of Business, additional place(s) of
+business and details of partners or directors, karta, Managing Committee, Board of Trustees, Chief
+Executive Officer or equivalent, responsible for day to day affairs of the business which does not
+warrant cancellation of registration, are core fields which shall be approved by the Proper Officer
+after due verification.
+
+3. For amendment in Non-Core fields, approval of the Proper Officer is not required.
+
+4. Where a change in the constitution of any business results in change of the Permanent Account
+Number of a registered person, the said person shall be required to apply for fresh registration.
+
+5. Any change in the mobile number or the e-mail address of authorised signatory as amended from
+time to time, shall be carried out only after online verification through the common portal.
+
+6. All information related to Permanent Account Number, Aadhaar, Director Identification Number,
+Challan Identification Number shall be validated online by the system and Application Reference
+Number (ARN) will be generated after successful validation of necessary field.
+
+7. Status of the application can be tracked on the common portal.
+8. No fee is payable for submitting application for amendment.
+
+9. Authorised signatory shall not be a minor."
+
+https://www.taxtmi.com/forms?id=1176 44

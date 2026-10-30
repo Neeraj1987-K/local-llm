@@ -1,0 +1,149 @@
+29/10/2026, 3:37:16 pm
+
+TaxTMI https://www.taxtmi.com
+
+Form No. GSTR - 10 - Final Return
+
+1[FORM GSTR-10
+
+(See rule 81)
+
+Final Return
+1. | GSTIN
+2. | Legal name
+3. | Trade Name, if any
+4. | Address for future correspondence
+
+5. | Effective date of cancellation of registration (Date
+of closure of business or the date from which
+registration is to be cancelled)
+
+6. | Reference number of cancellation order
+
+7. | Date of cancellation order
+
+8. Details ofinputs held in stock, inputs contained in semi-finished or finished goods held in stock, and capital goods/plant and
+machinery on which input tax credit is required to be reversed and paid back to Government
+
+Sr. Invoice/Bill| Description Unit Qty| Value Input tax credit/
+
+No. | GSTIN| of Entry of inputs) Quantity (As Tax payable (whichever is higher)
+held in| Code adjusted (Rs.)
+
+stock, (UQC) by debit
+No.| Date | inputs ! credit |Central| State/ | Integrated| Cess
+contained note) tax Union tax
+in semi- territory
+finished or tax
+finished
+goods held
+in stock
+and capital
+goods
+/plant and
+machinery
+1 2 3 4 5 6 7 8 9 10 1 12
+8 (a) Inputs held in stock (where invoice is available)
+
+8 (b) Inputs contained in semi-finished or finished goods held in stock (where invoice is available)
+
+8 (c) Capital goods/plant and machinery held in stock
+
+8 (d) Inputs held in stock or inputs as contained in semi-finished /finished goods held in stock ( where invoice is not
+available)
+
+9. Amount of tax payable and paid (based on Table 8)
+
+Sr. ITC Tax paid) Balance) Amount Amount paid through debit to electronic
+
+No| Description | reversible/T| along with| tax paid credit ledger
+
+: ax application | payable | through | Central | State/ Integrated| Cess
+payable for (3-4) debit to Tax Union Tax
+
+https://www.taxtmi.com/forms?id=1368 1/3
+
+29/10/2026, 3:37:16 pm
+
+cancellation electronic territory
+of cash Tax
+registration ledger
+(GST REG-
+1 2 3 16) 4 5 6 7 8 9 10
+
+1. | Central Tax
+
+2. | State/Union
+territory Tax
+
+3. Integrated
+Tax
+4. Cess
+
+10. Interest, late fee payable and paid
+
+Description Amount payable Amount Paid
+
+1 2 3
+(I) Interest on account of
+(a) Integrated Tax
+(b) Central Tax
+(c) State/Union territory Tax
+(d) Cess
+(Il) Late fee
+(a) Central Tax
+(b) State/Union territory tax
+
+11. Verification
+
+| hereby solemnly affirm and declare that the information given hereinabove is true and correct to the best of my knowledge
+and belief and nothing has been concealed therefrom.
+
+Signature of authorized signatory
+
+Name
+
+Designation/Status
+Date - dd/mm/yyyy
+
+Instructions:
+1. This form is not required to be filed by taxpayers or persons who are registered as :-
+
+(i) Input Service Distributors;
+
+(ii) Persons paying tax under section 10;
+
+(iii) Non-resident taxable person;
+
+(iv) Persons required to deduct tax at source under section 51; and
+
+(v) Persons required to collect tax at source under section 52.
+
+2. Details of stock of inputs, inputs contained in semi-finished or finished goods and stock of capital goods/plant and
+machinery on which input tax credit has been availed.
+
+3. Following points need to be taken care of while providing details of stock at SI. No.8:
+
+(i) where the tax invoices related to the inputs held in stock or inputs contained in semi-finished or finished goods held
+in stock are not available, the registered person shall estimate the amount under sub-rule (3) of rule 44 based on
+prevailing market price of the goods;
+
+https://www.taxtmi.com/forms?id=1368 2/3
+
+29/10/2026, 3:37:16 pm
+
+(ii) in case of capital goods/ plant and machinery, the value should be the invoice value reduced by 1/60th per month or
+part thereof from the date of invoice/purchase taking useful life as five years.
+
+4. The details furnished in accordance with sub-rule (3) of rule 44 in the Table at SI. No. 8 (against entry 8 (d)) shall be duly
+
+certified by a practicing chartered accountant or cost accountant. Copy of the certificate shall be uploaded while filing the
+details.]
+
+eeeeeeceeeetateret ced
+
+Notes:-
+
+1. Inserted vide Notification No. 21/2018 - Dated 18-04-2018
+
+https://www.taxtmi.com/forms?id=1368 3/3

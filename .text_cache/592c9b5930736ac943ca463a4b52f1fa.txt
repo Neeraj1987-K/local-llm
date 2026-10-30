@@ -1,0 +1,60 @@
+29/10/2026, 4:02:47 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+Form No. GST REG - 30 - Form for Field Visit Report
+Form GST REG-30
+[See rule 25]
+Form for Field Visit Report
+
+Center Jurisdiction (Ward/Circle/Zone)
+
+Name of the Officer:- << to be prefilled>>
+Date of Submission of Report:-
+Name of the taxable person
+GSTIN/UIN —
+Task Assigned by:- < Name of the Authority- to be prefilled>
+Date and Time of Assignment of task:- < System date and time>
+Sr. No. Particulars Input
+1. Date of Visit
+2. Time of Visit
+3. Location details :
+Latitude Longitude
+North — Bounded By South — Bounded By
+West — Bounded By East — Bounded By
+4. Whether address is same as mentioned in Y/N
+application.
+5. Particulars of the person available at the time of
+visit
+(i) | Name
+
+https://www.taxtmi.com/forms?id=1192
+
+1/2
+
+29/10/2026, 4:02:47 pm
+
+(ii) | Father's Name
+(iii) | Residential Address
+(iv) | Mobile Number
+(v) | Designation / Status
+(vi) | Relationship with taxable person, if applicable.
+6. Functioning status of the business Functioning - Y/N
+7. Details of the premises
+Open Space Area (in sq m.) - (approx.)
+Covered Space Area (in sq m.) - (approx.)
+Floor on which business premises located
+8. Documents verified Yes/No
+9. Upload photograph of the place with the person who is present at the place where site
+verification is conducted.
+10. Comments (not more than < 1000 characters>
+Signature
+Name of the Officer:
+Designation:
+Jurisdiction:
+Place:
+Date:
+
+https://www.taxtmi.com/forms?id=1192
+
+2/2

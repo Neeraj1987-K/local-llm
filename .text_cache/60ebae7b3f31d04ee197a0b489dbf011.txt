@@ -1,0 +1,250 @@
+29/10/2026, 3:36:15 pm
+
+TaxTMI
+
+https://www.taxtmi.com
+
+Form No. GST REG - 16 - Application for Cancellation of Registration
+
+Form GST REG-16
+
+[See Rule 20]
+
+Application for Cancellation of Registration
+
+1 | GSTIN
+
+2 |Legal name
+
+3 | Trade name, if any
+
+4 |Address of Principal
+Place of Business
+
+https://www.taxtmi.com/forms?id=1178
+
+5 |Address for future | Building No./Flat No. Floor No.
+correspondence
+(including email, mobile
+telephone, fax) Name - of Road/Street
+Premises/Building
+City/Town/Village District
+Block/Taluka
+Latitude Longitude
+State PIN Code
+Mobile (with country Telephone
+code)
+email Fax Number
+6. | Reasons for ¢ Discontinuance/Closure
+Cancellation (Select of business
+one) « Ceased to be liable to
+pay tax
+¢ Transfer of business on
+account of
+
+1/6
+
+29/10/2026, 3:36:15 pm
+
+amalgamation,
+merger/demerger, sale,
+lease or otherwise
+disposed of etc.
+« Change in constitution
+of business leading to
+change in Permanent
+Account Number
+« Death of
+Proprietor
+« Others (specify)
+7. ttn case of transfer, merger of business and change in constitution leading to change in PAN,
+particulars of registration of entity in which merged, amalgamated, transferred, etc.]
+(i) |Goods and Services
+Tax Identification
+Number
+(ii) | (a) Name (Legal)
+(b) Trade name, if any
+(iii) | Address of Principal | Building No./Flat No. Floor No.
+Place of Business
+Name of Premises/Building Road/Street
+City/Town/Village District
+Block/Taluka
+Latitude Longitude
+State PIN Code
+Mobile (with country code) Telephone
+email Fax Number
+8. Date from which registration is to be cancelled.
+9 Particulars of last Return Filed
+
+https://www.taxtmi.com/forms?id=1178
+
+2/6
+
+29/10/2026, 3:36:15 pm
+
+(i)
+
+Tax period
+
+(ii)
+
+Application Reference Number
+
+(iii) | Date
+10. | Amount of tax payable in respect of inputs/capital goods held in stock on the effective date of
+cancellation of registration.
+Description Value of Stock (Rs.) Input Tax Credit/Tax Payable
+(whichever is higher) (Rs.)
+Central | State) UT | Integrated | Cess
+Tax Tax | Tax Tax
+Inputs
+Inputs contained in
+semi-finished goods
+Inputs contained in
+finished goods
+Capital Goods/Plant
+and machinery
+Total
+11. | Details of tax paid, if any
+Payment from Cash Ledger
+Sr. No. Debit Central Tax State Tax UT | Integrated | Cess
+Entry Tax Tax
+No.
+1.
+2.
+Sub-
+Total
+
+https://www.taxtmi.com/forms?id=1178
+
+3/6
+
+29/10/2026, 3:36:15 pm
+
+Payment from ITC Ledger
+
+Sr. No. Debit Central Tax State Tax UT | Integrated | Cess
+Entry Tax Tax
+No.
+1.
+2.
+Sub-
+Total
+
+Paid
+
+Total Amount of Tax
+
+12. Documents uploaded
+
+13. Verification
+
+We < > hereby solemnly affirm and declare that the information given herein above is true and correct
+to the best of my/our knowledge and belief and nothing has been concealed therefrom.
+
+Signature of Authorised
+Signatory
+Place : Name of the Authorised Signatory
+Date : Designation/Status
+
+Instructions for filing of Application for Cancellation
+
++ A registered person seeking cancellation of his registration shall electronically submit an application
+including details of closing stock and liability thereon along with relevant documents, on common portal.
+
+* The following persons shall digitally sign application for cancellation, as applicable:
+
+Constitution of Business
+
+Person who can digitally sign the application
+
+Proprietorship
+
+Proprietor
+
+Partnership
+
+Managing/Authorized Partners
+
+https://www.taxtmi.com/forms?id=1178
+
+4/6
+
+29/10/2026, 3:36:15 pm
+
+Hindu Undivided Family Karta
+
+Private Limited Company Managing/Whole-time Directors/Chief | Executive
+Officer
+
+Public Limited Company Managing/Whole-time —_Directors/Chief | Executive
+Officer
+
+Society/Club/Trust/AOP Members of Managing Committee
+
+Government Department Person In charge
+
+Public Sector Undertaking Managing/Whole-time Directors/Chief | Executive
+Officer
+
+Unlimited Company Managing/Whole-time —_Directors/Chief Executive
+Officer
+
+Limited Liability Partnership Designated Partners
+
+Local Authority Chief Executive Officer or Equivalent
+
+Statutory Body Chief Executive Officer or Equivalent
+
+Foreign Company Authorised Person in India
+
+Foreign Limited Liability Partnership Authorised Person in India
+
+Others Person In charge
+
+2tIn case of death of sole proprietor, application shall be made by the legal heir / successor before the
+
+concerned tax authorities. The new entity in which the applicant proposes to amalgamate itself shal
+
+register with the tax authority before submission of the application for cancellation. This application shall be
+
+made only after the new entity is registered.
+
+Before applying for cancellation, please file your tax return due for the tax period in which the effective date
+of surrender of registration falls or furnish an undertaking to the effect that no taxable supplies have been
+made during the intervening period (i.e. from the date of registration to the date of application for
+
+cancellation of registration).]
++ Status of the Application may be tracked on the common portal.
+
+* No fee is payable for filing application for cancellation.
+
+https://www.taxtmi.com/forms?id=1178 5/6
+
+29/10/2026, 3:36:15 pm
+
++ After submission of application for cancellation of registration, the registered person shall make payment,
+if not made at the time of this application, and shall furnish final return as provided in the Act.
+
++ The registered person may also update his contact address and update his mobile number and e-mail
+address.
+
+eereread
+
+Note:
+
+1. Substituted vide Notification No. 60/2018 — Central Tax dated 30-10-2018 before it was read as "In case
+of transfer, merger of business, particulars of registration of entity in which merged, amalgamated,
+transferred, etc."
+
+2. Substituted vide Notification No. 60/2018 — Central Tax dated 30-10-2018 before it was read as
+"In case of death of sole proprietor, application shall be made by the legal heir/successor manually before
+the concerned tax authorities. The new entity in which the applicant proposes to amalgamate itself shall
+
+register with the tax authority before submission of the application for cancellation. This application shall be
+made only after that the new entity is registered.
+
+Before applying for cancellation, please file your tax return due for the tax period in which the effective
+date of surrender of registration falls."
+
+https://www.taxtmi.com/forms?id=1178 6/6

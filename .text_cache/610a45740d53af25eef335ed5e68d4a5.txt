@@ -1,0 +1,1640 @@
+29/10/2026, 3:04:17 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+Guidelines for the handling applications for GST registration
+
+Circular No. 257/03/2026-GST
+F. No. CBIC-20001/2/2026-GST
+
+Government of India
+
+Ministry of Finance
+
+Department of Revenue
+Central Board Indirect Taxes & Customs
+GST Policy Wing
+Room No. 16039, Kartavya Bhawan-01
+
+New Delhi, Dated: 26.10.2026
+
+To,
+The Principal Chief Commissioners/ Chief Commissioners (All)
+The Principal Director General/ Director General (All)
+Madam/Sir,
+
+Subject: Guidelines for the handling applications for GST registration — reg.
+
+It is a bona fide expectation of every person, who applies for GST registration, that his registration
+application is quickly processed and GST registration is granted to him without any delay or hassles.
+However, grievances have been received regarding the difficulties faced by the applicants in some cases
+in getting GST registration, either due to rejection of the application for registration on various grounds, or
+due to the delay in processing of the registration application on account of queries being raised/
+clarifications or additional documents being sought by the tax officers with respect to information submitted
+by the applicant in his application in FORM GST REG-01. While there is a need to exercise due diligence
+in processing registration application to prevent GST registration of being obtained by unscrupulous and
+fraudulent elements for passing on input tax credit (ITC) without any underlying supply, at the same time, it
+is also important to ensure that genuine applicants seeking registration are able to complete the process
+without undue inconvenience.
+
+1.2 An analysis of GST registration applications, including the reasons for rejection and the nature of
+queries raised during processing, indicates that delays or rejections are often attributable to certain
+deficiencies in the applications which may include non-furnishing of requisite information or documents;
+submission of incorrect, incomplete, or inconsistent details, or uploading of documents that are not clearly
+legible. Such issues are commonly observed in respect of identity details of the applicant, proof of principal
+place of business, details relating to the constitution of the business, and identity details of the authorized
+signatory.
+
+1.3 It may be relevant to emphasize that proper scrutiny of registration application by the proper officers
+plays a critical role in ensuring the integrity of the registration process and in preventing misuse of the
+
+https://www.taxtmi.com/circulars?id=7 1765 1/28
+
+29/10/2026, 3:04:17 pm
+
+system. Instances have come to notice where some unscrupulous elements have been found to be mis-
+utilizing the facility of GST registration by obtaining fake registrations using identity of other persons, either
+with or without their knowledge, to fraudulently pass on ineligible input tax credit. Such a malpractice not
+only results in huge revenue loss for the Government, but is also against the interest of genuine and
+honest taxpayers, making them uncompetitive. To protect the interests of genuine and honest taxpayers,
+and to curtail the probability of fake registrations by such unscrupulous elements, the registration process
+has been streamlined over a period of time, by amendment in the provisions of CGST Rules, 2017.
+
+1.4 While guidelines for processing of the application for registration have been issued by the Board for the
+tax officers vide instruction No. 03/2025-GST dated 17th April 2025, it is felt that similar guidelines may
+also be required for the applicants to facilitate them in furnishing proper and correct information and
+documents in the application for registration in FORM GST REG-01, so as to reduce requirement of
+seeking clarification or additional documents by the tax officers from the applicants during the processing
+of the registration applications, and thus expediting the processing of registration applications for genuine
+applicants.
+
+2. Accordingly, to ensure uniformity in the implementation of the provisions of the law across field
+formations and to further streamline the process of GST registration, the Board, in exercise of its powers
+conferred by section 168(1) of the CGST Act, 2017, hereby issues the following guidelines for the
+applicants filing application for GST registration.
+
+3. Registration application
+
+3.1 The application for GST registration (in cases other than by a non-resident taxable person, a person
+required to deduct tax at source under section 51 of CGST Act, 2017 and a person required to collect tax
+under section 52 of CGST Act, 2017 and a person supplying online information and database access or
+retrieval services from a place outside India to a non-taxable online recipient in India) is to be filed by the
+applicant in FORM GST REG-01 online on the GST portal www.gst.gov.in.
+
+3.1.1 The person required to deduct tax at source under section 51 of CGST Act, 2017 and the
+person required to collect tax at source under section 52 of CGST Act, 2017 may apply for GST
+registration in FORM GST REG-07 and the non-resident taxable persons need to apply for
+registration in FORM GST REG-09. Besides, a person supplying online money gaming from a
+place outside India to a person in India or a person supplying online information and database
+access or retrieval services from a place outside India to a nontaxable online recipient in India may
+apply for GST registration in FORM GST REG-10.
+
+3.1.2 In addition to the guidelines provided in the subsequent paragraphs, a set of Frequently
+Asked Questions (FAQs) has also been prepared and annexed herewith as Annexure-I to provide
+further practical guidance on commonly encountered issues relating to the filing and processing of
+registration applications, including procedural timelines and specific taxpayer scenarios. These
+FAQs are intended to minimise ambiguities and facilitate smooth compliance by taxpayers, thereby
+reducing the need for repeated references to field officers. Further, a checklist of information and
+documents required to be furnished along with the registration application is annexed to this
+Circular as Annexure-ll.
+
+3.2 Filing the application for registration
+
+The applicant may access the registration application on the portal by clicking Services>Registration>New
+Registration on the home page of GST portal. The detailed manual for step-by-step guidance of the
+applicants for filing the registration application has been provided on the GST portal and can be accessed
+by clicking Help and Taxpayer Facilities> GST Knowledge Portal> Register with GST from the home page
+of the GST portal.
+
+3.2.1. FORM GST REG-01 comprises Part A for generation of Temporary Reference Number
+(TRN) and Part B for submission of detailed application, capturing essential fields such as business
+
+https://www.taxtmi.com/circulars?id=7 1765 2/28
+
+29/10/2026, 3:04:17 pm
+
+constitution, reasons for registration, existing registration details, nature of premises and business
+activity, promoter/director/Karta/supply details, bank account particulars, principal place of
+business, state-specific information, goods/services classification (HSN/SAC codes), and
+authorised signatory details. Taxpayers may fill and submit this format directly on the GST Portal,
+ensuring complete and accurate reporting of all mandatory fields to prevent processing delays
+
+3.2.2 Details pertaining to Part A of FORM GST REG-01:
+
+The applicant needs to provide correct details of PAN and the Legal name while filing Part A of
+FORM GST REG-01. The Legal Name of the business should be the same as mentioned in PAN
+issued by Income Tax Department, and that mentioned in Incorporation Certificate issued by
+Ministry of Corporate Affairs (MCA) in case of incorporated companies. In case of proprietorship
+concern, the name of the proprietor should be mentioned against the Legal Name. Besides, the
+applicant also needs to ensure that correct details of State/ Union Territory and District of his
+principal place of business are provided in Part A. The applicant is also advised that in case where
+the e-mail address and mobile number are linked to his PAN, the details of the same Email Address
+and mobile number may be provided in Part A of FORM GST REG-01
+
+3.3 Details pertaining to Part B of FORM GST REG-01:
+3.3.1 Business Details:
+
+In Part B of FORM GST REG-01, the applicant needs to select the correct constitution of the
+business, viz. Proprietorship, Partnership, Hindu Undivided Family (HUF), Private Limited
+Company, Public Limited Company, Limited Liability Partnership (LLP), Trust, Association of
+persons, Local Authority, PSU, etc. Besides, the applicant also needs to upload the copy of
+Partnership Deed in case of Partnership firm; Registration Certificate/ Proof of Constitution in case
+of Society, Trust, Club, Government Department, Association of Persons or Body of individuals,
+Local Authorities, Statutory bodies, etc.; and Karta document in case of HUF as mentioned in
+Annexure-ll.
+
+3.3.2 The applicant applying for registration as SEZ Unit or as a SEZ Developer, need to clearly
+exercise the option of “Yes” in the correct category and provide the correct name of the said SEZ
+unit or the SEZ Developer, as the case may be, and the details of the relevant Approval Order
+(Letter of Approval/ Letter of Permission) Number and date of such Approval Order, period of
+validity and the designation of the approving authority. Besides, in such cases, the applicant is also
+required to upload the copy of such Approval Order.
+
+3.3.3 In cases where the applicant wants to opt for composition scheme at the time for filing
+application of registration, he should clearly exercise the option of “Yes” in the option for
+composition and also select the correct category for eligibility for composition scheme under the
+heading “Category of Registered Parson”. Similarly, in cases where the applicant wants to opt for
+Casual Taxable Person and/or Rule 14A, he should clearly exercise the option of “Yes” against the
+respective fields.
+
+3.3.4 The applicant is also advised to select the correct reason for obtaining registration from the
+drop-down list provided on the portal, such as crossing the threshold; voluntary registration; change
+in constitution of business; inter-State supply; liability to pay tax as recipient of goods or services
+under section 9(3) or 9(4) of CGST Act, 2017 etc.
+
+3.4. Details of the Promoters/ Partners:
+
+3.4.1 The applicant needs to provide the details of the proprietor in case of proprietorship concern,
+including his/her name, name of the father, date of birth, mobile number, e-mail address, gender,
+PAN, Adhaar Number (if available), Director Identification Number (if any), Residential address,
+designation/ status in the firm/company etc. In case of partnership firms/ LLP, the details of
+
+https://www.taxtmi.com/circulars?id=7 1765 3/28
+
+29/10/2026, 3:04:17 pm
+
+Managing Partner as well as all other partners need to be provided. In case of HUF, the details of
+Karta are to be provided. In case of a company, the details of Managing Director and all the whole-
+time directors are to be provided, while in case of Association, the details of all Members of
+Managing Committee and in case of Trusts, details of all Members of Board of Trustee are required
+to be provided by the applicant. In case of directors of a Company and in case of Designated
+Partners in a LLP, Director Identification Number (DIN) is mandatorily required to be provided.
+These details are required to be furnished in respect of such persons under each relevant category,
+as specified in Annexure-ll.
+
+3.4.2 The applicant is required to upload recent photograph(s) of the following persons, as
+applicable, along with the application for registration:
+
+(i) Proprietor, in case of proprietorship concern;
+
+(ii) Managing/ Authorized/ Designated Partners (All partners, including Managing Partner,
+but limited to ten (if the total number of partners in the firm is more than ten), in case of
+Partnership Firm/ LLP;
+
+(iii) Karta, in case of HUF;
+(iv) Managing Director or the Authorised Person, in case of a company;
+(v) Managing Trustee, in case of Trust;
+
+(vi) Members of Managing Committee, including the Chairman, but limited to ten (if the
+number of Members exceeds ten), in case of Association of Persons or the Body of
+Individuals;
+
+(vii) CEO or his equivalent, in case of Local Authority or Statutory Body; and
+(viii) Person in charge, in case of Others.
+
+3.4.3 While submitting photographs, the applicant needs to ensure that the photograph is of the
+person concerned individual and is not part of a group photograph. The photograph should show
+the full front face of the concerned person and should be a recent colour photograph of proper
+resolution and clarity. Such uploaded photograph should not be a copy of any identity document,
+such as PAN, Adhaar Number, Driving License, Passport, etc., either as such or in cropped form.
+Due care should be taken while uploading the photographs to ensure that the photograph of the
+concerned applicant/ person only is uploaded, as uploading of wrong photograph may lead to
+either a query being raised by the tax officer, or the rejection of the registration application.
+
+3.5. Details of Authorized Signatory:
+
+3.5.1 The applicant is required to provide the details of the primary authorized signatory and other
+authorized signatories, if any, including the name, name of the father, date of birth, mobile number,
+e-mail address, gender, PAN, Adhaar Number, if available, Director Identification Number (DIN),
+(where applicable), residential address, designation/ status, etc. The details of maximum ten (10)
+authorized signatories can be furnished in the application of the registration. The photographs of
+such authorized signatories also need to be uploaded along with the application.
+
+3.5.2 Besides, an authorization letter issued by the proprietor/ Partners/ Board/ Trust/ Management
+Committee, etc, appointing the said person as authorised signatory of the entity, must be uploaded
+as proof of appointment of the said authorized signatory.
+
+3.5.3 The guidelines regarding the details to be furnished and photographs and documents to be
+submitted mentioned in Para 3.4 above are equally applicable in respect of authorized signatories
+
+https://www.taxtmi.com/circulars?id=7 1765 4/28
+
+29/10/2026, 3:04:17 pm
+
+3.6 Details of Authorized Representative:
+
+3.6.1 The applicant may provide the details of an authorized representative, if any, in the
+registration application. Where such authorized representative is a GST Tax Practitioner enrolled
+under the provisions of section 48 of CGST Act, 2017, the Enrolment ID of such GST Tax
+Practitioner needs to be provided. In case of an authorised representative, other than GST Tax
+Practitioner, the details such as name, designation, mobile number, e-mail address, PAN, etc, of
+such representative need to be provided.
+
+3.7 Details of Principal Place of Business:
+
+3.7.1 Principal Place of Business (PPoB) is the primary location of business within the State where
+registration is applied for. The applicants are advised to be very careful while furnishing the details
+of the PPoB in the application for registration, as providing wrong or insufficient or inadequate
+details/ documents regarding the PPoB is one of the major reasons for either rejection of the
+application for registration, or raising of queries by the tax officers.
+
+3.7.2 The applicant must provide the complete and specific address of PPoB, including but not
+limited to, the Building/ Flat/ Shop/ Plot No.; Khasra/ Khata Number, where applicable; Road/
+Street; Locality/ Sub-locality; Village/ Town/ City; Taluka/ Block, where applicable; District; PIN
+Code; and nearby landmarks, if any. Due care should be taken to ensure that the correct PIN Code
+is mentioned in the said details, and as far as possible, latitude and longitude of the PPoB may also
+be provided. It is mentioned that the correct longitude and latitude of the PPoB can also be
+selected by the applicant on the portal while filing the details in the said application by dragging the
+marker on the map on the portal to the correct address of the PPoB. It is again reiterated that the
+address provided should be very specific and accurate for the said PPoB, to the extent of the
+particular shop/ house/ premises/ Flat, etc. and should not be left open, such as mentioning only
+the details of Khasra Number/ road/ locality/ colony/ village/ town, etc. Not providing the specific
+and accurate address of PPoB may result in issuance of queries by the tax officers or negative
+report in physical verification report of the PPoB by the field officer, wherever applicable. The
+address furnished in the application form should match the address mentioned in the document
+detailed in para 3.8 furnished and uploaded with the application, as proof of Principal Place of
+Business.
+
+3.7.3 Jurisdiction Details:
+
+The applicant also needs to select the correct State as well as Centre jurisdiction from the drop-
+down menu shown on the portal as per the PIN Code details provided by the applicant. This will
+avoid any delay in processing of application of registration due to the requirement of transferring
+the application of registration or reassigning the ARN for physical verification to the correct
+jurisdictional tax authorities. Besides, correct contact details in form of e-mail address and mobile
+number need to be provided. Nature of the business to be carried out from the said premises, such
+as manufacturing/ wholesale business/ retail business/ supplier of services/ warehouse/ Depot, etc.
+should also be mentioned by the applicant from the drop-down menu provided on the portal.
+
+3.8 Documents to be furnished in respect of Principal Place of Business (PPOB):
+
+3.8.1 A list of requisite documents to be uploaded as proof of the Principal Place of Business while
+filing the registration application has been appended with FORM GST REG-01 on the portal and is
+also annexed to this Circular as Annexure-IIl. The documentary requirements in respect of
+different types of possession of the said premises are explained in detail in the subsequent
+paragraphs:
+
+3.8.2 Own premises:
+
+https://www.taxtmi.com/circulars?id=7 1765 5/28
+
+29/10/2026, 3:04:17 pm
+
+3.8.2.1 The premises will be considered as owned by the applicant, if he himself, is the
+owner of the said premises. If the premises is not in the name of the applicant, but is in the
+name of some of the family members like parents/ spouse/ siblings, etc. or in the name of
+one of the partners/ directors, etc., then the said premises cannot be considered to be
+owned by the said entity/ applicant. In such cases, the applicant should not select “own” as
+the option under the “Nature of Premises”, and instead, should select “Consent” or
+“rented/leased” or “shared”, as the case may be, in respect of the nature of the said
+premises.
+
+3.8.2.2 In cases where the premises for PPoB is in name of the applicant and is owned by
+the applicant himself, the applicant needs to upload a clear and legible copy of the
+document as proof of the premises owned by him. In this regard, the applicant may submit
+the copy of latest Property Tax receipt or copy of Municipal Khata or copy of document
+certifying Property Identification or latest copy of Electricity Bill or latest copy of
+Water Bill for the said premises in the name of the applicant and showing full and
+complete address of the said premises, which should be same as mentioned by the
+applicant in the application of registration.
+
+3.8.2.3 In case the premises is owned by the deceased ancestor of the applicant and
+no document is available in the name of the applicant, then an affidavit in the
+requisite format annexed as Annexure — IV needs to be uploaded by the applicant to this
+effect alongwith a clear and legible copy of death certificate of deceased ancestor and any
+one of the documents mentioned above in Para 3.8.2.2 in the name of the deceased
+ancestor or in the applicant’s name for the premises corresponding to the address to be
+declared as PPoB/APoB.
+
+3.8.3 Rented or leased premises:
+(a) Where lease/ rent agreement is available:
+
+i. In respect of premises which are taken on rent or lease by the applicant and
+registered rent/lease agreement is available, the applicant is required to upload a
+clear and legible copy of the valid registered Rent/Lease agreement. In case where
+the rent/ lease deed is required to be mandatorily registered as per provision of
+laws/regulations of some States/Region concerned, either based on usage of the
+rented/ leased property or where the rent/ lease is for a period exceeding the
+specified period, and therefore, the applicant needs to upload a clear and legible
+copy of valid registered rent/ lease agreement in such cases.
+
+ii. In cases, where rent / lease agreement is not required to be registered, in
+such cases, the applicant will have to upload a clear and legible copy of rent/lease
+agreement alongwith any one of the documents, as mentioned in Para 3.8.2 above
+in the name of the landlord/lessor corresponding to the address to be declared as
+PPoB.
+
+iii. In cases where the electricity or water connection for the said rented/ leased
+premises is in the name of the applicant tenant, the applicant will have to furnish
+a clear and legible copy of the latest electricity bill or water bill issued in his name,
+clearly indicating the complete address of the said premises, along with a valid rent
+agreement. Such documents may be accepted in lieu of the proof of premises
+required from the lessor.
+
+(b) Where lease/ rent agreement is not available:
+
+In respect of rented/ leased premises, where the rent/ lease agreement is not
+available, an undertaking in the requisite format annexed as Annexure V needs to
+
+https://www.taxtmi.com/circulars?id=7 1765 6/28
+
+29/10/2026, 3:04:17 pm
+
+be uploaded by the applicant to this effect, along with the document showing the
+possession of the said premises by the tenant applicant, such as the a clear and
+legible copy of the latest electricity or water bill for the said premises containing the
+name of the tenant and showing full and complete address of the said premises.
+
+3.8.4 Premises on consent basis:
+
+3.8.4.1 Where the ownership of the premises is with a family member like spouse, parents,
+sibling, etc. or with a partner/ director, etc. and premises is made available to the applicant
+on consent basis, the applicant needs to upload consent letter in the requisite format
+annexed as Annexure VI issued in plain paper by the concerned owner of the premises
+duly signed by him and a clear and legible copy of any one of the documents as mentioned
+in Para 3.8.2 above in the name of the consenter corresponding to the address to be
+declared as PPoB. The consent letter should clearly mention the details of the consenter
+and the applicant, the details of the property/ premises in respect of which consent is being
+given and the relationship between the consenter and the applicant. In cases, where the
+premises is co-owned by more than one owner, consent of all such co-owners needs to be
+provided.
+
+3.8.5 Co-working Spaces:
+
+In case where the applicant has declared co-working space as PPoB, the applicant needs to
+upload a clear and legible copy of the membership agreement with the co-working space provider,
+specifically providing details of the period of the agreement, specific suite/ cabin/ desk number
+allocated to the applicant, details as to whether the said premises is owned by the co-working
+space provider or whether the said premises has been taken on rent/ lease by the co-working
+space provider from the property owner. In case the said premises is owned by the co-working
+space provider, the applicant needs to also upload the copy of a document as mentioned in Para
+3.8.2.2 above in the name of the co-working space provider corresponding to the address to be
+declared as PPoB. In case where the said premises has been taken on rent/ lease by the co-
+working space provider from the property owner, the applicant needs to upload the copy of the valid
+registered lease/ rent agreement entered between the co-working space provider and the property
+owner in addition to the membership agreement with the co-working space provider
+
+3.8.6 SEZ/ SEZ Developer:
+
+If the principal place of business is located in the Special Economic Zone or the applicant is a
+Special Economic Zone developer, a clear and legible copy of approval letter (Letter of Approval/
+Letter of Permission), with due validity, issued by the Development Commissioner of the SEZ is
+required to be uploaded.
+
+3.8.7 It is reiterated that while uploading any such documents on the portal as a part of application
+for registration, due care must be exercised by the applicant to ensure that such uploaded
+documents are clear, complete and fully legible
+
+3.9 Details of Additional Place of Business:
+
+In cases where the applicant needs to provide details of any additional place of business, the details of all
+such additional places of business in the said State of registration may be provided. It is further clarified
+that the documentary requirements for amending details of the Principal Place of Business or Additional
+Place of Business remain same as those specified for the Principal Place of Business in the preceding
+paragraphs and as detailed in the appended list (Annexure Ill). It is also clarified that telecommunication
+towers, bank Automated Teller Machine (ATM), which are unmanned installations are not required to be
+declared as the PPOB or as an APOB in the GST registration application.
+
+3.10 State Specific Information:
+
+https://www.taxtmi.com/circulars?id=7 1765 7/28
+
+29/10/2026, 3:04:17 pm
+
+In some States, the applicant is also required to provide some State specific information in the application
+for registration. For example, in respect of application for registration applied in the State of Maharashtra,
+Rajasthan, Odisha, Andhra Pradesh, Assam and Madhya Pradesh, furnishing of information of electricity
+connection in respect of the premises for principal place of business, viz. Name of Electricity Board or Unit
+and Consumer Account Number/ Electricity Consumer Number is mandatory. The applicant may ensure
+that such details required specifically for the State concerned, where registration is applied for, may be
+provided correctly, along with supporting documents, if any.
+
+3.11 Details of the Bank Account:
+
+As per rule 10A of CGST Rules, 2017, a registered person is required to furnish the details of the bank
+accounts, which are in the name of the applicant/ registered person and have been obtained on the PAN of
+the applicant/ registered person, within a period of 30 days from the date of grant of registration, or before
+furnishing of details of outward supplies in FORM GSTR-1/ Invoice Furnishing Facility, whichever is earlier.
+Accordingly, whereas furnishing of the details of the bank account is not mandatory at the time of filing
+application for registration, the applicant is advised to furnish the details of his Bank Account, where
+available at the time of applying for registration, in his application for registration. Such details include the
+Account Number, type of account, Bank Name, IFSC Code, Branch Address. The said Bank account
+should invariably be in the name of the applicant and should be obtained on the PAN of the applicant. The
+applicant can give details of more than one account in the application for registration. The applicant is also
+required to upload the documents related to the said bank account(s) in form of scanned copy of first page
+of the bank passbook, or the relevant page of the Bank Statement, or the scanned copy of the cancelled
+cheque containing the name of the Proprietor/ Business entity, Bank Account No., IFSC and Bank Branch
+details, etc.
+
+4. In cases, where the application for registration is being filed by a person whose previous registration,
+obtained on the same PAN, had been suspended as per the provisions of sub-rule (2) or sub-rule (2A) of
+rule 21A of CGST Rules, 2017, or had been cancelled as per the provisions of rule 22 of CGST Rules,
+2017, the applicant needs to ensure that all his due returns for such suo-moto suspended or cancelled
+registration, including final return in FORM GSTR-10, as applicable, have been filed and no liability is
+pending against the said suo-moto suspended/ cancelled registration.
+
+5. Processing of registration application:
+
+5.1 As per provisions of rule 9 of CGST Rules, 2017 in cases, where the applicant has opted for
+authentication of Adhaar number, as specified in sub-rule (4A) of rule 8 of CGST Rules, 2017, while filing
+the application for registration, and has successfully got the Adhaar authenticated, the registration
+application is required to be processed by the proper officer within a period of seven working days from the
+date of submission of the application. In cases, where the applicant has either not opted for authentication
+of Adhaar number or fails to undergo such authentication of Adhaar number; or where the applicant is
+identified on the common portal, based on data analysis and risk parameters, for carrying out physical
+verification of places of business; or where the proper officer, with the approval of competent authority,
+deems it fit to carry out physical verification of places of business, the registration application is to be
+processed within thirty days of the submission of the application for registration, after physical verification
+of the place of business according to the provisions of rule 25 of CGST Rules. It is, therefore, in the
+interest of the applicant that he opts for and undergoes authentication of Adhaar number, as specified in
+sub-rule (4A) of rule 8 of CGST Rules, 2017, to get his application for registration processed at the earliest.
+
+5.2 It is also added that as per first and second provisos to sub-rule (4A) of rule 8 of CGST Rules, 2017, in
+cases where the applicant has opted for authentication of Adhaar number, the applicant may be identified
+on the common portal, based on data analysis and risk parameters, for biometric based Adhaar
+authentication, for taking photograph of the applicant, and for verification of original copies of the
+documents uploaded by the applicant in the application for registration, at one of the Facilitation Centres
+notified for the said purpose. In cases, where the applicant has not opted for authentication of Adhaar
+number, he will be required to visit the Facilitation Centre for the purpose of taking the photograph and for
+
+https://www.taxtmi.com/circulars?id=7 1765 8/28
+
+29/10/2026, 3:04:17 pm
+
+verification of original copies of the documents uploaded by him in the application for registration. In such
+cases, application for registration shall be deemed to be complete only on successful verification as per
+the said provisions. Therefore, it is in the interest of the applicant to undergo the above said authentication/
+verification at the Facilitation Centres in timely manner in such cases.
+
+5.3 Small taxpayers who mainly supply to unregistered persons, or issue tax invoices in respect of supplies
+made to registered persons for passing on ITC on a monthly basis below Rs. 2.5 lakh, may take the benefit
+of simplified registration under Rule 14A of the CGST Rules, 2017. They can opt to pass on ITC below Rs.
+2.5 lakh per month while applying for GST registration under FORM GST REG-01. Under Rule 14A,
+registration is granted automatically by the system within 3 working days. Similarly, applicants identified by
+the system based on risk-based parameters and data analytics for electronic grant of registration under
+Rule 9A are also given registration automatically by the system within 3 working days from the date of
+submission of the application.
+
+5.4 Where the application is found to be deficient, either because of incomplete or contradictory details or
+information or documents furnished by the applicant; or due to the documents being illegible, not clear or
+not providing complete details, such as identity of the person/ complete address, etc., the proper officer
+may seek a clarification or information or documents through a notice in FORM GST REG-03, within seven
+working days from the date of submission of application only in the following cases:
+
+i. Where any document is incomplete or not legible, the proper officer may seek complete or
+legible copy of the same.
+
+ii. Where the address of place of business does not match with the document uploaded by
+the applicant, or where such uploaded document does not appear to be a valid proof of the
+address of the said place of business, the proper officer may seek additional documents as
+per the list of documents in Annexure-IV to confirm the address details.
+
+iii. Where the address of place of business is incomplete or vague, the proper officer may
+seek complete and unambiguous details of the address along with the corresponding
+documentary proof.
+
+5.4.1 It has also been observed that sometimes unwarranted documents are sought by raising
+queries such as residential address of the applicant/Managing Director/Authorized Signatory not
+being in the same city or the State where the registration has been sought; Udyam Certificate;
+raising objections that the kind of activities mentioned in the registration application cannot be
+conducted from the particular premises etc. While raising queries/seeking additional documents,
+officers handling registration applications should not seek unwarranted documents or raise any
+presumptive query which is not relevant for processing of registration application.
+
+5.4.2 The proper officer may issue a notice electronically to the applicant in FORM GST REG-03,
+as referred to in para 5.4 above, in cases where the application has not been identified by the
+system for physical verification of the place of business. In cases where the application has been
+identified by the system for physical verification, or where the proper officer, with the approval of an
+officer authorised by the Commissioner not below the rank of Assistant Commissioner, considers
+physical verification of the place of business necessary, such notice shall be issued within thirty
+days from the date of submission of the application.
+
+5.5 The applicant is required to submit the said clarification, information or the documents in FORM
+GST REG-04 within a period of seven working days from the date of receipt of such notice. The
+proper officer is, thereafter, required to take a decision of the application of registration within seven
+working days of the receipt of the clarification, information or the documents from the applicant in
+FORM GST REG-04. The proper officer shall carefully examine the clarification, information or
+documents furnished by the applicant in FORM GST REG-04. Where the proper officer is satisfied
+with the reply furnished by the applicant in FORM GST REG-04, he shall approve the application
+
+https://www.taxtmi.com/circulars?id=7 1765 9/28
+
+29/10/2026, 3:04:17 pm
+
+for registration within seven working days from the date of receipt of such reply. However, where
+the proper officer is not satisfied with the clarification, information or documents furnished by the
+applicant, he may, for reasons to be recorded in writing, reject such application and inform the
+applicant electronically in FORM GST REG-05 within 07 working days from the date of receipt of
+reply.
+
+5.6. Where applications have been identified by the system for physical verification of the place of
+business is to be carried out, the proper officer shall immediately initiate the process for physical
+verification of the place of business in accordance with provisions of rule 9 of CGST Rules read
+with rule 25 thereof. Thus, the officer must ensure that the physical verification report along with the
+other documents, including photographs, is uploaded on the system in FORM GST REG-30 at least
+five days prior to the expiry of the time period thirty days from the date of submission of application.
+The officer carrying out physical verification shall ensure the following:
+
+a. Give a specific report regarding existence/non-existence of principal place of business
+declared by the applicant.
+
+b. In case entity is found non-existing, efforts made in respect of locating the said premises,
+need to be recorded in the physical verification report.
+
+c. Upload on the portal, GPS enabled site photograph and other documents, if any, during
+physical verification visit.
+
+d. In case the ARN assigned for physical verification belongs to a different jurisdiction, the
+same should immediately be reassigned by the concerned officer to its correct jurisdiction
+through the portal.
+
+5.7 The registration shall be deemed to have been approved if no action is taken by the proper officer
+within the time period specified in rule 9 of CGST Rules, 2017, as also mentioned above.
+
+6. In view of above, the proper officer shall process registration applications submitted in FORM GST
+REG-01 by adhering strictly to the prescribed list of required documents, ensuring that no additional or
+unnecessary papers are sought from applicants to facilitate a smooth and taxpayer-friendly process.
+Where documents are found incorrect, incomplete, or mismatch, for instance, due to discrepancies in
+details, the officer shall issue a notice solely through FORM GST REG-03, providing applicants a clear
+opportunity to rectify without alternative communication or outright rejection. The primary objective remains
+to onboard genuine businesses efficiently into the GST system, so the proper officer shall refrain from
+personal or subjective assessments, such as classifying electricity connections as domestic or commercial,
+scrutinizing bill amounts, or deeming residential premises unfit for business. Further, verification of utility
+bills (like electricity or water) or property tax receipts shall be limited to confirming the applicant's name and
+address. In examining rental or lease agreements, the officer shall verify mainly document's validity,
+inclusion of both the applicant's and lessor's names and the exact property address.
+
+6.1 Further, it is clarified that, in terms of Rule 14A of the Central Goods and Services Tax Rules, 2017, a
+registered person opting to exit from the simplified registration scheme shall follow the procedure
+prescribed for regular registration. Such person shall submit the withdrawal application in FORM GST
+REG-32 alongwith the documents as specified in FORM GST REG-01, and the standard process for
+normal registrations shall apply mutatis mutandis.
+
+7. The applicant is advised that all the requisite information/ details, along with all the required documents,
+legible and complete in all sorts, may be provided in the application for registration. It is also informed that
+the process of registration in GST is totally online and faceless, without need for physical interface, except
+in respect of the process of physical verification of the premises of the applicant, where such physical
+verification is required to be undertaken as per the provisions of rule 9 and rule 25 of CGST Rules, 2017,
+or where the biometric authentication of Adhaar, verification of the original copy of documents and taking of
+photographs has to be undergone at one of the Facilitation Centres. Besides, all the communications with
+
+https://www.taxtmi.com/circulars?id=7 1765 10/28
+
+29/10/2026, 3:04:17 pm
+
+the applicant related to registration process, either by the system or by the proper officer, has to be made
+through the common portal only. The applicant should be vigilant about the communications/ notices sent
+to him through the common portal, so that he can take timely action in respect of any communication sent
+through the common portal.
+
+8. Where the applicant feels aggrieved, either due to delay in processing of the application for registration,
+or due to unwarranted queries being raised by the proper officer, he may file a complaint/ grievance with
+the jurisdictional Chief Commissioner of Central Tax/ Commissioner of State Tax, on the special e-mail
+identified by the Zones/ States for the said purpose.
+
+9. It is requested that suitable trade notices may be issued to publicize the contents of this Circular.
+
+10. Difficulties, if any, in implementation of these instructions may be informed to the Board.
+Your faithfully,
+(Gaurav Singh)
+
+Commissioner (GST)
+
+Annexure-!
+
+FREQUENTLY ASKED QUESTIONS
+
+A. Registration Form
+Q.1. When do | require to obtain GST registration?
+A. You need to obtain GST registration if either:
+
+i. your annual aggregate turnover on a PAN basis for supplying goods, services, or both exceeds
+the prescribed threshold limit, or
+
+ii. you fall under any category that requires mandatory registration irrespective of turnover.
+
+Besides, suppliers whose turnover is below the prescribed threshold may also obtain GST
+registration voluntarily.
+
+Q.2. What is the prescribed threshold limit of annual aggregate turnover for GST registration?
+
+A. For suppliers exclusively dealing in goods, the prescribed annual aggregate turnover threshold for GST
+registration is 40 lakhs, while for suppliers engaged in the supply of goods and services both or supply of
+services only, it is $20 lakhs.
+
+However, these limits are relaxed for special category States at their option, where threshold limit of =20
+lakhs applies for goods suppliers and %10 lakhs for service suppliers.
+
+Further, the persons engaged in exclusive supply of ice cream and other edible ice (whether or not
+containing cocoa), pan masala and all goods classified under Chapter 24 of the First Schedule to the
+Customs Tariff Act, 1975, i.e., tobacco and manufactured tobacco substitutes must mandatorily take
+registration under the Act, irrespective of the threshold limit.
+
+Before applying for GST registration, you must verify the applicable threshold limit for your State or Union
+territory.
+
+https://www.taxtmi.com/circulars?id=7 1765 11/28
+
+29/10/2026, 3:04:17 pm
+
+Q.3. Who are mandatorily required to obtain GST registration irrespective of the annual aggregate
+turnover threshold?
+
+A. The following categories of persons are mandatorily required to obtain GST registration regardless of
+turnover:
+
+a. Persons making any inter-State taxable supply;
+b. Casual taxable persons making taxable supply;
+c. Persons required to pay tax under reverse charge mechanism;
+
+d. Persons required to pay tax under sub-section (5) of Section 9 of the Central Goods and
+Services Tax Act, 2017 (“CGST Act”)
+
+e. Non-resident taxable persons making taxable supply;
+
+f. Persons required to deduct tax under Section 51 of CGST Act (TDS deductors), whether or not
+separately registered;
+
+g. Persons making taxable supply on behalf of other taxable persons (as agent or otherwise);
+h. Input Service Distributor (ISD), whether or not separately registered;
+
+i. Persons making taxable supply of goods or services through an electronic commerce operator
+required to collect tax at source under Section 52 of CGST Act;
+
+j. Every electronic commerce operator required to collect tax at source under Section 52 of CGST
+Act;
+
+k. Persons supplying online information and database access or retrieval services (OIDAR) from
+outside India to a person in India (other than registered person);
+
+|. Any other person or class of persons as may be notified by the Government on Council
+recommendations.
+
+However, if any of the above-mentioned persons is exempted from obtaining registration
+mandatorily through a notification, he may not be required to obtain GST registration.
+
+Q.4. How and where to file an application for GST registration?
+
+A. You can file an application for GST registration online on the GST portal (https:/Awww.gst.gov.in/)
+through Services — Registration — New Registration on the GST portal.
+
+Q.5. What forms for registration are required to be filled by various taxpayers?
+A. The taxpayer is shown the following list in the “I am a” drop-down list provided.:
+O Taxpayer
+O Tax Deductor
+O Tax Collector (e-Commerce)
+O GST Practitioner
+C Non Resident Taxable Person
+
+O United Nation Body
+
+https://www.taxtmi.com/circulars?id=7 1765 12/28
+
+29/10/2026, 3:04:17 pm
+O Consulate or Embassy of Foreign Country
+O Other Notified Person
+O Non-Resident Online Services Provider and/or Non-Resident Online Money Gaming Supplier
+
+Based on the taxpayer type, the following GST registration form is required to be filed:
+
+S.No. Category of taxpayer FORM
+GST
+1. | Application for Registration by normal taxpayer, ISD and Casual taxable person REG-01
+
+2. | Application for Registration of Tax Deductor at Source under section 51 of CGST Act | GST
+
+or Tax Collector at Source under section 52 of CGST Act REG-07
+
+3. | Application for Registration of Non- Resident Taxable Person GST
+REG-09
+
+4. | Application for OIDAR Supplier from outside India to India GST
+REG-10
+
+5. | Application for grant of Unique ID to UN Bodies/Embassies/others. GST
+REG- 13
+
+Q.6. What other GST forms are relevant for an applicant during the GST registration process?
+
+A. Other forms relevant for the taxpayer are as follows:
+
+S.No. Form Description
+
+1. FORM GST | Acknowledgement of registration application
+REG-02
+
+2. | FORMGST | If the proper officer is not satisfied with the documents submitted with the
+REG-03 registration application, he may issue a notice for Seeking Additional Information /
+Clarification/ Documents relating to the said application for Registration
+
+3. | FORM GST | Submission of reply to the notice received in FORM GST REG-03
+REG-04
+
+4. FORM GST | If the applicant fails to respond to the notice within the prescribed time, or if the
+REG-05. | Proper Officer is not satisfied with the reply furnished to the show cause notice, an
+order rejecting the application for registration will be issued.
+
+5. FORM GST | Registration Certificate
+REG-06
+
+https://www.taxtmi.com/circulars?id=71765 13/28
+
+29/10/2026, 3:04:17 pm
+
+Q.7. How does the “Reason for Registration” affect the processing of my GST application?
+
+A. The reason selected for registration is an important detail which should describe why you are seeking
+GST registration and it is required to be aligned with the Constitution of Business and other details
+provided in the application to ensure smooth processing. It may also be helpful in determining the category
+of registration, the liability and even at the time of cancellation.
+
+Q.8. Is there any simplified procedure for obtaining GST registration for small businesses.
+
+A. Yes, a simplified registration scheme for small businesses has been introduced with effect from 1st
+November 2025 as per rule 14A of Central Goods and Services Tax Rules, 2017 (CGST Rules) 2017. This
+optional scheme is for small businesses who do not need to pass on Input Tax Credit
+(IGST+CGST+SGST) more than %2.5 lakhs per month to registered recipients. Under this scheme,
+registration is granted automatically within three working days from the date of application without any
+intervention by officer. It may however be noted that simplified registration scheme under rule 14A of CGST
+Rules, 2017 is not applicable in cases where the person needs to pass on ITC more than Rs. 2.5 lakh ina
+month.
+
+Q.9. What are the conditions and restriction for obtaining simplified GST registration?
+A. To avail this simplified scheme, a small supplier must:
+
+i. file application for GST registration in FORM GST REG-01,
+
+ii. opt for Aadhaar authentication while filing the application and
+
+iii. choose registration under rule 14A by declaring that they will abide by all conditions and
+restrictions as mentioned under:
+
+a. He cannot declare outward taxable supplies to registered persons involving total tax
+amount exceeding Rs.2.5 lakh in a month.
+
+b. He cannot obtain more than one GST registration in a State/Union Territory on the same
+PAN under Rule 14A of CGST Rules, 2017.
+
+Q.10. | have obtained GST registration under simplified registration under rule 14A now | want to
+pass on ITC more than Rs. 2.5 lakh in a month to registered recipients, how can | withdraw from the
+simplified registration scheme under the said rule. And to obtain a normal registration?
+
+A. You can withdraw from the simplified registration scheme and become a regular taxpayer by in the
+following manner:
+
+File all pending returns due till the date of filing of application for withdrawal in FORM GST REG-32
+on the common portal, subject to condition that you should have filed at least return for one tax
+period after obtaining registration under rule 14A of CGST Rules, 2017.
+
+Once you submit FORM GST REG-32, your withdrawal application will be processed using the same
+procedure as a normal registration application made under FORM GST REG-01. After approval, you will
+become a regular taxpayer and will no longer be subject to the Rule 14A restrictions.
+
+Q.11. Where can I find the manual/tutorial for a step-by-step procedure for filing registration
+application?
+
+OA. A complete manual/tutorial for guiding applicants step-by-step to file GST registration application is
+available on the GST portal at:
+
+https://www.taxtmi.com/circulars?id=7 1765 14/28
+
+29/10/2026, 3:04:17 pm
+
+https://tutorial.gst.gov.in/userguide/registration/index.htm#t=Apply_for_Registration
+_Normal_Taxpayer.htm
+
+Apart from this tutorial, the application form itself provides tool tips and real-time contextual guidance to
+help applicants fill up the registration form correctly.
+
+Q12. Do | need to visit the GST office for filing GST registration application?
+
+A. There is no need to visit GST office for registration application. GST registration application needs to be
+filed online on the GST common portal (https://www.gst.gov.in/). Upon successful submission of
+application, you will receive an acknowledgment of registration application in FORM GST REG-02.
+
+Q13. Do I need to visit the GST office for getting my registration application processed after filing
+registration application on the common portal?
+
+A. GST registration application is processed online on the GST common portal. Further, with respect to
+Registration application filed under Rule 14A, the registration is issued electronically within 3 working days.
+Further, for normal Registration application,, if your application is selected for biometric-based Aadhaar
+authentication, you will be informed electronically through the GST portal and will be required to visit the
+designated GST Suvidha Kendra (GSK) for biometric authentication and document verification. This
+process must be completed within 15 days from the date of receipt of temporary reference number on the
+mobile number and email address as provided in the registration application form. Failure to do so may
+result in your application not being processed further. Upon successful completion of the biometric based
+Aadhar authentication and document verification, you will receive an acknowledgment of registration
+application in FORM GST REG-02.
+
+Q.14. Will any officer visit my business premises for verification during the GST registration
+process?
+
+A. The proper officer may conduct a physical verification of your business premises if:
+a. You do not opt for Aadhaar authentication or fail to complete Aadhaar authentication; or
+
+b. Even after opting for Aadhaar authentication, your application is identified by the system for
+physical verification of the premises based on risk parameters and data analysis; or
+
+c. The proper officer considers physical verification necessary and obtains the required approval
+from a higher authority.
+
+Q.15. Do | need to submit any additional information after applying for GST registration? What
+happens if | do not respond to a query raised by the officer?
+
+A. After submitting your application, you may track the status of the registration application on the GST
+common portal.
+
+If, during examination of your application, the proper officer requires any clarification or finds any
+discrepancy, he may issue a notice in FORM GST REG-03 on the GST common portal seeking such
+documents/information/ clarification/. On receipt of the same, you are required to submit your reply in
+FORM GST REG-04 along -with requisite information/documents/clarification if any on the GST common
+portal within 7 working days from the date of receipt of the notice in FORM GST REG-03.
+
+If you fail to respond within the prescribed time, the officer may reject your GST registration application.
+
+Q.16. How long will it take to receive the final decision on my GST registration application after |
+submit a clarification in FORM GST REG-04?
+
+https://www.taxtmi.com/circulars?id=7 1765 15/28
+
+29/10/2026, 3:04:17 pm
+
+A. After you submit the required clarification in FORM GST REG-04, the proper officer will process your
+application and take a decision within 7 working days.
+
+If your application is approved, the Registration Certificate in FORM GST REG-06 will be made available
+on the GST portal. If your application is rejected, a rejection order in FORM GST REG-05 will be issued
+and made available on the portal.
+
+Q.17. What if the GST officer does not process my registration application within the prescribed
+time?
+
+A. If no action is taken by the officer within the prescribed time limit, your GST registration shall be deemed
+to have been approved. In such cases, the Registration Certificate in FORM GST REG-06 will be
+automatically made available on the GST portal.
+
+Q. 18. What should I do if my GST registration application is rejected?
+
+A. If your application is rejected, you may submit a fresh application after correcting the deficiencies
+mentioned by the officer in the rejection order.
+
+Q.19. Can separate registrations be obtained for multiple businesses, branches, or business
+verticals within the same State?
+
+A. Yes, a person can obtain separate registration for multiple places of business or branches within a State
+or a Union territory, if such person has not been registered as a composition taxpayer.
+
+B. Information/documents relating to details of the Constitution of Business (COB)
+
+Q.20. What information/documents relating to details of the Constitution of Business (COB)?
+
+A. In Part B of FORM GST REG-01, the applicant needs to select the correct constitution of the business,
+viz. Proprietorship, Partnership, Hindu Undivided Family (HUF), Private Limited Company, Public Limited
+Company, Limited Liability Partnership (LLP), Trust, Association of persons, Local Authority, PSU, etc.
+Besides, the applicant also needs to upload the copy of Partnership Deed in case of Partnership firm;
+Registration Certificate/ Proof of Constitution in case of Society, Trust, Club, Government Department,
+Association of Persons or Body of individuals, Local Authorities, Statutory bodies, etc.; as mentioned in
+Annexure-ll to Circular No. 257/03/2026-GST.
+
+C._Information/documents relating to details of Principal Place of Business (PPoB) /Additional
+Place of Business (APoB)
+
+Q.21. What document do | need to upload as a proof of Premises to be declared as PPoB/APoB in
+case the said premise is owned by me?
+
+A. If you own the premises, you should upload a clear and legible copy of any one of the following
+documents in your name: a property tax receipt (latest copy), municipal khata, property identification
+document, Electricity Bill (latest copy), or Water Bill (latest copy). You are also required to ensure that the
+address mentioned on it exactly matches the address of PPoB declared in your GST registration
+application.
+
+Q.22. The premise is owned by my father or my mother or another relative but | am staying in the
+premises; whether | can declare it as my owned premises as PPoB/APoB in the registration
+application form?
+
+A. No, in this case, you should declare “Consent” corresponding to the field “Nature of premises” and
+upload clear and legible copy of:
+
+https://www.taxtmi.com/circulars?id=7 1765 16/28
+
+29/10/2026, 3:04:17 pm
+
+1. Any one of the documents mentioned in answer to Q.21 above, corresponding to the address
+declared as PPoB/APoB; and
+
+2. A consent letter from the family member (spouse, parent etc.) on plain paper in the format
+enclosed as Annexure-VI to Circular No. 257/03/2026-GST.
+
+Q.23.What documents are required if the premises to be declared as PPoB/APoB are rented/leased
+and registered rent/lease agreement is available?
+
+A. lf the rent or lease agreement is registered, a clear and legible copy of the registered agreement
+corresponding to the declared address is required to be uploaded as a proof of premises declared as
+PPoB/APoB.
+
+Q.24. What documents are required if the premises are rented/leased and the rent or lease
+agreement is not registered?
+
+A. If the agreement for rent/lease of the premises to be declared as PPoB/APOoB is not registered, you
+should upload a clear and legible copy of the following documents corresponding to the declared address:
+
+1. A copy of the rent or lease agreement; and
+
+2. Any one of the documents in the landlord’s name for the said premises as mentioned in
+answer to Q.21 above.
+
+Q.25. What documents are required as proof of the PPOB/APoB if no rent/lease agreement is
+available for premises?
+
+A. If there is no rent or lease agreement available in respect of premises to be declared as PPoB/APoB, a
+clear and legible copy of the following documents should be uploaded:
+
+a. An undertaking to the effect that you are in possession of the said premises for using it as
+PPoB/APOoB, in the format enclosed as Annexure-V to Circular No. 257/03/ 2026-GST.
+
+b. A copy of any one of the documents in the applicant's name of the premises corresponding to the
+address declared as PPoB/APoB as mentioned in answer to Q. 21 above.
+
+Q.26. What documents should | upload as proof of the PPoB/APoB if | am operating from a Co-
+Working space?
+
+A. To declare a Co-Working space as PPoB/APoB, you should upload a clear and legible copy of the
+membership with the co-working space provider, showing your allocated desk, seat, suite, or area and the
+full address of the premises. In addition:
+
+i. If the co-working space provider owns the premises, you should also upload a clear and legible
+copy of any one of the documents in the name of the co-working space provider corresponding to
+the declared address as mentioned in answer to Q. 21 above.
+
+In addition, if the co-working space provider has taken the premises on rent or lease, you should also
+upload a clear and legible copy of the registered rent or lease agreement between the owner of the
+premises and the co-working space provider.
+
+Q. 27. What documents should be uploaded as proof of the Principal Place of Business (PPoB) for
+an SEZ Unit or SEZ Developer?
+
+A. The applicant is required to upload the relevant approval letters, certificates, or other documents issued
+by the Government of India or the competent SEZ authorities evidencing the location of the SEZ Unit or
+SEZ Developer.
+
+https://www.taxtmi.com/circulars?id=7 1765 17/28
+
+29/10/2026, 3:04:17 pm
+
+Q. 28. | already hold a GST registration for a place of business located outside the SEZ in the same
+State/Union Territory. Can | obtain a separate GST registration for my SEZ Unit?
+
+A. Yes. A separate GST registration is mandatory for an SEZ Unit or SEZ Developer, even if the applicant
+already holds a GST registration for a place of business located outside the SEZ in the same State/Union
+Territory. The SEZ Unit cannot be covered under the existing nonSEZ GSTIN.
+
+Q.29. If the ownership of premises to be declared as PPoB/APobB is in a deceased ancestor’s name,
+what documents should be uploaded as a proof of PPoB/APoB?
+
+A. If the premised to be declared as PPoB/APOoB is in the name of a deceased ancestor, you should upload
+a Clear and legible copy of the following documents:
+
+i. Copy of Death Certificate of deceased ancestor, and
+
+ii. An affidavit on a stamp paper of minimum value by the applicant to the effect that the applicant is
+successor or has legal inheritance for the said premises to be declared as PPoB/APoB enclosed as
+Annexure- IV of Circular No. 257/03/2026- GST explaining the succession or legal inheritance
+showing you as the possessor of the premises, and
+
+iii. Any one of the documents in the name of the deceased ancestor or in the applicant’s name for
+the premises corresponding to the address to be declared as PPoB/APoB as mentioned in answer
+to Q. 21 above.
+
+Q.30. My address of premises declared as PPoB/APOB is in a different State /district/City than of
+my residential address declared in the registration application form. Will that be an issue for
+obtaining registration under GST?
+
+A. It is not required to have a residential address in each State/district/City to obtain registration under
+GST. You can have residential address in a State/District/City other than that State/District/City where you
+have a premises to be declared as PPoB/APoB under GST. However, you are advised to provide accurate
+details in respect of residential address as well as premises to be declared as PPoB/APoB in FORM
+GST REG-01.
+
+Q.31. What should | check before uploading a document as a proof of my PPoB/APoB?
+
+A. Before uploading the document as a proof of premises to be declared as PPoB/APoB, you should
+ensure that the name and address mentioned in the document match with the details provided by you in
+your GST registration application. If you are uploading an electricity or water bill, it should be ensured that
+it is not too old & you should upload latest copy of the electricity or water bill. You should also, make sure
+that the document uploaded is clear, complete, and legible.
+
+Q.32. Can I use a Post Office Box or courier address as my business address as my PPoB/APoB
+for GST registration?
+
+A. No. A Post Office Box is not acceptable as the PPoB/APoB. GST registration requires a verifiable
+physical address. You should have a physical premises and provide valid supporting documents as proof
+of address of that premises as discussed above in the answers to questions.
+
+Q.33. If | have multiple branches in the same building, do | need to declare all them as PPoB or one
+of them as PPoB. Further, is it required to upload proof for each of them separately?
+
+A. You may obtain single GST registration by declaring one of them as PPoB and others as APoB or
+multiple registration by declaring branches as PPoB. However, you are required to upload proof for each
+PPoB and/or APoB separately.
+
+https://www.taxtmi.com/circulars?id=7 1765 18/28
+
+29/10/2026, 3:04:17 pm
+
+Q.34. The electricity bill is in the landlord’s name but the meter is shared. Is it acceptable as a proof
+of PPoB/APoB?
+
+A. In this scenario you should ensure the following:
+
+i. If you have a registered rent/lease agreement, you only need to upload the registered
+rent/lease agreement; no additional document is required.
+
+ii. If the rent/lease agreement is not registered, upload any one of the documents in the name of
+the landlord as mentioned in answer to Q. 21 above along with the rent agreement.
+
+Q.35. Will photos of the applicant or landlord on the premises be required or accepted as PPOB
+proof?
+
+A. No. Only the documents as prescribed in the List of documents and in the format as prescribed in
+instructions appended to FORM GST REG-01 are required for GST registration.
+
+Q.36. If lam a MSME unit registered on the Udyam Portal. Am | required to upload Udyam (MSME)
+certificate as proof of PPOB?
+
+A. Neither the Udyam/MSME certificate is required nor it can be treated as a proof of PPoB/APoB.
+
+Q. 37. What documents shall be submitted if | own the property jointly but utility bills and similar
+documents are issued in the name of other co-owner?
+
+A. In case where property is jointly owned and one of the co-owners intends to obtain GST registration by
+using the premises as the PPoB, consent or an NoC from the coowners is not required. However, there
+may be situation where the property is jointly owned but utility bills and similar documents are issued in the
+name of only one co-owner. In such cases, the applicant shall submit such document where ownership of
+both is mentioned.
+
+D. Information/Documents relating to Bank Account Details
+
+Q.38. Which type of bank account details should | provide?
+
+A. You should provide details of bank accounts which are in the name of your firm or your name in case of
+proprietorship and are obtained on its PAN and which are maintained by you for conducting the business
+for which GST registration is being obtained. It is mandatory to mention/add/update all the bank accounts
+operating in the name of your firm or being used for transactions thereof even if opened or added post-
+registration.
+
+Q.39. Is bank account mandatory at the time of filing application for GST registration?
+
+A. No. It is not mandatory at the time of filing application; however, you are advised to fil the details in
+respect of bank account at the time of filing application for GST registration if such bank account details
+are available at the time filing registration application. It is however, mandatory to furnish bank account
+details within 30 days of grant of registration or before filing outward supplies in GSTR-1/Invoice
+Furnishing Facility, whichever is earlier as per Rule 10A of CGST Rules.
+
+Q.40. Details of how many bank accounts can be provided at the time filing GST registration or
+after that?
+
+A. You can provide details of up to 10 bank accounts pertaining to your business.
+
+E. Details of Goods and Services
+
+Q.41. Should | enter all the Goods and Services in the field of details of Goods and Services?
+
+https://www.taxtmi.com/circulars?id=7 1765 19/28
+
+29/10/2026, 3:04:17 pm
+
+A. It is advisable to provide the details of all types of goods and/or services that your business supply or
+intends to supply. Use accurate and specific descriptions as per your business activity. However, if you
+cannot add all the goods and/or services, you are required to add the most prominent ones.
+
+Q. 42. Can | update or add items in the details pertaining to HSN after registration?
+
+A. Yes, you can update or add goods/services through an amendment application in FORM GST REG-14
+after grant of the registration.
+
+E. Information/Documents relating to Details of Proprietor / Directors / Karta / Promoter etc.
+
+Q.43. Whose details are required to be filled in respect of Proprietor/Directors/Karta/Promoter etc.?
+
+A. The applicant needs to provide the details of the proprietor in case of proprietorship concern, including
+his/her name, name of the father, date of birth, mobile number, e-mail address, gender, PAN, Adhaar
+Number (if available), Director Identification Number (if any), Residential address, designation/ status in
+the firm/company etc. In case of partnership firms/ LLP, the details of Managing Partner as well as all other
+partners need to be provided. In case of HUF, the details of Karta are to be provided. In case of a
+company, the details of Managing Director and all the whole-time directors are to be provided, while in
+case of Association, the details of all Members of Managing Committee and in case of Trusts, details of all
+Members of Board of Trustee are required to be provided by the applicant. In case of directors of a
+Company and in case of Designated Partners in a LLP, Director Identification Number (DIN) is mandatorily
+required to be provided.
+
+Q.44. How can | update details if there is change in details of Director/Promoter/partner after
+obtaining registration?
+
+A. Changes in details of directors, partners, trustees, promoters or Karta etc. may be updated by filing
+amendment application in FORM GST REG-14 on the GST common portal.
+
+Q. 45. Is Director Identification Number (DIN) mandatory for directors of a company?
+
+A. Yes. DIN should be furnished wherever applicable for directors of companies and designated partners
+of LLPs. Moreover, DIN will be validated through MCA.
+
+Q. 46. Are E-mail Id and Mobile Number mandatory for each promoter/partner/ authorised
+signatory?
+
+A. E-mail Id and Mobile Number of each promoter/partner/authorised signatory shall be submitted correctly
+for verification and future communications.
+
+Q.47. Will CIN be validated during submission of application?
+A. All information related to CIN shall be validated online by the system during submission of application.
+
+G. Authorised Signatory/Authorised Representative
+
+Q.48. Who can be an authorized signatory under GST?
+
+A. Any person who is not minor can be made an authorized signatory and however, in cases where
+application for registration of Non-Resident Taxable Person is filed in FORM GST REG-09, Authorised
+signatory shall be an Indian national and shall not be a minor.
+
+Q.49. What document and details are required to be provided in respect of authorized signatory?
+A. The applicant is required to provide the details of the primary authorized signatory and other authorized
+
+signatories, if any, including the name, name of the father, date of birth, mobile number, e-mail address,
+gender, PAN, Adhaar Number, if available, Director Identification Number (DIN), (where applicable),
+
+https://www.taxtmi.com/circulars?id=7 1765 20/28
+
+29/10/2026, 3:04:17 pm
+
+Residential address, designation/ status, etc. The details of maximum ten (10) authorized signatories can
+be furnished in the application of the registration. The photographs of such authorized signatories also
+need to be uploaded along the application.
+
+Besides, an authorization letter issued by the proprietor/ Partners/ Board/ Trust/ Management Committee,
+etc, appointing the said person as authorised signatory of the entity, must be uploaded as proof of
+appointment of the said authorized signatory.
+
+They are also required upload recent photographs in respect of authorized signatories.
+Q.50. How many authorised signatories can | add?
+
+A. You can add up to ten authorised signatories, including the primary authorised signatory. It is
+advisable to add at least two signatories, a primary and an alternate to ensure smooth handling if one
+signatory is unavailable for e-sign, DSC, or Aadhaar verification.
+
+Q.51. Is authorized signatory required to sign the application?
+
+A. Primary Authorised signatory as mentioned in FORM GST REG-01 is required sign the application
+digitally
+
+ANNEXURE- II
+CHECKLIST OF DOCUMENTS
+SI. | Constitution of Persons whose Digital Sign of Details/Documents required
+No Business details are to be person required
+furnished
+i | Proprietorship Proprietor Proprietor + PAN of Proprietor
+
++ Photograph of proprietor
+
++ Bank account details of
+Proprietor or Proprietorship firm,
+as applicable.
+
++ Address proof of principal place
+of business (ANNEXURE-III)
+
+ii | + Partnership Managing/ Authorised | Managing / | + PAN of the partnership firm
+/ Designated Partners | Authorised
+
+* Limited Liability Partners for|* Partnership deed or any proof
+
+Partnership (LLP) Partnership substantiating constitution (For
+partnership _firm)/Certificate of
+
++ Foreign Limited Designated incorporation/ Certificate of
+
+Liability Partners for | establishment
+
+Partnership Limited Liability
+
+(Foreign LLP) Partnership + Photograph of the partners
+including managing partner and
+
+Authorised authorised/designated partners
+
+Person in India
+for Foreign LLP | * Authorisation Form as specified
+
+in instructions to FORM GST REG-
+01
+
+https://www.taxtmi.com/circulars?id=7 1765 21/28
+
+29/10/2026, 3:04:17 pm
+
+iii | Hindu’ Undivided | Karta Karta
+Family
+iv |¢ Private Limited Managing Director or | Managing /
+Company Authorised Signatory | Whole-time
+. . Directors for
++ Public Limited Private’ Public/
+Company Unlimited
+Cc
+: Unlimited ompany
+Company
+. Foreign | Indian Authorised | Indian Authorised
+Company Signatory Signatory for
+Registered (in Foreign
+India) Company
+registered in
+India
+* One Person | Director Director for One
+Company person Company
+v__| Society All Members of | Members of
+Managing Committee | Managing
+or Board of Trustees |Committee
+
+President/ Secretary/
+
+Chairman
+
+and
+
+Authorised signatory
+
+https://www.taxtmi.com/circulars?id=7 1765
+
++ Bank account details of
+
+partnership firm
+
++ Address proof of principal place
+of business (ANNEXURE-III)
+
++ PAN of HUF
++ Photograph of the Karta
++ Bank account details of HUF
+
++ Address proof of principal place
+of business (ANNEXURE-III)
+
++ PAN of the company
+
+* Certificate of incorporation/
+Certificate of establishment
+
++ Photograph of Managing Director
+and Directors Authorisation Form
+as specified in instructions to
+FORM GST REG-01
+
++* PAN card, Aadhar card and
+Photograph of authorised
+signatory
+
++ Bank account details of Company
+
++ Address proof of principal place
+of business (ANNEXURE-III)
+
++ PAN of Society/Club/AOP /Trust
+
++ Registration certificate or any
+proof substantiating constitution
+
++ Photograph of Trustees or
+Members of Managing Committee
+including President/
+Secretary/Chairman
+
++ Authorisation Form as prescribed
+in instructions to FORM GST REG-
+01
+
++ Photograph of authorised
+
+signatory
+
++ Bank account details of
+
+Society/Club/AOP/Trust
+
+22/28
+
+29/10/2026, 3:04:17 pm
+
+vi | Government DDO/
+Department Signatory/ Person in
+charge
+
+vii | Public Sector | Chief
+
+viii | Local Authority or | Chief
+Statutory Body Officer
+equivalent
+
+https://www.taxtmi.com/circulars?id=7 1765
+
+Authorised | Person In charge
+
+Manager/ | Managing
+Undertaking Authorised Signatory | Whole-time
+
+Executive | Chief
+
++ Address proof of principal place
+of business (ANNEXURE-III)
+
++ PAN of Government Department
+
++ Any proof substantiating
+constitution
+
++ Letter of appointment of Drawing
+and Disbursing Officer (DDO)
+
++ Authorisation Form as prescribed
+in instructions to FORM GST REG-
+01
+
++ Photograph of DDO/Authorized
+Signatory
+
++ Address proof of principal place
+of business (ANNEXURE-III)
++ PAN of PSU
+
+* Certificate of incorporation/ any
+proof substantiating constitution
+
++ Authorisation Form as prescribed
+in instructions FORM GST REG-01
+
+* Photograph of Chief Manager or
+Authorized Signatory
+
++ Bank Account details of PSU
+
++ Address proof of principal place
+of business (ANNEXURE-III)
+
++ PAN of Local/Statutory Authority
+
++ Any proof substantiating
+constitution
+
++ Authorisation Form as prescribed
+in instructions to FORM GST REG-
+01
+
++ Photograph of CEO or the
+equivalent officer
+
++ Bank Account details of
+Department
+
++ Address proof of principal place
+of business (ANNEXURE-III)
+
+23/28
+
+29/10/2026, 3:04:17 pm
+
+ANNEXURE-III
+
+LIST OF DOCUMENTS FOR PROOF OF PRINCIPAL PLACE OF BUSINESS
+
+SI. Premises Documents to be uploaded in respect of premises
+No.
+1 (i) Owned Premises Any one of the following documents of the applicant:
+
+Copy of Latest Property Tax receipt
+or
+
+Copy of Municipal Khata
+or
+
+Copy of document certifying Property
+Identification
+
+or
+Latest copy of Electricity Bill or Latest copy of
+Water Bill
+
+(ii) Premises owned by deceased | Premises owned by deceased ancestor-
+
+ancestor and where no document is
+
+available in the name of the applicant | !. Copy of Death Certificate of deceased ancestor
+and
+
+ii. Affidavit by the applicant in the requisite format
+(ANNEXURE-IV)
+
+and
+iii. Any one of the documents mentioned above for Sl.no.
+1.(i) in the name of the applicant.
+Ul Rented or leased premises a. Where Registered Rent/Lease Agreement is
+
+mandated:
+
++ Registered Rent/Lease agreement
+b. Where registered Rent/Lease Agreement is not
+mandated and not available
+
+i. Rent / Lease agreement
+
+and
+
+ii. Any one of the documents mentioned above for
+Sl.no. I.(i) in the name of the lessor.
+
+https://www.taxtmi.com/circulars?id=7 1765 24/28
+
+29/10/2026, 3:04:17 pm
+
+Ill | Where rent or lease agreement is not |i. An undertaking by the applicant in the requisite format
+available (ANNEXURE-V)
+
+and
+
+ii. Any one of the documents mentioned above for Sl.no.
+.(i) in the name of the applicant or the owner.
+
+IV. | Premises on Consent base (where |i. Consent letter in plain paper by the concerned owner
+premises is neither owned _ nor | of the premises in the requisite format (ANNEXURE-VI)
+
+rented)
+and
+
+ii. Any one of the documents mentioned above for Sl.no.
+
+|.(i) in the name of the consenter.
+
+Vv Co-working Space (Where applicant a. Premises owned by Co-working service provider
+wants to take registration on a co-
+
+working premises having been i. Membership Agreement between the co-
+allocated a clearly designated space in working space operator/provider and applicant
+that premises, by co-working space with details of physical space assigned to the
+provider) applicant,
+
+and
+
+ii. Any one of the documents mentioned above for
+Sl.no. I.(i) in the name of the co-working space
+provider.
+
+b. Premises taken on rent or lease by the co-working
+service provider
+
+i. Registered Rent/Lease agreement between
+owner and the co-working space provider
+
+and
+
+ii. Membership Agreement between the co-
+working space operator/provider and applicant
+having details of physical space assigned to the
+applicant for conducting business.
+
+VI | Special Economic Zone If the principal place of business is located in the Special
+Economic Zone or the applicant is a Special Economic
+Zone developer, Letter of Approval / Letter of Permission
+issued by the Development Commissioner of the SEZ.
+Annexure-IV
+
+Affidavit for GST Registration (Inherited Property)
+
+(To be executed on a non-judicial stamp paper of minimum value €100 in the presence of
+
+https://www.taxtmi.com/circulars?id=7 1765 25/28
+
+29/10/2026, 3:04:17 pm
+
+First-Class Judicial Magistrate or Executive Magistrate or Notary Public)
+AFFIDAVIT
+
+I, [Name of Applicant], S/o / D/o / W/o [Father/Spouse Name], aged about [Age] years, residing at [Full
+Address of Residential Premises], do hereby solemnly affirm and declare as under:
+
+1. That | am an Indian by nationality.
+
+2. That | am the legal heir/one of the legal heirs of [Name of Deceased Ancestor] (hereinafter
+referred to as "the deceased"), who passed away on [Date of Death].
+
+3. That the property located at [Full Business Address for GST Registration] (hereinafter
+referred to as "the said premises") was registered/stood in the name of the deceased.
+
+4. That | have lawful possession of the said premises and am carrying on my business/sole
+proprietorship from the said premises under the name and style of M/s [Business Name].
+
+5. That | am responsible for paying the utility bills (Electricity/Water/Property Tax) for the said
+premises.
+
+6. That | am solely responsible for all activities and tax liabilities arising out of the business
+conducted at the said premises.
+
+7. That this affidavit is submitted to the Goods and Services Tax authorities for the purpose of
+obtaining GST Registration and the facts stated are true to the best of my knowledge and belief.
+
+Deponent
+VERIFICATION
+
+Verified at [Place] on this [Date] Day of [Month, Year] that the contents of this affidavit are true and
+correct to the best of my knowledge and belief, and nothing has been concealed therein.
+
+Annexure-V
+Undertaking for GST Registration (No Rent Agreement)
+
+I, [Applicant Name], S/o / D/o / W/o [Father/Spouse Name], aged about [Age] years, residing at [Full
+Address of Residential Premises], do hereby solemnly affirm and declare as under:
+
+1. That | am a citizen of India.
+2. That | am the proprietor / promoter / authorized signatory of M/s [Business Name].
+
+3. That | am carrying on my business activities from the premises situated at [Full Business
+Address for GST Registration] (hereinafter referred to as “the said premises’).
+
+4. That the said premises is owned by [Landlord/Owner Name].
+
+5. That | do not have any formal written rent or lease agreement executed with the owner of the
+said premises.
+
+6. That | am in lawful possession and occupation of the said premises since [Month/Year], and
+am conducting my business under the name and style of M/s [Business Name] from the said
+premises.
+
+7. That | am responsible for the payment of utility charges, including electricity, water, and/or
+other applicable charges, in respect of the said premises.
+
+https://www.taxtmi.com/circulars?id=7 1765 26/28
+
+29/10/2026, 3:04:17 pm
+
+8. That | am responsible for all statutory, legal, and tax compliances under the Central Goods
+and Services Tax (GST) Act, 2017 and rules made thereunder in respect of the business carried on
+from the said premises.
+
+9. That this affidavit is being furnished for the purpose of obtaining GST registration
+10. That | am responsible for all legal and tax compliances at this address.
+11. The contents of this undertaking are true to the best of my knowledge and belief.
+Signature
+Annexure-VI
+CONSENT LETTER
+Date: [DD/MM/YYYY]
+To Whomsoever It May Concern
+Subject: Consent for use of premises for GST Registration
+
+I/We, [Owner’s Full Name], son/daughter of [Father’s/Mother’s Name], residing at [Owner’s Address],
+and being the lawful owner(s) of the premises situated at [Full Address of Premises] (hereinafter referred
+to as “the said premises”), do hereby solemnly affirm and declare as under:
+
+1. That I/We have permitted [Applicant’s Full Name / Business Name], who is my/our
+[relationship, e.g., son/daughter/brother/tenant/authorized occupant], to use the said
+premises for the purpose of obtaining registration under the Central Goods and Services Tax (GST)
+Act, 2017 and rules made thereunder and for carrying on business activities therefrom.
+
+2. That I/We have further permitted the applicant to use either the entire said premises or an
+exclusively earmarked and clearly demarcated portion thereof, more particularly described as:
+
+[Insert precise description e.g., “Cabin No. 3, First Floor, admeasuring approximately
+__ sq. ft., located on the right-hand side of the staircase,” or “Workstation area
+marked ‘B’ in the attached layout plan, admeasuring approximately ____ sq. ft.”]
+(hereinafter referred to as “the allocated premises”, where applicable).
+
+3. That the allocated premises, where applicable, is independent, clearly identifiable, and
+exclusively assigned to the applicant for carrying on business activities, notwithstanding that the
+overall property may be shared with other occupants/entities.
+
+4. That I/We have no objection whatsoever to the applicant using the said premises or the
+allocated premises, as the case may be, as its/their Principal/Additional place of business for
+the purposes of registration under the Central Goods and Services Tax (GST) Act 2017 and rules
+made thereunder and for all related statutory compliances.
+
+This consent is granted voluntarily, with my/our full knowledge and without any coercion or undue
+influence.
+
+Owner’s Details:
+Name: [Owner’s Full Name]
+PAN: [Owner’s PAN]
+
+Contact Number: [Phone Number]
+
+https://www.taxtmi.com/circulars?id=7 1765 27/28
+
+29/10/2026, 3:04:17 pm
+
+Signature of Owner:
+
+Name: [Owner’s Na
+
+https://www.taxtmi.com/circulars?id=7 1765 28/28

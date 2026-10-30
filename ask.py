@@ -1,24 +1,35 @@
-import os, glob, pickle, sys, time, threading
+import os, glob, pickle, sys, time, threading, hashlib
 import numpy as np
 import ollama
 
 try:
     from tqdm import tqdm
 except ImportError:
-    raise SystemExit("Missing progress bar library. Run: pip install tqdm")
+    raise SystemExit("Missing library. Run: pip install tqdm")
 
+# ---------------------------------------------------------------- settings
 EMBED = "nomic-embed-text"
 CHAT = "llama3.2:3b"
 DATA_DIR = "data"
-CACHE = "cache.pkl"
-CHUNK_SIZE = 1000      # characters per chunk
-OVERLAP = 100
-BATCH = 16             # chunks embedded per call (shows progress)
+CACHE = "cache.pkl"            # saved embeddings index
+TEXT_CACHE_DIR = ".text_cache"  # saved text of each file (so OCR is done only once)
+CHUNK_SIZE = 2000      # characters per chunk (bigger = fewer chunks = faster to build)
+OVERLAP = 150
+BATCH = 16             # chunks embedded per call
 TOP_K = 3              # chunks passed to the model per question
 MAX_CHUNKS = None      # set to e.g. 200 to test quickly on part of the data
 SHOW_SOURCES = True
 
+OCR_DPI = 150          # higher (200-300) = better accuracy on poor scans, but slower
+OCR_LANG = "eng"       # e.g. "eng+hin" if you installed the Hindi language pack
+MIN_TEXT_PER_PAGE = 30  # a page with fewer characters than this is treated as a scan
 
+TEXT_TYPES = (".txt", ".md", ".csv")
+IMAGE_TYPES = (".png", ".jpg", ".jpeg", ".tif", ".tiff", ".bmp")
+ALL_TYPES = TEXT_TYPES + IMAGE_TYPES + (".pdf",)
+
+
+# ---------------------------------------------------------------- spinner
 class Spinner:
     """Animated loader shown while waiting. Call stop() when done."""
 
@@ -50,17 +61,96 @@ class Spinner:
         self._running = False
         self._stop.set()
         self._thread.join()
-        sys.stdout.write("\r" + " " * 70 + "\r")  # clear the spinner line
+        sys.stdout.write("\r" + " " * 70 + "\r")
         sys.stdout.flush()
 
 
-def read_file(path):
-    if path.endswith(".pdf"):
-        from pypdf import PdfReader
-        return "\n".join(p.extract_text() or "" for p in PdfReader(path).pages)
-    return open(path, encoding="utf-8", errors="ignore").read()
+# ---------------------------------------------------------------- OCR helpers
+_ocr_ready = None
 
 
+def ocr_available():
+    """Check once that the OCR libraries and the tesseract program are installed."""
+    global _ocr_ready
+    if _ocr_ready is None:
+        try:
+            import fitz  # noqa: F401  (PyMuPDF)
+            import pytesseract
+            from PIL import Image  # noqa: F401
+            pytesseract.get_tesseract_version()
+            _ocr_ready = True
+        except Exception as e:
+            print(f"\nOCR is not set up ({e}).")
+            print("Run:  sudo apt-get install -y tesseract-ocr  &&  pip install pymupdf pytesseract pillow")
+            _ocr_ready = False
+    return _ocr_ready
+
+
+def ocr_image(img):
+    import pytesseract
+    return pytesseract.image_to_string(img, lang=OCR_LANG)
+
+
+def read_pdf(path):
+    """Read a PDF page by page: use the text layer if present, otherwise OCR the page image."""
+    import fitz
+    from PIL import Image
+    import io
+
+    doc = fitz.open(path)
+    pages, scanned = [], 0
+    for page in tqdm(doc, desc=os.path.basename(path)[:45], unit="page", leave=False):
+        text = page.get_text() or ""
+        if len(text.strip()) < MIN_TEXT_PER_PAGE:
+            if ocr_available():
+                pix = page.get_pixmap(dpi=OCR_DPI)
+                img = Image.open(io.BytesIO(pix.tobytes("png")))
+                text = ocr_image(img)
+                scanned += 1
+        pages.append(text)
+    if scanned:
+        print(f"  OCR used on {scanned}/{len(doc)} pages: {os.path.basename(path)}")
+    return "\n".join(pages)
+
+
+def read_image(path):
+    if not ocr_available():
+        return ""
+    from PIL import Image
+    return ocr_image(Image.open(path))
+
+
+def file_hash(path):
+    h = hashlib.md5()
+    with open(path, "rb") as f:
+        for block in iter(lambda: f.read(1 << 20), b""):
+            h.update(block)
+    return h.hexdigest()
+
+
+def read_file(path, digest):
+    """Return the text of a file. The result is saved, so OCR runs only once per file."""
+    os.makedirs(TEXT_CACHE_DIR, exist_ok=True)
+    cache_path = os.path.join(TEXT_CACHE_DIR, digest + ".txt")
+    if os.path.exists(cache_path):
+        return open(cache_path, encoding="utf-8").read()
+
+    low = path.lower()
+    if low.endswith(".pdf"):
+        text = read_pdf(path)
+    elif low.endswith(IMAGE_TYPES):
+        text = read_image(path)
+    else:
+        text = open(path, encoding="utf-8", errors="ignore").read()
+
+    # Only save when we got something, so a failed/unconfigured OCR run is retried later
+    if text.strip():
+        with open(cache_path, "w", encoding="utf-8") as f:
+            f.write(text)
+    return text
+
+
+# ---------------------------------------------------------------- indexing
 def chunk(text, size=CHUNK_SIZE, overlap=OVERLAP):
     out, i = [], 0
     while i < len(text):
@@ -72,30 +162,55 @@ def chunk(text, size=CHUNK_SIZE, overlap=OVERLAP):
 def list_files():
     return sorted(
         p for p in glob.glob(f"{DATA_DIR}/**/*", recursive=True)
-        if os.path.isfile(p) and p.endswith((".txt", ".md", ".csv", ".pdf"))
+        if os.path.isfile(p) and p.lower().endswith(ALL_TYPES)
     )
+
+
+def report_skipped():
+    supported = set(list_files())
+    for p in glob.glob(f"{DATA_DIR}/**/*", recursive=True):
+        if os.path.isfile(p) and p not in supported:
+            print(f"SKIPPED (unsupported type): {p}")
 
 
 def signature(files):
     # Changes whenever files are added, removed or modified, so the cache refreshes itself
     return [(f, os.path.getsize(f), int(os.path.getmtime(f))) for f in files] + [
-        ("settings", CHUNK_SIZE, OVERLAP, MAX_CHUNKS)
+        ("settings", CHUNK_SIZE, OVERLAP, MAX_CHUNKS, OCR_DPI, OCR_LANG)
     ]
 
 
 def build_index(files):
-    chunks = []
-    for path in files:
-        print(f"Reading {path} ...", flush=True)
-        for c in chunk(read_file(path)):
+    chunks, seen, empty = [], {}, []
+    print(f"Reading {len(files)} files (scanned pages are OCR'd; this is slow the first time) ...")
+    for n, path in enumerate(files, 1):
+        digest = file_hash(path)
+        if digest in seen:
+            print(f"[{n}/{len(files)}] duplicate of {os.path.basename(seen[digest])}, skipping: {os.path.basename(path)}")
+            continue
+        seen[digest] = path
+        print(f"[{n}/{len(files)}] {os.path.basename(path)}", flush=True)
+        added = 0
+        for c in chunk(read_file(path, digest)):
             if c.strip():
                 chunks.append((path, c))
+                added += 1
+        if added == 0:
+            empty.append(path)
+
+    if empty:
+        print(f"\nWARNING: no text could be read from {len(empty)} file(s):")
+        for p in empty[:15]:
+            print("   ", p)
+        if len(empty) > 15:
+            print(f"    ... and {len(empty) - 15} more")
+
     if MAX_CHUNKS:
         chunks = chunks[:MAX_CHUNKS]
     if not chunks:
-        raise SystemExit("No text found. If your PDF is scanned, run OCR on it first.")
+        raise SystemExit("No text found in any file.")
 
-    print(f"Embedding {len(chunks)} chunks (one-time, result is saved) ...", flush=True)
+    print(f"\nEmbedding {len(chunks)} chunks (one-time, result is saved) ...", flush=True)
     texts = [c for _, c in chunks]
     out = []
     with tqdm(total=len(texts), desc="Embedding", unit="chunk") as bar:
@@ -109,9 +224,10 @@ def build_index(files):
 
 
 def load_index():
+    report_skipped()
     files = list_files()
     if not files:
-        raise SystemExit(f"No files found in {DATA_DIR}/ (.txt, .md, .csv, .pdf)")
+        raise SystemExit(f"No files found in {DATA_DIR}/ ({', '.join(ALL_TYPES)})")
     sig = signature(files)
     if os.path.exists(CACHE):
         try:
@@ -126,9 +242,16 @@ def load_index():
     return chunks, vecs
 
 
+# ---------------------------------------------------------------- chat loop
 def main():
     chunks, vecs = load_index()
     print(f"Ready: {len(chunks)} chunks from your files.")
+    counts = {}
+    for path, _ in chunks:
+        counts[path] = counts.get(path, 0) + 1
+    print(f"  ({len(counts)} files contributed text)")
+    if MAX_CHUNKS:
+        print(f"  NOTE: MAX_CHUNKS is set to {MAX_CHUNKS}, so data is being cut off.")
 
     while True:
         q = input("\nAsk (or 'quit'): ").strip()
@@ -155,14 +278,14 @@ def main():
         spinner = Spinner("Thinking").start()
         try:
             for part in ollama.chat(model=CHAT, messages=messages, stream=True):
-                spinner.stop()  # first word arrived, hide the loader
+                spinner.stop()
                 print(part["message"]["content"], end="", flush=True)
         finally:
             spinner.stop()
         print()
 
         if SHOW_SOURCES:
-            print("\nSources used: " + ", ".join(sorted({chunks[i][0] for i in top})))
+            print("\nSources used: " + ", ".join(sorted({os.path.basename(chunks[i][0]) for i in top})))
 
 
 if __name__ == "__main__":

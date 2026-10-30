@@ -1,0 +1,224 @@
+29/10/2026, 3:05:43 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+Form No. GST REG-32 - Application for Withdrawal
+
+2IFORM GST REG-32
+[See rules 14A (5) and 14B]
+
+Application for Withdrawal
+
+1. GSTIN
+
+2. Legal name
+
+3. Trade name, if any
+
+4. Address of principal place of business
+
+5. Option for registration under rule 14A
+
+(i) Yes
+
+(ii) No
+
+6. Option for registration under rule 14B
+
+(i) Yes
+
+(ii) No
+
+7. principal place of business after withdrawal from rule 14B: The
+address of the electronic commerce operator's warehouse is not
+permitted to be used as principal place of business. Please provide an
+address having a physical presence in the State/Union territory.
+
+8. Aadhaar Authentication
+
+(i) Primary Authorised Signatory (auto)
+
+(ii) Promoter/Partner (auto)
+
+https://www.taxtmi.com/forms?id=2315 WS
+
+29/10/2026, 3:05:43 pm
+
+9. Reason for Withdrawal from rule 14A iii. Output tax liability in respect
+
+of supplies made to registered
+persons exceeds 22.5 lakh per
+month.
+
+iv. Other -Please specify
+
+10. 10. Reason for Withdrawal from rule 14B v. Output tax liability in respect
+
+of supplies made to registered
+persons exceeds 22.5 lakh per
+month.
+
+vi. Intends to make supplies
+other than through an E-
+commerce Operator.
+
+vii. Intends to establish a
+physical place of business in
+the same State/UT.
+
+viii. Others (please specify).
+
+11. Verification
+
+9.1 hereby solemnly affirm and declare that | want to withdraw from the option
+availed under sub-rule (1) of rule 14A and | understand that the provisions of sub-rules (4A), (5)
+and (6) of rule 8 and provisions of rule 9 relating to verification of the application and physical
+verification of places of business and corresponding procedures and time period shall apply to
+my withdrawal application.
+
+10. 1 | hereby solemnly affirm and declare that | want to withdraw from the
+option availed under sub-rule (1) of rule 14B and | understand that the provisions of sub- rules
+(4A) and (5) of rule 8 and provisions of rule 9 relating to verification of the application and
+physical verification of places of business and corresponding procedures and time period shall
+apply to my withdrawal application.
+
+Signature of Authorised Signatory Name
+
+Designation / Status
+
+Place
+
+Date
+
+Instructions for submission of application for withdrawal
+
+In ‘Option for registration under rule 14A/14B' field, option YES will be disabled on common portal.
+
+10. Permanent Account Number shall be verified with Income Tax database.
+
+11. Aadhaar Authentication of Primary Authorised Signatory and one selected Promoter or Partner
+is mandatory.
+
+https://www.taxtmi.com/forms?id=2315 2/5
+
+29/10/2026, 3:05:43 pm
+
+12. Before applying for withdrawal from the option availed under rule 144A, all the pending returns
+till the date of application shall be furnished. It is mandatory to furnish returns for a period of
+minimum three months, where such application has been filed before 1st April, 2026, and a
+minimum one tax period, where such application is filed on or after 1st April, 2026. Before applying
+for withdrawal from the option availed under rule 14B, it is mandatory to furnish returns for a
+minimum one tax period.
+
+13. Please ensure that no amendment application is pending at the time of filing of FORM GST
+REG-32.
+
+14. Once FORM GST REG-32 is filed, no amendment application will be allowed to be filed till the
+disposal of application under FORM GST REG-32.
+
+15. ARN will be generated only after successful OTP based authentication of Aadhaar number or
+completion of the process of biometric based Aadhar authentication along with the verification of
+original copy of the documents uploaded with the application in FORM GST REG-01.
+
+16. Please note that filing of cancellation application will not be allowed once FORM GST REG- 32
+is filed till the disposal of application.
+
+17. In case the proceedings under section 29 have been initiated, application for withdrawal in
+FORM GST REG- 32 will not be allowed to be filed.]
+
+ereeesrrercrT’
+
+NOTES:-
+
+1. | Inserted vide Notification No. 18/2025 — Central Tax dated 31-10-2025 w.e.f. 01-11-2025
+
+2. | Substituted vide Notification No. 05/2026-Central Tax dated 26-10-2026 w.e.f. 01-11-2026 before it
+
+was read as,
+"FORM GST REG-32
+[See rule 14A (5)]
+Application for Withdrawal
+1. GSTIN
+
+2. Legal name
+
+3. Trade name, if any
+
+4. Address of Principal Place
+of business
+
+https://www.taxtmi.com/forms?id=2315 3/5
+
+29/10/2026, 3:05:43 pm
+
+5. Option for registration
+under rule 14A
+
+(i) Yes O
+
+(ii) No i)
+
+6. Aadhaar Authentication
+
+(i) Primary Authorized Signatory (auto)
+
+(ii) Promoter/Partner (auto)
+
+7. Reason for Withdrawal (i) Output tax liability in respect of supply made to registered
+
+person exceeds two lakh fifty thousand rupees per month.
+
+(ii) Other -Please specify
+
+8. Verification
+
+|__ hereby solemnly affirm and declare that | want to withdraw from the option availed
+under sub-rule (1) of rule 14A and | understand that the provisions of sub-rule (4A), sub-rule
+(5) and sub-rule (6) of rule 8 and provisions of rule 9 relating to verification of the application
+and physical verification of places of business and corresponding procedures and time
+period shall apply to my withdrawal application.
+
+Signature of Authorised Signatory
+Name
+Designation / Status
+Place
+
+Date
+
+Instructions for submission of application for withdrawal
+
+1. In ‘Option for registration under rule 14A’ field, option YES will be disabled on common
+portal.
+
+2. Permanent Account Number shall be verified with Income Tax database.
+
+3. Aadhaar Authentication of Primary Authorised Signatory and one selected Promoter or
+Partner is mandatory.
+
+4. Before applying for withdrawal from the option availed under rule 14A, all the pending
+returns till the date of application shall be furnished. It is mandatory to furnish returns for a
+period of minimum three months, where such application has been filed before 1st April, 2026,
+and a minimum one tax period, where such application is filed on or after 1st April, 2026.
+
+https://www.taxtmi.com/forms?id=2315 AIS
+
+29/10/2026, 3:05:43 pm
+
+5. Please ensure that no amendment application is pending at the time of filing of FORM
+GST REG-32.
+
+6. Once FORM GST REG-32 is filed, no amendment application will be allowed to be filed till
+the disposal of application under FORM GST REG-32.
+
+7. ARN will be generated only after successful OTP based authentication of Aadhaar
+number or completion of the process of biometric based Aadhar authentication along with
+the verification of original copy of the documents uploaded with the application in FORM
+GST REG-01.
+
+8. Please note that filing of cancellation application will not be allowed once FORM GST REG-
+32 is filed till the disposal of application.
+
+9. In case the proceedings under section 29 have been initiated, application for withdrawal
+in FORM GST REG-32 will not be allowed to be filed.]"
+
+https://www.taxtmi.com/forms?id=2315 5/5
