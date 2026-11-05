@@ -7,7 +7,7 @@ Run:
 
 Docs (auto-generated): http://localhost:8000/docs
 """
-import os, glob, pickle, time, threading, hashlib, shutil
+import os, glob, pickle, time, threading, hashlib, shutil, json, queue
 from contextlib import asynccontextmanager
 from typing import Optional, List
 
@@ -362,6 +362,71 @@ def ask_stream(req: AskRequest):
     if req.show_sources:
         headers["X-Sources"] = ", ".join(s.file for s in unique_sources(hits))
     return StreamingResponse(gen(), media_type="text/plain; charset=utf-8", headers=headers)
+
+
+def sse(event: str, data) -> str:
+    return f"event: {event}\ndata: {json.dumps(data, ensure_ascii=False)}\n\n"
+
+
+@app.post("/ask/events")
+def ask_events(req: AskRequest):
+    """Stream progress as Server-Sent Events (like the terminal spinner), so the
+    connection never sits silent long enough to time out.
+
+    Events:
+      status     {"step": "searching"|"thinking", "message": "..."}
+      sources    [{"file": "...", "score": 0.73}]        (if show_sources)
+      heartbeat  {"step": "...", "elapsed": 12}          (every ~3s while waiting)
+      token      {"text": "..."}                         (answer pieces)
+      done       {"elapsed": 41}
+      error      {"message": "..."}
+    """
+    require_ready()
+
+    def gen():
+        t0 = time.time()
+        q = queue.Queue()
+        cancelled = threading.Event()
+        step = {"name": "searching"}
+
+        def worker():
+            try:
+                q.put(("status", {"step": "searching", "message": "Searching your documents"}))
+                hits = retrieve(req.question, req.top_k or TOP_K)
+                if req.show_sources:
+                    q.put(("sources", [{"file": s.file, "score": s.score} for s in unique_sources(hits)]))
+                step["name"] = "thinking"
+                q.put(("status", {"step": "thinking", "message": "Thinking (loading model / generating)"}))
+                for part in ollama.chat(model=CHAT, messages=build_messages(req.question, hits), stream=True):
+                    if cancelled.is_set():
+                        return
+                    q.put(("token", {"text": part["message"]["content"]}))
+            except Exception as e:
+                q.put(("error", {"message": str(e)}))
+            finally:
+                q.put((None, None))
+
+        threading.Thread(target=worker, daemon=True).start()
+        failed = False
+        try:
+            while True:
+                try:
+                    ev, data = q.get(timeout=3)
+                except queue.Empty:
+                    yield sse("heartbeat", {"step": step["name"], "elapsed": int(time.time() - t0)})
+                    continue
+                if ev is None:
+                    break
+                if ev == "error":
+                    failed = True
+                yield sse(ev, data)
+            if not failed:
+                yield sse("done", {"elapsed": int(time.time() - t0)})
+        finally:
+            cancelled.set()   # client disconnected or finished: stop generating
+
+    headers = {"Cache-Control": "no-cache", "X-Accel-Buffering": "no", "Connection": "keep-alive"}
+    return StreamingResponse(gen(), media_type="text/event-stream", headers=headers)
 
 
 @app.post("/reindex", status_code=202)
