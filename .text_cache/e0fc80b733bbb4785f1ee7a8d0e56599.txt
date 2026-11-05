@@ -1,0 +1,338 @@
+28/10/2026, 5:53:39 pm
+
+TaxTMI https://www.taxtmi.com
+
+Guidelines for Second special All-India Drive against fake registrations
+Instruction No. 02/2024-GST
+F. No. CBIC- 20/16/30/2020-GST
+Government of India
+Ministry of Finance
+Department of Revenue
+Central Board Indirect Taxes & Customs,
+GST Policy Wing
+New Delhi, dated the 12th August 2024
+To,
+
+All the Principal Chief Commissioners/ Chief Commissioners/ Principal Commissioners /Commissioners of
+Central Tax
+
+All the Principal Directors General/ Directors General of Central Tax
+Madam/Sir,
+Subject: Guidelines for Second special All-India Drive against fake registrations— regarding.
+
+Attention is invited to the Instruction No. 01/2023-GST dated 04.05.2023 vide which guidelines were issued for
+conducting a special All-India drive during the period from 16th May 2023 to 15th July 2023 (which was further
+extended till 14th August 2023), for verification and detection of suspicious/ fake registrations and for taking
+timely remedial action to prevent any further revenue loss to the Government. A National Coordination
+Committee headed by Member (GST), CBIC and including the senior officers from different States and Centre
+was also formed to take decisions and monitor the progress of this special drive.
+
+1.2 A meeting of the said National Co-ordination Committee was held on 11th July 2024, wherein it was
+discussed that the special All-India drive conducted during the year 2023, was found quite effective in weeding
+out fake registrations. The Committee felt that there may be a need for further focused and coordinated action
+by Central and State tax authorities to clean up the tax base and to take concerted action against the fake
+registrations and fake/bogus invoices, on the same pattern as was done during the said drive. It was,
+therefore, decided that a second special All-India drive against fake registrations may be conducted by all
+Central and State tax authorities for a period of two months starting from 16th August 2024.
+
+1.3 The National Co-ordination Committee also decided that like the previous drive, a set of common
+guidelines may be issued to ensure uniformity in action by the field formations and for effective coordination
+and monitoring of the action taken during this special drive.
+
+2. In the light of above, in partial modification of the Instruction No. 01/2023-GST dated 04.05.2023, the
+following guidelines are issued for such concerted action on suspicious/ fake registrations during the special
+All-India drive during this year:
+
+a) Period of Special Drive:
+
+https://www.taxtmi.com/circulars?id=67727 V7
+
+28/10/2026, 5:53:39 pm
+
+The second Special All-India Drive may be launched by all Central and State Tax administrations from
+16th August 2024 to 15th October 2024 to detect suspicious/ fake GSTINs and to conduct requisite
+verification and further remedial action to weed out these fake billers from the GST eco-system and to
+safeguard Government revenue.
+
+b) Identification of fraudulent GSTINs:
+
+GSTN, in coordination with Directorate General of Analytics and Risk Management (DGARM), CBIC,
+will identify suspicious/ high-risk GSTINs, based on detailed data analytics and risk parameters, for the
+purpose of verification by the State and Central Tax authorities during the said drive and share the
+details of such suspicious GSTINs, jurisdiction wise, with the concerned tax administration. In case of
+such suspicious GSTINs falling under the jurisdiction of Central Tax, the details will be shared with the
+Central Tax authorities by GSTN through DGARM. Besides, the State and Central Tax Authorities,
+may, at their own option, supplement this list by data analysis/ intelligence gathering at their end, using
+various available analytical tools like BIFA/ GAIN, ADVAIT, NIC Prime, E-Way Bill Analytics etc., as well
+as through human intelligence, modus operandi alerts, experience gained through the past detections,
+as well as the first special All-India drive.
+
+c) Action to be taken by field formations:
+
+i. On receipt of data from GSTN, a time bound exercise of verification of the suspicious GSTINs
+shall be undertaken by the concerned jurisdictional tax officer(s). If, after detailed verification, it
+is found that the taxpayer is non-existent and fictitious, then the tax officer may immediately
+initiate action for suspension and cancellation of the registration of the said taxpayer in
+accordance with the provisions of section 29 of CGST Act, read with the rules thereof.
+
+ii. Further, the matter may also be examined for blocking of input tax credit in Electronic Credit
+Ledger as per the provisions of Rule 86A of CGST Rules without any delay. Additionally, the
+details of the recipients to whom the input tax credit has been passed by such non-existent
+taxpayer may be identified through the details furnished in FORM GSTR-1 by the said
+taxpayer.
+
+iii. Where the recipient GSTIN pertains to the jurisdiction of the said tax authority itself, suitable
+action may be initiated for demand and recovery of the input tax credit wrongly availed by such
+recipient on the basis of invoice issued by the said non-existent supplier, without underlying
+supply of goods or services or both.
+
+iv. In cases where the recipient GSTIN pertains to a different tax jurisdiction, the details of the
+case including the details of the recipient GSTIN, along with the relevant documents/ evidence,
+may be sent to the concerned tax authority, as early as possible, in the format mentioned in
+Annexure-B. For sharing such details/ information and coordination with other tax authorities,
+GSTN Back Office has an online functionality, namely, ‘Initiate Enquiry’ in the Enforcement
+module, which is available to all tax officers who have been assigned the role of ‘Enforcement
+Officer’ on the Back Office (BO Portal).
+
+v. For the purpose of communicating this information to the recipient tax jurisdiction, a nodal
+officer shall be appointed immediately by each of the Zonal CGST Zone and State. The name,
+designation, phone number/ mobile number and E-mail Id of such Nodal officer(s) appointed by
+CGST Zones and States must be shared by the concerned tax authority with GST Council
+Secretariat within three days of issuance of this letter. GST Council Secretariat will compile the
+list of the Nodal officers after procuring the details from all the tax administrations and will make
+the compiled list available to all the tax jurisdictions and to GSTN.
+
+vi. The nodal officer of the tax jurisdictions may be assigned the role of ‘Enforcement Officer’ on
+the BO Portal. Wherever the details of the recipient GSTIN needs to be shared to other tax
+jurisdiction, the same may be done through the nodal officer. The said nodal officer will
+accordingly share the information about the recipient GSTIN with the nodal officer of the
+
+https://www.taxtmi.com/circulars?id=67727 2/7
+
+28/10/2026, 5:53:39 pm
+
+concerned recipient tax administration, through the said functionality, attaching a pdf document
+in the format mentioned in Annexure-B. The nodal officer of the recipient tax administration will
+further share the details with the concerned jurisdictional tax officers, for necessary action.
+
+vii. GSTN will issue detailed guidelines/ advisory regarding usage of this functionality, which
+may be referred to.
+
+viii. Action may also be taken to identify the masterminds/ beneficiaries behind such fake
+GSTIN for further action, wherever required, and also for recovery of Government dues and/ or
+provisional attachment of property/ bank accounts, etc. as per provisions of section 83 of
+CGST Act. Further, during the investigation/ verification, if any linked suspicious GSTIN is
+detected, similar action may be taken/ initiated in respect of the same.
+
+d) Feedback and Reporting Mechanism:
+
+i. An action-taken report in the format enclosed as Annexure-A (for GSTINs identified by GSTN
+and those identified locally) and Annexure-A1 (for those GSTINs received from other tax
+administrations through ‘Initiate Enquiry’ module) will be uploaded by each of the State as well
+as CGST Zones, through the nodal officer referred to in para 2(c)(v), on the portal provided for
+the same, on a weekly basis on the first working day after completion of the week, for enabling
+the GST Council Secretariat to monitor the same.
+
+ii. If any novel modus operandi is detected during the verification/ investigation, the same may
+also be indicated in the said action taken report. On conclusion of the drive, GSTIN-wise
+feedback on the result of verification of the suspicious GSTINs shared by GSTN, will be
+provided by the field formations through the nodal officer to GSTN, as per the format enclosed
+in Annexure-C.
+
+3. The Principal Chief Commissioner/ Chief Commissioner of the Central GST Zones and the Chief
+Commissioner/ Commissioner of the States/ UTs may monitor the progress of action taken in respect of list of
+suspicious GSTINs received from GSTN and chosen locally. The action taken in respect of the GSTINs
+received from other tax administrations through the ‘Initiate Enquiry’ module may also be monitored.
+
+4. GST Council Secretariat will compile the reports received from various formations and make it available to
+the National Coordination Committee immediately. The unique modus operandi found during this special drive
+will be compiled by GST Council Secretariat and presented before National Coordination Committee, which
+will be subsequently shared with Central and State Tax administrations across the country.
+
+5. Difficulties, if any, in the implementation of these instructions may be brought to the notice of the Board (gst-
+cbec@gov.in).
+
+Sanjay Mangal
+Principal Commissioner (GST)
+
+Enclosure: As above
+
+Annexure-A
+
+Weekly Report on Action taken in Special All-India Drive against Fake Registrations
+
+Name of the State/ CGST Zone:
+
+Week ending: .............. (Amount in Rs Lakhs)
+
+https://www.taxtmi.com/circulars?id=67727 3/7
+
+28/10/2026, 5:53:39 pm
+
+Ss. No. of No. of Total No. of No. of Action taken
+GSTINs no. of
+No| GSTINs GSTINs GSTINs non-
+identified to be existent No of No of ITC blocked No of
+shared | igcally verified for whom GSTINs
+by verification) GSTINs| GSTINs GSTIN under Rule 86 A
+conducted suspended | cancelled where
+GSTN/ found Provisional
+attachment
+DGARM Total no. | Total
+of made
+amount | der
+GSTINs .
+of ITC | section 83
+blocked
+of CGST
+Act
+1 2 3 4(2+3) 5 6 Ta 7b 7c 7d Te
+Total Amount Total Amount recovered No. of recipients (GSTINs) Number of No. of Remarks
+of evasion of from of
+recipients arrests
+tax/ITC detected GSTINs in such nonexistent GSTINs made
+the jurisdiction of tax GSTINs
+authority to whom credit has been
+passed on located outside
+jurisdiction 5
+Within Outside details of
+jurisdiction
+Jurisdiction which have
+been shared
+with
+the concerned
+jurisdiction al tax
+authority
+8 9 10a 10b 1 12 13
+
+Note:
+
+1. The report is to be given for action taken up to week, i.e. for the period from start of the drive up to the end
+of the week, for which report is being sent.
+
+2. Aseparate note may be enclosed in respect of any special modus operandi noticed during the week.
+
+https://www.taxtmi.com/circulars?id=67727
+
+AIT
+
+28/10/2026, 5:53:39 pm
+
+Annexure-A1
+
+Weekly Report on Action Taken in Cases of Beneficiary received from other jurisdictional Nodal
+
+Officers
+
+Name of the state/CGST Zone:
+
+Week ending: ...............cccceeeeeeeeseeeeeeeeeeeeeeeeed (Amount in Rs. Lakhs)
+Ss. No. of No. of No. of Action Taken
+No. | Beneficiaries | GSTINs for Non-
+Whom No. of No. of ITC blocked under Rule | No. of GSTINs
+received Existent 86A
+from Verification GSTINs GSTINs Where
+GSTINs Cancelled
+other Conducted found | Suspended Total No. of | Total Provisional
+GSTINs attachment
+Jurisdictional Amount of
+ITc made under
+Nodal section 83 of
+blocked
+Officers CGST Act
+1 2 3 4 Sa 5b 5c 5d 5e
+Total Total amount recovered from | No. of arrests made | Remarks
+Amount of evasion of tax/ ITC detected GSTINs in the
+jurisdiction of tax authority
+6 7 8 9
+Note:
+
+The report is to be given for action taken up to the week, i.e. for the period from the start of the drive up to the
+end of the week, for which report is being sent.
+
+Annexure-B
+
+Intimation about details of the recipients of the non-existent suppliers detected during the special All-
+
+India drive against fake registrations
+
+A. Tax administration of the non-existent supplier:
+
+B. Tax administration of the recipient:
+
+C. Details of the supplier, recipients and the tax amount involved:
+
+https://www.taxtmi.com/circulars?id=67727
+
+SIT
+
+28/10/2026, 5:53:39 pm
+
+GSTIN of the | GSTIN of the recipient | Name & Tax amount/ ITC involved (in Rs Lakhs)
+non-existent Address of the
+
+supplier, recipient(s)
+
+Financial| CGST | SGST | IGST | Cess Total
+along with
+Year
+Name &
+Address
+1 2 3 4 5 6 7 8 | 9 (5+6+7+8)
+
+D. Other relevant details, if any:
+
+E. Details of enclosures (Panchnama/ Inspection report/ PV report/ Other relevant documents or evidences):
+
+Place:
+Date:
+(Signature)
+Name:
+Designation:
+
+Email address:
+
+Enclosures: As above
+Note:
+
+The amount mentioned in columns 5 to 9 of the table may be provided Financial Year wise.
+
+GSTIN-wise feedback regarding the outcome of the action against the susp
+
+Name of the State/ CGST Zone:
+
+Date of submission:
+
+S. | GSTIN| Legal | Tax involved as| Was the| If lead| Action on| Detectedtax | Recoveries | Remarks
+Name/ | estimated by | lead not GSTIN
+No. Trade | GSTN/ correct? amount made til
+DGARM/ tax (YIN) correct, Registration (Rs. In Lakhs) | date (Rs.)
+Name
+administration reason. (Suspended/
+Cancelled/
+(Rs. In Lakhs) (Choose
+
+one from | No Action)
+
+https://www.taxtmi.com/circulars?id=67727 6/7
+
+28/10/2026, 5:53:39 pm
+
+bicld) #
+
+Note- Details are to be provided for each GSTIN covered in the drive, whether in the initial list or added
+
+subsequently
+
+# For Column 6 - Reason for lead not correct - Please choose one of the following-
+a. Data incorrect
+
+b. Data correct but taxpayer had reasonable explanation
+
+c. Data correct but taxpayer had complied before enforcement action
+
+d. Case already investigated before enforcement action
+
+https://www.taxtmi.com/circulars?id=67727
+
+WT

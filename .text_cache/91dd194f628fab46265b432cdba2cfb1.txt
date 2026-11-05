@@ -1,0 +1,213 @@
+28/10/2026, 5:56:16 pm
+
+TaxTMI https:/Avww.taxtmi.com
+
+Clarification in respect of issues under GST law for companies under Insolvency and Bankruptcy
+Code, 2016
+
+Circular No.134/04/2020-GST
+CBEC-20/16/12 /2020 -GST
+Government of India
+Ministry of Finance
+Department of Revenue
+Central Board of Indirect Taxes and Customs
+GST Policy Wing
+New Delhi, dated the 23rd March, 2020
+To,
+
+The Principal Chief Commissioners / Chief Commissioners / Principal Commissioners / Commissioners of
+Central Tax (All)
+
+The Principal Director Generals / Director Generals (All)
+Madan/Sir,
+
+Subject: Clarification in respect of issues under GST law for companies under Insolvency and
+Bankruptcy Code, 2016 - Reg.
+
+Various representations have been received from the trade and industry seeking clarification on issues
+being faced by entities covered under Insolvency and Bankruptcy Code, 2016 (hereinafter referred to as
+the “IBC’).
+
+2. As per IBC, once an entity defaults certain threshold amount, Corporate Insolvency Resolution Process
+(hereafter referred to as “CIRP”) gets triggered and the management of such entity (Corporate Debtor) and
+its assets vest with an interim resolution professional (hereafter referred to as “IRP”) or resolution
+professional (hereafter referred to as “RP”). It continues to run the business and operations of the said
+entity as a going concern till the insolvency proceeding is over and an order is passed by the National
+Company Law Tribunal (hereinafter referred to as the “NCLT”)
+
+3. To address the aforementioned problems, notification No.11/2020- Central Tax, dated 21.03.2020 has
+been issued by the Government prescribing special procedure under section 148 of the Central Goods and
+Services Tax Act, 2017 (hereinafter referred to as the “CGST Act”) for the corporate debtors who are
+undergoing CIRP under the provisions of IBC and the management of whose affairs are being undertaken
+by IRP/RP. In order to ensure uniformity in the implementation of the provisions of the law across the field
+formations, the Board, in exercise of its powers conferred under section 168(1) of the CGST Act hereby
+clarifies various issues in the table below:-
+
+https://www.taxtmi.com/circulars?id=63558 1/4
+
+28/10/2026, 5:56:16 pm
+
+S. | Issue
+No.
+
+1. | How are dues under GST for
+pre-CIRP period be dealt?
+
+2. | Should the GST registration
+of corporate debtor be
+cancelled?
+
+3. |Is IRP/RP liable to file
+returns of pre-CIRP period?
+
+4. | Should a new registration be
+taken by the corporate
+debtor during the CIRP
+period?
+
+https://www.taxtmi.com/circulars?id=63558
+
+Clarification
+
+In accordance with the provisions of the IBC and various legal
+pronouncements on the issue, no coercive action can be taken
+against the corporate debtor with respect to the dues for period
+prior to insolvency commencement date. The dues of the period
+prior to the commencement of CIRP will be treated as ‘operational
+debt’ and claims may be filed by the proper officer before the
+NCLT in accordance with the provisions of the IBC. The tax
+officers shall seek the details of supplies made / received and total
+tax dues pending from the corporate debtor to file the claim before
+the NCLT.
+
+Moreover, section 14 of the IBC mandates the imposition of a
+moratorium period, wherein the institution of suits or continuation
+of pending suits or proceedings against the corporate debtor is
+prohibited.
+
+It is clarified that the GST registration of an entity for which CIRP
+has been initiated should not be cancelled under the provisions of
+section 29 of the CGST Act, 2017. The proper officer may, if need
+be, suspend the registration. In case the registration of an entity
+undergoing CIRP has already been cancelled and it is within the
+period of revocation of cancellation of registration, it is advised
+that such cancellation may be revoked by taking appropriate steps
+in this regard.
+
+No. In accordance with the provisions of IBC, 2016, the IRP/RP is
+under obligation to comply with all legal requirements for period
+after the Insolvency Commencement Date. Accordingly, it is
+clarified that IRP/RP are not under an obligation to file returns of
+pre-CIRP period.
+
+During CIRP period
+
+The corporate debtor who is undergoing CIRP is to be treated as
+a distinct person of the corporate debtor and shall be liable to take
+a new registration in each State or Union territory where the
+corporate debtor was registered earlier, within thirty days of the
+appointment of the IRP/RP. Further, in cases where the IRP/RP
+has been appointed prior to the issuance of notification
+No.11/2020- Central Tax, dated 21.03.2020, he shall take
+registration within thirty days of issuance of the said notification,
+with effect from date of his appointment as IRP/RP.
+
+2/4
+
+28/10/2026, 5:56:16 pm
+
+How to file First Return after
+obtaining new registration?
+
+How to avail ITC for invoices
+issued to the erstwhile
+registered person in case
+the IRP/RP has _ been
+appointed before issuance
+of notification No.11/2020-
+Central Tax, dated
+21.03.2020 and no return has
+been filed by the IRP during
+the CIRP ?
+
+How to avail ITC for invoices
+by persons who are availing
+supplies from the corporate
+debtors undergoing CIRP, in
+cases where the IRP/RP was
+appointed before the
+issuance of the notification
+No.11/2020 - Central Tax,
+dated 21.03.2020?
+
+Some of the IRP/RPs have
+made deposit in the cash
+ledger of erstwhile
+registration of the corporate
+debtor. How to claim refund
+for amount deposited in the
+cash ledger by the IRP/RP?
+
+The IRP/RP will be liable to furnish returns, make payment of tax
+and comply with all the provisions of the GST law during CIRP
+period. The IRP/RP is required to ensure that the first return is
+filed under section 40 of the CGST Act, for the period beginning
+the date on which it became liable to take registration till the date
+on which registration has been granted.
+
+The special procedure issued under section 148 of the CGST Act
+has provided the manner of availment of ITC while furnishing the
+first return under section 40.
+
+The said class of persons shall, in his first return, be eligible to
+avail input tax credit on invoices covering the supplies of goods or
+services or both, received since appointment as IRP/RP and
+during the CIRP period but bearing the GSTIN of the erstwhile
+registered person, subject to the conditions of Chapter V of the
+CGST Act and rule made thereunder, except the provisions of
+sub-section (4) of section 16 of the CGST Act and sub-rule (4) of
+rule 36 of the CGST Rules. In terms of the special procedure
+under section 148 of the CGST Act issued vide notification
+No.11/2020- Central Tax, dated 21.03.2020. This exception is
+made only for the first return filed under section 40 of the
+CGST Act.
+
+Registered persons who are receiving supplies from the said class
+of persons shall, for the period from the date of appointment of
+IRP / RP till the date of registration as required in this notification
+or 30 days from the date of this notification, whichever is earlier,
+be eligible to avail input tax credit on invoices issued using the
+GSTIN of the erstwhile registered person, subject to the
+conditions of Chapter V of the CGST Act and rule made
+thereunder, except the provisions of sub-rule (4) of rule 36 of the
+CGST Rules.
+
+Any amount deposited in the cash ledger by the IRP/RP, in the
+existing registration, from the date of appointment of IRP / RP to
+the date of notification specifying the special procedure for
+corporate debtors undergoing CIRP, shall be available for refund
+to the erstwhile registration under the head refund of cash ledger,
+even though the relevant FORM GSTR-3B/GSTR-1 are not filed
+for the said period.
+
+The instructions contained in Circular No. 125/44/2019-GST dt.
+18.11.2019 stands modified to this extent.
+
+4. It is requested that suitable trade notices may be issued to publicize the contents of this circular.
+
+5. Difficulty, if any, in the implementation of the above instructions may please be brought to the notice of
+
+the Board. Hindi version would follow.
+
+https://www.taxtmi.com/circulars?id=63558
+
+3/4
+
+28/10/2026, 5:56:16 pm
+
+(Yogendra Garg)
+Principal Commissioner (GST)
+
+y.garg@nic.in
+
+https://www.taxtmi.com/circulars?id=63558 44

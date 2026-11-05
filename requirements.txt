@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+ollama
+numpy
+tqdm
+pymupdf
+pytesseract
+pillow
